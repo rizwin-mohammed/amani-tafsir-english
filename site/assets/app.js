@@ -12,6 +12,19 @@
     try { localStorage.setItem(KEY, JSON.stringify(d)); return true; }
     catch (e) { alert('Sorry, this browser would not save it (private mode or storage blocked).'); return false; }
   }
+  // Light (default) or dark reading theme, remembered on this device.
+  const themeBtn = document.getElementById('theme-toggle');
+  if (themeBtn) {
+    const root = document.documentElement;
+    const label = () => { themeBtn.textContent = root.dataset.theme === 'dark' ? 'Light' : 'Dark'; };
+    label();
+    themeBtn.addEventListener('click', () => {
+      root.dataset.theme = root.dataset.theme === 'dark' ? 'light' : 'dark';
+      try { localStorage.setItem('amani-tafsir:theme', root.dataset.theme); } catch (e) { /* not saved */ }
+      label();
+    });
+  }
+
   const data = load();
   data.items = data.items || {};
   data.prefs = data.prefs || {};

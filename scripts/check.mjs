@@ -12,6 +12,11 @@ const quran = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/quran-uthmani.jso
 
 // Strip diacritics and spelling differences between Uthmani and ordinary script, so only the letters are compared.
 const norm = (s) => s
+  // Uthmani spellings written out as in ordinary script: alif maqsura or waw carrying a dagger alif
+  // (يلقىٰها, الزكوٰة) read as a plain alif; small yeh (النبيـۧن) is a full yeh; hamza on a tatweel (شيـٔا) is a hamza.
+  .replace(/[\u0649\u0648]\u0670/g, '')
+  .replace(/\u06E7/g, '\u064A')
+  .replace(/\u0640\u0654/g, '\u0621')
   .replace(/[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06ED\u08D3-\u08FF\u0640]/g, '')
   .replace(/آ/g, 'ء')
   .replace(/[ٱأإا]/g, '')

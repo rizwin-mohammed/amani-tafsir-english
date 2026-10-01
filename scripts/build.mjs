@@ -74,12 +74,13 @@ function layout({ title, body, rel = '', description = '' }) {
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description || 'English translation of Muhammad Amani Moulavi\'s Malayalam tafsir of the Holy Quran.')}">
 ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
+<script>try{document.documentElement.dataset.theme=localStorage.getItem('amani-tafsir:theme')||'light'}catch(e){document.documentElement.dataset.theme='light'}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Noto+Naskh+Arabic:wght@400;600&family=Noto+Sans+Malayalam:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Inter:wght@400;600&family=Noto+Naskh+Arabic:wght@400;600&family=Noto+Sans+Malayalam:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="${BASE}/assets/style.css">
 <link rel="manifest" href="${BASE}/manifest.webmanifest">
-<meta name="theme-color" content="#1f5c4a">
+<meta name="theme-color" content="#1f5e63">
 </head>
 <body data-base="${BASE}" data-page="${esc(rel)}">
 <header class="top">
@@ -89,6 +90,7 @@ ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
     <a href="${BASE}/en/search/">Search</a>
     <a href="${BASE}/en/bookmarks/">My bookmarks</a>
     <a href="${BASE}/en/about/">About</a>
+    <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between light and dark">Dark</button>
   </nav>
 </header>
 ${PREVIEW ? '<div class="preview-bar">Preview. This site is still being built and reviewed; please do not share it yet.</div>' : ''}
@@ -227,7 +229,7 @@ function main() {
   write('404.html', layout({ title: `Not found · ${SITE_NAME}`, rel: '404.html', body: `<article class="prose"><h1>Page not found</h1><p><a href="${BASE}/en/">Go to the list of surahs</a></p></article>` }));
   write('search-index.json', JSON.stringify(searchIndex));
   write('robots.txt', PREVIEW ? 'User-agent: *\nDisallow: /\n' : 'User-agent: *\nAllow: /\n');
-  write('manifest.webmanifest', JSON.stringify({ name: SITE_NAME, short_name: 'Amani Tafsir', start_url: `${BASE}/en/`, display: 'standalone', background_color: '#fbfaf6', theme_color: '#1f5c4a', icons: [{ src: `${BASE}/assets/icon.svg`, sizes: 'any', type: 'image/svg+xml' }] }));
+  write('manifest.webmanifest', JSON.stringify({ name: SITE_NAME, short_name: 'Amani Tafsir', start_url: `${BASE}/en/`, display: 'standalone', background_color: '#f6f5f0', theme_color: '#1f5e63', icons: [{ src: `${BASE}/assets/icon.svg`, sizes: 'any', type: 'image/svg+xml' }] }));
   fs.cpSync(path.join(ROOT, 'site/assets'), path.join(OUT, 'assets'), { recursive: true });
   console.log(`Built ${done} surah page(s) into dist/ (base "${BASE}", preview ${PREVIEW}).`);
 }
