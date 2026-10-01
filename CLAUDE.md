@@ -5,3 +5,4 @@
 - One surah per folder in `content/en/NNN-name/`: `meta.json`, `intro.md`, `verses.json` (n, ml, en only; Arabic is filled in at build time), `words.json`, `commentary.md`.
 - Use the renderings in `content/glossary.md`. Follow `REVIEW.md` for statuses. Never set `status` to `approved` yourself.
 - `npm run check` then `npm run build` before every push. Work on a branch and open a pull request; Rizwin merging it is the publish step.
+- Translation runs follow `TRANSLATING.md` exactly; `python3 tools/next-part.py` says what comes next. Log every run in `docs/usage-log.md`.

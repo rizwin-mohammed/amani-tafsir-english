@@ -121,3 +121,8 @@ button, .button { font: 15px system-ui, sans-serif; padding: 8px 14px; border-ra
   table { font-size: 15px; }
   th, td { padding: 6px 8px; }
 }
+.part { margin-top: 2.5em; }
+.part-meta { font-size: 14px; color: var(--muted); margin: 0 0 8px; }
+.part-meta .badge { font-size: 13px; }
+.words-h { margin-top: 1.4em; }
+.doubt { background: var(--draft-bg); color: var(--draft); font-size: 0.9em; padding: 0 3px; border-radius: 3px; }

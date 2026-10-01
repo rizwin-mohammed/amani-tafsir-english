@@ -86,16 +86,47 @@ for (const dir of dirs) {
   const ch = quran[meta.surah - 1];
   report.push(`## ${meta.surah}. ${meta.title}`, '');
 
-  const verses = JSON.parse(fs.readFileSync(path.join(base, 'verses.json'), 'utf8')).verses;
+  // Gather verse tables, word tables and prose from a single-file surah or from its parts.
+  const read = (p) => fs.readFileSync(p, 'utf8');
+  const partsDir = path.join(base, 'parts');
+  const units = fs.existsSync(partsDir)
+    ? fs.readdirSync(partsDir).filter((d) => /^\d+$/.test(d)).sort((a, b) => a - b).map((d) => path.join(partsDir, d))
+    : [base];
+  let verses = [];
+  let words = [];
+  let prose = fs.existsSync(path.join(base, 'intro.md')) ? read(path.join(base, 'intro.md')) : '';
+  for (const u of units) {
+    const label = path.relative(path.join(ROOT, 'content/en'), u);
+    if (u !== base) {
+      const pm = JSON.parse(read(path.join(u, 'part.json')));
+      for (const k of ['verses', 'pages', 'status']) if (!pm[k]) errors.push(`${label}: part.json has no "${k}"`);
+      if (pm.status && !['draft', 'checked', 'approved'].includes(pm.status)) errors.push(`${label}: unknown status "${pm.status}"`);
+    }
+    const vs = JSON.parse(read(path.join(u, 'verses.json'))).verses;
+    vs.forEach((v) => { if (!v.ml || !v.en) errors.push(`${label}: verse ${v.n} is missing its Malayalam or English`); });
+    verses.push(...vs);
+    if (fs.existsSync(path.join(u, 'words.json'))) words.push(...JSON.parse(read(path.join(u, 'words.json'))).words.map((w) => ({ ...w, label, part: u !== base })));
+    if (fs.existsSync(path.join(u, 'commentary.md'))) prose += '\n' + read(path.join(u, 'commentary.md'));
+  }
   const nums = verses.map((v) => v.n);
   const bad = nums.filter((n) => n < 1 || n > ch.verses.length);
   if (bad.length) errors.push(`${dir}: verse numbers out of range: ${bad.join(', ')}`);
+  const dupes = nums.filter((n, i) => nums.indexOf(n) !== i);
+  if (dupes.length) errors.push(`${dir}: verses translated twice: ${[...new Set(dupes)].join(', ')}`);
   const missing = [];
   for (let i = 1; i <= ch.verses.length; i++) if (!nums.includes(i)) missing.push(i);
   if (meta.status === 'approved' && missing.length) errors.push(`${dir}: approved but verses missing from the table: ${missing.join(', ')}`);
-  report.push(`- Verse table: ${nums.length} of ${ch.verses.length} verses${missing.length ? ` (not yet: ${missing.join(', ')})` : ''}.`);
+  report.push(`- Verse table: ${nums.length} of ${ch.verses.length} verses${missing.length ? ` (not yet: ${missing.length > 20 ? missing.slice(0, 20).join(', ') + ', …' : missing.join(', ')})` : ''}.`);
 
-  const prose = ['intro.md', 'commentary.md'].filter((f) => fs.existsSync(path.join(base, f))).map((f) => fs.readFileSync(path.join(base, f), 'utf8')).join('\n');
+  // Each Arabic word in a word table must come from its own verse in the verified text.
+  const wordMisses = words.filter((w) => {
+    const verse = ch.verses[w.verse - 1];
+    return !verse || !norm(verse).includes(norm(w.ar));
+  });
+  const hardMisses = wordMisses.filter((w) => w.part);
+  hardMisses.forEach((w) => errors.push(`${w.label}: word "${w.ar}" is not in verse ${w.verse} of the verified text`));
+  report.push(`- Word tables: ${words.length} entries; ${words.length - wordMisses.length} match their verse in the verified text${wordMisses.length ? `, ${wordMisses.length} do not` : ''}.`);
+
   const quotes = [...new Set(prose.match(/[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF][\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF\s]*/g) || [])]
     .map((q) => q.trim())
     .filter((q) => q.split(/\s+/).length >= 3);
