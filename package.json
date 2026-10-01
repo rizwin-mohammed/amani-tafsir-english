@@ -1,0 +1,13 @@
+{
+  "name": "amani-tafsir-english",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "serve": "npm run build && BASE= node scripts/build.mjs && npx --yes serve dist"
+  },
+  "dependencies": {
+    "marked": "^14.1.4"
+  }
+}
