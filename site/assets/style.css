@@ -1,0 +1,110 @@
+:root {
+  --bg: #fbfaf6;
+  --surface: #ffffff;
+  --text: #1d1f1e;
+  --muted: #5d6461;
+  --line: #e3e0d6;
+  --accent: #1f5c4a;
+  --accent-soft: #e5efe9;
+  --draft: #8a5a00;
+  --draft-bg: #fff4dc;
+  --ok: #1f6b3a;
+  --ok-bg: #e4f3e8;
+  --tn: #6a4c93;
+  --serif: "Source Serif 4", Georgia, serif;
+  --arabic: "Noto Naskh Arabic", "Amiri", serif;
+  --quran: "Amiri Quran", "Noto Naskh Arabic", serif;
+  --malayalam: "Noto Sans Malayalam", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #141716;
+    --surface: #1b1f1d;
+    --text: #e6e8e6;
+    --muted: #a3aaa6;
+    --line: #2e3431;
+    --accent: #7fc4a8;
+    --accent-soft: #1f2d27;
+    --draft: #f0c46c;
+    --draft-bg: #2d2617;
+    --ok: #8fd6a6;
+    --ok-bg: #18291e;
+    --tn: #c3a8ea;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 18px/1.65 var(--serif); }
+a { color: var(--accent); }
+main { max-width: 860px; margin: 0 auto; padding: 16px; }
+.top { display: flex; flex-wrap: wrap; gap: 8px 20px; align-items: center; justify-content: space-between; padding: 12px 16px; border-bottom: 1px solid var(--line); background: var(--surface); }
+.brand { font-weight: 600; text-decoration: none; color: var(--text); }
+.top nav { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 15px; }
+.top nav a { text-decoration: none; }
+.preview-bar { background: var(--draft-bg); color: var(--draft); text-align: center; font-size: 14px; padding: 6px 16px; }
+footer { max-width: 860px; margin: 40px auto 0; padding: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
+h1 { font-size: 1.8em; line-height: 1.25; margin: 0.4em 0; }
+h2 { font-size: 1.35em; margin-top: 2em; padding-top: 0.4em; border-top: 1px solid var(--line); }
+h3 { font-size: 1.12em; margin-top: 1.6em; }
+[lang="ar"] { font-family: var(--arabic); font-size: 1.15em; line-height: 1.9; }
+[lang="ml"] { font-family: var(--malayalam); font-size: 0.92em; }
+.quran { font-family: var(--quran); font-size: 1.45em; line-height: 2.1; }
+.ar-title { font-size: 0.8em; margin-left: 8px; }
+.sn { color: var(--muted); }
+.crumbs, .source, .note { color: var(--muted); font-size: 15px; margin: 0; }
+.status { margin: 14px 0; padding: 10px 14px; border-radius: 8px; font-size: 15px; }
+.status.draft, .status.checked { background: var(--draft-bg); color: var(--draft); }
+.status.approved { background: var(--ok-bg); color: var(--ok); }
+.tools { font-size: 15px; color: var(--muted); margin: 8px 0; }
+.toc { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 8px 14px; margin: 12px 0 8px; font-size: 15px; }
+.toc summary { cursor: pointer; font-weight: 600; }
+.toc ul { margin: 8px 0; padding-left: 18px; }
+.toc .l3 { margin-left: 16px; }
+.tn { color: var(--tn); font-style: italic; font-size: 0.9em; }
+.page { display: inline-block; font-size: 12px; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 0 4px; line-height: 1.5; vertical-align: 2px; }
+.table-wrap { overflow-x: auto; margin: 12px 0; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+table { border-collapse: collapse; width: 100%; font-size: 16px; }
+th, td { border-bottom: 1px solid var(--line); padding: 8px 10px; vertical-align: top; text-align: left; }
+th { font-size: 13px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+td.ar, th:nth-child(2) { text-align: right; }
+td.num { color: var(--muted); white-space: nowrap; width: 1%; }
+tr:target, h2:target, h3:target { background: var(--accent-soft); }
+body.hide-ml .ml { display: none; }
+.mark-tools { display: inline-flex; gap: 6px; margin-left: 8px; vertical-align: middle; }
+td .mark-tools { display: flex; flex-direction: column; margin: 6px 0 0; }
+.mark-tools button { font: 12px/1.2 system-ui, sans-serif; color: var(--muted); background: none; border: 1px solid var(--line); border-radius: 999px; padding: 3px 8px; cursor: pointer; white-space: nowrap; }
+.mark-tools button[aria-pressed="true"] { color: var(--accent); border-color: var(--accent); }
+.note-box { margin: 6px 0; padding: 8px 10px; background: var(--accent-soft); border-left: 3px solid var(--accent); border-radius: 4px; font-size: 15px; white-space: pre-wrap; }
+.hero p { color: var(--muted); }
+.continue a { font-weight: 600; }
+.surah-list { list-style: none; padding: 0; margin: 20px 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 8px; }
+.surah-list li > a, .surah-list li > span { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 8px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); text-decoration: none; color: var(--text); height: 100%; }
+.surah-list li.todo > span { opacity: 0.6; }
+.surah-list .n { color: var(--muted); min-width: 2ch; }
+.surah-list .name { font-weight: 600; }
+.surah-list .ar { margin-left: auto; font-size: 1em; line-height: 1.4; }
+.badge { flex-basis: 100%; font: 12px/1.4 system-ui, sans-serif; color: var(--muted); }
+.badge.draft, .badge.checked { color: var(--draft); }
+.badge.approved { color: var(--ok); }
+input[type="search"] { width: 100%; font: inherit; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--text); }
+.results li, .saved li { margin: 12px 0; }
+.results p { margin: 2px 0; color: var(--muted); font-size: 15px; }
+button, .button { font: 15px system-ui, sans-serif; padding: 8px 14px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--text); cursor: pointer; }
+@media (max-width: 700px) {
+  body { font-size: 17px; }
+  /* On phones each verse becomes a card: number, Arabic, Malayalam, English stacked. */
+  table.verses thead, table.words thead { display: none; }
+  table.verses, table.verses tbody, table.verses tr, table.verses td,
+  table.words, table.words tbody, table.words tr, table.words td { display: block; width: auto; }
+  table.verses tr, table.words tr { padding: 10px 12px; border-bottom: 1px solid var(--line); }
+  table.verses td, table.words td { border: 0; padding: 4px 0; }
+  table.verses td.num { display: flex; align-items: center; gap: 8px; width: auto; }
+  td .mark-tools { flex-direction: row; margin: 0 0 0 auto; }
+  table.words td.num::before { content: "Verse "; }
+  table.words tr { display: grid; grid-template-columns: auto 1fr; gap: 0 12px; }
+  table.words td.num { grid-row: span 3; }
+  .table-wrap { overflow-x: visible; }
+  h1 { font-size: 1.5em; }
+  table { font-size: 15px; }
+  th, td { padding: 6px 8px; }
+}
