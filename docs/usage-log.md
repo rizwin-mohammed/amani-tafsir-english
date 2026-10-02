@@ -16,3 +16,4 @@ everything read, most of which is re-reading earlier context from cache.
 | 2026-10-02 | Al-Baqarah part 07 | 236-247 | 12 | 38-41 | n/a | 518,359 | Translator 275,695 + checker 242,664 tokens; checker made 18 corrections |
 | 2026-10-02 | Al-Baqarah part 08 | 247-257 | 11 | 42-50 | n/a | 469,724 | Translator 279,694 + checker 190,030 tokens; checker made 6 corrections |
 | 2026-10-02 | Al-Baqarah part 09 | 257-267 | 11 | 51-57 | n/a | 519,552 | Translator 329,789 + checker 189,763 tokens; checker made 4 corrections |
+| 2026-10-02 | Al-Baqarah part 10 | 267-277 | 11 | 58-62 | n/a | 599,747 | Translator 325,606 + checker 274,141 tokens; checker made 5 corrections |
