@@ -1,0 +1,574 @@
+{
+ "words": [
+  {
+   "verse": 6,
+   "ar": "إِنَّ",
+   "ml": "നിശ്ചയമായും",
+   "en": "surely"
+  },
+  {
+   "verse": 6,
+   "ar": "ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടർ",
+   "en": "those who"
+  },
+  {
+   "verse": 6,
+   "ar": "كَفَرُواْ",
+   "ml": "അവർ അവിശ്വസിച്ചു",
+   "en": "they disbelieved"
+  },
+  {
+   "verse": 6,
+   "ar": "سَوَآءٌ",
+   "ml": "സമമാണ്",
+   "en": "it is the same"
+  },
+  {
+   "verse": 6,
+   "ar": "عَلَيۡهِمۡ",
+   "ml": "അവരുടെമേൽ, അവരിൽ",
+   "en": "upon them, for them"
+  },
+  {
+   "verse": 6,
+   "ar": "ءَأَنذَرۡتَهُمۡ",
+   "ml": "നീ അവരെ താക്കിത് ചെയ്തുവോ",
+   "en": "whether you warned them"
+  },
+  {
+   "verse": 6,
+   "ar": "أَمۡ",
+   "ml": "അല്ലെങ്കിൽ",
+   "en": "or"
+  },
+  {
+   "verse": 6,
+   "ar": "لَمۡ تُنذِرۡهُمۡ",
+   "ml": "നീ അവരെ താക്കിത് ചെയ്തില്ലയോ",
+   "en": "you did not warn them"
+  },
+  {
+   "verse": 6,
+   "ar": "لَا يُؤۡمِنُونَ",
+   "ml": "അവർ വിശ്വസിക്കുകയില്ല",
+   "en": "they will not believe"
+  },
+  {
+   "verse": 7,
+   "ar": "خَتَمَ ٱللَّهُ",
+   "ml": "അല്ലാഹു മുദ്ര വെച്ചു",
+   "en": "Allah has set a seal"
+  },
+  {
+   "verse": 7,
+   "ar": "عَلَىٰ قُلُوبِهِمۡ",
+   "ml": "അവരുടെ ഹൃദയങ്ങളിന്മേൽ",
+   "en": "upon their hearts"
+  },
+  {
+   "verse": 7,
+   "ar": "وَعَلَىٰ سَمۡعِهِمۡ",
+   "ml": "അവരുടെ കേൾവിയുടെ (കാതുകളുടെ) മേലും",
+   "en": "and upon their hearing (their ears)"
+  },
+  {
+   "verse": 7,
+   "ar": "وَعَلَىٰٓ أَبۡصَٰرِهِمۡ",
+   "ml": "അവരുടെ ദൃഷ്ടികളുടെ (കണ്ണിന്റെ) മേലുമുണ്ട്",
+   "en": "and upon their sights (their eyes) there is"
+  },
+  {
+   "verse": 7,
+   "ar": "غِشَٰوَةٞ",
+   "ml": "ഒരു (തരം) മൂടി",
+   "en": "a (kind of) covering"
+  },
+  {
+   "verse": 7,
+   "ar": "وَلَهُمۡ",
+   "ml": "അവർക്കുണ്ട്താനും",
+   "en": "and for them there is"
+  },
+  {
+   "verse": 7,
+   "ar": "عَذَابٌ",
+   "ml": "ശിക്ഷ",
+   "en": "punishment"
+  },
+  {
+   "verse": 7,
+   "ar": "عَظِيمٞ",
+   "ml": "വമ്പിച്ച",
+   "en": "great"
+  },
+  {
+   "verse": 8,
+   "ar": "وَمِنَ ٱلنَّاسِ",
+   "ml": "മനുഷ്യരിലുണ്ട്",
+   "en": "and among mankind there are"
+  },
+  {
+   "verse": 8,
+   "ar": "مَن يَقُولُ",
+   "ml": "പറയുന്ന ചിലർ, പറയുന്നവർ",
+   "en": "some who say, those who say"
+  },
+  {
+   "verse": 8,
+   "ar": "ءَامَنَّا",
+   "ml": "ഞങ്ങൾ വിശ്വസിച്ചിരിക്കുന്നു",
+   "en": "we have believed"
+  },
+  {
+   "verse": 8,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ",
+   "en": "in Allah"
+  },
+  {
+   "verse": 8,
+   "ar": "وَبِٱلۡيَوۡمِ",
+   "ml": "ദിവസത്തിലും",
+   "en": "and in the Day"
+  },
+  {
+   "verse": 8,
+   "ar": "ٱلۡأٓخِرِ",
+   "ml": "അവസാനത്തെ",
+   "en": "the last"
+  },
+  {
+   "verse": 8,
+   "ar": "وَمَا هُم",
+   "ml": "അവരല്ലതാനും",
+   "en": "yet they are not"
+  },
+  {
+   "verse": 8,
+   "ar": "بِمُؤۡمِنِينَ",
+   "ml": "വിശ്വസിച്ചവർ, സത്യവിശ്വാസികൾ",
+   "en": "those who have believed, true believers"
+  },
+  {
+   "verse": 9,
+   "ar": "يُخَٰدِعُونَ",
+   "ml": "അവർ വഞ്ചന നടത്തുന്നു",
+   "en": "they practise deceit"
+  },
+  {
+   "verse": 9,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനോട്",
+   "en": "toward Allah"
+  },
+  {
+   "verse": 9,
+   "ar": "وَٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരോടും",
+   "en": "and toward those who have believed"
+  },
+  {
+   "verse": 9,
+   "ar": "وَمَا يَخۡدَعُونَ",
+   "ml": "അവർ വഞ്ചിക്കുന്നില്ലതാനും",
+   "en": "yet they do not deceive"
+  },
+  {
+   "verse": 9,
+   "ar": "إِلَّآ أَنفُسَهُمۡ",
+   "ml": "അവരെത്തന്നെ (തങ്ങളുടെ സ്വന്തങ്ങളെ) അല്ലാതെ",
+   "en": "except themselves (their own selves)"
+  },
+  {
+   "verse": 9,
+   "ar": "وَمَا يَشۡعُرُونَ",
+   "ml": "അവർ അറിയുന്നുമില്ല. അവർക്ക് ബോധമുണ്ടാകുന്നില്ലതാനും",
+   "en": "and they do not know. And they do not become aware"
+  },
+  {
+   "verse": 10,
+   "ar": "فِي قُلُوبِهِم",
+   "ml": "അവരുടെ ഹൃദയങ്ങളിലുണ്ട്",
+   "en": "in their hearts there is"
+  },
+  {
+   "verse": 10,
+   "ar": "مَّرَضٞ",
+   "ml": "ഒരു രോഗം",
+   "en": "a disease"
+  },
+  {
+   "verse": 10,
+   "ar": "فَزَادَهُمُ",
+   "ml": "എന്നിട്ട് അവർക്ക് വർദ്ധിപ്പിച്ചിരിക്കുന്നു",
+   "en": "and so has increased for them"
+  },
+  {
+   "verse": 10,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 10,
+   "ar": "مَرَضٗا",
+   "ml": "രോഗത്തെ",
+   "en": "disease"
+  },
+  {
+   "verse": 10,
+   "ar": "وَلَهُمۡ",
+   "ml": "അവർക്കുണ്ട് താനും",
+   "en": "and for them there is"
+  },
+  {
+   "verse": 10,
+   "ar": "عَذَابٌ",
+   "ml": "ശിക്ഷ",
+   "en": "punishment"
+  },
+  {
+   "verse": 10,
+   "ar": "أَلِيمُۢ",
+   "ml": "വേദനയേറിയ",
+   "en": "painful"
+  },
+  {
+   "verse": 10,
+   "ar": "بِمَا كَانُواْ",
+   "ml": "അവരായിക്കൊണ്ടിരുന്നതുനിമിത്തം",
+   "en": "because they have been"
+  },
+  {
+   "verse": 10,
+   "ar": "يَكۡذِبُونَ",
+   "ml": "അവർ വ്യാജം പറയും",
+   "en": "they tell lies"
+  },
+  {
+   "verse": 11,
+   "ar": "وَإِذَا قِيلَ",
+   "ml": "പറയപ്പെട്ടാൽ",
+   "en": "and when it is said"
+  },
+  {
+   "verse": 11,
+   "ar": "لَهُمۡ",
+   "ml": "അവരോട്",
+   "en": "to them"
+  },
+  {
+   "verse": 11,
+   "ar": "لَا تُفۡسِدُواْ",
+   "ml": "നിങ്ങൾ നാശം (കുഴപ്പം) ഉണ്ടാക്കരുത്",
+   "en": "do not cause corruption (disorder)"
+  },
+  {
+   "verse": 11,
+   "ar": "فِي ٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയിൽ (നാട്ടിൽ)",
+   "en": "in the earth (in the land)"
+  },
+  {
+   "verse": 11,
+   "ar": "قَالُوٓاْ",
+   "ml": "അവർ പറയും",
+   "en": "they will say"
+  },
+  {
+   "verse": 11,
+   "ar": "إِنَّمَا نَحۡنُ",
+   "ml": "നിശ്ചയമായും ഞങ്ങൾ (മാത്രം-തന്നെ) ആകുന്നു",
+   "en": "surely we are (only – indeed)"
+  },
+  {
+   "verse": 11,
+   "ar": "مُصۡلِحُونَ",
+   "ml": "നന്മയുണ്ടാക്കുന്നവർ, പരിഷ്കർത്താക്കൾ",
+   "en": "those who bring about good, reformers"
+  },
+  {
+   "verse": 12,
+   "ar": "أَلَآ",
+   "ml": "അല്ലാ, അല്ലേ (അറിയുക)",
+   "en": "ala, is it not so (know)"
+  },
+  {
+   "verse": 12,
+   "ar": "إِنَّهُمۡ",
+   "ml": "നിശ്ചയമായും അവർ",
+   "en": "surely they"
+  },
+  {
+   "verse": 12,
+   "ar": "هُمُ",
+   "ml": "അവർ (തന്നെ)",
+   "en": "they (themselves)"
+  },
+  {
+   "verse": 12,
+   "ar": "ٱلۡمُفۡسِدُونَ",
+   "ml": "നാശമുണ്ടാക്കുന്നവർ",
+   "en": "the ones causing corruption"
+  },
+  {
+   "verse": 12,
+   "ar": "وَلَٰكِن",
+   "ml": "എങ്കിലും",
+   "en": "but"
+  },
+  {
+   "verse": 12,
+   "ar": "لَّا يَشۡعُرُونَ",
+   "ml": "അവർ അറിയുന്നില്ല. അവർക്കു ബോധമുണ്ടാകുന്നില്ല",
+   "en": "they do not know. They do not become aware"
+  },
+  {
+   "verse": 13,
+   "ar": "وَإِذَا قِيلَ",
+   "ml": "പറയപ്പെട്ടാൽ",
+   "en": "and when it is said"
+  },
+  {
+   "verse": 13,
+   "ar": "لَهُمۡ",
+   "ml": "അവരോട്",
+   "en": "to them"
+  },
+  {
+   "verse": 13,
+   "ar": "ءَامِنُواْ",
+   "ml": "നിങ്ങൾ വിശ്വസിക്കുവീൻ",
+   "en": "believe (you all)"
+  },
+  {
+   "verse": 13,
+   "ar": "كَمَآ ءَامَنَ",
+   "ml": "വിശ്വസിച്ചതുപോലെ",
+   "en": "as … have believed"
+  },
+  {
+   "verse": 13,
+   "ar": "ٱلنَّاسُ",
+   "ml": "മനുഷ്യർ",
+   "en": "the people"
+  },
+  {
+   "verse": 13,
+   "ar": "قَالُوٓاْ",
+   "ml": "അവർ പറയും, പറയുകയായി",
+   "en": "they will say, they said"
+  },
+  {
+   "verse": 13,
+   "ar": "أَنُؤۡمِنُ",
+   "ml": "ഞങ്ങൾ വിശ്വസിക്കുകയോ, വിശ്വസിക്കുമോ",
+   "en": "are we to believe, shall we believe"
+  },
+  {
+   "verse": 13,
+   "ar": "كَمَآ ءَامَنَ",
+   "ml": "വിശ്വസിച്ചതുപോലെ",
+   "en": "as … have believed"
+  },
+  {
+   "verse": 13,
+   "ar": "ٱلسُّفَهَآءُ",
+   "ml": "ഭോഷന്മാർ",
+   "en": "the fools"
+  },
+  {
+   "verse": 13,
+   "ar": "أَلَآ",
+   "ml": "അല്ലാ, അല്ലേ (അറിയുക)",
+   "en": "ala, is it not so (know)"
+  },
+  {
+   "verse": 13,
+   "ar": "إِنَّهُمۡ",
+   "ml": "നിശ്ചയമായും അവർ",
+   "en": "surely they"
+  },
+  {
+   "verse": 13,
+   "ar": "هُمُ",
+   "ml": "അവർ തന്നെ",
+   "en": "they themselves"
+  },
+  {
+   "verse": 13,
+   "ar": "ٱلسُّفَهَآءُ",
+   "ml": "ഭോഷന്മാർ",
+   "en": "the fools"
+  },
+  {
+   "verse": 13,
+   "ar": "وَلَٰكِن",
+   "ml": "എങ്കിലും",
+   "en": "but"
+  },
+  {
+   "verse": 13,
+   "ar": "لَّا يَعۡلَمُونَ",
+   "ml": "അവർ അറിയുന്നില്ല",
+   "en": "they do not know"
+  },
+  {
+   "verse": 14,
+   "ar": "وَإِذَا لَقُواْ",
+   "ml": "അവർ കണ്ടുമുട്ടിയാൽ",
+   "en": "and when they meet"
+  },
+  {
+   "verse": 14,
+   "ar": "ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരെ",
+   "en": "those who have believed"
+  },
+  {
+   "verse": 14,
+   "ar": "قَالُوٓاْ",
+   "ml": "അവർ പറയും",
+   "en": "they will say"
+  },
+  {
+   "verse": 14,
+   "ar": "ءَامَنَّا",
+   "ml": "ഞങ്ങൾ വിശ്വസിച്ചിരിക്കുന്നു",
+   "en": "we have believed"
+  },
+  {
+   "verse": 14,
+   "ar": "وَإِذَا خَلَوۡاْ",
+   "ml": "അവർ ഒഴിവായാൽ, തനിച്ചായാൽ",
+   "en": "and when they are free, when they are alone"
+  },
+  {
+   "verse": 14,
+   "ar": "إِلَىٰ شَيَٰطِينِهِمۡ",
+   "ml": "അവരുടെ പിശാചുകളിലേക്ക്",
+   "en": "to their devils"
+  },
+  {
+   "verse": 14,
+   "ar": "قَالُوٓاْ",
+   "ml": "അവർ പറയും",
+   "en": "they will say"
+  },
+  {
+   "verse": 14,
+   "ar": "إِنَّا",
+   "ml": "നിശ്ചയമായും ഞങ്ങൾ",
+   "en": "surely we"
+  },
+  {
+   "verse": 14,
+   "ar": "مَعَكُمۡ",
+   "ml": "നിങ്ങളുടെ കൂടെയാണ്",
+   "en": "are with you"
+  },
+  {
+   "verse": 14,
+   "ar": "إِنَّمَا نَحۡنُ",
+   "ml": "നിശ്ചയമായു ഞങ്ങൾ (മാത്രം-തന്നെ) ആകുന്നു",
+   "en": "surely we are (only – indeed)"
+  },
+  {
+   "verse": 14,
+   "ar": "مُسۡتَهۡزِءُونَ",
+   "ml": "പരിഹസിക്കുന്നവർ",
+   "en": "those who mock"
+  },
+  {
+   "verse": 15,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 15,
+   "ar": "يَسۡتَهۡزِئُ",
+   "ml": "പരിഹസിക്കുന്നു, പരിഹസിക്കും",
+   "en": "mocks, will mock"
+  },
+  {
+   "verse": 15,
+   "ar": "بِهِمۡ",
+   "ml": "അവരെ",
+   "en": "them"
+  },
+  {
+   "verse": 15,
+   "ar": "وَيَمُدُّهُمۡ",
+   "ml": "അവരെ നീട്ടി (അയച്ചു) ഇടുകയും ചെയ്യും",
+   "en": "and He lets them loose (sends them off at length)"
+  },
+  {
+   "verse": 15,
+   "ar": "فِي طُغۡيَٰنِهِمۡ",
+   "ml": "അവരുടെ അതിരുകവിയലിൽ, ധിക്കാരത്തിൽ",
+   "en": "in their transgression of bounds, in their arrogance"
+  },
+  {
+   "verse": 15,
+   "ar": "يَعۡمَهُونَ",
+   "ml": "അവർ (അന്ധാളിച്ചു-അന്തം വിട്ടു) അലഞ്ഞുനടക്കുമാറ്",
+   "en": "so that they wander (bewildered – at a loss)"
+  },
+  {
+   "verse": 16,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those people"
+  },
+  {
+   "verse": 16,
+   "ar": "ٱلَّذِينَ",
+   "ml": "യാതൊരുവരാണ്",
+   "en": "are the ones who"
+  },
+  {
+   "verse": 16,
+   "ar": "ٱشۡتَرَوُاْ",
+   "ml": "അവർ (വിലക്ക്) വാങ്ങി",
+   "en": "they bought (with a price)"
+  },
+  {
+   "verse": 16,
+   "ar": "ٱلضَّلَٰلَةَ",
+   "ml": "ദുർമാർഗം",
+   "en": "misguidance"
+  },
+  {
+   "verse": 16,
+   "ar": "بِٱلۡهُدَىٰ",
+   "ml": "സന്മാർഗത്തിന് (പകരം",
+   "en": "(in exchange) for right guidance"
+  },
+  {
+   "verse": 16,
+   "ar": "فَمَا رَبِحَت",
+   "ml": "എന്നാൽ (എന്നിട്ട്) ലാഭകരമായില്ല",
+   "en": "but (and so) was not profitable"
+  },
+  {
+   "verse": 16,
+   "ar": "تِّجَٰرَتُهُمۡ",
+   "ml": "അവരുടെ കച്ചവടം",
+   "en": "their trade"
+  },
+  {
+   "verse": 16,
+   "ar": "وَمَا كَانُواْ",
+   "ml": "അവർ ആയതുമില്ല",
+   "en": "nor did they become"
+  },
+  {
+   "verse": 16,
+   "ar": "مُهۡتَدِينَ",
+   "ml": "നേർമാർഗം പ്രാപിച്ചവർ",
+   "en": "those who attained the straight way"
+  }
+ ]
+}
