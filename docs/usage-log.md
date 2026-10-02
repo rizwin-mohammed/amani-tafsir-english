@@ -9,3 +9,4 @@ everything read, most of which is re-reading earlier context from cache.
 | 2026-10-01 | Al-Fatihah (whole) | 145-171 | 27 | 1-7 | 87,933 | 5,171,370 | Format sample; one session |
 | 2026-10-01 | Al-Baqarah part 01 (intro + group 1) | 173-185 | 13 | 1-5 | n/a | 367,296 | Translator 203,005 + checker 164,291 tokens; checker made 10 corrections |
 | 2026-10-02 | Al-Baqarah part 02 | 185-196 | 12 | 6-16 | n/a | 435,830 | Translator 257,775 + checker 178,055 tokens; checker made 15 corrections incl. one reversed sentence |
+| 2026-10-02 | Al-Baqarah part 03 | 197-206 | 10 | 17-22 | n/a | 358,792 | Translator 207,374 + checker 151,418 tokens; checker made 3 corrections |
