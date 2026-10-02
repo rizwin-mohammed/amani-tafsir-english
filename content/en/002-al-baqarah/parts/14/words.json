@@ -1,0 +1,880 @@
+{
+ "words": [
+  {
+   "verse": 89,
+   "ar": "وَلَمَّا جَآءَهُمۡ",
+   "ml": "അവർക്ക് വന്നപ്പോൾ",
+   "en": "when there came to them"
+  },
+  {
+   "verse": 89,
+   "ar": "كِتَٰبٞ",
+   "ml": "ഒരു (വേദ)ഗ്രന്ഥം",
+   "en": "a (scriptural) book"
+  },
+  {
+   "verse": 89,
+   "ar": "مِّنۡ عِندِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ അടുക്കൽ നിന്ന്",
+   "en": "from Allah's presence"
+  },
+  {
+   "verse": 89,
+   "ar": "مُصَدِّقٞ",
+   "ml": "സത്യമാക്കുന്ന (ശരിവെക്കുന്ന)",
+   "en": "confirming as true (affirming)"
+  },
+  {
+   "verse": 89,
+   "ar": "لِّمَا مَعَهُمۡ",
+   "ml": "അവരുടെ കൂടെ ഉള്ളതിനെ",
+   "en": "what is with them"
+  },
+  {
+   "verse": 89,
+   "ar": "وَكَانُواْ",
+   "ml": "അവരായിരുന്നുതാനും",
+   "en": "and they had been, moreover"
+  },
+  {
+   "verse": 89,
+   "ar": "مِن قَبۡلُ",
+   "ml": "മുമ്പ്",
+   "en": "before"
+  },
+  {
+   "verse": 89,
+   "ar": "يَسۡتَفۡتِحُونَ",
+   "ml": "അവർ വിജയം (സഹായം) അർത്ഥിക്കും",
+   "en": "they will ask for victory (help)"
+  },
+  {
+   "verse": 89,
+   "ar": "عَلَى ٱلَّذِينَ",
+   "ml": "യാതൊരുകൂട്ടർക്ക്(എതിരിൽ)",
+   "en": "(against) the group who"
+  },
+  {
+   "verse": 89,
+   "ar": "كَفَرُواْ",
+   "ml": "അവർ അവിശ്വസിച്ചു",
+   "en": "they disbelieved"
+  },
+  {
+   "verse": 89,
+   "ar": "فَلَمَّا جَآءَهُم",
+   "ml": "എന്നിട്ട് അവർക്ക് വന്നപ്പോൾ",
+   "en": "then when there came to them"
+  },
+  {
+   "verse": 89,
+   "ar": "مَّا عَرَفُواْ",
+   "ml": "അവർക്കറിയാവുന്നത്",
+   "en": "what they knew"
+  },
+  {
+   "verse": 89,
+   "ar": "كَفَرُواْ بِهِۦ",
+   "ml": "അതിൽ അവർ അവിശ്വസിച്ചു",
+   "en": "they disbelieved in it"
+  },
+  {
+   "verse": 89,
+   "ar": "فَلَعۡنَةُ ٱللَّهِ",
+   "ml": "ആകയാൽ അല്ലാഹുവിന്റെ ശാപം",
+   "en": "therefore Allah's curse"
+  },
+  {
+   "verse": 89,
+   "ar": "عَلَى ٱلۡكَٰفِرِينَ",
+   "ml": "അവിശ്വാസികളുടെ മേൽ ഉണ്ടായിരിക്കും.",
+   "en": "will be upon the disbelievers."
+  },
+  {
+   "verse": 90,
+   "ar": "بِئۡسَمَا",
+   "ml": "യാതൊന്ന് വളരെ (എത്രയോ) ചീത്ത",
+   "en": "that which is very (how very) bad"
+  },
+  {
+   "verse": 90,
+   "ar": "ٱشۡتَرَوۡاْ بِهِۦٓ",
+   "ml": "അതിന് അവർ വിറ്റു, വാങ്ങി",
+   "en": "for it they sold, bought"
+  },
+  {
+   "verse": 90,
+   "ar": "أَنفُسَهُمۡ",
+   "ml": "അവരുടെ സ്വന്തങ്ങളെ",
+   "en": "their own selves"
+  },
+  {
+   "verse": 90,
+   "ar": "أَن يَكۡفُرُواْ",
+   "ml": "അതായത് അവർ അവിശ്വസിക്കുന്നത്",
+   "en": "that is, their disbelieving"
+  },
+  {
+   "verse": 90,
+   "ar": "بِمَآ أَنزَلَ",
+   "ml": "അവതരിപ്പിച്ചതിൽ",
+   "en": "in what has sent down"
+  },
+  {
+   "verse": 90,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 90,
+   "ar": "بَغۡيًا",
+   "ml": "അക്രമമായിട്ട്, അസൂയകൊണ്ട്",
+   "en": "as wrongdoing, out of jealousy"
+  },
+  {
+   "verse": 90,
+   "ar": "أَن يُنَزِّلَ",
+   "ml": "ഇറക്കുന്നതിനാൽ",
+   "en": "because of sending down"
+  },
+  {
+   "verse": 90,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 90,
+   "ar": "مِن فَضۡلِهِۦ",
+   "ml": "അവന്റെ അനുഗ്രഹത്തിൽ നിന്ന്",
+   "en": "from His favour"
+  },
+  {
+   "verse": 90,
+   "ar": "عَلَىٰ مَن",
+   "ml": "ചിലരുടെമേൽ, യാതൊരുവന്",
+   "en": "upon some, to the one whom"
+  },
+  {
+   "verse": 90,
+   "ar": "يَشَآءُ",
+   "ml": "അവൻ ഉദ്ദേശിക്കുന്നു",
+   "en": "He wills"
+  },
+  {
+   "verse": 90,
+   "ar": "مِنۡ عِبَادِهِۦ",
+   "ml": "അവന്റെ അടിയാൻമാരിൽ നിന്ന്",
+   "en": "from among His servants"
+  },
+  {
+   "verse": 90,
+   "ar": "فَبَآءُو",
+   "ml": "അങ്ങനെ അവർ മടങ്ങി (അവർ നേടി)",
+   "en": "so they returned (they gained)"
+  },
+  {
+   "verse": 90,
+   "ar": "بِغَضَبٍ",
+   "ml": "കോപവുംകൊണ്ട്, കോപത്തെ",
+   "en": "with wrath, wrath"
+  },
+  {
+   "verse": 90,
+   "ar": "عَلَىٰ غَضَبٖ",
+   "ml": "കോപത്തിനു മേൽ",
+   "en": "upon wrath"
+  },
+  {
+   "verse": 90,
+   "ar": "وَلِلۡكَٰفِرِينَ",
+   "ml": "അവിശ്വാസികൾക്കുണ്ട്താനും",
+   "en": "and for the disbelievers there is, moreover"
+  },
+  {
+   "verse": 90,
+   "ar": "عَذَابٞ",
+   "ml": "ശിക്ഷ",
+   "en": "punishment"
+  },
+  {
+   "verse": 90,
+   "ar": "مُّهِينٞ",
+   "ml": "നിന്ദ്യകരമായ, അപമാനിക്കുന്ന",
+   "en": "abasing, disgracing"
+  },
+  {
+   "verse": 91,
+   "ar": "وَإِذَا قِيلَ",
+   "ml": "പറയപ്പെട്ടാൽ",
+   "en": "if it is said"
+  },
+  {
+   "verse": 91,
+   "ar": "لَهُمۡ",
+   "ml": "അവരോട്",
+   "en": "to them"
+  },
+  {
+   "verse": 91,
+   "ar": "ءَامِنُواْ",
+   "ml": "നിങ്ങൾ വിശ്വസിക്കുവിൻ",
+   "en": "believe"
+  },
+  {
+   "verse": 91,
+   "ar": "بِمَآ أَنزَلَ",
+   "ml": "അവതരിപ്പിച്ചതിൽ",
+   "en": "in what has sent down"
+  },
+  {
+   "verse": 91,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 91,
+   "ar": "قَالُواْ",
+   "ml": "അവർ പറയുകയായി",
+   "en": "they said"
+  },
+  {
+   "verse": 91,
+   "ar": "نُؤۡمِنُ",
+   "ml": "ഞങ്ങൾ വിശ്വസിക്കുന്നു",
+   "en": "we believe"
+  },
+  {
+   "verse": 91,
+   "ar": "بِمَآ أُنزِلَ",
+   "ml": "ഇറക്കപ്പെട്ടതിൽ",
+   "en": "in what was sent down"
+  },
+  {
+   "verse": 91,
+   "ar": "عَلَيۡنَا",
+   "ml": "ഞങ്ങൾക്ക്",
+   "en": "to us"
+  },
+  {
+   "verse": 91,
+   "ar": "وَيَكۡفُرُونَ",
+   "ml": "അവർ അവിശ്വസിക്കുകയും ചെയ്യും",
+   "en": "and they will disbelieve"
+  },
+  {
+   "verse": 91,
+   "ar": "بِمَا وَرَآءَهُۥ",
+   "ml": "അതിനപ്പുറമുള്ളതിൽ",
+   "en": "in what is beyond it"
+  },
+  {
+   "verse": 91,
+   "ar": "وَهُوَ",
+   "ml": "അതാകട്ടെ",
+   "en": "and that, for its part"
+  },
+  {
+   "verse": 91,
+   "ar": "ٱلۡحَقُّ",
+   "ml": "യഥാർത്ഥമാണ്",
+   "en": "is the real thing"
+  },
+  {
+   "verse": 91,
+   "ar": "مُصَدِّقٗا",
+   "ml": "സത്യമാക്കിക്കൊണ്ട്",
+   "en": "confirming as true"
+  },
+  {
+   "verse": 91,
+   "ar": "لِّمَا",
+   "ml": "യാതൊന്നിനെ",
+   "en": "that which"
+  },
+  {
+   "verse": 91,
+   "ar": "مَعَهُمۡ",
+   "ml": "അവരുടെ കൂടെയുള്ള",
+   "en": "is with them"
+  },
+  {
+   "verse": 91,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "you say"
+  },
+  {
+   "verse": 91,
+   "ar": "فَلِمَ",
+   "ml": "എന്നാലെന്തിന്?",
+   "en": "then why?"
+  },
+  {
+   "verse": 91,
+   "ar": "تَقۡتُلُونَ",
+   "ml": "നിങ്ങൾ കൊല്ലുന്നു",
+   "en": "you kill"
+  },
+  {
+   "verse": 91,
+   "ar": "أَنۢبِيَآءَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ നബി (പ്രവാചകൻ)മാരെ",
+   "en": "the Nabi (prophet)s of Allah *[DOUBT: the author glosses the Arabic-derived word നബി with the Malayalam പ്രവാചകൻ. Elsewhere നബി is rendered \"Prophet\" as a title (the Prophet Musa, O Prophet) and the plural നബിമാർ \"prophets\" (verse 91, part 13), the same as പ്രവാചകന്മാർ \"prophets\", so the pairing cannot be shown with \"prophet\" twice. \"Nabi\" is kept here only, as റസൂൽ is kept as \"Rasul\" beside ദൂതൻ \"messenger\" (verse 98). Alternative: \"the prophet (prophet)s of Allah\". Please confirm.]*"
+  },
+  {
+   "verse": 91,
+   "ar": "مِن قَبۡلُ",
+   "ml": "മുമ്പ്",
+   "en": "before"
+  },
+  {
+   "verse": 91,
+   "ar": "إِن كُنتُم",
+   "ml": "നിങ്ങളാണെങ്കിൽ",
+   "en": "if you are"
+  },
+  {
+   "verse": 91,
+   "ar": "مُّؤۡمِنِينَ",
+   "ml": "വിശ്വാസികൾ",
+   "en": "believers"
+  },
+  {
+   "verse": 92,
+   "ar": "وَلَقَدۡ جَآءَكُم",
+   "ml": "തീർച്ചയായും നിങ്ങൾക്ക് വന്നിട്ടുണ്ട്",
+   "en": "surely there has come to you"
+  },
+  {
+   "verse": 92,
+   "ar": "مُّوسَىٰ",
+   "ml": "മൂസാ",
+   "en": "Musa"
+  },
+  {
+   "verse": 92,
+   "ar": "بِٱلۡبَيِّنَٰتِ",
+   "ml": "വ്യക്തമായ തെളിവുകൾകൊണ്ട്",
+   "en": "with clear proofs"
+  },
+  {
+   "verse": 92,
+   "ar": "ثُمَّ ٱتَّخَذۡتُمُ",
+   "ml": "പിന്നെ നിങ്ങൾ ഉണ്ടാക്കി, ഏർപ്പെടുത്തി",
+   "en": "then you made, set up"
+  },
+  {
+   "verse": 92,
+   "ar": "ٱلۡعِجۡلَ",
+   "ml": "പശുക്കുട്ടിയെ",
+   "en": "the calf"
+  },
+  {
+   "verse": 92,
+   "ar": "مِنۢ بَعۡدِهِۦ",
+   "ml": "അതിന് ശേഷം",
+   "en": "after that"
+  },
+  {
+   "verse": 92,
+   "ar": "وَأَنتُمۡ",
+   "ml": "നിങ്ങൾ (ആയിക്കൊണ്ട്)",
+   "en": "you (being)"
+  },
+  {
+   "verse": 92,
+   "ar": "ظَٰلِمُونَ",
+   "ml": "അക്രമികൾ",
+   "en": "wrongdoers"
+  },
+  {
+   "verse": 93,
+   "ar": "وَإِذۡ أَخَذۡنَا",
+   "ml": "നാം വാങ്ങിയ സന്ദർഭം",
+   "en": "the occasion when We took"
+  },
+  {
+   "verse": 93,
+   "ar": "مِيثَٰقَكُمۡ",
+   "ml": "നിങ്ങളുടെ ഉറപ്പ്, കരാർ",
+   "en": "your assurance, pact"
+  },
+  {
+   "verse": 93,
+   "ar": "وَرَفَعۡنَا",
+   "ml": "നാം ഉയർത്തുകയും ചെയ്തു",
+   "en": "and We raised"
+  },
+  {
+   "verse": 93,
+   "ar": "فَوۡقَكُمُ",
+   "ml": "നിങ്ങളുടെ മീതെ",
+   "en": "above you"
+  },
+  {
+   "verse": 93,
+   "ar": "ٱلطُّورَ",
+   "ml": "ത്വൂർ പർവ്വതം",
+   "en": "the mountain Tur"
+  },
+  {
+   "verse": 93,
+   "ar": "خُذُواْ",
+   "ml": "നിങ്ങൾ പിടിച്ചു (എടുത്തു)കൊള്ളുവിൻ",
+   "en": "take hold (take)"
+  },
+  {
+   "verse": 93,
+   "ar": "مَآ ءَاتَيۡنَٰكُم",
+   "ml": "നിങ്ങൾക്ക് നാം നൽകിയത്",
+   "en": "what We gave you"
+  },
+  {
+   "verse": 93,
+   "ar": "بِقُوَّةٖ",
+   "ml": "ബലമായി",
+   "en": "with strength"
+  },
+  {
+   "verse": 93,
+   "ar": "وَٱسۡمَعُواْ",
+   "ml": "നിങ്ങൾ കേൾക്കുകയും ചെയ്യുവിൻ",
+   "en": "and listen"
+  },
+  {
+   "verse": 93,
+   "ar": "قَالُواْ",
+   "ml": "അവർ പറഞ്ഞു",
+   "en": "they said"
+  },
+  {
+   "verse": 93,
+   "ar": "سَمِعۡنَا",
+   "ml": "ഞങ്ങൾ കേട്ടു",
+   "en": "we heard"
+  },
+  {
+   "verse": 93,
+   "ar": "وَعَصَيۡنَا",
+   "ml": "ഞങ്ങൾ അനുസരണക്കേട് കാണിച്ചു, എതിർ പ്രവർത്തിക്കുന്നു",
+   "en": "we showed disobedience, we act contrary"
+  },
+  {
+   "verse": 93,
+   "ar": "وَأُشۡرِبُواْ",
+   "ml": "അവർ കുടിപ്പിക്കപ്പെട്ടിരിക്കുന്നു",
+   "en": "they have been made to drink"
+  },
+  {
+   "verse": 93,
+   "ar": "فِي قُلُوبِهِمُ",
+   "ml": "അവരുടെ ഹൃദയങ്ങളിൽ",
+   "en": "in their hearts"
+  },
+  {
+   "verse": 93,
+   "ar": "ٱلۡعِجۡلَ",
+   "ml": "പശുക്കുട്ടി",
+   "en": "the calf"
+  },
+  {
+   "verse": 93,
+   "ar": "بِكُفۡرِهِمۡ",
+   "ml": "അവരുടെ അവിശ്വാസം നിമിത്തം",
+   "en": "because of their disbelief"
+  },
+  {
+   "verse": 93,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "you say"
+  },
+  {
+   "verse": 93,
+   "ar": "بِئۡسَمَا",
+   "ml": "യാതൊന്ന് വളരെ ചീത്ത",
+   "en": "that which is very bad"
+  },
+  {
+   "verse": 93,
+   "ar": "يَأۡمُرُكُم بِهِۦٓ",
+   "ml": "അതിനെ നിങ്ങളോട് കൽപിക്കുന്നു",
+   "en": "commands you it"
+  },
+  {
+   "verse": 93,
+   "ar": "إِيمَٰنُكُمۡ",
+   "ml": "നിങ്ങളുടെ വിശ്വാസം",
+   "en": "your belief"
+  },
+  {
+   "verse": 93,
+   "ar": "إِن كُنتُم",
+   "ml": "നിങ്ങൾ ആകുന്നുവെങ്കിൽ",
+   "en": "if you are"
+  },
+  {
+   "verse": 93,
+   "ar": "مُّؤۡمِنِينَ",
+   "ml": "വിശ്വാസികൾ",
+   "en": "believers"
+  },
+  {
+   "verse": 94,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "you say"
+  },
+  {
+   "verse": 94,
+   "ar": "إِن كَانَتۡ",
+   "ml": "ആണെങ്കിൽ, ആയിരുന്നാൽ",
+   "en": "if it is, if it were"
+  },
+  {
+   "verse": 94,
+   "ar": "لَكُمُ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "for you"
+  },
+  {
+   "verse": 94,
+   "ar": "ٱلدَّارُ ٱلۡأٓخِرَةُ",
+   "ml": "പരലോക ഭവനം",
+   "en": "the abode of the Hereafter"
+  },
+  {
+   "verse": 94,
+   "ar": "عِندَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിങ്കൽ",
+   "en": "with Allah"
+  },
+  {
+   "verse": 94,
+   "ar": "خَالِصَةٗ",
+   "ml": "മാത്രമായി",
+   "en": "alone"
+  },
+  {
+   "verse": 94,
+   "ar": "مِّن دُونِ",
+   "ml": "കൂടാതെ, പുറമെ",
+   "en": "apart from, besides"
+  },
+  {
+   "verse": 94,
+   "ar": "ٱلنَّاسِ",
+   "ml": "മനുഷ്യരെ",
+   "en": "men"
+  },
+  {
+   "verse": 94,
+   "ar": "فَتَمَنَّوُاْ",
+   "ml": "എന്നാൽ നിങ്ങൾ കൊതിക്കുവിൻ",
+   "en": "then long"
+  },
+  {
+   "verse": 94,
+   "ar": "ٱلۡمَوۡتَ",
+   "ml": "മരണം, മരിക്കാൻ",
+   "en": "death, to die"
+  },
+  {
+   "verse": 94,
+   "ar": "إِن كُنتُمۡ",
+   "ml": "നിങ്ങളാണെങ്കിൽ",
+   "en": "if you are"
+  },
+  {
+   "verse": 94,
+   "ar": "صَٰدِقِينَ",
+   "ml": "സത്യം പറയുന്നവർ",
+   "en": "ones who speak the truth"
+  },
+  {
+   "verse": 95,
+   "ar": "وَلَن يَتَمَنَّوۡهُ",
+   "ml": "അവർ അതിന് കൊതിക്കുകയേ ഇല്ല",
+   "en": "they will not long for it at all"
+  },
+  {
+   "verse": 95,
+   "ar": "أَبَدَۢا",
+   "ml": "ഒരു കാലത്തും",
+   "en": "at any time"
+  },
+  {
+   "verse": 95,
+   "ar": "بِمَا قَدَّمَتۡ",
+   "ml": "മുൻചെയ്തത് നിമിത്തം",
+   "en": "because of what have done beforehand"
+  },
+  {
+   "verse": 95,
+   "ar": "أَيۡدِيهِمۡ",
+   "ml": "അവരുടെ കൈകൾ",
+   "en": "their hands"
+  },
+  {
+   "verse": 95,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 95,
+   "ar": "عَلِيمُۢ",
+   "ml": "(വളരെ) അറിയുന്നവനാണ്",
+   "en": "is the One who (greatly) knows"
+  },
+  {
+   "verse": 95,
+   "ar": "بِٱلظَّـٰلِمِينَ",
+   "ml": "അക്രമികളെപ്പറ്റി",
+   "en": "about the wrongdoers"
+  },
+  {
+   "verse": 96,
+   "ar": "وَلَتَجِدَنَّهُمۡ",
+   "ml": "തീർച്ചയായും അവരെ നീ കണ്ടെത്തുകതന്നെ ചെയ്യും",
+   "en": "surely you will indeed find them"
+  },
+  {
+   "verse": 96,
+   "ar": "أَحۡرَصَ ٱلنَّاسِ",
+   "ml": "മനുഷ്യരിൽ ഏറ്റവും മോഹമുള്ളവരായി",
+   "en": "the ones with the most yearning among men"
+  },
+  {
+   "verse": 96,
+   "ar": "عَلَىٰ حَيَوٰةٖ",
+   "ml": "ജീവിതത്തിന്",
+   "en": "for life"
+  },
+  {
+   "verse": 96,
+   "ar": "وَمِنَ ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരെക്കാളും",
+   "en": "even than the group who"
+  },
+  {
+   "verse": 96,
+   "ar": "أَشۡرَكُواْ",
+   "ml": "അവർ ശിർക്ക് സ്വീകരിച്ചു",
+   "en": "they adopted shirk"
+  },
+  {
+   "verse": 96,
+   "ar": "يَوَدُّ",
+   "ml": "മോഹിക്കുന്നു",
+   "en": "yearns"
+  },
+  {
+   "verse": 96,
+   "ar": "أَحَدُهُمۡ",
+   "ml": "അവരിലൊരാൾ",
+   "en": "one of them"
+  },
+  {
+   "verse": 96,
+   "ar": "لَوۡ يُعَمَّرُ",
+   "ml": "അവന് ദീർഘായുസ്സ് നൽകപ്പെട്ടിരുന്നെങ്കിൽ എന്ന്",
+   "en": "if only he were given long life"
+  },
+  {
+   "verse": 96,
+   "ar": "أَلۡفَ سَنَةٖ",
+   "ml": "ആയിരം കൊല്ലം",
+   "en": "a thousand years"
+  },
+  {
+   "verse": 96,
+   "ar": "وَمَا هُوَ",
+   "ml": "അതല്ലതാനും",
+   "en": "and that is not, moreover"
+  },
+  {
+   "verse": 96,
+   "ar": "بِمُزَحۡزِحِهِۦ",
+   "ml": "അവനെ അകറ്റികളയുന്നത്",
+   "en": "something that removes him"
+  },
+  {
+   "verse": 96,
+   "ar": "مِنَ ٱلۡعَذَابِ",
+   "ml": "ശിക്ഷയിൽ നിന്ന്",
+   "en": "from the punishment"
+  },
+  {
+   "verse": 96,
+   "ar": "أَن يُعَمَّرَ",
+   "ml": "അവന് ദീർഘായുസ്സ് നൽകപ്പെടൽ",
+   "en": "his being given long life"
+  },
+  {
+   "verse": 96,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 96,
+   "ar": "بَصِيرُۢ",
+   "ml": "കണ്ടറിയുന്നവനാണ്",
+   "en": "is the One who sees and knows"
+  },
+  {
+   "verse": 96,
+   "ar": "بِمَا يَعۡمَلُونَ",
+   "ml": "അവർ പ്രവർത്തിക്കുന്നതിനെപ്പറ്റി",
+   "en": "about what they do"
+  },
+  {
+   "verse": 97,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "you say"
+  },
+  {
+   "verse": 97,
+   "ar": "مَن كَانَ",
+   "ml": "ആരെങ്കിലുമാണെങ്കിൽ",
+   "en": "if anyone is"
+  },
+  {
+   "verse": 97,
+   "ar": "عَدُوّٗا",
+   "ml": "ശത്രു",
+   "en": "an enemy"
+  },
+  {
+   "verse": 97,
+   "ar": "لِّـجِبۡرِيلَ",
+   "ml": "ജിബ്‌രീലിന്",
+   "en": "to Jibril"
+  },
+  {
+   "verse": 97,
+   "ar": "فَإِنَّهُۥ",
+   "ml": "എന്നാലദ്ദേഹം",
+   "en": "then he"
+  },
+  {
+   "verse": 97,
+   "ar": "نَزَّلَهُۥ",
+   "ml": "അതിനെ അവതരിപ്പിച്ചു",
+   "en": "sent it down"
+  },
+  {
+   "verse": 97,
+   "ar": "عَلَىٰ قَلۡبِكَ",
+   "ml": "നിന്റെഹൃദയത്തിൽ",
+   "en": "upon your heart"
+  },
+  {
+   "verse": 97,
+   "ar": "بِإِذۡنِ",
+   "ml": "ഉത്തരവ് (അനുമതി)പ്രകാരം",
+   "en": "by the order (permission)"
+  },
+  {
+   "verse": 97,
+   "ar": "ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ",
+   "en": "of Allah"
+  },
+  {
+   "verse": 97,
+   "ar": "مُصَدِّقٗا",
+   "ml": "സത്യമാക്കിക്കൊണ്ട്",
+   "en": "confirming as true"
+  },
+  {
+   "verse": 97,
+   "ar": "لِّمَا بَيۡنَ يَدَيۡهِ",
+   "ml": "അതിന്റെ മുമ്പിലുള്ളതിനെ",
+   "en": "what is before it"
+  },
+  {
+   "verse": 97,
+   "ar": "وَهُدٗى",
+   "ml": "മാർഗദർശനമായും",
+   "en": "and as guidance"
+  },
+  {
+   "verse": 97,
+   "ar": "وَبُشۡرَىٰ",
+   "ml": "സന്തോഷവാർത്തയായും",
+   "en": "and as glad tidings"
+  },
+  {
+   "verse": 97,
+   "ar": "لِلۡمُؤۡمِنِينَ",
+   "ml": "സത്യവിശ്വാസികൾക്ക്",
+   "en": "for the true believers"
+  },
+  {
+   "verse": 98,
+   "ar": "مَن كَانَ",
+   "ml": "ആരെങ്കിലുമായാൽ",
+   "en": "if anyone is"
+  },
+  {
+   "verse": 98,
+   "ar": "عَدُوّٗا",
+   "ml": "ശത്രു",
+   "en": "an enemy"
+  },
+  {
+   "verse": 98,
+   "ar": "لِّلَّهِ",
+   "ml": "അല്ലാഹുവിന്",
+   "en": "to Allah"
+  },
+  {
+   "verse": 98,
+   "ar": "وَمَلَـٰٓئِكَتِهِۦ",
+   "ml": "അവന്റെ മലക്കുകൾക്കും",
+   "en": "and to His angels"
+  },
+  {
+   "verse": 98,
+   "ar": "وَرُسُلِهِۦ",
+   "ml": "അവന്റെ റസൂലുകൾക്കും, ദൂതൻമാർക്കും",
+   "en": "and to His Rasuls, and to messengers"
+  },
+  {
+   "verse": 98,
+   "ar": "وَجِبۡرِيلَ",
+   "ml": "ജിബ്‌രീലിനും",
+   "en": "and to Jibril"
+  },
+  {
+   "verse": 98,
+   "ar": "وَمِيكَىٰلَ",
+   "ml": "മീകാഈലിനും",
+   "en": "and to Mika'il"
+  },
+  {
+   "verse": 98,
+   "ar": "فَإِنَّ ٱللَّهَ",
+   "ml": "എന്നാൽ നിശ്ചയമായും അല്ലാഹു",
+   "en": "then, surely, Allah"
+  },
+  {
+   "verse": 98,
+   "ar": "عَدُوّٞ",
+   "ml": "ശത്രുവാണ്",
+   "en": "is an enemy"
+  },
+  {
+   "verse": 98,
+   "ar": "لِّلۡكَٰفِرِينَ",
+   "ml": "അവിശ്വാസികൾക്ക്.",
+   "en": "to the disbelievers."
+  }
+ ]
+}
