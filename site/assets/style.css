@@ -126,3 +126,50 @@ button, .button { font: 15px system-ui, sans-serif; padding: 8px 14px; border-ra
 .part-meta .badge { font-size: 13px; }
 .words-h { margin-top: 1.4em; }
 .doubt { background: var(--draft-bg); color: var(--draft); font-size: 0.9em; padding: 0 3px; border-radius: 3px; }
+/* Reviewer mode (site/assets/review.js): only on devices where it is turned on. */
+:root { --rv-open: #fde68a; --rv-question: #fdba74; --rv-done: #bbf7d0; --rv-old: #fee2e2; --rv-new: #dcfce7; }
+:root[data-theme="dark"] { --rv-open: #6b5a12; --rv-question: #7c3f12; --rv-done: #1f5a36; --rv-old: #5a2222; --rv-new: #1f4a2e; }
+.rv-pill { font: 12px var(--sans); background: var(--draft-bg); color: var(--draft); border-radius: 999px; padding: 2px 10px; }
+.rv-note { font-size: 14px; color: var(--muted); }
+.rv-mark { color: inherit; border-radius: 3px; cursor: pointer; padding: 0 1px; }
+.rv-mark.open { background: var(--rv-open); }
+.rv-mark.question { background: var(--rv-question); }
+.rv-mark.addressed { background: var(--rv-done); }
+.rv-ui { font: 15px/1.5 var(--sans); }
+.rv-ui button { font: 14px var(--sans); padding: 6px 12px; }
+.rv-ui button:disabled { opacity: 0.5; cursor: default; }
+.rv-primary { background: var(--accent) !important; color: #fff !important; border-color: var(--accent) !important; }
+:root[data-theme="dark"] .rv-primary { color: var(--bg) !important; }
+.rv-fab, .rv-panel-btn { position: fixed; z-index: 40; bottom: 16px; box-shadow: 0 4px 14px rgba(0,0,0,0.18); border-radius: 999px !important; }
+.rv-fab { right: 16px; background: var(--accent) !important; color: #fff !important; border-color: var(--accent) !important; }
+:root[data-theme="dark"] .rv-fab { color: var(--bg) !important; }
+.rv-panel-btn { left: 16px; }
+.rv-panel { position: fixed; z-index: 50; top: 0; right: 0; bottom: 0; width: min(420px, 100%); overflow-y: auto; background: var(--surface); color: var(--text); border-left: 1px solid var(--line); padding: 12px 16px 80px; box-shadow: -6px 0 20px rgba(0,0,0,0.12); }
+.rv-panel h3 { margin: 0; font-size: 17px; }
+.rv-panel h4 { margin: 18px 0 6px; font-size: 15px; color: var(--heading); }
+.rv-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.rv-help, .rv-status, .rv-where { color: var(--muted); font-size: 13px; margin: 6px 0; }
+.rv-list { list-style: none; padding: 0; margin: 0; }
+.rv-list li { border-top: 1px solid var(--line); padding: 8px 0; }
+.rv-list .rv-text { margin: 4px 0; }
+.rv-place { font-size: 13px; color: var(--muted); }
+.rv-chip { display: inline-block; font-size: 12px; border-radius: 999px; padding: 1px 8px; margin: 0; color: var(--text); }
+.rv-chip.open { background: var(--rv-open); }
+.rv-chip.question { background: var(--rv-question); }
+.rv-chip.addressed { background: var(--rv-done); }
+.rv-chip.closed { background: var(--line); }
+.rv-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 10px 0 0; }
+.rv-actions input { flex: 1; min-width: 160px; font: inherit; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--text); }
+.rv-msg { font-size: 14px; color: var(--accent); margin: 6px 0 0; }
+.rv-pop { position: absolute; z-index: 45; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; box-shadow: 0 8px 24px rgba(0,0,0,0.18); max-height: 70vh; overflow-y: auto; }
+.rv-pop p { margin: 4px 0; }
+.rv-label { font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); margin-top: 8px !important; }
+.rv-text { white-space: pre-wrap; }
+.rv-old { background: var(--rv-old); text-decoration: line-through; padding: 4px 6px; border-radius: 4px; white-space: pre-wrap; }
+.rv-new { background: var(--rv-new); padding: 4px 6px; border-radius: 4px; white-space: pre-wrap; }
+.rv-dialog { position: fixed; z-index: 60; left: 50%; top: 50%; transform: translate(-50%, -50%); width: min(520px, calc(100% - 32px)); max-height: calc(100% - 32px); overflow-y: auto; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 12px; padding: 16px; box-shadow: 0 12px 40px rgba(0,0,0,0.3); }
+.rv-dialog h3 { margin: 0 0 4px; font-size: 17px; }
+.rv-quote { margin: 8px 0; padding: 6px 10px; border-left: 3px solid var(--rv-open); background: var(--bg); font-family: var(--serif); white-space: pre-wrap; }
+.rv-dialog textarea { width: 100%; font: 15px/1.5 var(--sans); padding: 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--text); }
+.rv-settings summary { cursor: pointer; margin-top: 18px; font-weight: 600; }
+[hidden] { display: none !important; }
