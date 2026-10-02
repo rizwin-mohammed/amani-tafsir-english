@@ -6,7 +6,7 @@ Each part of a surah moves through these stages. Its stage is the `status` in th
 | --- | --- | --- | --- |
 | 1. Translated | `draft` | Claude, in a fresh session | Sentence-by-sentence translation from the Malayalam, using the glossary. Doubts are marked `[DOUBT: ...]`, never guessed. |
 | 2. Checked | `checked` | Claude, in a second, separate session | Compares the English line by line with the book pages and lists anything missing, added or wrong. Fixes are made; unresolved points stay as doubts. |
-| 3. Reviewed | `approved` | Rizwin (and a Malayalam-reading scholar if available) | Reads the part, answers every doubt, and approves it. `reviewed_by` and `reviewed_on` are filled in. |
+| 3. Reviewed | `approved` | Rizwin (and a Malayalam-reading scholar if available) | Reads the part on the website in reviewer mode, sends corrections as comments (Claude fixes them and shows the old and new text), and presses **Release** when it is right. Claude then sets `approved`, `released`, `reviewed_by` and `reviewed_on`. See `docs/review-comments.md`. |
 | 4. Published | | Rizwin presses **Merge** | Every change arrives as a pull request. Merging it publishes the site. Nothing reaches the site without that click. |
 
 ## Automatic checks on every pull request

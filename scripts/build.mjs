@@ -83,7 +83,7 @@ ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
 <link rel="manifest" href="${BASE}/manifest.webmanifest">
 <meta name="theme-color" content="#1f5e63">
 </head>
-<body data-base="${BASE}" data-page="${esc(rel)}">
+<body data-base="${BASE}" data-page="${esc(rel)}" data-repo="${REPO}">
 <header class="top">
   <a class="brand" href="${BASE}/en/">${SITE_NAME}</a>
   <nav>
@@ -103,16 +103,23 @@ ${body}
   <a href="https://github.com/${REPO}/issues/new?title=${encodeURIComponent('Mistake on ' + title)}&body=${encodeURIComponent('Page: ' + canonical + '\n\nWhat is wrong:\n\nWhat it should say:\n')}">Report a mistake</a></p>
 </footer>
 <script src="${BASE}/assets/app.js" defer></script>
+<script src="${BASE}/assets/review.js" defer></script>
 </body>
 </html>
 `;
+}
+
+// "Version 2, released 2026-11-01", or a note that a released part is being corrected.
+function versionNote(m) {
+  if (!m.version) return '';
+  return m.released ? ` · Version ${Number(m.version)}${m.released_on ? ', released ' + esc(m.released_on) : ''}` : ` · Being corrected after version ${Number(m.version)}`;
 }
 
 function statusBadge(meta) {
   const s = STATUS[meta.status] || STATUS.draft;
   const when = meta.reviewed_on ? ` on ${esc(meta.reviewed_on)}` : '';
   const by = meta.reviewed_by ? ` by ${esc(meta.reviewed_by)}` : '';
-  return `<div class="status ${s.cls}"><strong>${s.label}</strong>${by}${when}.${meta.status_note ? ' ' + esc(meta.status_note) : ''}</div>`;
+  return `<div class="status ${s.cls}"><strong>${s.label}</strong>${by}${when}.${versionNote(meta)}${meta.status_note ? ' ' + esc(meta.status_note) : ''}</div>`;
 }
 
 function verseTable(n, verses) {
@@ -189,9 +196,9 @@ function buildSurah(dir, searchIndex) {
       const commentary = md(part.commentary, used);
       const s = STATUS[part.meta.status] || STATUS.draft;
       sections.push(`<li class="l2"><a href="#${id}">Verses ${esc(range)}</a></li>`);
-      main += `<section class="part" id="${id}">
+      main += `<section class="part" id="${id}" data-part="${esc(part.id)}" data-verses="${esc(range)}" data-status="${esc(part.meta.status)}"${part.meta.released ? ' data-released="true"' : ''} data-version="${Number(part.meta.version || 0)}">
 <h2 data-anchor="${id}">Verses ${esc(range)}</h2>
-<p class="part-meta"><span class="badge ${s.cls}">${s.label}</span> · Book pages ${esc(part.meta.pages)}</p>
+<p class="part-meta"><span class="badge ${s.cls}">${s.label}</span>${versionNote(part.meta)} · Book pages ${esc(part.meta.pages)}</p>
 ${verseTable(n, part.verses.verses)}
 ${part.words ? `<h3 class="words-h">Meanings of the individual words</h3>${wordTable(part.words.words)}` : ''}
 ${commentary}
@@ -223,7 +230,9 @@ ${commentary}`;
   const progress = versesDone.length < ch.verses.length
     ? `<p class="note">Translated so far: ${versesDone.length} of ${ch.verses.length} verses. The rest will be added as it is translated.</p>` : '';
 
-  const body = `<article class="surah" data-surah="${n}">
+  // Released (whole surah, or every part of it): the review tools are switched off for it.
+  const released = parts ? parts.every((p) => p.meta.released) : !!meta.released;
+  const body = `<article class="surah" data-surah="${n}" data-dir="${esc(dir)}" data-title="${esc(meta.title)}" data-status="${esc(meta.status)}"${released ? ' data-released="true"' : ''} data-version="${parts ? 0 : Number(meta.version || 0)}">
 <p class="crumbs"><a href="${BASE}/en/">Surahs</a> › ${n}</p>
 <h1><span class="sn">${n}.</span> ${esc(meta.title)} <span class="ar-title" lang="ar" dir="rtl">${esc(ch.name_ar)}</span></h1>
 <p class="source">${esc(meta.source)} · ${ch.verses.length} verses</p>
