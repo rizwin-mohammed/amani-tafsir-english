@@ -1,10 +1,12 @@
 // Reviewer mode: select text, write what should change, and send it to Claude as a GitHub issue.
 // Claude fixes the text, then records the old and new wording on the issue, which this page shows
 // when the highlighted text is hovered or tapped. A "Release" button asks Claude to mark a part
-// reviewed and approved; released parts show no review tools.
+// reviewed and approved with a new version number. A comment on a released part reopens it for
+// correction; releasing it again gives it the next version.
 //
 // Turn on with ?review=on (remembered on this device), off with ?review=off or from the panel.
-// Only issues opened by the owner are shown, and only those are acted on by Claude.
+// Readers never see any of this. Editors are the repository's owner and collaborators: only their
+// issues are shown here and acted on by Claude (GitHub also drops labels set by anyone else).
 (function () {
   const REPO = document.body.dataset.repo;
   const OWNER = REPO ? REPO.split('/')[0] : '';
@@ -13,6 +15,7 @@
   const LABEL = 'review-comment';
   const RELEASE_LABEL = 'release-request';
   const PAGE = document.body.dataset.page;
+  const EDITORS = ['OWNER', 'COLLABORATOR', 'MEMBER'];
 
   function loadState() {
     try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; }
@@ -47,11 +50,6 @@
   if (!article) return;
   const surah = Number(article.dataset.surah);
   const surahTitle = article.dataset.title || '';
-  if (article.dataset.released === 'true') {
-    const note = el('p', 'rv-note', 'This surah is released, so the review tools are switched off here.');
-    article.querySelector('.status')?.after(note);
-    return;
-  }
 
   // ---------- Talking to GitHub ----------
   function headers() {
@@ -62,11 +60,11 @@
   async function fetchIssues(label) {
     const all = [];
     for (let page = 1; page <= 10; page++) {
-      const url = `${API}/issues?state=all&per_page=100&page=${page}&labels=${label}&creator=${OWNER}&t=${Date.now()}`;
+      const url = `${API}/issues?state=all&per_page=100&page=${page}&labels=${label}&t=${Date.now()}`;
       const r = await fetch(url, { headers: headers(), cache: 'no-store' });
       if (!r.ok) throw new Error(r.status === 403 || r.status === 429 ? 'GitHub is limiting requests for now. Try again in a while, or set up one-tap sending below.' : 'Could not load comments (' + r.status + ').');
       const j = await r.json();
-      all.push(...j);
+      all.push(...j.filter((i) => EDITORS.includes(i.author_association)));
       if (j.length < 100) break;
     }
     return all;
@@ -92,7 +90,7 @@
 
   // ---------- Finding text on the page ----------
   // Text of the surah as one string (spaces collapsed), with a map back to each character's text node.
-  const SKIP = '.mark-tools,.note-box,.rv-ui,script,style,[data-released="true"]';
+  const SKIP = '.mark-tools,.note-box,.rv-ui,script,style';
   function buildIndex() {
     const walker = document.createTreeWalker(article, NodeFilter.SHOW_TEXT, {
       acceptNode(n) { return n.parentElement && !n.parentElement.closest(SKIP) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT; },
@@ -234,8 +232,6 @@
     if (!sel || sel.isCollapsed || !sel.rangeCount) { if (!dialog.hidden) return; fab.hidden = true; return; }
     const r = sel.getRangeAt(0);
     if (!article.contains(r.commonAncestorContainer) || (r.commonAncestorContainer.nodeType === 1 ? r.commonAncestorContainer : r.commonAncestorContainer.parentElement).closest(SKIP)) { fab.hidden = true; return; }
-    const startEl = r.startContainer.nodeType === 1 ? r.startContainer : r.startContainer.parentElement;
-    if (startEl.closest('[data-released="true"]')) { fab.hidden = true; return; }
     const idx = buildIndex();
     const a = posOf(idx, r.startContainer, r.startOffset);
     const b = posOf(idx, r.endContainer, r.endOffset);
@@ -320,7 +316,7 @@
     pop.textContent = '';
     const s = STATUS[c.status];
     pop.append(el('p', 'rv-chip ' + s.cls, s.label));
-    pop.append(el('p', 'rv-label', 'Your comment'));
+    pop.append(el('p', 'rv-label', 'Comment' + (c.by ? ' by ' + c.by : '')));
     pop.append(el('p', 'rv-text', c.comment));
     if (c.fix && c.fix.note) {
       pop.append(el('p', 'rv-label', c.status === 'question' ? "Claude's question" : "Claude's reply"));
@@ -360,6 +356,13 @@
     if (!pop.hidden && !e.target.closest('.rv-mark,.rv-pop,.rv-panel')) pop.hidden = true;
   });
 
+  // Parts of the page that are released one by one (or the whole surah if it has no parts).
+  function units() {
+    const parts = [...article.querySelectorAll('section.part')].map((s) => ({ part: s.dataset.part, verses: s.dataset.verses, released: s.dataset.released === 'true', version: Number(s.dataset.version || 0), el: s }));
+    return parts.length ? parts : [{ part: '', verses: '', released: article.dataset.released === 'true', version: Number(article.dataset.version || 0), el: article }];
+  }
+  const unitOf = (c) => units().find((u) => !u.part || u.part === c.part);
+
   // ---------- Loading comments and drawing them ----------
   let comments = [];
   let releases = [];
@@ -372,7 +375,7 @@
         if (!d || d.page !== PAGE) return null;
         const fix = block(i.body, 'claude-fix');
         const comment = (String(i.body).match(/\*\*What to change:\*\*\s*([\s\S]*?)\n\n\*\*Selected text/) || [])[1] || i.title;
-        return Object.assign({}, d, { number: i.number, url: i.html_url, comment: comment.trim(), fix, status: statusOf(i, fix), created: i.created_at });
+        return Object.assign({}, d, { number: i.number, url: i.html_url, comment: comment.trim(), by: i.user ? i.user.login : '', fix, status: statusOf(i, fix), created: i.created_at });
       }).filter(Boolean).sort((x, y) => x.created.localeCompare(y.created));
       releases = rel.map((i) => Object.assign({}, block(i.body, 'release-request'), { number: i.number, url: i.html_url, state: i.state, fix: block(i.body, 'claude-fix') })).filter((r) => r.page === PAGE);
       status.textContent = '';
@@ -388,6 +391,8 @@
     for (const c of comments) {
       c.found = false;
       if (c.status === 'closed') continue;
+      // Once a part is released again, its old fixes no longer need highlighting.
+      if (c.status === 'addressed' && (unitOf(c) || {}).released) continue;
       // Once fixed, the old words are gone: highlight the new ones instead.
       const target = c.status === 'addressed' && c.fix && c.fix.new ? c.fix.new : c.quote;
       const idx = buildIndex();
@@ -451,19 +456,23 @@
 
     // Release
     panel.append(el('h4', null, 'Release'));
-    panel.append(el('p', 'rv-help', 'When everything in a part is right, release it. Claude marks it reviewed and approved, and the review tools disappear for it. The button stays locked while comments or doubts are still open.'));
-    const units = [...article.querySelectorAll('section.part')].map((s) => ({ part: s.dataset.part, verses: s.dataset.verses, released: s.dataset.released === 'true', el: s }));
-    if (!units.length) units.push({ part: '', verses: '', released: false, el: article });
+    panel.append(el('p', 'rv-help', 'When everything in a part is right, release it. Claude marks it reviewed and approved with a version number. The button stays locked while comments or doubts are still open.'))
     const rl = el('ul', 'rv-list');
-    for (const u of units) {
+    for (const u of units()) {
       const li = el('li');
       const name = u.verses ? `Verses ${u.verses}` : `${surah}. ${surahTitle}`;
       li.append(el('strong', null, name + ' '));
-      if (u.released) { li.append(el('span', 'rv-chip addressed', 'Released')); rl.append(li); continue; }
       const openHere = open.filter((c) => !u.part || c.part === u.part || !c.part);
+      if (u.released && !openHere.length) {
+        li.append(el('span', 'rv-chip addressed', `Released, version ${u.version || 1}`));
+        li.append(el('p', 'rv-help', `Found a mistake? Just comment on it. Claude reopens this part for correction, and you release it again as version ${(u.version || 1) + 1}.`));
+        rl.append(li);
+        continue;
+      }
+      if (u.version) li.append(el('span', 'rv-chip question', `Being corrected (version ${u.version} was released)`));
       const doubts = u.el.querySelectorAll('.doubt').length;
       const req = releases.find((r) => (r.part || '') === u.part && r.state === 'open');
-      const b = el('button', 'rv-primary', 'Release');
+      const b = el('button', 'rv-primary', u.version ? `Release version ${u.version + 1}` : 'Release');
       b.type = 'button';
       const why = [];
       if (openHere.length) why.push(`${openHere.length} open comment${openHere.length > 1 ? 's' : ''}`);
@@ -473,9 +482,9 @@
       const msg = el('p', 'rv-msg');
       li.append(msg);
       b.addEventListener('click', async () => {
-        if (!confirm(`Release ${name}? Claude will mark it reviewed and approved by you, and the review tools will go away for it.`)) return;
+        if (!confirm(`Release ${name}? Claude will mark it reviewed and approved by you, as version ${(u.version || 0) + 1}.`)) return;
         b.disabled = true;
-        const data = { page: PAGE, surah, dir: article.dataset.dir, part: u.part, verses: u.verses };
+        const data = { page: PAGE, surah, dir: article.dataset.dir, part: u.part, verses: u.verses, version: (u.version || 0) + 1 };
         const body = `Please release **${surah}. ${surahTitle}${u.verses ? ', verses ' + u.verses : ''}**. I have reviewed it and all my comments are addressed.\n\n${hidden('release-request', data)}`;
         await sendIssue({ title: `Release ${surah}. ${surahTitle}${u.verses ? ', verses ' + u.verses : ''}`, body, label: RELEASE_LABEL, done: (m) => { msg.textContent = m; } });
       });
@@ -488,7 +497,7 @@
     set.append(el('summary', null, 'Settings'));
     set.append(el('p', 'rv-help', state.token
       ? 'One-tap sending is on for this device.'
-      : 'Without setup, "Send to Claude" opens GitHub where you tap "Create". To send in one tap instead, create a key on GitHub once (choose "Only select repositories", pick amani-tafsir-english, and allow Issues: Read and write), then paste it here. It stays on this device only.'));
+      : 'Without setup, "Send to Claude" opens GitHub where you tap "Create". The owner can send in one tap instead: create a key on GitHub once (choose "Only select repositories", pick amani-tafsir-english, and allow Issues: Read and write), then paste it here. It stays on this device only.'));
     if (!state.token) {
       const mk = el('a', null, 'Create the key on GitHub');
       mk.href = `https://github.com/settings/personal-access-tokens/new?name=${encodeURIComponent('Amani tafsir review')}&description=${encodeURIComponent('Send review comments from the website')}&target_name=${OWNER}&expires_in=366&issues=write`;
