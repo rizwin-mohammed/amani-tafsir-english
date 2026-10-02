@@ -1,51 +1,64 @@
 :root {
-  --bg: #fbfaf6;
+  /* Palette from Rizwin's CV: deep teal, sage, sand. */
+  --bg: #f6f5f0;
   --surface: #ffffff;
-  --text: #1d1f1e;
-  --muted: #5d6461;
-  --line: #e3e0d6;
-  --accent: #1f5c4a;
-  --accent-soft: #e5efe9;
+  --text: #2d2d2d;
+  --muted: #6b6f6c;
+  --line: #e8e6df;
+  --accent: #1f5e63;
+  --heading: #163f43;
+  --accent-soft: #e6efe9;
+  --band: #1f5e63;
+  --band-text: #ffffff;
+  --band-muted: #c5ddd0;
   --draft: #8a5a00;
-  --draft-bg: #fff4dc;
-  --ok: #1f6b3a;
-  --ok-bg: #e4f3e8;
-  --tn: #6a4c93;
+  --draft-bg: #fbf1dc;
+  --ok: #1f5e63;
+  --ok-bg: #dcebe2;
+  --tn: #5b6f8c;
   --serif: "Source Serif 4", Georgia, serif;
+  --sans: "Inter", system-ui, sans-serif;
   --arabic: "Noto Naskh Arabic", "Amiri", serif;
   --quran: "Amiri Quran", "Noto Naskh Arabic", serif;
   --malayalam: "Noto Sans Malayalam", sans-serif;
+  color-scheme: light;
 }
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #141716;
-    --surface: #1b1f1d;
-    --text: #e6e8e6;
-    --muted: #a3aaa6;
-    --line: #2e3431;
-    --accent: #7fc4a8;
-    --accent-soft: #1f2d27;
-    --draft: #f0c46c;
-    --draft-bg: #2d2617;
-    --ok: #8fd6a6;
-    --ok-bg: #18291e;
-    --tn: #c3a8ea;
-  }
+:root[data-theme="dark"] {
+  --bg: #0f2224;
+  --surface: #163f43;
+  --text: #e8e6df;
+  --muted: #a9bfb3;
+  --line: #2c5a5f;
+  --accent: #8fafa9;
+  --heading: #c5ddd0;
+  --accent-soft: #1d4a4f;
+  --band: #0b1a1c;
+  --band-text: #e8e6df;
+  --band-muted: #8fafa9;
+  --draft: #f0c46c;
+  --draft-bg: #2d2a1a;
+  --ok: #c5ddd0;
+  --ok-bg: #1d4a4f;
+  --tn: #b7c6e0;
+  color-scheme: dark;
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--text); font: 18px/1.65 var(--serif); }
 a { color: var(--accent); }
 main { max-width: 860px; margin: 0 auto; padding: 16px; }
-.top { display: flex; flex-wrap: wrap; gap: 8px 20px; align-items: center; justify-content: space-between; padding: 12px 16px; border-bottom: 1px solid var(--line); background: var(--surface); }
-.brand { font-weight: 600; text-decoration: none; color: var(--text); }
-.top nav { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 15px; }
-.top nav a { text-decoration: none; }
+.top { display: flex; flex-wrap: wrap; gap: 8px 20px; align-items: center; justify-content: space-between; padding: 12px 16px; background: var(--band); color: var(--band-text); }
+.brand { font: 600 17px var(--sans); text-decoration: none; color: var(--band-text); letter-spacing: 0.01em; }
+.top nav { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 16px; font: 14px var(--sans); }
+.top nav a { text-decoration: none; color: var(--band-muted); }
+.top nav a:hover { color: var(--band-text); }
+.theme-toggle { font: 13px var(--sans); color: var(--band-text); background: transparent; border: 1px solid var(--band-muted); border-radius: 999px; padding: 3px 10px; cursor: pointer; }
 .preview-bar { background: var(--draft-bg); color: var(--draft); text-align: center; font-size: 14px; padding: 6px 16px; }
 footer { max-width: 860px; margin: 40px auto 0; padding: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
-h1 { font-size: 1.8em; line-height: 1.25; margin: 0.4em 0; }
-h2 { font-size: 1.35em; margin-top: 2em; padding-top: 0.4em; border-top: 1px solid var(--line); }
-h3 { font-size: 1.12em; margin-top: 1.6em; }
+h1 { font-size: 1.8em; line-height: 1.25; margin: 0.4em 0; color: var(--heading); }
+h2 { font-size: 1.35em; margin-top: 2em; padding-top: 0.4em; border-top: 2px solid var(--line); color: var(--heading); }
+h3 { font-size: 1.12em; margin-top: 1.6em; color: var(--heading); }
+th { color: var(--accent); }
 [lang="ar"] { font-family: var(--arabic); font-size: 1.15em; line-height: 1.9; }
 [lang="ml"] { font-family: var(--malayalam); font-size: 0.92em; }
 .quran { font-family: var(--quran); font-size: 1.45em; line-height: 2.1; }
@@ -108,3 +121,8 @@ button, .button { font: 15px system-ui, sans-serif; padding: 8px 14px; border-ra
   table { font-size: 15px; }
   th, td { padding: 6px 8px; }
 }
+.part { margin-top: 2.5em; }
+.part-meta { font-size: 14px; color: var(--muted); margin: 0 0 8px; }
+.part-meta .badge { font-size: 13px; }
+.words-h { margin-top: 1.4em; }
+.doubt { background: var(--draft-bg); color: var(--draft); font-size: 0.9em; padding: 0 3px; border-radius: 3px; }
