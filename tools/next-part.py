@@ -15,7 +15,7 @@ import re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
-TARGET_PAGES = 10
+TARGET_PAGES = 5
 
 quran = json.load(open(os.path.join(ROOT, 'data', 'quran-uthmani.json')))
 pagemap = json.load(open(os.path.join(HERE, 'pagemap.json')))
