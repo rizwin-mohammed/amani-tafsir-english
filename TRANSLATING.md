@@ -2,7 +2,7 @@
 
 This is the exact procedure every translation run follows. It exists so that every part of every surah is done the same careful way. **Precision is the only goal; speed does not matter.** The text is a commentary on the Quran, and every word will be read as the author's meaning.
 
-A run produces one **part**: one or more of the author's complete verse groups, about 5 book pages (smaller parts keep each worker's memory short, which uses far fewer tokens for the same care). Each part is done by two separate workers: a **translator**, then an independent **checker** that did not see the translator's reasoning.
+A run produces one **part**: one or more of the author's complete verse groups, about 10 book pages. (Each worker has a large fixed start-up cost, so 5-page parts measured worse per page than 10-page parts.) Each part is done by two separate workers: a **translator**, then an independent **checker** that did not see the translator's reasoning.
 
 ## 0. Find the next part
 
@@ -17,6 +17,7 @@ It prints the surah, the first untranslated verse, the PDF, the PDF page to star
 - **The page images are the authority.** Render the pages: `pdftoppm -r 150 -gray -png -f <first> -l <last> "<pdf>" <out-prefix>` and read every page image in full, including footnotes.
 - **Read each page image once.** Work page by page: run `ml2uni.py` for the page, then read that page's 150 dpi image once in full beside the text, and settle everything on it (wording, slips, Arabic, footnotes) before moving on. Do not open the same full page again later. When one spot is hard to read (small Arabic, a smudge), render only that spot at higher resolution, e.g. `pdftoppm -r 300 -gray -png -f N -l N -x X -y Y -W W -H H "<pdf>" <out>` (coordinates at 300 dpi), instead of the whole page.
 - Each image costs about 2,400 tokens every time it is opened, and everything opened stays in the worker's memory for the rest of the run. Writing notes into a scratch file as you go is cheaper than reopening pages.
+- Keep start-up reading small: read the glossary, the previous part in full and the last three `check.md` files; for any other earlier rendering, grep for the Malayalam word across the earlier parts instead of reading them whole. Combine shell commands where you can, because every step re-reads the worker's whole memory.
 - **The text layer is a help for exact Malayalam spelling only.** `python3 tools/ml2uni.py "<pdf>" <page>` converts the old-font Malayalam to Unicode. It is usually exact, but a few letter combinations come out wrong and all Arabic in it is garbage. Whenever it and the image differ, the image wins.
 - The printed **book page number** is at the bottom of each page image. Use it in `[p. N]` markers and in `part.json` (not the PDF page index).
 
