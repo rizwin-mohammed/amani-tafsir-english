@@ -1,0 +1,562 @@
+{
+ "words": [
+  {
+   "verse": 126,
+   "ar": "وَإِذۡ قَالَ",
+   "ml": "പറഞ്ഞ സന്ദർഭം",
+   "en": "the occasion of saying"
+  },
+  {
+   "verse": 126,
+   "ar": "إِبۡرَٰهِـۧمُ",
+   "ml": "ഇബ്റാഹീം",
+   "en": "Ibrahim"
+  },
+  {
+   "verse": 126,
+   "ar": "رَبِّ",
+   "ml": "എന്റെ റബ്ബേ",
+   "en": "my Rabb"
+  },
+  {
+   "verse": 126,
+   "ar": "ٱجۡعَلۡ هَٰذَا",
+   "ml": "ഇതിനെ നീ ആക്കേണമേ",
+   "en": "do make this"
+  },
+  {
+   "verse": 126,
+   "ar": "بَلَدًا",
+   "ml": "ഒരു രാജ്യം",
+   "en": "a country"
+  },
+  {
+   "verse": 126,
+   "ar": "ءَامِنٗا",
+   "ml": "നിർഭയമായ",
+   "en": "secure"
+  },
+  {
+   "verse": 126,
+   "ar": "وَٱرۡزُقۡ",
+   "ml": "നീ ആഹാരം (ഉപജീവനം) നൽകുകയും വേണമേ",
+   "en": "and do give provision (livelihood)"
+  },
+  {
+   "verse": 126,
+   "ar": "أَهۡلَهُۥ",
+   "ml": "അതിലെ ആൾക്കാർക്ക്",
+   "en": "to its people"
+  },
+  {
+   "verse": 126,
+   "ar": "مِنَ ٱلثَّمَرَٰتِ",
+   "ml": "ഫലങ്ങളാൽ, ഫലവർഗങ്ങളിൽ നിന്ന്",
+   "en": "by fruits, from kinds of fruit"
+  },
+  {
+   "verse": 126,
+   "ar": "مَنۡ ءَامَنَ",
+   "ml": "വിശ്വസിച്ചവർക്ക്",
+   "en": "to those who believed"
+  },
+  {
+   "verse": 126,
+   "ar": "مِنۡهُم",
+   "ml": "അവരിൽ നിന്ന്",
+   "en": "from among them"
+  },
+  {
+   "verse": 126,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ",
+   "en": "in Allah"
+  },
+  {
+   "verse": 126,
+   "ar": "وَٱلۡيَوۡمِ ٱلۡأٓخِرِ",
+   "ml": "അവസാനത്തെ ദിവസത്തിലും",
+   "en": "in the final day too"
+  },
+  {
+   "verse": 126,
+   "ar": "قَالَ",
+   "ml": "അവൻ പറഞ്ഞു",
+   "en": "He said"
+  },
+  {
+   "verse": 126,
+   "ar": "وَمَن كَفَرَ",
+   "ml": "അവിശ്വസിച്ചവർക്കും, അവിശ്വസിച്ചവനും",
+   "en": "to those who disbelieved too, to him who disbelieved too"
+  },
+  {
+   "verse": 126,
+   "ar": "فَأُمَتِّعُهُۥ",
+   "ml": "എന്നിട്ട് (എന്നാൽ) അവന് ഞാൻ സുഖം അനുഭവിപ്പിക്കും, ഉപയോഗപ്പെടുത്തിക്കൊടുക്കും",
+   "en": "then (but) I will make him enjoy comfort, will let him have the use"
+  },
+  {
+   "verse": 126,
+   "ar": "قَلِيلٗا",
+   "ml": "അൽപം",
+   "en": "a little"
+  },
+  {
+   "verse": 126,
+   "ar": "ثُمَّ",
+   "ml": "പിന്നെ",
+   "en": "after that"
+  },
+  {
+   "verse": 126,
+   "ar": "أَضۡطَرُّهُۥٓ",
+   "ml": "അവനെ ഞാൻ നിർബന്ധിതനാക്കും, നിർബ്ബന്ധമായികൊണ്ടുവരും",
+   "en": "I will compel him, will bring by compulsion"
+  },
+  {
+   "verse": 126,
+   "ar": "إِلَىٰ عَذَابِ",
+   "ml": "ശിക്ഷയിലേക്ക്",
+   "en": "to the punishment"
+  },
+  {
+   "verse": 126,
+   "ar": "ٱلنَّارِ",
+   "ml": "നരകത്തിന്റെ",
+   "en": "of Hell"
+  },
+  {
+   "verse": 126,
+   "ar": "وَبِئۡسَ",
+   "ml": "വളരെ ചീത്ത",
+   "en": "very evil"
+  },
+  {
+   "verse": 126,
+   "ar": "ٱلۡمَصِيرُ",
+   "ml": "(ആ)ചെന്നെത്തുന്ന (മടങ്ങിച്ചെല്ലുന്ന) സ്ഥലം",
+   "en": "(that) place one reaches (returns to)"
+  },
+  {
+   "verse": 127,
+   "ar": "وَإِذۡ يَرۡفَعُ",
+   "ml": "ഉയർത്തുന്ന (പൊക്കിയിരുന്ന)സന്ദർഭം",
+   "en": "the occasion of raising (when they were lifting)"
+  },
+  {
+   "verse": 127,
+   "ar": "إِبۡرَٰهِـۧمُ",
+   "ml": "ഇബ്റാഹീം",
+   "en": "Ibrahim"
+  },
+  {
+   "verse": 127,
+   "ar": "ٱلۡقَوَاعِدَ",
+   "ml": "അടിത്തറകളെ, അസ്തിവാരം",
+   "en": "the foundations, the base"
+  },
+  {
+   "verse": 127,
+   "ar": "مِنَ ٱلۡبَيۡتِ",
+   "ml": "(ആ) വീട്ടിൽനിന്ന്",
+   "en": "from (that) house"
+  },
+  {
+   "verse": 127,
+   "ar": "وَإِسۡمَٰعِيلُ",
+   "ml": "ഇസ്മാഈലും",
+   "en": "Isma'il too"
+  },
+  {
+   "verse": 127,
+   "ar": "رَبَّنَا",
+   "ml": "ഞങ്ങളുടെ റബ്ബേ",
+   "en": "our Rabb"
+  },
+  {
+   "verse": 127,
+   "ar": "تَقَبَّلۡ",
+   "ml": "നീ സ്വീകരിക്കണേ",
+   "en": "do accept"
+  },
+  {
+   "verse": 127,
+   "ar": "مِنَّآ",
+   "ml": "ഞങ്ങളിൽ നിന്ന്",
+   "en": "from us"
+  },
+  {
+   "verse": 127,
+   "ar": "إِنَّكَ أَنتَ",
+   "ml": "നിശ്ചയമായും നീ തന്നെ",
+   "en": "surely You indeed"
+  },
+  {
+   "verse": 127,
+   "ar": "ٱلسَّمِيعُ",
+   "ml": "കേൾക്കുന്നവൻ",
+   "en": "the One who hears"
+  },
+  {
+   "verse": 127,
+   "ar": "ٱلۡعَلِيمُ",
+   "ml": "അറിയുന്നവൻ",
+   "en": "the One who knows"
+  },
+  {
+   "verse": 128,
+   "ar": "رَبَّنَا",
+   "ml": "ഞങ്ങളുടെ റബ്ബേ",
+   "en": "our Rabb"
+  },
+  {
+   "verse": 128,
+   "ar": "وَٱجۡعَلۡنَا",
+   "ml": "ഞങ്ങളെ നീ ആക്കുകയും വേണമേ",
+   "en": "and do make us"
+  },
+  {
+   "verse": 128,
+   "ar": "مُسۡلِمَيۡنِ",
+   "ml": "കീഴൊതുങ്ങിയവർ",
+   "en": "submissive ones"
+  },
+  {
+   "verse": 128,
+   "ar": "لَكَ",
+   "ml": "നിനക്ക്",
+   "en": "to You"
+  },
+  {
+   "verse": 128,
+   "ar": "وَمِن ذُرِّيَّتِنَآ",
+   "ml": "ഞങ്ങളുടെ സന്തതികളിൽ നിന്നും",
+   "en": "from our progeny too"
+  },
+  {
+   "verse": 128,
+   "ar": "أُمَّةٗ",
+   "ml": "ഒരു സമുദായത്തെ",
+   "en": "a community"
+  },
+  {
+   "verse": 128,
+   "ar": "مُّسۡلِمَةٗ",
+   "ml": "കീഴ്പെട്ട",
+   "en": "subdued"
+  },
+  {
+   "verse": 128,
+   "ar": "لَّكَ",
+   "ml": "നിനക്ക്",
+   "en": "to You"
+  },
+  {
+   "verse": 128,
+   "ar": "وَأَرِنَا",
+   "ml": "ഞങ്ങൾക്ക് കാട്ടിത്തരുകയും വേണമേ",
+   "en": "and do show us"
+  },
+  {
+   "verse": 128,
+   "ar": "مَنَاسِكَنَا",
+   "ml": "ഞങ്ങളുടെ ആരാധനാ കർമങ്ങളെ, ത്യാഗ കർമങ്ങളെ, ബലികാര്യങ്ങളെ",
+   "en": "our rites of worship, rites of self-sacrifice, matters of sacrifice"
+  },
+  {
+   "verse": 128,
+   "ar": "وَتُبۡ عَلَيۡنَآ",
+   "ml": "ഞങ്ങളുടെ പശ്ചാത്താപം നീ സ്വീകരിക്കുകയും വേണമേ",
+   "en": "and do accept our repentance"
+  },
+  {
+   "verse": 128,
+   "ar": "إِنَّكَ أَنتَ",
+   "ml": "നിശ്ചയമായും നീ തന്നെയാണ്",
+   "en": "surely it is You indeed"
+  },
+  {
+   "verse": 128,
+   "ar": "ٱلتَّوَّابُ",
+   "ml": "അധികം പശ്ചാത്താപം സ്വീകരിക്കുന്നവൻ",
+   "en": "the One who accepts repentance much"
+  },
+  {
+   "verse": 128,
+   "ar": "ٱلرَّحِيمُ",
+   "ml": "കരുണാനിധി",
+   "en": "the Ever-Merciful"
+  },
+  {
+   "verse": 129,
+   "ar": "رَبَّنَا",
+   "ml": "ഞങ്ങളുടെ റബ്ബേ",
+   "en": "our Rabb"
+  },
+  {
+   "verse": 129,
+   "ar": "وَٱبۡعَثۡ",
+   "ml": "നീ നിയോഗിക്കുകയും വേണമേ",
+   "en": "and do send"
+  },
+  {
+   "verse": 129,
+   "ar": "فِيهِمۡ",
+   "ml": "അവരിൽ നിന്ന്",
+   "en": "from among them"
+  },
+  {
+   "verse": 129,
+   "ar": "رَسُولٗا",
+   "ml": "ഒരു ദൂതനെ",
+   "en": "a messenger"
+  },
+  {
+   "verse": 129,
+   "ar": "مِّنۡهُمۡ",
+   "ml": "അവരിൽ നിന്ന്",
+   "en": "from among them"
+  },
+  {
+   "verse": 129,
+   "ar": "يَتۡلُواْ",
+   "ml": "ഓതിക്കൊടുക്കും",
+   "en": "will recite and hand on"
+  },
+  {
+   "verse": 129,
+   "ar": "عَلَيۡهِمۡ",
+   "ml": "അവർക്ക്",
+   "en": "to them"
+  },
+  {
+   "verse": 129,
+   "ar": "ءَايَٰتِكَ",
+   "ml": "നിന്റെ ആയത്തുകൾ, ലക്ഷ്യങ്ങൾ (വചനങ്ങൾ)",
+   "en": "Your ayahs, evidences (verses)"
+  },
+  {
+   "verse": 129,
+   "ar": "وَيُعَلِّمُهُمُ",
+   "ml": "അവർക്ക് പഠിപ്പിക്കുകയും ചെയ്യും",
+   "en": "and will teach them"
+  },
+  {
+   "verse": 129,
+   "ar": "ٱلۡكِتَٰبَ",
+   "ml": "വേദ(ഗ്രന്ഥം)",
+   "en": "the scripture (book)"
+  },
+  {
+   "verse": 129,
+   "ar": "وَٱلۡحِكۡمَةَ",
+   "ml": "വിജ്ഞാനവും തത്വവും",
+   "en": "both wisdom and principle"
+  },
+  {
+   "verse": 129,
+   "ar": "وَيُزَكِّيهِمۡ",
+   "ml": "അവരെ സംസ്കരിക്കും",
+   "en": "will refine them"
+  },
+  {
+   "verse": 129,
+   "ar": "إِنَّكَ أَنتَ",
+   "ml": "നിശ്ചയമായും നീ തന്നെ",
+   "en": "surely You indeed"
+  },
+  {
+   "verse": 129,
+   "ar": "ٱلۡعَزِيزُ",
+   "ml": "പ്രതാപശാലി",
+   "en": "the Majestic"
+  },
+  {
+   "verse": 129,
+   "ar": "ٱلۡحَكِيمُ",
+   "ml": "അഗാധജ്ഞൻ, യുക്തിമാൻ",
+   "en": "the Profoundly Knowing, the Sagacious"
+  },
+  {
+   "verse": 130,
+   "ar": "وَمَن",
+   "ml": "ആർ, ഏതൊരുത്തൻ",
+   "en": "who, whichever one"
+  },
+  {
+   "verse": 130,
+   "ar": "يَرۡغَبُ عَن",
+   "ml": "അതൃപ്തിപ്പെടും",
+   "en": "will be discontented"
+  },
+  {
+   "verse": 130,
+   "ar": "مِّلَّةِ إِبۡرَٰهِـۧمَ",
+   "ml": "ഇബ്റാഹീമിന്റെ മാർഗത്തോട്",
+   "en": "with Ibrahim's way"
+  },
+  {
+   "verse": 130,
+   "ar": "إِلَّا مَن",
+   "ml": "യാതൊരുവനല്ലാതെ",
+   "en": "except one who"
+  },
+  {
+   "verse": 130,
+   "ar": "سَفِهَ",
+   "ml": "അവൻ വിഡ്ഢിയാക്കി",
+   "en": "he made a fool of"
+  },
+  {
+   "verse": 130,
+   "ar": "نَفۡسَهُۥ",
+   "ml": "തന്നെത്തന്നെ",
+   "en": "himself"
+  },
+  {
+   "verse": 130,
+   "ar": "وَلَقَدِ",
+   "ml": "തീർച്ചയായും ഉണ്ട്",
+   "en": "certainly there is"
+  },
+  {
+   "verse": 130,
+   "ar": "ٱصۡطَفَيۡنَٰهُ",
+   "ml": "അദ്ദേഹത്തെ നാം തിരഞ്ഞെടുത്തു, തെളിയിച്ചെടുത്തു",
+   "en": "We chose him, picked him out clear"
+  },
+  {
+   "verse": 130,
+   "ar": "فِي ٱلدُّنۡيَا",
+   "ml": "ഇഹലോകത്തിൽ",
+   "en": "in this world"
+  },
+  {
+   "verse": 130,
+   "ar": "وَإِنَّهُۥ",
+   "ml": "നിശ്ചയമായും അദ്ദേഹമാകട്ടെ",
+   "en": "surely he, for his part"
+  },
+  {
+   "verse": 130,
+   "ar": "فِي ٱلۡأٓخِرَةِ",
+   "ml": "പരലോകത്തിൽ",
+   "en": "in the Hereafter"
+  },
+  {
+   "verse": 130,
+   "ar": "لَمِنَ ٱلصَّـٰلِحِينَ",
+   "ml": "സജ്ജനങ്ങളിൽ പെട്ടവനാണ്",
+   "en": "is among the righteous"
+  },
+  {
+   "verse": 131,
+   "ar": "إِذۡ قَالَ لَهُۥ",
+   "ml": "അദ്ദേഹത്തോട് പറഞ്ഞപ്പോൾ",
+   "en": "when said to him"
+  },
+  {
+   "verse": 131,
+   "ar": "رَبُّهُۥٓ",
+   "ml": "അദ്ദേഹത്തിന്റെ രക്ഷിതാവ്",
+   "en": "his Lord"
+  },
+  {
+   "verse": 131,
+   "ar": "أَسۡلِمۡ",
+   "ml": "നീ കീഴൊതുങ്ങുക, മുസ്ലിമാകുക",
+   "en": "be submissive, become a Muslim"
+  },
+  {
+   "verse": 131,
+   "ar": "قَالَ",
+   "ml": "അദ്ദേഹം പറഞ്ഞു",
+   "en": "he said"
+  },
+  {
+   "verse": 131,
+   "ar": "أَسۡلَمۡتُ",
+   "ml": "ഞാൻ കീഴൊതുങ്ങിയിരിക്കുന്നു",
+   "en": "I have become submissive"
+  },
+  {
+   "verse": 131,
+   "ar": "لِرَبِّ ٱلۡعَٰلَمِينَ",
+   "ml": "ലോകരക്ഷിതാവിന്",
+   "en": "to the Lord of the worlds"
+  },
+  {
+   "verse": 132,
+   "ar": "وَوَصَّىٰ بِهَآ",
+   "ml": "ഇതിനെപ്പറ്റി വസ്വിയ്യത്തും ചെയ്തു",
+   "en": "also made wasiyyah about this"
+  },
+  {
+   "verse": 132,
+   "ar": "إِبۡرَٰهِـۧمُ",
+   "ml": "ഇബ്റാഹീം",
+   "en": "Ibrahim"
+  },
+  {
+   "verse": 132,
+   "ar": "بَنِيهِ",
+   "ml": "തന്റെ മക്കളോട്, പുത്രന്മാരോട്",
+   "en": "to his children, to his sons"
+  },
+  {
+   "verse": 132,
+   "ar": "وَيَعۡقُوبُ",
+   "ml": "യഅ്ക്വൂബും",
+   "en": "Ya'qub too"
+  },
+  {
+   "verse": 132,
+   "ar": "يَٰبَنِيَّ",
+   "ml": "എന്റെ മക്കളേ, പുത്രൻമാരേ",
+   "en": "my children, sons"
+  },
+  {
+   "verse": 132,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 132,
+   "ar": "ٱصۡطَفَىٰ",
+   "ml": "തിരഞ്ഞെടുത്തു (തെളിയിച്ചെടുത്തു) തന്നിരിക്കുന്നു",
+   "en": "has chosen (picked out clear) and given"
+  },
+  {
+   "verse": 132,
+   "ar": "لَكُمُ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 132,
+   "ar": "ٱلدِّينَ",
+   "ml": "മതത്തെ, നടപടി ക്രമത്തെ",
+   "en": "the religion, the procedure"
+  },
+  {
+   "verse": 132,
+   "ar": "فَلَا تَمُوتُنَّ",
+   "ml": "അതിനാൽ തീർച്ചയായും നിങ്ങൾ മരണപ്പെടരുത്",
+   "en": "therefore you must certainly not die"
+  },
+  {
+   "verse": 132,
+   "ar": "إِلَّا وَأَنتُم",
+   "ml": "നിങ്ങൾ ആയിക്കൊണ്ടല്ലാതെ",
+   "en": "except while you are"
+  },
+  {
+   "verse": 132,
+   "ar": "مُّسۡلِمُونَ",
+   "ml": "കീഴൊതുങ്ങിയവർ മുസ്ലിംകൾ",
+   "en": "submissive ones Muslims"
+  }
+ ]
+}
