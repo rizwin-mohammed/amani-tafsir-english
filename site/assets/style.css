@@ -173,3 +173,6 @@ button, .button { font: 15px system-ui, sans-serif; padding: 8px 14px; border-ra
 .rv-dialog textarea { width: 100%; font: 15px/1.5 var(--sans); padding: 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--text); }
 .rv-settings summary { cursor: pointer; margin-top: 18px; font-weight: 600; }
 [hidden] { display: none !important; }
+
+.review-switch { margin-top: .5rem; }
+.review-switch button { background: none; border: 0; padding: 0; color: inherit; opacity: .6; font: inherit; font-size: .85em; text-decoration: underline; cursor: pointer; }

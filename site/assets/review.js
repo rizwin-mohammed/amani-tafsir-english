@@ -4,7 +4,8 @@
 // reviewed and approved with a new version number. A comment on a released part reopens it for
 // correction; releasing it again gives it the next version.
 //
-// Turn on with ?review=on (remembered on this device), off with ?review=off or from the panel.
+// Turn on with ?review=on or the "Reviewer mode" switch in the footer (remembered on this device);
+// off with ?review=off, the footer switch, or from the panel.
 // Readers never see any of this. Editors are the repository's owner and collaborators: only their
 // issues are shown here and acted on by Claude (GitHub also drops labels set by anyone else).
 (function () {
@@ -31,6 +32,11 @@
     const u = new URL(location.href);
     u.searchParams.delete('review');
     history.replaceState(null, '', u.pathname + u.search + u.hash);
+  }
+  const toggle = document.getElementById('review-toggle');
+  if (toggle) {
+    toggle.textContent = state.on ? 'Reviewer mode: on (tap to turn off)' : 'Reviewer mode: off (tap to turn on)';
+    toggle.addEventListener('click', () => { state.on = !state.on; saveState(); location.reload(); });
   }
   if (!state.on || !REPO) return;
 

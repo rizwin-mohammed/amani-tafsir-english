@@ -101,6 +101,7 @@ ${body}
 <footer>
   <p>Translated from <em>Vishuddha Quran Vivaranam</em> by Muhammad Amani Moulavi.
   <a href="https://github.com/${REPO}/issues/new?title=${encodeURIComponent('Mistake on ' + title)}&body=${encodeURIComponent('Page: ' + canonical + '\n\nWhat is wrong:\n\nWhat it should say:\n')}">Report a mistake</a></p>
+  <p class="review-switch"><button type="button" id="review-toggle">Reviewer mode: off</button></p>
 </footer>
 <script src="${BASE}/assets/app.js" defer></script>
 <script src="${BASE}/assets/review.js" defer></script>
