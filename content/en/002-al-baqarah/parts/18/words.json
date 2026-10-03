@@ -1,0 +1,310 @@
+{
+ "words": [
+  {
+   "verse": 120,
+   "ar": "وَلَن تَرۡضَىٰ",
+   "ml": "തൃപ്തിപ്പെടുകയില്ല തന്നെ",
+   "en": "will indeed not be pleased"
+  },
+  {
+   "verse": 120,
+   "ar": "عَنكَ",
+   "ml": "നിന്നെക്കുറിച്ച്",
+   "en": "about you"
+  },
+  {
+   "verse": 120,
+   "ar": "ٱلۡيَهُودُ",
+   "ml": "യഹൂദികൾ",
+   "en": "the Jews"
+  },
+  {
+   "verse": 120,
+   "ar": "وَلَا ٱلنَّصَٰرَىٰ",
+   "ml": "ക്രിസ്ത്യാനികളും ഇല്ല",
+   "en": "nor the Christians"
+  },
+  {
+   "verse": 120,
+   "ar": "حَتَّىٰ تَتَّبِعَ",
+   "ml": "നീ പിൻപററുവോളം",
+   "en": "until you follow"
+  },
+  {
+   "verse": 120,
+   "ar": "مِلَّتَهُمۡ",
+   "ml": "അവരുടെ മാർഗത്തെ, നടപടിക്രമത്തെ, മതത്തെ",
+   "en": "their way, course of practice, religion"
+  },
+  {
+   "verse": 120,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "you say"
+  },
+  {
+   "verse": 120,
+   "ar": "إِنَّ هُدَى ٱللَّهِ",
+   "ml": "നിശ്ചയമായും അല്ലാഹുവിന്റെ മാർഗദർശനം",
+   "en": "surely Allah's guidance"
+  },
+  {
+   "verse": 120,
+   "ar": "هُوَ ٱلۡهُدَىٰ",
+   "ml": "അതത്രെ മാർഗദർശനം",
+   "en": "that indeed is guidance"
+  },
+  {
+   "verse": 120,
+   "ar": "وَلَئِنِ ٱتَّبَعۡتَ",
+   "ml": "നീ പിൻപറ്റിയെങ്കിൽ",
+   "en": "if you followed"
+  },
+  {
+   "verse": 120,
+   "ar": "أَهۡوَآءَهُم",
+   "ml": "അവരുടെ ഇച്ഛകളെ",
+   "en": "their desires"
+  },
+  {
+   "verse": 120,
+   "ar": "بَعۡدَ ٱلَّذِي",
+   "ml": "യാതൊന്നിന്ശേഷം",
+   "en": "after that which"
+  },
+  {
+   "verse": 120,
+   "ar": "جَآءَكَ",
+   "ml": "നിനക്ക് വന്നിരിക്കുന്നു",
+   "en": "has come to you"
+  },
+  {
+   "verse": 120,
+   "ar": "مِنَ ٱلۡعِلۡمِ",
+   "ml": "അറിവിൽ നിന്നും",
+   "en": "from knowledge"
+  },
+  {
+   "verse": 120,
+   "ar": "مَا لَكَ",
+   "ml": "നിനക്കില്ല",
+   "en": "there is not for you"
+  },
+  {
+   "verse": 120,
+   "ar": "مِنَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ നിന്ന്",
+   "en": "from Allah"
+  },
+  {
+   "verse": 120,
+   "ar": "مِن وَلِيّٖ",
+   "ml": "ഒരു ബന്ധുവും (രക്ഷകനും) രക്ഷാധികാരിയും",
+   "en": "any kinsman (protector) and guardian"
+  },
+  {
+   "verse": 120,
+   "ar": "وَلَا نَصِيرٍ",
+   "ml": "ഒരു സഹായകനുമില്ല",
+   "en": "nor any helper"
+  },
+  {
+   "verse": 121,
+   "ar": "ٱلَّذِينَ",
+   "ml": "യാതൊരുകൂട്ടർ",
+   "en": "the group who"
+  },
+  {
+   "verse": 121,
+   "ar": "ءَاتَيۡنَٰهُمُ",
+   "ml": "അവർക്ക് നാം നൽകിയിരിക്കുന്നു",
+   "en": "We have given them"
+  },
+  {
+   "verse": 121,
+   "ar": "ٱلۡكِتَٰبَ",
+   "ml": "(വേദ)ഗ്രന്ഥം",
+   "en": "the (scriptural) book"
+  },
+  {
+   "verse": 121,
+   "ar": "يَتۡلُونَهُۥ",
+   "ml": "അതവർ പാരായണം ചെയ്യുന്ന നിലയിൽ",
+   "en": "in the state that they read it through"
+  },
+  {
+   "verse": 121,
+   "ar": "حَقَّ تِلَاوَتِهِۦٓ",
+   "ml": "അതിനെ ഓതുന്ന (പാരായണം ചെയ്യുന്ന) മുറപ്രകാരം",
+   "en": "according to the proper manner of reciting (reading through) it"
+  },
+  {
+   "verse": 121,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "that group"
+  },
+  {
+   "verse": 121,
+   "ar": "يُؤۡمِنُونَ بِهِۦ",
+   "ml": "അതിൽ വിശ്വസിക്കും",
+   "en": "will believe in it"
+  },
+  {
+   "verse": 121,
+   "ar": "وَمَن",
+   "ml": "ആരെങ്കിലും, വല്ലവരും",
+   "en": "whoever, anyone"
+  },
+  {
+   "verse": 121,
+   "ar": "يَكۡفُرۡ بِهِۦ",
+   "ml": "അതിൽ അവിശ്വസിക്കുന്ന(തായാൽ)",
+   "en": "disbelieving in it (if it be)"
+  },
+  {
+   "verse": 121,
+   "ar": "فَأُوْلَـٰٓئِكَ",
+   "ml": "എന്നാൽ അക്കൂട്ടർ",
+   "en": "then that group"
+  },
+  {
+   "verse": 121,
+   "ar": "هُمُ",
+   "ml": "അവർ (തന്നെ)",
+   "en": "they (indeed)"
+  },
+  {
+   "verse": 121,
+   "ar": "ٱلۡخَٰسِرُونَ",
+   "ml": "നഷ്ടക്കാർ",
+   "en": "the losers"
+  },
+  {
+   "verse": 122,
+   "ar": "يَٰبَنِيٓ إِسۡرَـٰٓءِيلَ",
+   "ml": "ഇസ്റാഈൽ സന്തതികളേ",
+   "en": "Children of Isra'il"
+  },
+  {
+   "verse": 122,
+   "ar": "ٱذۡكُرُواْ",
+   "ml": "നിങ്ങൾ ഓർക്കുവിൻ",
+   "en": "you remember"
+  },
+  {
+   "verse": 122,
+   "ar": "نِعۡمَتِيَ",
+   "ml": "എന്റെ അനുഗ്രഹം",
+   "en": "My favour"
+  },
+  {
+   "verse": 122,
+   "ar": "ٱلَّتِيٓ أَنۡعَمۡتُ",
+   "ml": "ഞാൻ അനുഗ്രഹം ചെയ്തതായ",
+   "en": "which I bestowed as favour"
+  },
+  {
+   "verse": 122,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 122,
+   "ar": "وَأَنِّي",
+   "ml": "ഞാൻ (ആകുന്നു) എന്നും",
+   "en": "and that I (am)"
+  },
+  {
+   "verse": 122,
+   "ar": "فَضَّلۡتُكُمۡ",
+   "ml": "നിങ്ങളെ ശ്രേഷ്ഠരാക്കി(എന്നും)",
+   "en": "made you superior (and that)"
+  },
+  {
+   "verse": 122,
+   "ar": "عَلَى ٱلۡعَٰلَمِينَ",
+   "ml": "ലോകരെക്കാൾ",
+   "en": "than the people of the world"
+  },
+  {
+   "verse": 123,
+   "ar": "وَٱتَّقُواْ",
+   "ml": "നിങ്ങൾ സൂക്ഷിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and you guard against"
+  },
+  {
+   "verse": 123,
+   "ar": "يَوۡمٗا",
+   "ml": "ഒരു ദിവസത്തെ",
+   "en": "a day"
+  },
+  {
+   "verse": 123,
+   "ar": "لَّا تَجۡزِي",
+   "ml": "ഉപകരിക്കുക(പ്രതിഫലം നൽകുക)യില്ല",
+   "en": "will not avail (recompense)"
+  },
+  {
+   "verse": 123,
+   "ar": "نَفۡسٌ",
+   "ml": "ഒരു ദേഹവും, ആത്മാവും, വ്യക്തിയും",
+   "en": "any self, soul, individual"
+  },
+  {
+   "verse": 123,
+   "ar": "عَن نَّفۡسٖ",
+   "ml": "ഒരു ദേഹത്തിനും",
+   "en": "for any self"
+  },
+  {
+   "verse": 123,
+   "ar": "شَيۡـٔٗا",
+   "ml": "യാതൊന്നും (ഒട്ടും)",
+   "en": "anything at all (in the least)"
+  },
+  {
+   "verse": 123,
+   "ar": "وَلَا يُقۡبَلُ",
+   "ml": "സ്വീകരിക്കപ്പെടുകയുമില്ല",
+   "en": "nor will be accepted"
+  },
+  {
+   "verse": 123,
+   "ar": "مِنۡهَا",
+   "ml": "അതിൽനിന്ന്",
+   "en": "from it"
+  },
+  {
+   "verse": 123,
+   "ar": "عَدۡلٞ",
+   "ml": "സമാനമായത്, പ്രായശ്ചിത്തം, തെണ്ടം",
+   "en": "an equivalent, atonement, ransom [DOUBT: തെണ്ടം rendered 'ransom', as in part 08 (verse 48), where the meaning of this word is an open doubt]"
+  },
+  {
+   "verse": 123,
+   "ar": "وَلَا تَنفَعُهَا",
+   "ml": "അതിന് പ്രയോജനപ്പെടുകയുമില്ല",
+   "en": "nor will be of benefit to it"
+  },
+  {
+   "verse": 123,
+   "ar": "شَفَٰعَةٞ",
+   "ml": "ഒരു ശുപാർശയും",
+   "en": "any intercession"
+  },
+  {
+   "verse": 123,
+   "ar": "وَلَا هُمۡ",
+   "ml": "അവർ ഇല്ലതാനും",
+   "en": "and they are not"
+  },
+  {
+   "verse": 123,
+   "ar": "يُنصَرُونَ",
+   "ml": "സഹായിക്കപ്പെടും",
+   "en": "will be helped"
+  }
+ ]
+}
