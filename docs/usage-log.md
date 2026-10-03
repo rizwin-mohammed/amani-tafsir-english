@@ -27,3 +27,4 @@ everything read, most of which is re-reading earlier context from cache.
 | 2026-10-03 | Al-Baqarah part 18 | 353-357 | 5 | 120-123 | n/a | 330,659 | Translator 185,470 + checker 145,189 tokens; checker made 5 corrections. First 5-page part, page images read once |
 | 2026-10-03 | Al-Baqarah part 19 | 357-367 | 11 | 124-125 | n/a | 492,546 | Translator 299,669 + checker 192,877 tokens; checker made 3 corrections. First part from amanithafseer.com text + one image read per page |
 | 2026-10-03 | Al-Baqarah part 20 | 367-377 | 11 | 126-132 | n/a | 473,569 | Translator 270,525 + checker 203,044 tokens; checker made 9 corrections. Cache reads 33.0M (3.0M per page, down from 3.75M) |
+| 2026-10-03 | Al-Baqarah part 21 | 377-388 | 12 | 133-140 | n/a | 471,966 | Translator 282,141 + checker 189,825 tokens; checker made 2 corrections. Cache reads 34.3M (2.9M per page) |
