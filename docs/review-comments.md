@@ -1,6 +1,6 @@
 # Review comments from the website (for Claude sessions)
 
-Rizwin reviews on the website in reviewer mode (`?review=on` on any page; `site/assets/review.js`).
+Rizwin reviews on the website in reviewer mode (the "Reviewer mode" switch at the bottom of every page, or `?review=on`; `site/assets/review.js`).
 Selecting text and tapping **Send to Claude** opens a GitHub issue with the label `review-comment`.
 The **Release** button opens an issue with the label `release-request`. The page reads these issues
 live from the GitHub API, so what Claude writes on them is what Rizwin sees when he hovers a highlight.
