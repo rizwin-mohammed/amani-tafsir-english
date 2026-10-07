@@ -1,0 +1,646 @@
+{
+ "words": [
+  {
+   "verse": 168,
+   "ar": "يَـٰٓأَيُّهَا ٱلنَّاسُ",
+   "ml": "ഹേ മനുഷ്യരേ",
+   "en": "O mankind"
+  },
+  {
+   "verse": 168,
+   "ar": "كُلُواْ",
+   "ml": "നിങ്ങൾ തിന്നുകൊളളുവിൻ",
+   "en": "eat"
+  },
+  {
+   "verse": 168,
+   "ar": "مِمَّا",
+   "ml": "യാതൊന്നിൽ നിന്ന്",
+   "en": "from that which"
+  },
+  {
+   "verse": 168,
+   "ar": "فِي ٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയിലുള്ള",
+   "en": "is in the earth"
+  },
+  {
+   "verse": 168,
+   "ar": "حَلَٰلٗا",
+   "ml": "അനുവദനീയമായത്",
+   "en": "what is permissible"
+  },
+  {
+   "verse": 168,
+   "ar": "طَيِّبٗا",
+   "ml": "നല്ല, ശുദ്ധമായ, ഹൃദ്യമായത്, വിശിഷ്ടമായത്",
+   "en": "good, pure, what is pleasing, what is excellent"
+  },
+  {
+   "verse": 168,
+   "ar": "وَلَا تَتَّبِعُواْ",
+   "ml": "നിങ്ങൾ പിൻപററുകയും ചെയ്യരുത്",
+   "en": "and do not follow"
+  },
+  {
+   "verse": 168,
+   "ar": "خُطُوَٰتِ",
+   "ml": "കാലടികളെ, ചവിട്ടടികളെ",
+   "en": "the footsteps, the treads"
+  },
+  {
+   "verse": 168,
+   "ar": "ٱلشَّيۡطَٰنِ",
+   "ml": "പിശാചിന്റെ",
+   "en": "of Satan"
+  },
+  {
+   "verse": 168,
+   "ar": "إِنَّهُۥ لَكُمۡ",
+   "ml": "നിശ്ചയമായും അവൻ നിങ്ങൾക്ക്",
+   "en": "surely he, to you"
+  },
+  {
+   "verse": 168,
+   "ar": "عَدُوّٞ",
+   "ml": "ശത്രുവാണ്",
+   "en": "is an enemy"
+  },
+  {
+   "verse": 168,
+   "ar": "مُّبِينٌ",
+   "ml": "പ്രത്യക്ഷമായ.",
+   "en": "open."
+  },
+  {
+   "verse": 169,
+   "ar": "إِنَّمَا يَأۡمُرُكُم",
+   "ml": "അവൻ നിങ്ങളോട് കൽപിക്കുകയുളളൂ, നിശ്ചയമായും കൽപിക്കുന്നു",
+   "en": "he will command you only, surely he commands"
+  },
+  {
+   "verse": 169,
+   "ar": "بِٱلسُّوٓءِ",
+   "ml": "തിന്മകൊണ്ട് (മാത്രം)",
+   "en": "to evil (only)"
+  },
+  {
+   "verse": 169,
+   "ar": "وَٱلۡفَحۡشَآءِ",
+   "ml": "നീച(ദുഷ്ട)വൃത്തിയും",
+   "en": "and vile (wicked) conduct"
+  },
+  {
+   "verse": 169,
+   "ar": "وَأَن تَقُولُواْ",
+   "ml": "നിങ്ങൾ പറയുവാനും",
+   "en": "and that you say"
+  },
+  {
+   "verse": 169,
+   "ar": "عَلَى ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെമേൽ",
+   "en": "against Allah"
+  },
+  {
+   "verse": 169,
+   "ar": "مَا لَا تَعۡلَمُونَ",
+   "ml": "നിങ്ങൾക്കറിയാത്തത്.",
+   "en": "what you do not know."
+  },
+  {
+   "verse": 170,
+   "ar": "وَإِذَا قِيلَ",
+   "ml": "പറയപ്പെട്ടാൽ",
+   "en": "when it is said"
+  },
+  {
+   "verse": 170,
+   "ar": "لَهُمُ",
+   "ml": "അവരോട്",
+   "en": "to them"
+  },
+  {
+   "verse": 170,
+   "ar": "ٱتَّبِعُواْ",
+   "ml": "നിങ്ങൾ പിൻപറ്റുവിൻ, തുടരുവിൻ",
+   "en": "follow, continue"
+  },
+  {
+   "verse": 170,
+   "ar": "مَآ أَنزَلَ ٱللَّهُ",
+   "ml": "അല്ലാഹു അവതരിപ്പിച്ചതിനെ",
+   "en": "what Allah has sent down"
+  },
+  {
+   "verse": 170,
+   "ar": "قَالُواْ",
+   "ml": "അവർ പറയും",
+   "en": "they will say"
+  },
+  {
+   "verse": 170,
+   "ar": "بَلۡ",
+   "ml": "പക്ഷേ",
+   "en": "but"
+  },
+  {
+   "verse": 170,
+   "ar": "نَتَّبِعُ",
+   "ml": "ഞങ്ങൾ പിൻപറ്റും",
+   "en": "we will follow"
+  },
+  {
+   "verse": 170,
+   "ar": "مَآ",
+   "ml": "യാതൊന്ന്",
+   "en": "that which"
+  },
+  {
+   "verse": 170,
+   "ar": "أَلۡفَيۡنَا عَلَيۡهِ",
+   "ml": "അത് പ്രകാരം ഞങ്ങൾ കണ്ടെത്തിയിരിക്കുന്നു",
+   "en": "we have found in accordance with it"
+  },
+  {
+   "verse": 170,
+   "ar": "ءَابَآءَنَآ",
+   "ml": "ഞങ്ങളുടെ പിതാക്കളെ(പൂർവ്വികൻമാരെ)",
+   "en": "our fathers (forefathers)"
+  },
+  {
+   "verse": 170,
+   "ar": "أَوَلَوۡ كَانَ",
+   "ml": "ആയിരുന്നാലുമോ",
+   "en": "even if … were?"
+  },
+  {
+   "verse": 170,
+   "ar": "ءَابَآؤُهُمۡ",
+   "ml": "അവരുടെ പിതാക്കൾ",
+   "en": "their fathers"
+  },
+  {
+   "verse": 170,
+   "ar": "لَا يَعۡقِلُونَ",
+   "ml": "അവർ ഗ്രഹിക്കുകയില്ല",
+   "en": "they will not understand"
+  },
+  {
+   "verse": 170,
+   "ar": "شَيۡـٔٗا",
+   "ml": "യാതൊന്നും",
+   "en": "anything at all"
+  },
+  {
+   "verse": 170,
+   "ar": "وَلَا يَهۡتَدُونَ",
+   "ml": "അവർ സൻമാർഗം പ്രാപിച്ചിരുന്നതുമില്ല.",
+   "en": "and they were not attaining right guidance."
+  },
+  {
+   "verse": 171,
+   "ar": "وَمَثَلُ ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരുടെ ഉപമ, ഉദാഹരണം",
+   "en": "the parable, the example, of the group who"
+  },
+  {
+   "verse": 171,
+   "ar": "كَفَرُواْ",
+   "ml": "അവർ അവിശ്വസിച്ചു",
+   "en": "they disbelieved"
+  },
+  {
+   "verse": 171,
+   "ar": "كَمَثَلِ ٱلَّذِي",
+   "ml": "യാതൊരുവന്റെ മാതിരിയാണ്",
+   "en": "is like that of one who"
+  },
+  {
+   "verse": 171,
+   "ar": "يَنۡعِقُ",
+   "ml": "അവൻ ശബ്ദം (ഒച്ച)ഇടുന്നു",
+   "en": "he makes a sound (a noise)"
+  },
+  {
+   "verse": 171,
+   "ar": "بِمَا لَا يَسۡمَعُ",
+   "ml": "കേൾക്കാത്ത(കേട്ടറിയാത്ത)തിനോട്",
+   "en": "to what does not hear (does not hear and know)"
+  },
+  {
+   "verse": 171,
+   "ar": "إِلَّا دُعَآءٗ",
+   "ml": "ഒരു വിളി (ക്കുന്ന ശബ്ദം)അല്ലാതെ",
+   "en": "except a call (a calling sound)"
+  },
+  {
+   "verse": 171,
+   "ar": "وَنِدَآءٗ",
+   "ml": "ഒരു വിളി(തെളി)യും, സംബോധനവും",
+   "en": "and a call (a driving), and an address"
+  },
+  {
+   "verse": 171,
+   "ar": "صُمُّۢ",
+   "ml": "ബധിരർ",
+   "en": "deaf"
+  },
+  {
+   "verse": 171,
+   "ar": "بُكۡمٌ",
+   "ml": "ഊമകൾ",
+   "en": "dumb"
+  },
+  {
+   "verse": 171,
+   "ar": "عُمۡيٞ",
+   "ml": "അന്ധൻമാർ",
+   "en": "blind"
+  },
+  {
+   "verse": 171,
+   "ar": "فَهُمۡ",
+   "ml": "അതിനാലവർ",
+   "en": "therefore they"
+  },
+  {
+   "verse": 171,
+   "ar": "لَا يَعۡقِلُونَ",
+   "ml": "ഗ്രഹിക്കുകയില്ല.",
+   "en": "will not understand."
+  },
+  {
+   "verse": 172,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "ഹേ വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 172,
+   "ar": "كُلُواْ",
+   "ml": "നിങ്ങൾ തിന്നുവിൻ",
+   "en": "eat"
+  },
+  {
+   "verse": 172,
+   "ar": "مِن طَيِّبَٰتِ",
+   "ml": "നല്ലതായ(വിശിഷ്ടമായ)വയിൽനിന്ന്",
+   "en": "of the good (excellent) things"
+  },
+  {
+   "verse": 172,
+   "ar": "مَا رَزَقۡنَٰكُمۡ",
+   "ml": "നിങ്ങൾക്ക് നാം നൽകിയിട്ടുള്ള",
+   "en": "that We have given you"
+  },
+  {
+   "verse": 172,
+   "ar": "وَٱشۡكُرُواْ",
+   "ml": "നിങ്ങൾ നന്ദികാണിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and show thanks"
+  },
+  {
+   "verse": 172,
+   "ar": "لِلَّهِ",
+   "ml": "അല്ലാഹുവിനോട്",
+   "en": "to Allah"
+  },
+  {
+   "verse": 172,
+   "ar": "إِن كُنتُمۡ",
+   "ml": "നിങ്ങൾ ആകുന്നുവെങ്കിൽ",
+   "en": "if you are"
+  },
+  {
+   "verse": 172,
+   "ar": "إِيَّاهُ",
+   "ml": "അവനെ (തന്നെ)",
+   "en": "Him (indeed)"
+  },
+  {
+   "verse": 172,
+   "ar": "تَعۡبُدُونَ",
+   "ml": "നിങ്ങൾ ആരാധിക്കുന്നു.",
+   "en": "you worship."
+  },
+  {
+   "verse": 173,
+   "ar": "إِنَّمَا حَرَّمَ",
+   "ml": "അവൻ നിഷിദ്ധമാക്കിയിട്ടുള്ളത്",
+   "en": "what He has made forbidden"
+  },
+  {
+   "verse": 173,
+   "ar": "عَلَيۡكُمُ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "for you"
+  },
+  {
+   "verse": 173,
+   "ar": "ٱلۡمَيۡتَةَ",
+   "ml": "ശവം(മാത്രം)",
+   "en": "carrion (only)"
+  },
+  {
+   "verse": 173,
+   "ar": "وَٱلدَّمَ",
+   "ml": "രക്തവും",
+   "en": "and blood"
+  },
+  {
+   "verse": 173,
+   "ar": "وَلَحۡمَ",
+   "ml": "മാംസവും",
+   "en": "and flesh"
+  },
+  {
+   "verse": 173,
+   "ar": "ٱلۡخِنزِيرِ",
+   "ml": "പന്നിയുടെ",
+   "en": "of swine"
+  },
+  {
+   "verse": 173,
+   "ar": "وَمَآ",
+   "ml": "യാതൊന്നും",
+   "en": "and that which"
+  },
+  {
+   "verse": 173,
+   "ar": "أُهِلَّ بِهِۦ",
+   "ml": "അതുകൊണ്ട് [അതുമൂലം] ശബ്ദമുയർത്തപ്പെട്ടിരിക്കുന്നു, ഉറക്കെ ശബ്ദിക്കപ്പെട്ടിരിക്കുന്നു",
+   "en": "the sound has been raised with it [by means of it], it has been sounded aloud"
+  },
+  {
+   "verse": 173,
+   "ar": "لِغَيۡرِ ٱللَّهِ",
+   "ml": "അല്ലാഹു അല്ലാത്തവർക്കായി",
+   "en": "for those other than Allah"
+  },
+  {
+   "verse": 173,
+   "ar": "فَمَنِ",
+   "ml": "എന്നാൽ വല്ലവനും",
+   "en": "but whoever"
+  },
+  {
+   "verse": 173,
+   "ar": "ٱضۡطُرَّ",
+   "ml": "നിർബന്ധത്തിലകപ്പെട്ടു (നിർബന്ധിതനായി)",
+   "en": "has been caught in compulsion (has become compelled)"
+  },
+  {
+   "verse": 173,
+   "ar": "غَيۡرَ بَاغٖ",
+   "ml": "കാംക്ഷിക്കുന്നവനല്ലാത്തനിലയിൽ, ധിക്കാരം ചെയ്യുന്നവനല്ലാതെ",
+   "en": "in the state of not being one who covets, without being one who acts in defiance"
+  },
+  {
+   "verse": 173,
+   "ar": "وَلَا عَادٖ",
+   "ml": "അതിക്രമം ചെയ്യുന്ന (അതിരുവിട്ട)വനുമല്ലാതെ",
+   "en": "and without being one who commits transgression (who oversteps the bounds)"
+  },
+  {
+   "verse": 173,
+   "ar": "فَلَآ إِثۡمَ",
+   "ml": "എന്നാൽ കുറ്റമില്ല, പാപമില്ല",
+   "en": "then there is no offence, there is no sin"
+  },
+  {
+   "verse": 173,
+   "ar": "عَلَيۡهِ",
+   "ml": "അവന്റെ മേൽ",
+   "en": "on him"
+  },
+  {
+   "verse": 173,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 173,
+   "ar": "غَفُورٞ",
+   "ml": "വളരെ പൊറുക്കുന്നവനാണ്",
+   "en": "is one who forgives much"
+  },
+  {
+   "verse": 173,
+   "ar": "رَّحِيمٌ",
+   "ml": "കരുണാനിധിയാണ്.",
+   "en": "is the Ever-Merciful."
+  },
+  {
+   "verse": 174,
+   "ar": "إِنَّ ٱلَّذِينَ",
+   "ml": "നിശ്ചയമായും യാതൊരു കൂട്ടർ",
+   "en": "surely the group who"
+  },
+  {
+   "verse": 174,
+   "ar": "يَكۡتُمُونَ",
+   "ml": "അവർ മറച്ചു (മൂടി)വെക്കും",
+   "en": "they will hide (cover up)"
+  },
+  {
+   "verse": 174,
+   "ar": "مَآ أَنزَلَ ٱللَّهُ",
+   "ml": "അല്ലാഹു അവതരിപ്പിച്ചതിനെ",
+   "en": "what Allah has sent down"
+  },
+  {
+   "verse": 174,
+   "ar": "مِنَ ٱلۡكِتَٰبِ",
+   "ml": "(വേദ)ഗ്രന്ഥത്തിൽ നിന്ന്, ഗ്രന്ഥത്തിൽപെട്ടതായി",
+   "en": "from the (scriptural) book, as belonging to the book"
+  },
+  {
+   "verse": 174,
+   "ar": "وَيَشۡتَرُونَ",
+   "ml": "അവർ വാങ്ങുകയും ചെയ്യും",
+   "en": "and they will take"
+  },
+  {
+   "verse": 174,
+   "ar": "بِهِۦ",
+   "ml": "അതിന് (പകരം)",
+   "en": "(in exchange) for it"
+  },
+  {
+   "verse": 174,
+   "ar": "ثَمَنٗا",
+   "ml": "വില",
+   "en": "a price"
+  },
+  {
+   "verse": 174,
+   "ar": "قَلِيلًا",
+   "ml": "അൽപമായ",
+   "en": "small"
+  },
+  {
+   "verse": 174,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "ആ കൂട്ടർ",
+   "en": "that group"
+  },
+  {
+   "verse": 174,
+   "ar": "مَا يَأۡكُلُونَ",
+   "ml": "അവർ തിന്നുന്നില്ല",
+   "en": "they do not eat"
+  },
+  {
+   "verse": 174,
+   "ar": "فِي بُطُونِهِمۡ",
+   "ml": "അവരുടെ വയറുകളിൽ",
+   "en": "in their bellies"
+  },
+  {
+   "verse": 174,
+   "ar": "إِلَّا ٱلنَّارَ",
+   "ml": "അഗ്നിയല്ലാതെ",
+   "en": "other than fire"
+  },
+  {
+   "verse": 174,
+   "ar": "وَلَا يُكَلِّمُهُمُ",
+   "ml": "അവരോട് സംസാരിക്കുകയില്ല",
+   "en": "will not speak to them"
+  },
+  {
+   "verse": 174,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 174,
+   "ar": "يَوۡمَ ٱلۡقِيَٰمَةِ",
+   "ml": "ക്വിയാമത്തുനാളിൽ",
+   "en": "on the Day of Qiyamah"
+  },
+  {
+   "verse": 174,
+   "ar": "وَلَا يُزَكِّيهِمۡ",
+   "ml": "അവരെ സംസ്കരിക്കുക(ശുദ്ധമാക്കി നന്നാക്കുക)യുമില്ല",
+   "en": "nor will He refine (purify and make good) them"
+  },
+  {
+   "verse": 174,
+   "ar": "وَلَهُمۡ",
+   "ml": "അവർക്കുണ്ട് താനും",
+   "en": "and for them there is"
+  },
+  {
+   "verse": 174,
+   "ar": "عَذَابٌ أَلِيمٌ",
+   "ml": "വേദനയേറിയ ശിക്ഷ",
+   "en": "a painful punishment"
+  },
+  {
+   "verse": 175,
+   "ar": "أُوْلَـٰٓئِكَ ٱلَّذِينَ",
+   "ml": "അവർ യാതൊരുകൂട്ടരാണ്",
+   "en": "they are the group who"
+  },
+  {
+   "verse": 175,
+   "ar": "ٱشۡتَرَوُاْ",
+   "ml": "അവർ വാങ്ങി",
+   "en": "they bought"
+  },
+  {
+   "verse": 175,
+   "ar": "ٱلضَّلَٰلَةَ",
+   "ml": "വഴിപിഴവ്, ദുർമാർഗം",
+   "en": "error, misguidance"
+  },
+  {
+   "verse": 175,
+   "ar": "بِٱلۡهُدَىٰ",
+   "ml": "നേർമാർഗത്തിന് (പകരം)",
+   "en": "(in exchange) for the straight way"
+  },
+  {
+   "verse": 175,
+   "ar": "وَٱلۡعَذَابَ",
+   "ml": "ശിക്ഷയെയും",
+   "en": "and punishment"
+  },
+  {
+   "verse": 175,
+   "ar": "بِٱلۡمَغۡفِرَةِ",
+   "ml": "പാപമോചനത്തിന്(പകരം), പൊറുക്കുന്നതിന്",
+   "en": "(in exchange) for forgiveness of sins, for forgiving"
+  },
+  {
+   "verse": 175,
+   "ar": "فَمَآ أَصۡبَرَهُمۡ",
+   "ml": "അപ്പോൾ അവർക്ക് സഹനമുണ്ടാക്കിയതെന്ത്",
+   "en": "then what has produced forbearance for them"
+  },
+  {
+   "verse": 175,
+   "ar": "عَلَى ٱلنَّارِ",
+   "ml": "നരകത്തെക്കുറിച്ച്",
+   "en": "about Hell"
+  },
+  {
+   "verse": 176,
+   "ar": "ذَٰلِكَ",
+   "ml": "അത്",
+   "en": "that"
+  },
+  {
+   "verse": 176,
+   "ar": "بِأَنَّ ٱللَّهَ",
+   "ml": "അല്ലാഹു (ആകുന്നു) എന്നതുകൊണ്ടാണ്",
+   "en": "is because Allah (is)"
+  },
+  {
+   "verse": 176,
+   "ar": "نَزَّلَ ٱلۡكِتَٰبَ",
+   "ml": "ഗ്രന്ഥം ഇറക്കി (എന്നത്)",
+   "en": "(that He) sent down the book"
+  },
+  {
+   "verse": 176,
+   "ar": "بِٱلۡحَقِّ",
+   "ml": "യഥാർത്ഥപ്രകാരം, മുറയനുസരിച്ച്",
+   "en": "according to the real, in accordance with the proper manner"
+  },
+  {
+   "verse": 176,
+   "ar": "وَإِنَّ ٱلَّذِينَ",
+   "ml": "നിശ്ചയമായും യാതൊരുകൂട്ടർ",
+   "en": "surely the group who"
+  },
+  {
+   "verse": 176,
+   "ar": "ٱخۡتَلَفُواْ",
+   "ml": "അവർ ഭിന്നാഭിപ്രായത്തിലായിരിക്കുന്നു",
+   "en": "they have come to be in difference of opinion"
+  },
+  {
+   "verse": 176,
+   "ar": "فِي ٱلۡكِتَٰبِ",
+   "ml": "(വേദ)ഗ്രന്ഥത്തിൽ",
+   "en": "in the (scriptural) book"
+  },
+  {
+   "verse": 176,
+   "ar": "لَفِي شِقَاقِۭ",
+   "ml": "കക്ഷിത്തത്തിൽ തന്നെ",
+   "en": "in partisanship indeed"
+  },
+  {
+   "verse": 176,
+   "ar": "بَعِيدٖ",
+   "ml": "വിദൂരമായ",
+   "en": "remote"
+  }
+ ]
+}
