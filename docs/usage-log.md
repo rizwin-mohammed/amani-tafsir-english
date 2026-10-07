@@ -31,3 +31,4 @@ everything read, most of which is re-reading earlier context from cache.
 | 2026-10-03 | Al-Baqarah part 22 | 388-398 | 11 | 141-143 | n/a | 479,903 | Translator 286,554 + checker 193,349 tokens; checker made 6 corrections + 5 DOUBTs. Cache reads 27.6M (2.5M per page). Checker paused ~2h by a usage limit, then resumed |
 | 2026-10-03 | Al-Baqarah part 23 | 398-408 | 11 | 144-152 | n/a | 534,450 | Translator 298,470 + checker 235,980 tokens; checker made 6 corrections. Cache reads 38.7M (3.5M per page) |
 | 2026-10-07 | Al-Baqarah part 24 | 408-419 | 12 | 153-160 | n/a | 507,744 | Translator 304,122 + checker 203,622 tokens; checker made 2 corrections and added 1 DOUBT. Cache reads 33.9M (2.8M per page) |
+| 2026-10-07 | Al-Baqarah part 25 | 419-430 | 12 | 161-167 | n/a | 602,546 | Translator 328,002 + checker 274,544 tokens; checker made 18 corrections (4 Arabic as printed). Cache reads 53.8M (4.5M per page) |
