@@ -76,7 +76,7 @@ function layout({ title, body, rel = '', description = '' }) {
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description || 'English translation of Muhammad Amani Moulavi\'s Malayalam tafsir of the Holy Quran.')}">
 ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
-<script>try{document.documentElement.dataset.theme=localStorage.getItem('amani-tafsir:theme')||'light'}catch(e){document.documentElement.dataset.theme='light'}</script>
+<script>(function(){var d=document.documentElement,s={};try{s=JSON.parse(localStorage.getItem('amani-tafsir:reader'))||{};if(!s.theme)s.theme=localStorage.getItem('amani-tafsir:theme');if(s.ml===undefined){var o=JSON.parse(localStorage.getItem('amani-tafsir:v1')||'{}');if(o&&o.prefs&&o.prefs.showMl===false)s.ml=false}}catch(e){}d.dataset.theme=s.theme==='dark'||s.theme==='sepia'?s.theme:'light';d.dataset.size=/^(xs|s|m|l|xl)$/.test(s.size)?s.size:'m';d.dataset.lh=/^(xs|s|m)$/.test(s.lh)?s.lh:'s';d.dataset.ar=/^(xs|s|m|l)$/.test(s.ar)?s.ar:'s';[['arText','ar'],['ml','ml'],['words','words'],['comm','comm']].forEach(function(k){if(s[k[0]]===false)d.classList.add('hide-'+k[1])})})()</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Inter:wght@400;600&family=Noto+Naskh+Arabic:wght@400;600&family=Noto+Sans+Malayalam:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
@@ -97,7 +97,7 @@ ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
     <a href="${BASE}/en/search/">Search</a>
     <a href="${BASE}/en/bookmarks/">My bookmarks</a>
     <a href="${BASE}/en/about/">About</a>
-    <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between light and dark">Dark</button>
+    <button type="button" class="settings-btn" id="settings-open" aria-label="Reading settings" aria-haspopup="dialog" aria-controls="settings-panel" title="Reading settings"><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M4 7h10M18 7h2M4 17h4M12 17h8" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/><circle cx="16" cy="7" r="2.2" stroke="currentColor" stroke-width="2" fill="none"/><circle cx="10" cy="17" r="2.2" stroke="currentColor" stroke-width="2" fill="none"/></svg><span class="settings-label">Settings</span></button>
   </nav>
 </header>
 ${PREVIEW ? '<div class="preview-bar">Preview. This site is still being built and reviewed; please do not share it yet.</div>' : ''}
@@ -207,8 +207,8 @@ function buildSurah(dir, searchIndex) {
 <h2 data-anchor="${id}">Verses ${esc(range)}</h2>
 <p class="part-meta"><span class="badge ${s.cls}">${s.label}</span>${versionNote(part.meta)} · Book pages ${esc(part.meta.pages)}</p>
 ${verseTable(n, part.verses.verses)}
-${part.words ? `<h3 class="words-h">Meanings of the individual words</h3>${wordTable(part.words.words)}` : ''}
-${commentary}
+${part.words ? `<div class="words-block"><h3 class="words-h">Meanings of the individual words</h3>${wordTable(part.words.words)}</div>` : ''}
+<div class="commentary">${commentary}</div>
 </section>\n`;
       versesDone.push(...part.verses.verses);
       sectionIndex(commentary, `Verses ${range}`, id);
@@ -222,8 +222,8 @@ ${words ? '<li class="l2"><a href="#words">Meanings of the individual words</a><
     main = `<h2 id="verses" data-anchor="verses">The text and its translation</h2>
 ${verseTable(n, verses.verses)}
 ${verses.source_pages ? `<p class="note">Book pages ${esc(verses.source_pages)}.</p>` : ''}
-${words ? `<h2 id="words" data-anchor="words">Meanings of the individual words</h2>${wordTable(words.words)}` : ''}
-${commentary}`;
+${words ? `<div class="words-block"><h2 id="words" data-anchor="words">Meanings of the individual words</h2>${wordTable(words.words)}</div>` : ''}
+<div class="commentary">${commentary}</div>`;
     versesDone = verses.verses;
     sectionIndex(commentary, meta.title, '');
   }
@@ -245,7 +245,7 @@ ${commentary}`;
 <p class="source">${esc(meta.source)} · ${ch.verses.length} verses</p>
 ${statusBadge(meta)}
 ${progress}
-<div class="tools"><label><input type="checkbox" id="toggle-ml" checked> Show Malayalam</label></div>
+<p class="tools"><button type="button" class="settings-inline" data-open-settings aria-haspopup="dialog" aria-controls="settings-panel">Reading settings: theme, text size, what to show</button></p>
 <details class="toc"><summary>Contents</summary><ul>
 ${tocIntro.join('\n')}
 ${tocHead}
@@ -266,7 +266,7 @@ ${main}
     }
   }
   versesDone.forEach((v) => searchIndex.push({ s: n, t: meta.title, h: `Verse ${v.n}`, a: `v${n}-${v.n}`, u: `${BASE}/${rel}`, x: v.en }));
-  return { n, dir, meta, done: versesDone.length, total: ch.verses.length };
+  return { n, dir, meta, done: versesDone.length, total: ch.verses.length, parts: parts ? parts.map((p) => p.meta.status) : null };
 }
 
 function main() {
@@ -275,13 +275,31 @@ function main() {
   const dirs = fs.readdirSync(path.join(ROOT, 'content/en')).filter((d) => /^\d{3}-/.test(d)).sort();
   const built = Object.fromEntries(dirs.map((d) => { const r = buildSurah(d, searchIndex); return [r.n, r]; }));
 
+  // Short badge words for the library; the full wording stays on each surah page.
+  const SHORT = { draft: 'Draft', checked: 'Checked', approved: 'Approved' };
+  const place = { meccan: 'Makkah', medinan: 'Madinah' };
   const list = quran.map((ch) => {
     const b = built[ch.n];
-    const s = b ? STATUS[b.meta.status] || STATUS.draft : null;
-    const name = `<span class="n">${ch.n}</span> <span class="name">${esc(ch.name)}</span> <span class="ar" lang="ar" dir="rtl">${esc(ch.name_ar)}</span>`;
+    const st = b ? (STATUS[b.meta.status] ? b.meta.status : 'draft') : 'todo';
+    const facts = [place[ch.type], `${ch.verses.length} verses`].filter(Boolean);
+    if (b) {
+      facts.push(`${b.done} translated`);
+      if (b.parts) {
+        facts.push(`${b.parts.length} part${b.parts.length === 1 ? '' : 's'}`);
+        const checked = b.parts.filter((x) => x === 'checked' || x === 'approved').length;
+        const approved = b.parts.filter((x) => x === 'approved').length;
+        if (st === 'draft' && checked) facts.push(`${checked} checked`);
+        if (st !== 'approved' && approved) facts.push(`${approved} approved`);
+      }
+    }
+    const badge = b
+      ? `<span class="lib-badge ${st}" title="${esc(STATUS[st].label)}">${SHORT[st]}</span>`
+      : '<span class="lib-badge todo">Not translated</span>';
+    const inner = `<span class="n">${ch.n}</span><span class="lib-main"><span class="lib-title"><span class="name">${esc(ch.name)}</span> <span class="ar" lang="ar" dir="rtl">${esc(ch.name_ar)}</span></span><span class="lib-facts">${facts.join(' · ')}</span></span>${badge}`;
+    const attrs = `data-n="${ch.n}" data-name="${esc(ch.name)} ${esc(ch.name_ar)}" data-status="${st}"`;
     return b
-      ? `<li class="ready"><a href="${BASE}/en/${b.dir}/">${name}<span class="badge ${s.cls}">${s.label}${b.done < b.total ? ` · ${b.done} of ${b.total} verses` : ''}</span></a></li>`
-      : `<li class="todo"><span>${name}<span class="badge todo">Not yet translated</span></span></li>`;
+      ? `<li class="ready" ${attrs}><a href="${BASE}/en/${b.dir}/">${inner}</a></li>`
+      : `<li class="todo" ${attrs}><span aria-disabled="true">${inner}</span></li>`;
   });
   const done = Object.keys(built).length;
   const home = `<section class="hero">
@@ -289,6 +307,12 @@ function main() {
 <p>An English translation of <em>Vishuddha Quran Vivaranam</em>, the Malayalam tafsir by Muhammad Amani Moulavi, published surah by surah after careful review.</p>
 <p class="progress">${done} of 114 surahs translated so far.</p>
 </section>
+<h2 class="lib-h" id="library">Surah library</h2>
+<div class="lib-tools" role="search">
+<label class="lib-filter"><span class="visually-hidden">Filter surahs by name or number</span><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2" fill="none"/><path d="M20 20l-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><input type="search" id="surah-filter" placeholder="Filter surahs by name or number" autocomplete="off"></label>
+<button type="button" id="translated-only" class="lib-only" aria-pressed="false">Translated only</button>
+</div>
+<p class="lib-count" id="lib-count" aria-live="polite"></p>
 <ol class="surah-list">${list.join('\n')}</ol>`;
   write('en/index.html', layout({ title: SITE_NAME, body: home, rel: 'en/' }));
   write('index.html', `<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=${BASE}/en/"><link rel="canonical" href="${BASE}/en/"><a href="${BASE}/en/">${SITE_NAME}</a>`);
