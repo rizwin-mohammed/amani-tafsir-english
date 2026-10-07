@@ -1,0 +1,448 @@
+{
+ "words": [
+  {
+   "verse": 177,
+   "ar": "لَّيۡسَ",
+   "ml": "അല്ല",
+   "en": "not"
+  },
+  {
+   "verse": 177,
+   "ar": "ٱلۡبِرَّ",
+   "ml": "പുണ്യം, നൻമ",
+   "en": "merit, good"
+  },
+  {
+   "verse": 177,
+   "ar": "أَن تُوَلُّواْ",
+   "ml": "നിങ്ങൾ തിരിക്കൽ",
+   "en": "your turning"
+  },
+  {
+   "verse": 177,
+   "ar": "وُجُوهَكُمۡ",
+   "ml": "നിങ്ങളുടെ മുഖങ്ങളെ",
+   "en": "your faces"
+  },
+  {
+   "verse": 177,
+   "ar": "قِبَلَ",
+   "ml": "നേരെ, നേർക്ക്",
+   "en": "toward, in the direction of"
+  },
+  {
+   "verse": 177,
+   "ar": "ٱلۡمَشۡرِقِ",
+   "ml": "ഉദയസ്ഥാനത്തിന്റെ, കിഴക്കിന്റെ",
+   "en": "of the place of rising, of the east"
+  },
+  {
+   "verse": 177,
+   "ar": "وَٱلۡمَغۡرِبِ",
+   "ml": "അസ്തമയസ്ഥാനത്തി(പടിഞ്ഞാറി)ന്റെയും",
+   "en": "and of the place of setting (of the west)"
+  },
+  {
+   "verse": 177,
+   "ar": "وَلَٰكِنَّ",
+   "ml": "പക്ഷേ, എങ്കിലും, എന്നാൽ",
+   "en": "but, however, yet"
+  },
+  {
+   "verse": 177,
+   "ar": "ٱلۡبِرَّ",
+   "ml": "പുണ്യം, പുണ്യവാൻ, നന്മ, നന്മ ചെയ്യുന്നവൻ",
+   "en": "merit, the meritorious one, good, one who does good"
+  },
+  {
+   "verse": 177,
+   "ar": "مَنۡ",
+   "ml": "യാതൊരുവനാണ്, യാതൊരുവന്റെയാണ്",
+   "en": "is the one who, is that of the one who"
+  },
+  {
+   "verse": 177,
+   "ar": "ءَامَنَ",
+   "ml": "അവൻ വിശ്വസിച്ചു",
+   "en": "he believed"
+  },
+  {
+   "verse": 177,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ",
+   "en": "in Allah"
+  },
+  {
+   "verse": 177,
+   "ar": "وَٱلۡيَوۡمِ ٱلۡأٓخِرِ",
+   "ml": "അന്ത്യദിനത്തിലും",
+   "en": "and in the Last Day"
+  },
+  {
+   "verse": 177,
+   "ar": "وَٱلۡمَلَـٰٓئِكَةِ",
+   "ml": "മലക്കുകളിലും",
+   "en": "and in the angels"
+  },
+  {
+   "verse": 177,
+   "ar": "وَٱلۡكِتَٰبِ",
+   "ml": "(വേദ)ഗ്രന്ഥത്തിലും",
+   "en": "and in the (scriptural) book"
+  },
+  {
+   "verse": 177,
+   "ar": "وَٱلنَّبِيِّـۧنَ",
+   "ml": "പ്രവാചകൻമാരിലും",
+   "en": "and in the prophets"
+  },
+  {
+   "verse": 177,
+   "ar": "وَءَاتَى",
+   "ml": "അവൻ കൊടുക്കുകയും ചെയ്തു",
+   "en": "and he gave"
+  },
+  {
+   "verse": 177,
+   "ar": "ٱلۡمَالَ",
+   "ml": "ധനം",
+   "en": "wealth"
+  },
+  {
+   "verse": 177,
+   "ar": "عَلَىٰ حُبِّهِۦ",
+   "ml": "അതിനോട് പ്രിയത്തോടെ",
+   "en": "with fondness for it"
+  },
+  {
+   "verse": 177,
+   "ar": "ذَوِي ٱلۡقُرۡبَىٰ",
+   "ml": "അടുത്ത(കുടുംബ) ബന്ധം ഉള്ളവർക്ക്",
+   "en": "to those who have close (family) ties"
+  },
+  {
+   "verse": 177,
+   "ar": "وَٱلۡيَتَٰمَىٰ",
+   "ml": "അനാഥകൾക്ക്",
+   "en": "to orphans"
+  },
+  {
+   "verse": 177,
+   "ar": "وَٱلۡمَسَٰكِينَ",
+   "ml": "അഗതികൾക്കും",
+   "en": "and to the destitute"
+  },
+  {
+   "verse": 177,
+   "ar": "وَٱبۡنَ ٱلسَّبِيلِ",
+   "ml": "വഴിപോക്കനും",
+   "en": "and to the wayfarer"
+  },
+  {
+   "verse": 177,
+   "ar": "وَٱلسَّآئِلِينَ",
+   "ml": "ചോദിക്കുന്നവർക്കും",
+   "en": "and to those who ask"
+  },
+  {
+   "verse": 177,
+   "ar": "وَفِي ٱلرِّقَابِ",
+   "ml": "അടിമകളിലും",
+   "en": "and in slaves"
+  },
+  {
+   "verse": 177,
+   "ar": "وَأَقَامَ",
+   "ml": "അവൻ നിലനിറുത്തുകയും ചെയ്തു",
+   "en": "and he established"
+  },
+  {
+   "verse": 177,
+   "ar": "ٱلصَّلَوٰةَ",
+   "ml": "നമസ്കാരം",
+   "en": "the prayer"
+  },
+  {
+   "verse": 177,
+   "ar": "وَءَاتَى ٱلزَّكَوٰةَ",
+   "ml": "അവൻ സകാത്ത് കൊടുക്കുകയും (ചെയ്തു)",
+   "en": "and he (did) give Zakat"
+  },
+  {
+   "verse": 177,
+   "ar": "وَٱلۡمُوفُونَ",
+   "ml": "നിറവേറ്റുന്നവരും",
+   "en": "and those who fulfil"
+  },
+  {
+   "verse": 177,
+   "ar": "بِعَهۡدِهِمۡ",
+   "ml": "തങ്ങളുടെ കരാറിനെ, ഉടമ്പടിയെ, പ്രതിജ്ഞയെ",
+   "en": "their pact, covenant, pledge"
+  },
+  {
+   "verse": 177,
+   "ar": "إِذَا عَٰهَدُواْ",
+   "ml": "അവർ കരാർ(ഉടമ്പടി-പ്രതിജ്ഞ)ചെയ്താൽ",
+   "en": "if they make a pact (covenant-pledge)"
+  },
+  {
+   "verse": 177,
+   "ar": "وَٱلصَّـٰبِرِينَ",
+   "ml": "ക്ഷമിക്കുന്നവരും (വിശേഷിച്ച്)",
+   "en": "and those who are patient (especially)"
+  },
+  {
+   "verse": 177,
+   "ar": "فِي ٱلۡبَأۡسَآءِ",
+   "ml": "വിഷമതയിൽ, ദുരിതാവസ്ഥയിൽ",
+   "en": "in hardship, in a state of misery"
+  },
+  {
+   "verse": 177,
+   "ar": "وَٱلضَّرَّآءِ",
+   "ml": "കഷ്ടപ്പാടിലും",
+   "en": "and in suffering"
+  },
+  {
+   "verse": 177,
+   "ar": "وَحِينَ ٱلۡبَأۡسِ",
+   "ml": "സങ്കടത്തിന്റെ (യുദ്ധത്തിന്റെ)അവസരത്തിലും",
+   "en": "and on the occasion of sorrow (of war)"
+  },
+  {
+   "verse": 177,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those people"
+  },
+  {
+   "verse": 177,
+   "ar": "ٱلَّذِينَ صَدَقُواْ",
+   "ml": "സത്യം പറഞ്ഞവരത്രെ",
+   "en": "are indeed the ones who spoke the truth"
+  },
+  {
+   "verse": 177,
+   "ar": "وَأُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those people"
+  },
+  {
+   "verse": 177,
+   "ar": "هُمُ",
+   "ml": "അവർ(തന്നെ)",
+   "en": "they (indeed)"
+  },
+  {
+   "verse": 177,
+   "ar": "ٱلۡمُتَّقُونَ",
+   "ml": "സൂക്ഷ്മതയുള്ളവർ, ഭയഭക്തൻമാർ.",
+   "en": "the ones who have caution, the God-fearing."
+  },
+  {
+   "verse": 178,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "ഹേ, വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 178,
+   "ar": "كُتِبَ",
+   "ml": "രേഖപ്പെടുത്ത (നിയമിക്ക)പ്പെട്ടിരിക്കുന്നു",
+   "en": "has been recorded (prescribed)"
+  },
+  {
+   "verse": 178,
+   "ar": "عَلَيۡكُمُ",
+   "ml": "നിങ്ങളുടെ മേൽ",
+   "en": "upon you"
+  },
+  {
+   "verse": 178,
+   "ar": "ٱلۡقِصَاصُ",
+   "ml": "പ്രതിക്രിയ നടത്തൽ",
+   "en": "carrying out retaliation"
+  },
+  {
+   "verse": 178,
+   "ar": "فِي ٱلۡقَتۡلَى",
+   "ml": "വധിക്കപ്പെട്ട വിഷയത്തിൽ",
+   "en": "in the matter of the ones put to death"
+  },
+  {
+   "verse": 178,
+   "ar": "ٱلۡحُرُّ",
+   "ml": "സ്വതന്ത്രൻ",
+   "en": "the free man"
+  },
+  {
+   "verse": 178,
+   "ar": "بِٱلۡحُرِّ",
+   "ml": "സ്വതന്ത്രന് (പകരം)",
+   "en": "(in exchange) for the free man"
+  },
+  {
+   "verse": 178,
+   "ar": "وَٱلۡعَبۡدُ",
+   "ml": "അടിമയും",
+   "en": "and the slave"
+  },
+  {
+   "verse": 178,
+   "ar": "بِٱلۡعَبۡدِ",
+   "ml": "അടിമക്ക്(പകരം)",
+   "en": "(in exchange) for the slave"
+  },
+  {
+   "verse": 178,
+   "ar": "وَٱلۡأُنثَىٰ",
+   "ml": "സ്ത്രീയും",
+   "en": "and the woman"
+  },
+  {
+   "verse": 178,
+   "ar": "بِٱلۡأُنثَىٰ",
+   "ml": "സ്ത്രീക്ക്(പകരം)",
+   "en": "(in exchange) for the woman"
+  },
+  {
+   "verse": 178,
+   "ar": "فَمَنۡ",
+   "ml": "അപ്പോൾ വല്ലവരും, ആർ",
+   "en": "then whoever, who"
+  },
+  {
+   "verse": 178,
+   "ar": "عُفِيَ لَهُۥ",
+   "ml": "അവന് മാപ്പ് ചെയ്യപ്പെട്ടു(വെങ്കിൽ)",
+   "en": "it has been pardoned to him (if)"
+  },
+  {
+   "verse": 178,
+   "ar": "مِنۡ أَخِيهِ",
+   "ml": "തന്റെ സഹോദരനിൽ നിന്ന്",
+   "en": "from his brother"
+  },
+  {
+   "verse": 178,
+   "ar": "شَيۡءٞ",
+   "ml": "വല്ലതും, എന്തെങ്കിലും വസ്തു",
+   "en": "anything, some thing"
+  },
+  {
+   "verse": 178,
+   "ar": "فَٱتِّبَاعُۢ",
+   "ml": "എന്നാൽ പിൻപറ്റൽ, തുടരൽ",
+   "en": "then following, continuing"
+  },
+  {
+   "verse": 178,
+   "ar": "بِٱلۡمَعۡرُوفِ",
+   "ml": "സദാചാര പ്രകാരം, മര്യാദ(വഴക്കം)അനുസരിച്ച്",
+   "en": "according to good practice, in accordance with propriety (usage)"
+  },
+  {
+   "verse": 178,
+   "ar": "وَأَدَآءٌ",
+   "ml": "കൊടുത്തുവീട്ടലും",
+   "en": "and paying off"
+  },
+  {
+   "verse": 178,
+   "ar": "إِلَيۡهِ",
+   "ml": "അവനിലേക്ക്, അവന്",
+   "en": "toward him, to him"
+  },
+  {
+   "verse": 178,
+   "ar": "بِإِحۡسَٰنٖ",
+   "ml": "നൻമ ചെയ്തുകൊണ്ട് (നല്ലനിലയിൽ)",
+   "en": "doing good (in a good manner)"
+  },
+  {
+   "verse": 178,
+   "ar": "ذَٰلِكَ",
+   "ml": "അത്",
+   "en": "that"
+  },
+  {
+   "verse": 178,
+   "ar": "تَخۡفِيفٞ",
+   "ml": "ലഘൂകരണം(ഇളവ്)",
+   "en": "a lightening (relaxation)"
+  },
+  {
+   "verse": 178,
+   "ar": "مِّن رَّبِّكُمۡ",
+   "ml": "നിങ്ങളുടെ റബ്ബിങ്കൽ നിന്ന്",
+   "en": "from your Rabb"
+  },
+  {
+   "verse": 178,
+   "ar": "وَرَحۡمَةٞ",
+   "ml": "കാരുണ്യവും",
+   "en": "and a mercy"
+  },
+  {
+   "verse": 178,
+   "ar": "فَمَنِ ٱعۡتَدَىٰ",
+   "ml": "എനി ആരെങ്കിലും അതിരുവിട്ടാൽ, ക്രമം തെറ്റിയാൽ",
+   "en": "now if anyone oversteps the bounds, if he departs from order"
+  },
+  {
+   "verse": 178,
+   "ar": "بَعۡدَ ذَٰلِكَ",
+   "ml": "അതിന് ശേഷം",
+   "en": "after that"
+  },
+  {
+   "verse": 178,
+   "ar": "فَلَهُۥ",
+   "ml": "എന്നാൽ അവനുണ്ട്",
+   "en": "then for him there is"
+  },
+  {
+   "verse": 178,
+   "ar": "عَذَابٌ أَلِيمٞ",
+   "ml": "വേദനയേറിയ ശിക്ഷ",
+   "en": "a painful punishment"
+  },
+  {
+   "verse": 179,
+   "ar": "وَلَكُمۡ",
+   "ml": "നിങ്ങൾക്കുണ്ട്",
+   "en": "for you there is"
+  },
+  {
+   "verse": 179,
+   "ar": "فِي ٱلۡقِصَاصِ",
+   "ml": "പ്രതികാര നടപടിയിൽ",
+   "en": "in retributive action"
+  },
+  {
+   "verse": 179,
+   "ar": "حَيَوٰةٞ",
+   "ml": "ഒരു (തരം)ജീവിതം",
+   "en": "a (kind of) life"
+  },
+  {
+   "verse": 179,
+   "ar": "يَـٰٓأُوْلِي ٱلۡأَلۡبَٰبِ",
+   "ml": "ബുദ്ധിമാൻമാരേ",
+   "en": "O men of reason"
+  },
+  {
+   "verse": 179,
+   "ar": "لَعَلَّكُمۡ",
+   "ml": "നിങ്ങളായേക്കാം, ആകുവാൻ വേണ്ടി",
+   "en": "you may be, in order to be"
+  },
+  {
+   "verse": 179,
+   "ar": "تَتَّقُونَ",
+   "ml": "നിങ്ങൾ സുക്ഷ്മത പാലിക്കും.",
+   "en": "you will observe caution."
+  }
+ ]
+}
