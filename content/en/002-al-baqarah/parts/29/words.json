@@ -1,0 +1,376 @@
+{
+ "words": [
+  {
+   "verse": 183,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "ഹേ വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 183,
+   "ar": "كُتِبَ",
+   "ml": "നിയമിക്ക (രേഖപ്പെടുത്ത)പ്പെട്ടിരിക്കുന്നു.",
+   "en": "has been prescribed (recorded)."
+  },
+  {
+   "verse": 183,
+   "ar": "عَلَيۡكُمُ",
+   "ml": "നിങ്ങളുടെ മേൽ",
+   "en": "upon you"
+  },
+  {
+   "verse": 183,
+   "ar": "ٱلصِّيَامُ",
+   "ml": "നോമ്പുനോൽക്കൽ",
+   "en": "the observing of fasting"
+  },
+  {
+   "verse": 183,
+   "ar": "كَمَا كُتِبَ",
+   "ml": "നിയമിക്കപ്പെട്ടതുപോലെ",
+   "en": "just as it was prescribed"
+  },
+  {
+   "verse": 183,
+   "ar": "عَلَى ٱلَّذِينَ مِن قَبۡلِكُمۡ",
+   "ml": "നിങ്ങളുടെ മുമ്പുള്ളവരുടെ മേൽ",
+   "en": "upon those before you"
+  },
+  {
+   "verse": 183,
+   "ar": "لَعَلَّكُمۡ",
+   "ml": "നിങ്ങളായേക്കാം, ആകുവാൻ വേണ്ടി",
+   "en": "you may be, so that you may be"
+  },
+  {
+   "verse": 183,
+   "ar": "تَتَّقُونَ",
+   "ml": "സൂക്ഷ്മത പാലിക്കും.",
+   "en": "will observe caution."
+  },
+  {
+   "verse": 184,
+   "ar": "أَيَّامٗا",
+   "ml": "ചില ദിവസങ്ങളിൽ",
+   "en": "on some days"
+  },
+  {
+   "verse": 184,
+   "ar": "مَّعۡدُودَٰتٖ",
+   "ml": "എണ്ണപ്പെട്ട (എണ്ണം കണക്കാക്കപ്പെട്ട)",
+   "en": "numbered (counted in number)"
+  },
+  {
+   "verse": 184,
+   "ar": "فَمَن كَانَ",
+   "ml": "എന്നാൽ ആരെങ്കിലുമായിരുന്നാൽ",
+   "en": "but if anyone was"
+  },
+  {
+   "verse": 184,
+   "ar": "مِنكُم",
+   "ml": "നിങ്ങളിൽ നിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 184,
+   "ar": "مَّرِيضًا",
+   "ml": "രോഗി",
+   "en": "sick"
+  },
+  {
+   "verse": 184,
+   "ar": "أَوۡ",
+   "ml": "അല്ലെങ്കിൽ",
+   "en": "or"
+  },
+  {
+   "verse": 184,
+   "ar": "عَلَىٰ سَفَرٖ",
+   "ml": "യാത്രയിൽ",
+   "en": "on a journey"
+  },
+  {
+   "verse": 184,
+   "ar": "فَعِدَّةٞ",
+   "ml": "എന്നാൽ (അപ്പോൾ) എണ്ണം",
+   "en": "then (at that time) the number"
+  },
+  {
+   "verse": 184,
+   "ar": "مِّنۡ أَيَّامٍ",
+   "ml": "ദിവസങ്ങളിൽ നിന്ന്",
+   "en": "from days"
+  },
+  {
+   "verse": 184,
+   "ar": "أُخَرَ",
+   "ml": "മറ്റുള്ള",
+   "en": "other"
+  },
+  {
+   "verse": 184,
+   "ar": "وَعَلَى ٱلَّذِينَ",
+   "ml": "യാതൊരുവരുടെ മേലുണ്ടായിരിക്കും",
+   "en": "there will be upon those who"
+  },
+  {
+   "verse": 184,
+   "ar": "يُطِيقُونَهُۥ",
+   "ml": "അതിന് സാധിപ്പുണ്ടാകും, അതിനവർക്ക് കഴിവുണ്ടായിത്തീരുന്നതാണ്",
+   "en": "it will become possible for it, they come to have ability for it"
+  },
+  {
+   "verse": 184,
+   "ar": "فِدۡيَةٞ",
+   "ml": "ഒരു തെണ്ടം (പ്രായശ്ചിത്തം)",
+   "en": "a ransom (atonement)"
+  },
+  {
+   "verse": 184,
+   "ar": "طَعَامُ",
+   "ml": "(അതായത്) ഭക്ഷണം",
+   "en": "(that is) food"
+  },
+  {
+   "verse": 184,
+   "ar": "مِسۡكِينٖ",
+   "ml": "ഒരു സാധുവിന്റെ, പാവത്തിന്റെ",
+   "en": "of a needy person, of a poor one"
+  },
+  {
+   "verse": 184,
+   "ar": "فَمَن",
+   "ml": "എന്നാൽ ആർ, ആരെങ്കിലും",
+   "en": "then who, anyone"
+  },
+  {
+   "verse": 184,
+   "ar": "تَطَوَّعَ",
+   "ml": "സ്വമേധയാചെയ്തു, സ്വയം വഴിപ്പെട്ടു ചെയ്തു",
+   "en": "did voluntarily, did yielding of himself"
+  },
+  {
+   "verse": 184,
+   "ar": "خَيۡرٗا",
+   "ml": "വല്ല നന്മയും, നല്ല കാര്യം",
+   "en": "any goodness, a good thing"
+  },
+  {
+   "verse": 184,
+   "ar": "فَهُوَ",
+   "ml": "എന്നാലത്",
+   "en": "then that"
+  },
+  {
+   "verse": 184,
+   "ar": "خَيۡرٞ لَّهُۥ",
+   "ml": "അവന് ഗുണമാണ്, കൂടുതൽ നല്ലതാണ്",
+   "en": "is good for him, is better"
+  },
+  {
+   "verse": 184,
+   "ar": "وَأَن تَصُومُواْ",
+   "ml": "നിങ്ങൾ നോമ്പുനോൽക്കുന്നത്",
+   "en": "your observing fasting"
+  },
+  {
+   "verse": 184,
+   "ar": "خَيۡرٞ لَّكُمۡ",
+   "ml": "നിങ്ങൾക്ക് ഉത്തമമാണ്, കൂടുതൽ നല്ലതാകുന്നു",
+   "en": "is excellent for you, is better"
+  },
+  {
+   "verse": 184,
+   "ar": "إِن كُنتُمۡ",
+   "ml": "നിങ്ങളാകുന്നുവെങ്കിൽ",
+   "en": "if you are"
+  },
+  {
+   "verse": 184,
+   "ar": "تَعۡلَمُونَ",
+   "ml": "നിങ്ങൾ അറിയും",
+   "en": "you will know"
+  },
+  {
+   "verse": 185,
+   "ar": "شَهۡرُ رَمَضَانَ",
+   "ml": "റമദാൻ മാസം",
+   "en": "the month of Ramadan"
+  },
+  {
+   "verse": 185,
+   "ar": "ٱلَّذِيٓ أُنزِلَ",
+   "ml": "അവതരിപ്പിക്കപ്പെട്ടതാണ്",
+   "en": "is that which … was sent down"
+  },
+  {
+   "verse": 185,
+   "ar": "فِيهِ",
+   "ml": "അതിൽ",
+   "en": "in it"
+  },
+  {
+   "verse": 185,
+   "ar": "ٱلۡقُرۡءَانُ",
+   "ml": "ക്വുർആൻ",
+   "en": "the Quran"
+  },
+  {
+   "verse": 185,
+   "ar": "هُدٗى",
+   "ml": "മാർഗദർശനമായി, സന്മാർഗമായി",
+   "en": "as guidance, as right guidance"
+  },
+  {
+   "verse": 185,
+   "ar": "لِّلنَّاسِ",
+   "ml": "മനുഷ്യർക്ക്",
+   "en": "for mankind"
+  },
+  {
+   "verse": 185,
+   "ar": "وَبَيِّنَٰتٖ",
+   "ml": "തെളിവുകളായും, വ്യക്തമായ അടയാളങ്ങളായും",
+   "en": "and as proofs, and as clear marks"
+  },
+  {
+   "verse": 185,
+   "ar": "مِّنَ ٱلۡهُدَىٰ",
+   "ml": "മാർഗദർശനമാകുന്ന, സന്മാർഗത്തിൽപ്പെട്ട",
+   "en": "that are guidance, that belong to right guidance"
+  },
+  {
+   "verse": 185,
+   "ar": "وَٱلۡفُرۡقَانِ",
+   "ml": "വിവേചനവും, വേർതിരിക്കുന്നതും",
+   "en": "and discrimination, and that which separates"
+  },
+  {
+   "verse": 185,
+   "ar": "فَمَن شَهِدَ",
+   "ml": "ആകയാൽ (അപ്പോൾ) ആരെങ്കിലും ഹാജറുണ്ടായാൽ",
+   "en": "therefore (then) if anyone was present"
+  },
+  {
+   "verse": 185,
+   "ar": "مِنكُمُ",
+   "ml": "നിങ്ങളിൽ നിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 185,
+   "ar": "ٱلشَّهۡرَ",
+   "ml": "(ആ)മാസത്തിൽ",
+   "en": "in (that) month"
+  },
+  {
+   "verse": 185,
+   "ar": "فَلۡيَصُمۡهُ",
+   "ml": "എന്നാലവൻ അതിൽ നോമ്പുനോൽക്കട്ടെ",
+   "en": "then let him observe fasting in it"
+  },
+  {
+   "verse": 185,
+   "ar": "وَمَن كَانَ",
+   "ml": "ആരെങ്കിലും ആയിരുന്നാൽ, ആണെങ്കിൽ",
+   "en": "if anyone was, if anyone is"
+  },
+  {
+   "verse": 185,
+   "ar": "مَرِيضًا",
+   "ml": "രോഗി",
+   "en": "sick"
+  },
+  {
+   "verse": 185,
+   "ar": "أَوۡ عَلَىٰ سَفَرٖ",
+   "ml": "അല്ലെങ്കിൽ യാത്രയിൽ",
+   "en": "or on a journey"
+  },
+  {
+   "verse": 185,
+   "ar": "فَعِدَّةٞ",
+   "ml": "എന്നാൽ എണ്ണം",
+   "en": "then the number"
+  },
+  {
+   "verse": 185,
+   "ar": "مِّنۡ أَيَّامٍ أُخَرَ",
+   "ml": "മറ്റു ദിവസങ്ങളിൽ നിന്ന്",
+   "en": "from other days"
+  },
+  {
+   "verse": 185,
+   "ar": "يُرِيدُ ٱللَّهُ",
+   "ml": "അല്ലാഹു ഉദ്ദേശിക്കുന്നു",
+   "en": "Allah intends"
+  },
+  {
+   "verse": 185,
+   "ar": "بِكُمُ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "for you"
+  },
+  {
+   "verse": 185,
+   "ar": "ٱلۡيُسۡرَ",
+   "ml": "എളുപ്പം (സൗകര്യം), ലഘുത്വം",
+   "en": "ease (convenience), lightness"
+  },
+  {
+   "verse": 185,
+   "ar": "وَلَا يُرِيدُ بِكُمُ",
+   "ml": "നിങ്ങളിൽ അവൻ ഉദ്ദേശിക്കുന്നുമില്ല",
+   "en": "and He does not intend with you"
+  },
+  {
+   "verse": 185,
+   "ar": "ٱلۡعُسۡرَ",
+   "ml": "ഞെരുക്കം, പ്രയാസം",
+   "en": "straitness, trouble"
+  },
+  {
+   "verse": 185,
+   "ar": "وَلِتُكۡمِلُواْ",
+   "ml": "നിങ്ങൾ പൂർത്തിയാക്കുവാൻ വേണ്ടിയും",
+   "en": "and so that you may complete"
+  },
+  {
+   "verse": 185,
+   "ar": "ٱلۡعِدَّةَ",
+   "ml": "എണ്ണം",
+   "en": "the number"
+  },
+  {
+   "verse": 185,
+   "ar": "وَلِتُكَبِّرُواْ",
+   "ml": "നിങ്ങൾ ‘തക്ബീർ’ ചെയ്യാനും, മഹത്വകീർത്തനം നടത്തുവാനും",
+   "en": "and so that you may do ‘takbir’, and perform glorification"
+  },
+  {
+   "verse": 185,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിന്",
+   "en": "to Allah"
+  },
+  {
+   "verse": 185,
+   "ar": "عَلَىٰ مَا هَدَىٰكُمۡ",
+   "ml": "അവൻ നിങ്ങൾക്ക് മാർഗദർശനം നൽകിയതിന്റെ പേരിൽ",
+   "en": "on account of His having given you guidance"
+  },
+  {
+   "verse": 185,
+   "ar": "وَلَعَلَّكُمۡ",
+   "ml": "നിങ്ങൾ ആകുവാനും, ആകുകയും ചെയ്യാം",
+   "en": "and so that you may be, and you may also be"
+  },
+  {
+   "verse": 185,
+   "ar": "تَشۡكُرُونَ",
+   "ml": "നന്ദി കാണിക്കും",
+   "en": "will show thanks"
+  }
+ ]
+}
