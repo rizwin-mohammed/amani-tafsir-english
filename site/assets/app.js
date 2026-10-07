@@ -2,6 +2,13 @@
 // Everything is saved in this browser only (localStorage) until sign-in is added.
 (function () {
   const BASE = document.body.dataset.base || '';
+
+  // Installable app and offline reading (see /sw.js). Pages are still fetched fresh when online.
+  if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register(`${BASE}/sw.js`, { scope: `${BASE}/` }).catch(() => { /* the site still works without it */ });
+    });
+  }
   const KEY = 'amani-tafsir:v1';
 
   function load() {

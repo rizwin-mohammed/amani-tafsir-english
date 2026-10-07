@@ -2,6 +2,7 @@
 // Usage: node scripts/build.mjs   (BASE=/sub/path to serve from a sub-folder)
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { marked } from 'marked';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
@@ -82,6 +83,11 @@ ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
 <link rel="stylesheet" href="${BASE}/assets/style.css">
 <link rel="manifest" href="${BASE}/manifest.webmanifest">
 <meta name="theme-color" content="#1f5e63">
+<link rel="icon" href="${BASE}/assets/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="${BASE}/assets/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Amani Tafsir">
 </head>
 <body data-base="${BASE}" data-page="${esc(rel)}" data-repo="${REPO}">
 <header class="top">
@@ -305,9 +311,41 @@ function main() {
   write('404.html', layout({ title: `Not found · ${SITE_NAME}`, rel: '404.html', body: `<article class="prose"><h1>Page not found</h1><p><a href="${BASE}/en/">Go to the list of surahs</a></p></article>` }));
   write('search-index.json', JSON.stringify(searchIndex));
   write('robots.txt', PREVIEW ? 'User-agent: *\nDisallow: /\n' : 'User-agent: *\nAllow: /\n');
-  write('manifest.webmanifest', JSON.stringify({ name: SITE_NAME, short_name: 'Amani Tafsir', start_url: `${BASE}/en/`, display: 'standalone', background_color: '#f6f5f0', theme_color: '#1f5e63', icons: [{ src: `${BASE}/assets/icon.svg`, sizes: 'any', type: 'image/svg+xml' }] }));
+  write('en/offline/index.html', layout({ title: `Offline · ${SITE_NAME}`, rel: 'en/offline/', body: `<article class="prose"><h1>You are offline</h1>
+<p>This page has not been saved on this device yet. Pages you have opened before can still be read without a connection.</p>
+<p><a href="${BASE}/en/">Go to the list of surahs</a> · <a href="${BASE}/en/bookmarks/">My bookmarks</a></p></article>` }));
+  write('manifest.webmanifest', JSON.stringify({
+    id: `${BASE}/en/`,
+    name: SITE_NAME,
+    short_name: 'Amani Tafsir',
+    description: 'English translation of Muhammad Amani Moulavi\'s Malayalam tafsir of the Holy Quran.',
+    start_url: `${BASE}/en/`,
+    scope: `${BASE}/`,
+    display: 'standalone',
+    background_color: '#f6f5f0',
+    theme_color: '#1f5e63',
+    icons: [
+      { src: `${BASE}/assets/icon-192.png`, sizes: '192x192', type: 'image/png' },
+      { src: `${BASE}/assets/icon-512.png`, sizes: '512x512', type: 'image/png' },
+      { src: `${BASE}/assets/icon-maskable-512.png`, sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+      { src: `${BASE}/assets/icon.svg`, sizes: 'any', type: 'image/svg+xml' },
+    ],
+  }));
   fs.cpSync(path.join(ROOT, 'site/assets'), path.join(OUT, 'assets'), { recursive: true });
+  writeServiceWorker();
   console.log(`Built ${done} surah page(s) into dist/ (base "${BASE}", preview ${PREVIEW}).`);
+}
+
+// The service worker sits at the top of the site so it can serve every page. Its version is a
+// fingerprint of everything built, so each publish makes browsers refresh their saved copies.
+function writeServiceWorker() {
+  const shell = ['en/', 'en/search/', 'en/bookmarks/', 'en/about/', 'en/offline/', 'search-index.json', 'manifest.webmanifest',
+    ...fs.readdirSync(path.join(OUT, 'assets')).map((f) => `assets/${f}`)].map((p) => `${BASE}/${p}`);
+  const hash = crypto.createHash('sha256');
+  const files = (dir) => fs.readdirSync(dir, { withFileTypes: true }).flatMap((e) => (e.isDirectory() ? files(path.join(dir, e.name)) : [path.join(dir, e.name)]));
+  for (const f of files(OUT).sort()) hash.update(path.relative(OUT, f)).update(fs.readFileSync(f));
+  const sw = read(path.join(ROOT, 'site/sw.js')).replace("'__BASE__'", JSON.stringify(BASE)).replace('__SHELL__', JSON.stringify(shell, null, 2));
+  write('sw.js', `${sw}// version ${hash.digest('hex').slice(0, 16)}\n`);
 }
 
 main();
