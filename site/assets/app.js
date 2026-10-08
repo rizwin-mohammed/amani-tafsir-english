@@ -318,6 +318,31 @@
     root.classList.toggle('hide-comm', !p.showComm);
     const tc = document.querySelector('meta[name="theme-color"]');
     if (tc) tc.content = THEME_COLOR[p.theme] || THEME_COLOR.light;
+    hiddenNotice(p);
+  }
+  // On a surah page, say plainly when the reading settings hide part of the text,
+  // with one tap to show everything again, so nothing can go missing silently.
+  function hiddenNotice(p) {
+    const art = document.querySelector('article.surah');
+    if (!art) return;
+    const off = [[p.showAr, 'Arabic verse text'], [p.showMl, 'Malayalam'], [p.showWords, 'word meanings'], [p.showComm, 'commentary']]
+      .filter(([on]) => !on).map(([, name]) => name);
+    let bar = art.querySelector('.hidden-notice');
+    if (!off.length) { if (bar) bar.remove(); return; }
+    if (!bar) {
+      bar = document.createElement('div');
+      bar.className = 'hidden-notice';
+      bar.setAttribute('role', 'status');
+      bar.innerHTML = '<p></p><button type="button">Show everything</button>';
+      bar.querySelector('button').addEventListener('click', () => {
+        ['showAr', 'showMl', 'showWords', 'showComm'].forEach((k) => { prefs[k] = true; });
+        applyReader(prefs);
+        saveReader(prefs);
+      });
+      art.prepend(bar);
+    }
+    const list = off.length > 1 ? `${off.slice(0, -1).join(', ')} and ${off[off.length - 1]}` : off[0];
+    bar.querySelector('p').textContent = `Hidden by your reading settings: ${list}.`;
   }
   const prefs = readerPrefs();
   applyReader(prefs);
