@@ -1,0 +1,694 @@
+{
+ "words": [
+  {
+   "verse": 200,
+   "ar": "فَإِذَا قَضَيۡتُم",
+   "ml": "അങ്ങനെ നിങ്ങൾ നിർവഹിച്ചാൽ",
+   "en": "and so when you have carried out"
+  },
+  {
+   "verse": 200,
+   "ar": "مَّنَٰسِكَكُمۡ",
+   "ml": "നിങ്ങളുടെ ആരാധനാ (ഹജ്ജ്) കർമങ്ങളെ",
+   "en": "your rites of (Hajj) worship"
+  },
+  {
+   "verse": 200,
+   "ar": "فَٱذۡكُرُواْ",
+   "ml": "അപ്പോൾ നിങ്ങൾ സ്മരിക്കുവിൻ",
+   "en": "then remember"
+  },
+  {
+   "verse": 200,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനെ",
+   "en": "Allah"
+  },
+  {
+   "verse": 200,
+   "ar": "كَذِكۡرِكُمۡ",
+   "ml": "നിങ്ങൾ ഓർമിക്കുന്നപോലെ",
+   "en": "as you keep in mind"
+  },
+  {
+   "verse": 200,
+   "ar": "ءَابَآءَكُمۡ",
+   "ml": "നിങ്ങളുടെ പിതാക്കളെ",
+   "en": "your fathers"
+  },
+  {
+   "verse": 200,
+   "ar": "أَوۡ أَشَدَّ",
+   "ml": "അല്ലെങ്കിൽ (അഥവാ), കൂടുതൽ ശക്തമായ",
+   "en": "or else (or), stronger"
+  },
+  {
+   "verse": 200,
+   "ar": "ذِكۡرٗا",
+   "ml": "സ്മരണ",
+   "en": "remembrance"
+  },
+  {
+   "verse": 200,
+   "ar": "فَمِنَ ٱلنَّاسِ",
+   "ml": "എന്നാൽ മനുഷ്യരിലുണ്ട്",
+   "en": "but among mankind there are"
+  },
+  {
+   "verse": 200,
+   "ar": "مَن يَقُولُ",
+   "ml": "പറയുന്നവർ",
+   "en": "those who say"
+  },
+  {
+   "verse": 200,
+   "ar": "رَبَّنَآ ءَاتِنَا",
+   "ml": "ഞങ്ങളുടെ റബ്ബേ ഞങ്ങൾക്ക് നൽകണേ",
+   "en": "our Rabb, do give us"
+  },
+  {
+   "verse": 200,
+   "ar": "فِي ٱلدُّنۡيَا",
+   "ml": "ഇഹ (ലോക)ത്തിൽ",
+   "en": "in this (world)"
+  },
+  {
+   "verse": 200,
+   "ar": "وَمَا لَهُۥ",
+   "ml": "അവനില്ലതാനും",
+   "en": "and for him there is not, moreover"
+  },
+  {
+   "verse": 200,
+   "ar": "فِي ٱلۡأٓخِرَةِ",
+   "ml": "പര (ലോക)ത്തിൽ",
+   "en": "in the Here(after)"
+  },
+  {
+   "verse": 200,
+   "ar": "مِنۡ خَلَٰقٖ",
+   "ml": "ഒരു അംശവും, ഓഹരിയിൽ നിന്ന് (ഒന്നും)",
+   "en": "any part, (anything) of a share"
+  },
+  {
+   "verse": 201,
+   "ar": "وَمِنۡهُم",
+   "ml": "അവരിലുണ്ട്",
+   "en": "among them there are"
+  },
+  {
+   "verse": 201,
+   "ar": "مَّن يَقُولُ",
+   "ml": "പറയുന്നവർ",
+   "en": "those who say"
+  },
+  {
+   "verse": 201,
+   "ar": "رَبَّنَآ ءَاتِنَا",
+   "ml": "റബ്ബേ ഞങ്ങൾക്ക് നൽകണേ",
+   "en": "Rabb, do give us"
+  },
+  {
+   "verse": 201,
+   "ar": "فِي ٱلدُّنۡيَا",
+   "ml": "ഇഹത്തിൽ",
+   "en": "in this world"
+  },
+  {
+   "verse": 201,
+   "ar": "حَسَنَةٗ",
+   "ml": "നന്മ, നല്ലത്",
+   "en": "good, what is good"
+  },
+  {
+   "verse": 201,
+   "ar": "وَفِي ٱلۡأٓخِرَةِ",
+   "ml": "പരത്തിലും",
+   "en": "and in the next"
+  },
+  {
+   "verse": 201,
+   "ar": "حَسَنَةٗ",
+   "ml": "നന്മ, നല്ലത്",
+   "en": "good, what is good"
+  },
+  {
+   "verse": 201,
+   "ar": "وَقِنَا",
+   "ml": "ഞങ്ങളെ കാക്കുകയും (ഞങ്ങൾക്ക് കാത്തുതരുകയും) വേണമേ",
+   "en": "and do guard us (and do guard for us)"
+  },
+  {
+   "verse": 201,
+   "ar": "عَذَابَ",
+   "ml": "ശിക്ഷയിൽ നിന്ന്, ശിക്ഷയെ",
+   "en": "from the punishment, the punishment"
+  },
+  {
+   "verse": 201,
+   "ar": "ٱلنَّارِ",
+   "ml": "നരകത്തിന്റെ",
+   "en": "of Hell"
+  },
+  {
+   "verse": 202,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "that group"
+  },
+  {
+   "verse": 202,
+   "ar": "لَهُمۡ",
+   "ml": "അവർക്കുണ്ട്",
+   "en": "for them there is"
+  },
+  {
+   "verse": 202,
+   "ar": "نَصِيبٞ",
+   "ml": "പങ്ക്, ഓഹരി",
+   "en": "a lot, a share"
+  },
+  {
+   "verse": 202,
+   "ar": "مِّمَّا كَسَبُواْ",
+   "ml": "അവർ സമ്പാദിച്ചതിനാൽ, അവർ ചെയ്തുവെച്ചതിൽ നിന്ന്",
+   "en": "because of what they earned, from what they have done and laid by"
+  },
+  {
+   "verse": 202,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹുവാകട്ടെ",
+   "en": "Allah, for His part"
+  },
+  {
+   "verse": 202,
+   "ar": "سَرِيعُ",
+   "ml": "വേഗമുള്ളവനാകുന്നു",
+   "en": "is One who is quick"
+  },
+  {
+   "verse": 202,
+   "ar": "ٱلۡحِسَابِ",
+   "ml": "വിചാരണ, കണക്ക് നോക്കൽ.",
+   "en": "reckoning, checking of the account."
+  },
+  {
+   "verse": 203,
+   "ar": "وَٱذۡكُرُواْ ٱللَّهَ",
+   "ml": "നിങ്ങൾ അല്ലാഹുവിനെ സ്മരിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and remember Allah"
+  },
+  {
+   "verse": 203,
+   "ar": "فِيٓ أَيَّامٖ",
+   "ml": "ചില ദിവസങ്ങളിൽ",
+   "en": "in some days"
+  },
+  {
+   "verse": 203,
+   "ar": "مَّعۡدُودَٰتٖ",
+   "ml": "എണ്ണപ്പെട്ട",
+   "en": "numbered"
+  },
+  {
+   "verse": 203,
+   "ar": "فَمَن",
+   "ml": "എന്നാൽ ആരെങ്കിലും",
+   "en": "but anyone"
+  },
+  {
+   "verse": 203,
+   "ar": "تَعَجَّلَ",
+   "ml": "ധൃതിപ്പെട്ടു(വെങ്കിൽ)",
+   "en": "hastened (if)"
+  },
+  {
+   "verse": 203,
+   "ar": "فِي يَوۡمَيۡنِ",
+   "ml": "രണ്ട് ദിവസങ്ങളിൽ",
+   "en": "in two days"
+  },
+  {
+   "verse": 203,
+   "ar": "فَلَآ إِثۡمَ",
+   "ml": "എന്നാൽ കുറ്റമില്ല",
+   "en": "then there is no offence"
+  },
+  {
+   "verse": 203,
+   "ar": "عَلَيۡهِ",
+   "ml": "അവന്റെ മേൽ",
+   "en": "upon him"
+  },
+  {
+   "verse": 203,
+   "ar": "وَمَن تَأَخَّرَ",
+   "ml": "ആരെങ്കിലും പിന്തി നിന്നാൽ, താമസിച്ചെങ്കിൽ",
+   "en": "if anyone stays behind, if he delayed"
+  },
+  {
+   "verse": 203,
+   "ar": "فَلَآ إِثۡمَ عَلَيۡهِ",
+   "ml": "എന്നാലവന്റെ മേൽ കുറ്റമില്ല",
+   "en": "then there is no offence upon him"
+  },
+  {
+   "verse": 203,
+   "ar": "لِمَنِ ٱتَّقَىٰ",
+   "ml": "സൂക്ഷിക്കുന്നവർക്ക്",
+   "en": "for those who guard against"
+  },
+  {
+   "verse": 203,
+   "ar": "وَٱتَّقُواْ ٱللَّهَ",
+   "ml": "നിങ്ങൾ അല്ലാഹുവിനെ സൂക്ഷിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and guard against Allah"
+  },
+  {
+   "verse": 203,
+   "ar": "وَٱعۡلَمُوٓاْ",
+   "ml": "നിങ്ങൾ അറിയുകയും ചെയ്യുവിൻ",
+   "en": "and know"
+  },
+  {
+   "verse": 203,
+   "ar": "أَنَّكُمۡ",
+   "ml": "നിങ്ങൾ (ആകുന്നു) എന്ന്",
+   "en": "that you (are)"
+  },
+  {
+   "verse": 203,
+   "ar": "إِلَيۡهِ تُحۡشَرُونَ",
+   "ml": "അവനിലേക്ക് നിങ്ങൾ ഒരുമിച്ച് കൂട്ടപ്പെടും (എന്ന്)",
+   "en": "you will be gathered together towards Him (that)"
+  },
+  {
+   "verse": 204,
+   "ar": "وَمِنَ ٱلنَّاسِ",
+   "ml": "മനുഷ്യരിലുണ്ട്",
+   "en": "among mankind there are"
+  },
+  {
+   "verse": 204,
+   "ar": "مَن",
+   "ml": "യാതൊരുവൻ, ചിലർ",
+   "en": "one who, some"
+  },
+  {
+   "verse": 204,
+   "ar": "يُعۡجِبُكَ",
+   "ml": "നിന്നെ അത്ഭുതപ്പെടുത്തും",
+   "en": "will amaze you"
+  },
+  {
+   "verse": 204,
+   "ar": "قَوۡلُهُۥ",
+   "ml": "അവന്റെ വാക്ക്",
+   "en": "his word"
+  },
+  {
+   "verse": 204,
+   "ar": "فِي ٱلۡحَيَوٰةِ",
+   "ml": "ജീവിതത്തിൽ",
+   "en": "in the life"
+  },
+  {
+   "verse": 204,
+   "ar": "ٱلدُّنۡيَا",
+   "ml": "ഐഹികമായ",
+   "en": "worldly"
+  },
+  {
+   "verse": 204,
+   "ar": "وَيُشۡهِدُ",
+   "ml": "അവൻ സാക്ഷ്യപ്പെടുത്തുകയും ചെയ്യും",
+   "en": "and he will call to witness"
+  },
+  {
+   "verse": 204,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനെ",
+   "en": "Allah"
+  },
+  {
+   "verse": 204,
+   "ar": "عَلَىٰ مَا فِي قَلۡبِهِۦ",
+   "ml": "അവന്റെ ഹൃദയത്തിലുള്ളതിനെപ്പറ്റി",
+   "en": "about what is in his heart"
+  },
+  {
+   "verse": 204,
+   "ar": "وَهُوَ",
+   "ml": "അവനാകട്ടെ",
+   "en": "he, for his part"
+  },
+  {
+   "verse": 204,
+   "ar": "أَلَدُّ",
+   "ml": "കുതർക്കിയാണ്, മഹാവഴക്കുകാരനാകുന്നു",
+   "en": "is a quibbler, is a great wrangler"
+  },
+  {
+   "verse": 204,
+   "ar": "ٱلۡخِصَامِ",
+   "ml": "തർക്കം (വഴക്ക്- കേസ്സ്- എതിർപ്പ്) കൂടുന്നതിൽ",
+   "en": "in engaging in dispute (wrangling – lawsuit – opposition)"
+  },
+  {
+   "verse": 205,
+   "ar": "وَإِذَا تَوَلَّىٰ",
+   "ml": "അവൻ തിരിഞ്ഞുപോയാൽ, അധികാരം ലഭിച്ചാൽ",
+   "en": "if he turns away, if he obtains authority"
+  },
+  {
+   "verse": 205,
+   "ar": "سَعَىٰ",
+   "ml": "അവൻ പരിശ്രമിക്കും, ഉൽസാഹിക്കുകയായി",
+   "en": "he will strive, he sets about exerting himself"
+  },
+  {
+   "verse": 205,
+   "ar": "فِي ٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയിൽ",
+   "en": "in the earth"
+  },
+  {
+   "verse": 205,
+   "ar": "لِيُفۡسِدَ",
+   "ml": "നാശം (കുഴപ്പം) ഉണ്ടാക്കുവാൻ",
+   "en": "to cause corruption (disorder)"
+  },
+  {
+   "verse": 205,
+   "ar": "فِيهَا",
+   "ml": "അതിൽ",
+   "en": "in it"
+  },
+  {
+   "verse": 205,
+   "ar": "وَيُهۡلِكَ",
+   "ml": "നശിപ്പിക്കുവാനും",
+   "en": "and to destroy"
+  },
+  {
+   "verse": 205,
+   "ar": "ٱلۡحَرۡثَ",
+   "ml": "വിള, കൃഷി",
+   "en": "crop, cultivation"
+  },
+  {
+   "verse": 205,
+   "ar": "وَٱلنَّسۡلَ",
+   "ml": "സന്തതി, വംശം",
+   "en": "progeny, lineage"
+  },
+  {
+   "verse": 205,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹുവാകട്ടെ",
+   "en": "Allah, for His part"
+  },
+  {
+   "verse": 205,
+   "ar": "لَا يُحِبُّ",
+   "ml": "അവൻ ഇഷ്ടപ്പെടുന്നില്ല",
+   "en": "He does not like"
+  },
+  {
+   "verse": 205,
+   "ar": "ٱلۡفَسَادَ",
+   "ml": "നാശം, കുഴപ്പം",
+   "en": "corruption, disorder"
+  },
+  {
+   "verse": 206,
+   "ar": "وَإِذَا قِيلَ لَهُ",
+   "ml": "അവനോട് പറയപ്പെട്ടാൽ",
+   "en": "if it is said to him"
+  },
+  {
+   "verse": 206,
+   "ar": "ٱتَّقِ ٱللَّهَ",
+   "ml": "നീ അല്ലാഹുവിനെ സൂക്ഷിക്കുക",
+   "en": "guard against Allah"
+  },
+  {
+   "verse": 206,
+   "ar": "أَخَذَتۡهُ",
+   "ml": "അവനെ പിടികൂടും",
+   "en": "will seize him"
+  },
+  {
+   "verse": 206,
+   "ar": "ٱلۡعِزَّةُ",
+   "ml": "പ്രതാപം (രോഷം, ദുരഭിമാനം, അഹങ്കാരം)",
+   "en": "majesty (rage, false pride, arrogance)"
+  },
+  {
+   "verse": 206,
+   "ar": "بِٱلۡإِثۡمِ",
+   "ml": "കുറ്റത്തിന്, പാപത്തിന്",
+   "en": "to offence, to sin"
+  },
+  {
+   "verse": 206,
+   "ar": "فَحَسۡبُهُۥ",
+   "ml": "എന്നാൽ അവന് മതി",
+   "en": "then enough for him is"
+  },
+  {
+   "verse": 206,
+   "ar": "جَهَنَّمُ",
+   "ml": "ജഹന്നം, നരകം",
+   "en": "Jahannam, Hell"
+  },
+  {
+   "verse": 206,
+   "ar": "وَلَبِئۡسَ",
+   "ml": "എത്രയോ മോശം തന്നെ, വളരെ ചീത്ത",
+   "en": "how very wretched indeed, very bad"
+  },
+  {
+   "verse": 206,
+   "ar": "ٱلۡمِهَادُ",
+   "ml": "(ആ) തൊട്ടിൽ, വിതാനം, വിരിപ്പ്",
+   "en": "(that) cradle, bedding, spread"
+  },
+  {
+   "verse": 207,
+   "ar": "وَمِنَ ٱلنَّاسِ",
+   "ml": "മനുഷ്യരിലുണ്ട്",
+   "en": "among mankind there are"
+  },
+  {
+   "verse": 207,
+   "ar": "مَن يَشۡرِي",
+   "ml": "വിൽക്കുന്നവൻ",
+   "en": "one who sells"
+  },
+  {
+   "verse": 207,
+   "ar": "نَفۡسَهُ",
+   "ml": "തന്നെത്തന്നെ, സ്വന്തത്തെ, തന്റെ ആത്മാവിനെ",
+   "en": "himself, his own self, his soul"
+  },
+  {
+   "verse": 207,
+   "ar": "ٱبۡتِغَآءَ",
+   "ml": "ആഗ്രഹിച്ചതിനാൽ",
+   "en": "because of having wished for"
+  },
+  {
+   "verse": 207,
+   "ar": "مَرۡضَاتِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ പ്രീതി, പൊരുത്തപ്പാട്",
+   "en": "the pleasure of Allah, the approval"
+  },
+  {
+   "verse": 207,
+   "ar": "وَٱللَّهُ رَءُوفُۢ",
+   "ml": "അല്ലാഹു വളരെ കൃപ (ദയ- കനിവ്) ഉള്ളവനാണ്",
+   "en": "Allah is One who has much grace (kindness – tenderness)"
+  },
+  {
+   "verse": 207,
+   "ar": "بِٱلۡعِبَادِ",
+   "ml": "അടിയാൻമാരോട്",
+   "en": "to the servants"
+  },
+  {
+   "verse": 208,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "ഹേ വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 208,
+   "ar": "ٱدۡخُلُواْ",
+   "ml": "നിങ്ങൾ പ്രവേശിക്കുവിൻ",
+   "en": "enter"
+  },
+  {
+   "verse": 208,
+   "ar": "فِي ٱلسِّلۡمِ",
+   "ml": "സമാധാനത്തിൽ, കീഴൊതുക്കത്തിൽ, ഇസ്‌ലാമിൽ",
+   "en": "into peace, into submission, into Islam"
+  },
+  {
+   "verse": 208,
+   "ar": "كَآفَّةٗ",
+   "ml": "മുഴുവനും, ആകമാനമായി",
+   "en": "wholly, in entirety"
+  },
+  {
+   "verse": 208,
+   "ar": "وَلَا تَتَّبِعُواْ",
+   "ml": "നിങ്ങൾ പിൻപറ്റുകയും അരുത്",
+   "en": "and do not follow"
+  },
+  {
+   "verse": 208,
+   "ar": "خُطُوَٰتِ",
+   "ml": "കാലടികളെ, ചവിട്ടടികളെ",
+   "en": "the footsteps, the treads"
+  },
+  {
+   "verse": 208,
+   "ar": "ٱلشَّيۡطَٰنِ",
+   "ml": "പിശാചിന്റെ",
+   "en": "of Satan"
+  },
+  {
+   "verse": 208,
+   "ar": "إِنَّهُۥ لَكُمۡ",
+   "ml": "നിശ്ചയമായും അവൻ നിങ്ങൾക്ക്",
+   "en": "surely he, to you"
+  },
+  {
+   "verse": 208,
+   "ar": "عَدُوّٞ",
+   "ml": "ശത്രുവാകുന്നു",
+   "en": "is an enemy"
+  },
+  {
+   "verse": 208,
+   "ar": "مُّبِينٞ",
+   "ml": "പ്രത്യക്ഷമായ, തനി",
+   "en": "open, sheer"
+  },
+  {
+   "verse": 209,
+   "ar": "فَإِن زَلَلۡتُم",
+   "ml": "എനി (എന്നാൽ) നിങ്ങൾ വഴുതിയെങ്കിൽ, ഇടറിയാൽ",
+   "en": "now (but) if you slipped, if you stumble"
+  },
+  {
+   "verse": 209,
+   "ar": "مِّنۢ بَعۡدِ",
+   "ml": "ശേഷമായി",
+   "en": "after"
+  },
+  {
+   "verse": 209,
+   "ar": "مَا جَآءَتۡكُمُ",
+   "ml": "നിങ്ങൾക്ക്‌വന്നതിന്",
+   "en": "… came to you"
+  },
+  {
+   "verse": 209,
+   "ar": "ٱلۡبَيِّنَٰتُ",
+   "ml": "തെളിവുകൾ",
+   "en": "the proofs"
+  },
+  {
+   "verse": 209,
+   "ar": "فَٱعۡلَمُوٓاْ",
+   "ml": "നിങ്ങൾ അറിയുവിൻ",
+   "en": "know"
+  },
+  {
+   "verse": 209,
+   "ar": "أَنَّ ٱللَّهَ",
+   "ml": "അല്ലാഹു (ആകുന്നു) എന്ന്",
+   "en": "that Allah (is)"
+  },
+  {
+   "verse": 209,
+   "ar": "عَزِيزٌ",
+   "ml": "പ്രതാപശാലി",
+   "en": "the Majestic"
+  },
+  {
+   "verse": 209,
+   "ar": "حَكِيمٌ",
+   "ml": "അഗാധജ്ഞൻ",
+   "en": "the Profoundly Knowing"
+  },
+  {
+   "verse": 210,
+   "ar": "هَلۡ يَنظُرُونَ",
+   "ml": "അവർ നോക്കുന്നുവോ, കാത്തിരിക്കുന്നോ",
+   "en": "are they looking, are they waiting"
+  },
+  {
+   "verse": 210,
+   "ar": "إِلَّآ أَن يَأۡتِيَهُمُ",
+   "ml": "അവർക്ക് വരുന്നതിനെയല്ലാതെ",
+   "en": "except for … coming to them"
+  },
+  {
+   "verse": 210,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 210,
+   "ar": "فِي ظُلَلٖ",
+   "ml": "തണലുകളിൽ",
+   "en": "in shades"
+  },
+  {
+   "verse": 210,
+   "ar": "مِّنَ ٱلۡغَمَامِ",
+   "ml": "മേഘത്തിനാലുള്ള",
+   "en": "made of cloud"
+  },
+  {
+   "verse": 210,
+   "ar": "وَٱلۡمَلَـٰٓئِكَةُ",
+   "ml": "മലക്കുകളും",
+   "en": "and the angels"
+  },
+  {
+   "verse": 210,
+   "ar": "وَقُضِيَ",
+   "ml": "വിധിക്ക(തീരുമാനിക്ക)പ്പെടുകയും ചെയ്തിരിക്കുന്നു",
+   "en": "and has been judged (decided)"
+  },
+  {
+   "verse": 210,
+   "ar": "ٱلۡأَمۡرُ",
+   "ml": "കാര്യം",
+   "en": "the matter"
+  },
+  {
+   "verse": 210,
+   "ar": "وَإِلَى ٱللَّهِ",
+   "ml": "അല്ലാഹുവിലേക്ക് (തന്നെ)",
+   "en": "to Allah (indeed)"
+  },
+  {
+   "verse": 210,
+   "ar": "تُرۡجَعُ",
+   "ml": "മടക്കപ്പെടും, മടക്കപ്പെടുന്നു",
+   "en": "will be returned, are returned"
+  },
+  {
+   "verse": 210,
+   "ar": "ٱلۡأُمُورُ",
+   "ml": "കാര്യങ്ങൾ",
+   "en": "the matters"
+  }
+ ]
+}
