@@ -1,8 +1,9 @@
 {
  "verses": "200-210",
  "pages": "502-512",
- "status": "draft",
+ "status": "checked",
  "translated_on": "2026-10-08",
  "pdf": "/mnt/project-files/quran/02. Al-Baqarah.pdf",
- "pdf_pages": "331-341"
+ "pdf_pages": "331-341",
+ "checked_on": "2026-10-09"
 }
