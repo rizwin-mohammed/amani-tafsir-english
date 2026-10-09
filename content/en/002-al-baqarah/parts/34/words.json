@@ -1,0 +1,988 @@
+{
+ "words": [
+  {
+   "verse": 211,
+   "ar": "سَلۡ",
+   "ml": "നീ ചോദിക്കുക",
+   "en": "ask"
+  },
+  {
+   "verse": 211,
+   "ar": "بَنِيٓ إِسۡرَـٰٓءِيلَ",
+   "ml": "ഇസ്റാഈൽ സന്തതികളോട്",
+   "en": "the Children of Isra'il"
+  },
+  {
+   "verse": 211,
+   "ar": "كَمۡ",
+   "ml": "എത്ര(യധികം)",
+   "en": "how (very) many"
+  },
+  {
+   "verse": 211,
+   "ar": "ءَاتَيۡنَٰهُم",
+   "ml": "അവർക്ക് നാം നൽകിയിരിക്കുന്നു",
+   "en": "We have given them"
+  },
+  {
+   "verse": 211,
+   "ar": "مِّنۡ ءَايَةِۭ",
+   "ml": "ദൃഷ്ടാന്തമായിട്ട്",
+   "en": "by way of sign"
+  },
+  {
+   "verse": 211,
+   "ar": "بَيِّنَةٖ",
+   "ml": "വ്യക്തമായ, തെളിവായ",
+   "en": "clear, that is a proof"
+  },
+  {
+   "verse": 211,
+   "ar": "وَمَن يُبَدِّلۡ",
+   "ml": "ആരെങ്കിലും പകരമാക്കിയാൽ, മാറ്റിമറിച്ചെങ്കിൽ",
+   "en": "if anyone substitutes, if he has altered"
+  },
+  {
+   "verse": 211,
+   "ar": "نِعۡمَةَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ അനുഗ്രഹത്തെ",
+   "en": "the favour of Allah"
+  },
+  {
+   "verse": 211,
+   "ar": "مِنۢ بَعۡدِ",
+   "ml": "ശേഷം, ശേഷമായി",
+   "en": "after, afterwards"
+  },
+  {
+   "verse": 211,
+   "ar": "مَا جَآءَتۡهُ",
+   "ml": "അതവന്ന് വന്നതിന്",
+   "en": "its having come to him"
+  },
+  {
+   "verse": 211,
+   "ar": "فَإِنَّ ٱللَّهَ",
+   "ml": "എന്നാൽ നിശ്ചയമായും അല്ലാഹു",
+   "en": "then surely Allah"
+  },
+  {
+   "verse": 211,
+   "ar": "شَدِيدُ",
+   "ml": "കഠിനമായവനാണ്",
+   "en": "is One who is severe"
+  },
+  {
+   "verse": 211,
+   "ar": "ٱلۡعِقَابِ",
+   "ml": "ശിക്ഷാനടപടി",
+   "en": "punitive action"
+  },
+  {
+   "verse": 212,
+   "ar": "زُيِّنَ",
+   "ml": "ഭംഗിയാക്കപ്പെട്ടിരിക്കുന്നു, അലങ്കാരമാക്കപ്പെട്ട",
+   "en": "has been made beautiful, made an adornment"
+  },
+  {
+   "verse": 212,
+   "ar": "لِلَّذِينَ",
+   "ml": "യാതൊരുവർക്ക്",
+   "en": "for those who"
+  },
+  {
+   "verse": 212,
+   "ar": "كَفَرُواْ",
+   "ml": "അവർ അവിശ്വസിച്ചു",
+   "en": "they disbelieved"
+  },
+  {
+   "verse": 212,
+   "ar": "ٱلۡحَيَوٰةُ ٱلدُّنۡيَا",
+   "ml": "ഐഹിക ജീവിതം",
+   "en": "the worldly life"
+  },
+  {
+   "verse": 212,
+   "ar": "وَيَسۡخَرُونَ",
+   "ml": "അവർ പരിഹസിക്കുകയും ചെയ്യും",
+   "en": "and they will mock"
+  },
+  {
+   "verse": 212,
+   "ar": "مِنَ ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരെ",
+   "en": "those who have believed"
+  },
+  {
+   "verse": 212,
+   "ar": "وَٱلَّذِينَ ٱتَّقَوۡاْ",
+   "ml": "സൂക്ഷ്മത പാലിച്ചവരാകട്ടെ",
+   "en": "those who have observed caution, for their part"
+  },
+  {
+   "verse": 212,
+   "ar": "فَوۡقَهُمۡ",
+   "ml": "അവരുടെ മീതെയായിരിക്കും",
+   "en": "will be above them"
+  },
+  {
+   "verse": 212,
+   "ar": "يَوۡمَ ٱلۡقِيَٰمَةِ",
+   "ml": "ക്വിയാമത്തുനാളിൽ",
+   "en": "on the Day of Qiyamah"
+  },
+  {
+   "verse": 212,
+   "ar": "وَٱللَّهُ يَرۡزُقُ",
+   "ml": "അല്ലാഹു നൽകും",
+   "en": "Allah will give"
+  },
+  {
+   "verse": 212,
+   "ar": "مَن يَشَآءُ",
+   "ml": "അവൻ ഉദ്ദേശിക്കുന്നവർക്ക്",
+   "en": "to those whom He wills"
+  },
+  {
+   "verse": 212,
+   "ar": "بِغَيۡرِ حِسَابٖ",
+   "ml": "കണക്കില്ലാതെ",
+   "en": "without account"
+  },
+  {
+   "verse": 213,
+   "ar": "كَانَ ٱلنَّاسُ",
+   "ml": "മനുഷ്യരായിരുന്നു",
+   "en": "mankind were"
+  },
+  {
+   "verse": 213,
+   "ar": "أُمَّةٗ وَٰحِدَةٗ",
+   "ml": "ഒരേ സമുദായം",
+   "en": "one same community"
+  },
+  {
+   "verse": 213,
+   "ar": "فَبَعَثَ",
+   "ml": "എന്നിട്ട് (അങ്ങനെ) അയച്ചു, നിയോഗിച്ചു",
+   "en": "then (and so) sent, commissioned"
+  },
+  {
+   "verse": 213,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 213,
+   "ar": "ٱلنَّبِيِّـۧنَ",
+   "ml": "പ്രവാചകൻമാരെ",
+   "en": "the prophets"
+  },
+  {
+   "verse": 213,
+   "ar": "مُبَشِّرِينَ",
+   "ml": "സന്തോഷവാർത്ത അറിയിക്കുന്നവരായി",
+   "en": "as ones who announce glad tidings"
+  },
+  {
+   "verse": 213,
+   "ar": "وَمُنذِرِينَ",
+   "ml": "താക്കീത് (മുന്നറിയിപ്പ്) നൽകുന്നവരായും",
+   "en": "and as ones who give warning (forewarning)"
+  },
+  {
+   "verse": 213,
+   "ar": "وَأَنزَلَ",
+   "ml": "അവതരിപ്പിക്കുകയും ചെയ്തു",
+   "en": "and sent down"
+  },
+  {
+   "verse": 213,
+   "ar": "مَعَهُمُ",
+   "ml": "അവരോടൊപ്പം",
+   "en": "along with them"
+  },
+  {
+   "verse": 213,
+   "ar": "ٱلۡكِتَٰبَ",
+   "ml": "(വേദ)ഗ്രന്ഥം",
+   "en": "the (scriptural) book"
+  },
+  {
+   "verse": 213,
+   "ar": "بِٱلۡحَقِّ",
+   "ml": "യാഥാർത്ഥ്യവുമായി,",
+   "en": "with the reality,"
+  },
+  {
+   "verse": 213,
+   "ar": "لِيَحۡكُمَ",
+   "ml": "അത് (അവൻ- അദ്ദേഹം) വിധിക്കുവാൻ വേണ്ടി",
+   "en": "so that it (He – he) may rule"
+  },
+  {
+   "verse": 213,
+   "ar": "بَيۡنَ ٱلنَّاسِ",
+   "ml": "മനുഷ്യർക്കിടയിൽ",
+   "en": "among mankind"
+  },
+  {
+   "verse": 213,
+   "ar": "فِيمَا",
+   "ml": "യാതൊന്നിൽ",
+   "en": "in that which"
+  },
+  {
+   "verse": 213,
+   "ar": "ٱخۡتَلَفُواْ",
+   "ml": "അവർ ഭിന്നിച്ചു (ഭിന്നാഭിപ്രായത്തിലായി), വ്യത്യാസപ്പെട്ടു",
+   "en": "they divided (came to be in difference of opinion), differed"
+  },
+  {
+   "verse": 213,
+   "ar": "فِيهِ",
+   "ml": "അതിൽ",
+   "en": "in it"
+  },
+  {
+   "verse": 213,
+   "ar": "وَمَا ٱخۡتَلَفَ",
+   "ml": "ഭിന്നിച്ചതുമില്ല",
+   "en": "and there did not divide"
+  },
+  {
+   "verse": 213,
+   "ar": "فِيهِ",
+   "ml": "അതിൽ",
+   "en": "in it"
+  },
+  {
+   "verse": 213,
+   "ar": "إِلَّا ٱلَّذِينَ",
+   "ml": "യാതൊരുവരൊഴികെ",
+   "en": "except those who"
+  },
+  {
+   "verse": 213,
+   "ar": "أُوتُوهُ",
+   "ml": "അവർക്കത് നൽകപ്പെട്ടു",
+   "en": "it was given to them"
+  },
+  {
+   "verse": 213,
+   "ar": "مِنۢ بَعۡدِ",
+   "ml": "ശേഷം",
+   "en": "after"
+  },
+  {
+   "verse": 213,
+   "ar": "مَا جَآءَتۡهُمُ",
+   "ml": "അവർക്ക് വന്നതിന്",
+   "en": "… came to them"
+  },
+  {
+   "verse": 213,
+   "ar": "ٱلۡبَيِّنَٰتُ",
+   "ml": "തെളിവുകൾ",
+   "en": "the proofs"
+  },
+  {
+   "verse": 213,
+   "ar": "بَغۡيَۢا",
+   "ml": "സ്പർദ്ധ (അതിക്രമം- ധിക്കാരം- മാൽസര്യം- അസൂയ) നിമിത്തം",
+   "en": "because of rivalry (transgression – defiance – spite – jealousy)"
+  },
+  {
+   "verse": 213,
+   "ar": "بَيۡنَهُمۡ",
+   "ml": "അവർക്കിടയിൽ",
+   "en": "among them"
+  },
+  {
+   "verse": 213,
+   "ar": "فَهَدَى ٱللَّهُ",
+   "ml": "അപ്പോൾ അല്ലാഹു മാർഗദർശനം നൽകി,",
+   "en": "then Allah gave guidance,"
+  },
+  {
+   "verse": 213,
+   "ar": "ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരെ",
+   "en": "those who have believed"
+  },
+  {
+   "verse": 213,
+   "ar": "لِمَا",
+   "ml": "യാതൊന്നിലേക്ക്",
+   "en": "to that which"
+  },
+  {
+   "verse": 213,
+   "ar": "ٱخۡتَلَفُواْ فِيهِ",
+   "ml": "അതിൽ അവർ ഭിന്നിച്ചിരിക്കുന്നു",
+   "en": "they have divided in it"
+  },
+  {
+   "verse": 213,
+   "ar": "مِنَ ٱلۡحَقِّ",
+   "ml": "യാഥാർത്ഥ്യത്തിൽനിന്നും, യഥാർത്ഥമാകുന്ന",
+   "en": "from the reality, which is the real"
+  },
+  {
+   "verse": 213,
+   "ar": "بِإِذۡنِهِۦ",
+   "ml": "അവന്റെ അനുമതി (സമ്മത) പ്രകാരം, അനുവാദംകൊണ്ട്",
+   "en": "according to His permission (consent), by leave"
+  },
+  {
+   "verse": 213,
+   "ar": "وَٱللَّهُ يَهۡدِي",
+   "ml": "അല്ലാഹു മാർഗദർശനം നൽകുന്നു, വഴി കാട്ടുന്നു, ചേർക്കുന്നു",
+   "en": "Allah gives guidance, shows the way, joins"
+  },
+  {
+   "verse": 213,
+   "ar": "مَن يَشَآءُ",
+   "ml": "അവൻ ഉദ്ദേശിക്കുന്നവരെ",
+   "en": "those whom He wills"
+  },
+  {
+   "verse": 213,
+   "ar": "إِلَىٰ صِرَٰطٖ",
+   "ml": "പാതയിലേക്ക്",
+   "en": "to a path"
+  },
+  {
+   "verse": 213,
+   "ar": "مُّسۡتَقِيمٍ",
+   "ml": "നേരെയുള്ള, ചൊവ്വായ",
+   "en": "straight, upright"
+  },
+  {
+   "verse": 214,
+   "ar": "أَمۡ",
+   "ml": "അതല്ല, അതോ",
+   "en": "or else, or"
+  },
+  {
+   "verse": 214,
+   "ar": "حَسِبۡتُمۡ",
+   "ml": "നിങ്ങൾ ഗണിച്ചു, ധരിച്ചു(വോ)",
+   "en": "you deemed, supposed (did you?)"
+  },
+  {
+   "verse": 214,
+   "ar": "أَن تَدۡخُلُواْ",
+   "ml": "നിങ്ങൾ കടക്കുമെന്ന്, നിങ്ങൾക്ക് പ്രവേശിക്കാമെന്ന്",
+   "en": "that you will get in, that you may enter"
+  },
+  {
+   "verse": 214,
+   "ar": "ٱلۡجَنَّةَ",
+   "ml": "സ്വർഗത്തിൽ",
+   "en": "into Paradise"
+  },
+  {
+   "verse": 214,
+   "ar": "وَلَمَّا يَأۡتِكُم",
+   "ml": "നിങ്ങൾക്ക് വന്നിട്ടുമില്ല, വരാതെ",
+   "en": "and has not come to you, without coming"
+  },
+  {
+   "verse": 214,
+   "ar": "مَّثَلُ ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരുടെ മാതൃക, മാതിരി",
+   "en": "the model, the pattern of a party who"
+  },
+  {
+   "verse": 214,
+   "ar": "خَلَوۡاْ",
+   "ml": "അവർ കഴിഞ്ഞുകടന്നു",
+   "en": "they passed away"
+  },
+  {
+   "verse": 214,
+   "ar": "مِن قَبۡلِكُم",
+   "ml": "നിങ്ങളുടെ മുമ്പ്",
+   "en": "before you"
+  },
+  {
+   "verse": 214,
+   "ar": "مَّسَّتۡهُمُ",
+   "ml": "അവരെ സ്പർശിച്ചു, ബാധിച്ചു",
+   "en": "touched them, befell them"
+  },
+  {
+   "verse": 214,
+   "ar": "ٱلۡبَأۡسَآءُ",
+   "ml": "വിഷമത, ബുദ്ധിമുട്ട്",
+   "en": "hardship, difficulty"
+  },
+  {
+   "verse": 214,
+   "ar": "وَٱلضَّرَّآءُ",
+   "ml": "കഷ്ടപ്പാടും, ദുരിതവും",
+   "en": "and distress, and misery"
+  },
+  {
+   "verse": 214,
+   "ar": "وَزُلۡزِلُواْ",
+   "ml": "അവർ വിറപ്പിക്കപ്പെടുകയും ചെയ്തു",
+   "en": "and they were made to tremble"
+  },
+  {
+   "verse": 214,
+   "ar": "حَتَّىٰ يَقُولَ",
+   "ml": "പറയും വരെ, പറയുമാറ്",
+   "en": "until … says, so that … says"
+  },
+  {
+   "verse": 214,
+   "ar": "ٱلرَّسُولُ",
+   "ml": "(ദൈവ) ദൂതൻ",
+   "en": "the (divine) messenger"
+  },
+  {
+   "verse": 214,
+   "ar": "وَٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരും",
+   "en": "and those who have believed"
+  },
+  {
+   "verse": 214,
+   "ar": "مَعَهُۥ",
+   "ml": "അദ്ദേഹത്തോടൊപ്പം",
+   "en": "along with him"
+  },
+  {
+   "verse": 214,
+   "ar": "مَتَىٰ",
+   "ml": "എപ്പോഴാണ്",
+   "en": "when is"
+  },
+  {
+   "verse": 214,
+   "ar": "نَصۡرُ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ സഹായം",
+   "en": "the help of Allah"
+  },
+  {
+   "verse": 214,
+   "ar": "أَلَآ",
+   "ml": "അറിയുക, അല്ലാ",
+   "en": "know, ala"
+  },
+  {
+   "verse": 214,
+   "ar": "إِنَّ نَصۡرَ ٱللَّهِ",
+   "ml": "നിശ്ചയമായും അല്ലാഹുവിന്റെ സഹായം",
+   "en": "surely the help of Allah"
+  },
+  {
+   "verse": 214,
+   "ar": "قَرِيبٞ",
+   "ml": "അടുത്തതാണ്; സമീപത്തുള്ളതാണ്",
+   "en": "is close; is something that is near"
+  },
+  {
+   "verse": 215,
+   "ar": "يَسۡـَٔلُونَكَ",
+   "ml": "അവർ നിന്നോട് ചോദിക്കും, ചോദിക്കുന്നു",
+   "en": "they will ask you, they ask"
+  },
+  {
+   "verse": 215,
+   "ar": "مَاذَا",
+   "ml": "എന്തൊന്ന്",
+   "en": "what thing"
+  },
+  {
+   "verse": 215,
+   "ar": "يُنفِقُونَ",
+   "ml": "അവർ ചിലവഴിക്കും, ചിലവാക്കണം",
+   "en": "they will spend, must expend"
+  },
+  {
+   "verse": 215,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "say"
+  },
+  {
+   "verse": 215,
+   "ar": "مَآ أَنفَقۡتُم",
+   "ml": "നിങ്ങൾ എന്ത് ചിലവഴിച്ചുവോ, എന്ത് ചിലവഴിച്ചാലും",
+   "en": "what you spent, whatever you spend"
+  },
+  {
+   "verse": 215,
+   "ar": "مِّنۡ خَيۡرٖ",
+   "ml": "നല്ലതായി, നല്ലതിൽ പെട്ട",
+   "en": "as good, among what is good"
+  },
+  {
+   "verse": 215,
+   "ar": "فَلِلۡوَٰلِدَيۡنِ",
+   "ml": "(അത്) മാതാപിതാക്കൾക്കാണ് (വേണ്ടത്)",
+   "en": "(it) is for parents (that it needs to be)"
+  },
+  {
+   "verse": 215,
+   "ar": "وَٱلۡأَقۡرَبِينَ",
+   "ml": "അടുത്തവർ (ബന്ധു കുടുംബങ്ങൾ)ക്കും",
+   "en": "and for those close (kindred families)"
+  },
+  {
+   "verse": 215,
+   "ar": "وَٱلۡيَتَٰمَىٰ",
+   "ml": "അനാഥകൾക്കും",
+   "en": "and for orphans"
+  },
+  {
+   "verse": 215,
+   "ar": "وَٱلۡمَسَٰكِينِ",
+   "ml": "അഗതികൾക്കും, പാവങ്ങൾക്കും",
+   "en": "and for the destitute, for the poor"
+  },
+  {
+   "verse": 215,
+   "ar": "وَٱبۡنِ ٱلسَّبِيلِ",
+   "ml": "വഴിപോക്കനും",
+   "en": "and for the wayfarer"
+  },
+  {
+   "verse": 215,
+   "ar": "وَمَا تَفۡعَلُواْ",
+   "ml": "നിങ്ങൾ എന്തു ചെയ്യുന്നുവോ",
+   "en": "whatever you do"
+  },
+  {
+   "verse": 215,
+   "ar": "مِنۡ خَيۡرٖ",
+   "ml": "നല്ലതായിട്ട്, വല്ല നന്മയും",
+   "en": "as good, any goodness"
+  },
+  {
+   "verse": 215,
+   "ar": "فَإِنَّ ٱللَّهَ",
+   "ml": "എന്നാൽ നിശ്ചയമായും അല്ലാഹു",
+   "en": "then surely Allah"
+  },
+  {
+   "verse": 215,
+   "ar": "بِهِۦ عَلِيمٞ",
+   "ml": "അതിനെപ്പറ്റി അറിയുന്നവനാകുന്നു",
+   "en": "is One who knows about it"
+  },
+  {
+   "verse": 216,
+   "ar": "كُتِبَ",
+   "ml": "നിയമിക്ക(വിധിക്ക, രേഖപ്പെടുത്ത)പ്പെട്ടിരിക്കുന്നു",
+   "en": "has been prescribed (ruled, recorded)"
+  },
+  {
+   "verse": 216,
+   "ar": "عَلَيۡكُمُ",
+   "ml": "നിങ്ങളുടെ മേൽ",
+   "en": "upon you"
+  },
+  {
+   "verse": 216,
+   "ar": "ٱلۡقِتَالُ",
+   "ml": "യുദ്ധം",
+   "en": "war"
+  },
+  {
+   "verse": 216,
+   "ar": "وَهُوَ",
+   "ml": "അത്, അതാകട്ടെ",
+   "en": "it, it for its part"
+  },
+  {
+   "verse": 216,
+   "ar": "كُرۡهٞ",
+   "ml": "അനിഷ്ടമാണ്",
+   "en": "is a dislike"
+  },
+  {
+   "verse": 216,
+   "ar": "لَّكُمۡ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 216,
+   "ar": "وَعَسَىٰٓ",
+   "ml": "ആയേക്കാവുന്നതുമാണ്",
+   "en": "and it may well be"
+  },
+  {
+   "verse": 216,
+   "ar": "أَن تَكۡرَهُواْ",
+   "ml": "നിങ്ങൾ വെറുക്കുക",
+   "en": "that you are averse to"
+  },
+  {
+   "verse": 216,
+   "ar": "شَيۡـٔٗا",
+   "ml": "ഒരു കാര്യം, വസ്തു",
+   "en": "a matter, a thing"
+  },
+  {
+   "verse": 216,
+   "ar": "وَهُوَ",
+   "ml": "അത്, അതാകട്ടെ",
+   "en": "it, it for its part"
+  },
+  {
+   "verse": 216,
+   "ar": "خَيۡرٞ لَّكُمۡ",
+   "ml": "നിങ്ങൾക്ക് ഗുണം (നല്ലത്) ആയിരിക്കും",
+   "en": "will be good (what is good) for you"
+  },
+  {
+   "verse": 216,
+   "ar": "وَعَسَىٰٓ",
+   "ml": "ആയേക്കുകയും ചെയ്യാം",
+   "en": "and it may be"
+  },
+  {
+   "verse": 216,
+   "ar": "أَن تُحِبُّواْ",
+   "ml": "നിങ്ങൾ ഇഷ്ടപ്പെടുക",
+   "en": "that you like"
+  },
+  {
+   "verse": 216,
+   "ar": "شَيۡـٔٗا",
+   "ml": "ഒരു കാര്യം",
+   "en": "a matter"
+  },
+  {
+   "verse": 216,
+   "ar": "وَهُوَ شَرّٞ",
+   "ml": "അത് ദോഷവുമാണ്, മോശമാകുന്നു",
+   "en": "and it is ill, is bad"
+  },
+  {
+   "verse": 216,
+   "ar": "لَّكُمۡ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "for you"
+  },
+  {
+   "verse": 216,
+   "ar": "وَٱللَّهُ يَعۡلَمُ",
+   "ml": "അല്ലാഹു അറിയുന്നു",
+   "en": "Allah knows"
+  },
+  {
+   "verse": 216,
+   "ar": "وَأَنتُمۡ",
+   "ml": "നിങ്ങൾ, നിങ്ങളാകട്ടെ",
+   "en": "you, you for your part"
+  },
+  {
+   "verse": 216,
+   "ar": "لَا تَعۡلَمُونَ",
+   "ml": "അറിയുന്നതല്ല (താനും)",
+   "en": "do not know (moreover)"
+  },
+  {
+   "verse": 217,
+   "ar": "يَسۡـَٔلُونَكَ",
+   "ml": "അവർ നിന്നോട് ചോദിക്കുന്നു, ചോദിക്കും",
+   "en": "they ask you, they will ask"
+  },
+  {
+   "verse": 217,
+   "ar": "عَنِ ٱلشَّهۡرِ",
+   "ml": "മാസത്തെപ്പറ്റി",
+   "en": "about the month"
+  },
+  {
+   "verse": 217,
+   "ar": "ٱلۡحَرَامِ",
+   "ml": "ഹറാമായ, അലംഘനീയമായ, പവിത്രമായ",
+   "en": "that is haram, unbreachable, sacred"
+  },
+  {
+   "verse": 217,
+   "ar": "قِتَالٖ فِيهِ",
+   "ml": "അതായത് അതിൽ യുദ്ധം ചെയ്യലിനെ(പ്പറ്റി)",
+   "en": "that is, (about) fighting in it"
+  },
+  {
+   "verse": 217,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "say"
+  },
+  {
+   "verse": 217,
+   "ar": "قِتَالٞ فِيهِ",
+   "ml": "അതിൽ യുദ്ധം ചെയ്യൽ",
+   "en": "fighting in it"
+  },
+  {
+   "verse": 217,
+   "ar": "كَبِيرٞ",
+   "ml": "വലുതാണ്, വലിയൊരു കാര്യമാണ്",
+   "en": "is big, is a big matter"
+  },
+  {
+   "verse": 217,
+   "ar": "وَصَدٌّ",
+   "ml": "തടയൽ, തിരിച്ചുവിടൽ",
+   "en": "hindering, diverting"
+  },
+  {
+   "verse": 217,
+   "ar": "عَن سَبِيلِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ മാർഗത്തിൽ നിന്ന്",
+   "en": "from the way of Allah"
+  },
+  {
+   "verse": 217,
+   "ar": "وَكُفۡرُۢ بِهِۦ",
+   "ml": "അവനിൽ അവിശ്വസിക്കലും",
+   "en": "and disbelieving in Him"
+  },
+  {
+   "verse": 217,
+   "ar": "وَٱلۡمَسۡجِدِ ٱلۡحَرَامِ",
+   "ml": "മസ്ജിദുൽ ഹറാമിൽ നിന്നും",
+   "en": "and from al-Masjid al-Haram"
+  },
+  {
+   "verse": 217,
+   "ar": "وَإِخۡرَاجُ",
+   "ml": "ബഹിഷ്കരിക്കലും",
+   "en": "and banishing"
+  },
+  {
+   "verse": 217,
+   "ar": "أَهۡلِهِۦ",
+   "ml": "അതിന്റെ ആൾക്കാരെ (അവിടത്തുകാരെ)",
+   "en": "its people (those of that place)"
+  },
+  {
+   "verse": 217,
+   "ar": "مِنۡهُ",
+   "ml": "അതിൽ നിന്ന്",
+   "en": "from it"
+  },
+  {
+   "verse": 217,
+   "ar": "أَكۡبَرُ",
+   "ml": "കൂടുതൽ (ഏറ്റം) വലുതാകുന്നു",
+   "en": "is more (most) big"
+  },
+  {
+   "verse": 217,
+   "ar": "عِندَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ അടുക്കൽ",
+   "en": "with Allah"
+  },
+  {
+   "verse": 217,
+   "ar": "وَٱلۡفِتۡنَةُ",
+   "ml": "ഫിത്‌ന, കുഴപ്പം",
+   "en": "fitnah, disorder"
+  },
+  {
+   "verse": 217,
+   "ar": "أَكۡبَرُ",
+   "ml": "അധികം വലിയതാണ്",
+   "en": "is big in excess"
+  },
+  {
+   "verse": 217,
+   "ar": "مِنَ ٱلۡقَتۡلِ",
+   "ml": "കൊലയെക്കാൾ",
+   "en": "than killing"
+  },
+  {
+   "verse": 217,
+   "ar": "وَلَا يَزَالُونَ",
+   "ml": "അവർ ആയിക്കൊണ്ടിരിക്കും",
+   "en": "they will keep being"
+  },
+  {
+   "verse": 217,
+   "ar": "يُقَٰتِلُونَكُمۡ",
+   "ml": "അവർ നിങ്ങളോട് യുദ്ധം ചെയ്യും",
+   "en": "they will fight against you"
+  },
+  {
+   "verse": 217,
+   "ar": "حَتَّىٰ يَرُدُّوكُمۡ",
+   "ml": "നിങ്ങളെ അവർ മടക്കുന്നത് (പിൻതിരിപ്പിക്കുന്നത്) വരേക്കും",
+   "en": "until they return you (make you turn back)"
+  },
+  {
+   "verse": 217,
+   "ar": "عَن دِينِكُمۡ",
+   "ml": "നിങ്ങളുടെ മതത്തിൽ നിന്ന്",
+   "en": "from your religion"
+  },
+  {
+   "verse": 217,
+   "ar": "إِنِ ٱسۡتَطَٰعُواْ",
+   "ml": "അവർക്ക് സാധ്യമായെങ്കിൽ",
+   "en": "if it became possible for them"
+  },
+  {
+   "verse": 217,
+   "ar": "وَمَن",
+   "ml": "ആരെങ്കിലും",
+   "en": "anyone"
+  },
+  {
+   "verse": 217,
+   "ar": "يَرۡتَدِدۡ",
+   "ml": "പിൻതിരിയുന്ന (മടങ്ങുന്ന)തായാൽ",
+   "en": "in case of turning back (going back)"
+  },
+  {
+   "verse": 217,
+   "ar": "مِنكُمۡ",
+   "ml": "നിങ്ങളിൽ നിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 217,
+   "ar": "عَن دِينِهِۦ",
+   "ml": "തന്റെ മതത്തിൽനിന്ന്",
+   "en": "from his religion"
+  },
+  {
+   "verse": 217,
+   "ar": "فَيَمُتۡ",
+   "ml": "എന്നിട്ട് (അങ്ങനെ) അവൻ മരണപ്പെടുന്ന(തായാൽ)",
+   "en": "then (and so) he dies (if it be)"
+  },
+  {
+   "verse": 217,
+   "ar": "وَهُوَ كَافِرٞ",
+   "ml": "അവൻ അവിശ്വാസിയായും കൊണ്ട്",
+   "en": "while he is a disbeliever"
+  },
+  {
+   "verse": 217,
+   "ar": "فَأُوْلَـٰٓئِكَ",
+   "ml": "എന്നാൽ അക്കൂട്ടർ",
+   "en": "then that group"
+  },
+  {
+   "verse": 217,
+   "ar": "حَبِطَتۡ",
+   "ml": "നിഷ്ഫലമായി, വെറുതെയായി",
+   "en": "became fruitless, became void"
+  },
+  {
+   "verse": 217,
+   "ar": "أَعۡمَٰلُهُمۡ",
+   "ml": "അവരുടെ കർമങ്ങൾ",
+   "en": "their deeds"
+  },
+  {
+   "verse": 217,
+   "ar": "فِي ٱلدُّنۡيَا",
+   "ml": "ഇഹത്തിൽ",
+   "en": "in this world"
+  },
+  {
+   "verse": 217,
+   "ar": "وَٱلۡأٓخِرَةِ",
+   "ml": "പരത്തിലും",
+   "en": "and in the next"
+  },
+  {
+   "verse": 217,
+   "ar": "وَأُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടരാകട്ടെ",
+   "en": "that group, for their part"
+  },
+  {
+   "verse": 217,
+   "ar": "أَصۡحَٰبُ ٱلنَّارِ",
+   "ml": "നരകത്തിന്റെ ആൾക്കാരുമാകുന്നു",
+   "en": "are also the people of Hell"
+  },
+  {
+   "verse": 217,
+   "ar": "هُمۡ فِيهَا",
+   "ml": "അവർ അതിൽ",
+   "en": "they, in it"
+  },
+  {
+   "verse": 217,
+   "ar": "خَٰلِدُونَ",
+   "ml": "സ്ഥിരവാസികളാകുന്നു",
+   "en": "are permanent residents"
+  },
+  {
+   "verse": 218,
+   "ar": "إِنَّ ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "നിശ്ചയമായും വിശ്വസിച്ചവർ",
+   "en": "surely those who have believed"
+  },
+  {
+   "verse": 218,
+   "ar": "وَٱلَّذِينَ هَاجَرُواْ",
+   "ml": "ഹിജ്റഃ പോയവരും",
+   "en": "and those who went in hijrah"
+  },
+  {
+   "verse": 218,
+   "ar": "وَجَٰهَدُواْ",
+   "ml": "അവർ ജിഹാദ് (സമരം) ചെയ്യുകയും ചെയ്തു",
+   "en": "and they did jihad (struggle)"
+  },
+  {
+   "verse": 218,
+   "ar": "فِي سَبِيلِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ മാർഗത്തിൽ",
+   "en": "in the way of Allah"
+  },
+  {
+   "verse": 218,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "that group"
+  },
+  {
+   "verse": 218,
+   "ar": "يَرۡجُونَ",
+   "ml": "അവർ പ്രതീക്ഷിക്കുന്നു, അഭിലഷിക്കുന്നു",
+   "en": "they hope for, they aspire to"
+  },
+  {
+   "verse": 218,
+   "ar": "رَحۡمَتَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ കാരുണ്യത്തെ",
+   "en": "the mercy of Allah"
+  },
+  {
+   "verse": 218,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 218,
+   "ar": "غَفُورٞ",
+   "ml": "(വളരെ) പൊറുക്കുന്നവനാണ്",
+   "en": "is One who forgives (much)"
+  },
+  {
+   "verse": 218,
+   "ar": "رَّحِيمٞ",
+   "ml": "കരുണാനിധിയാണ്",
+   "en": "is the Ever-Merciful"
+  }
+ ]
+}
