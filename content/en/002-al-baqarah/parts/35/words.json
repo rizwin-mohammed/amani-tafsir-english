@@ -1,0 +1,628 @@
+{
+ "words": [
+  {
+   "verse": 219,
+   "ar": "يَسۡـَٔلُونَكَ",
+   "ml": "അവർ നിന്നോട് ചോദിക്കുന്നു",
+   "en": "they ask you"
+  },
+  {
+   "verse": 219,
+   "ar": "عَنِ ٱلۡخَمۡرِ",
+   "ml": "കള്ളിനെ (മദ്യത്തെ)പ്പറ്റി",
+   "en": "about liquor (alcohol)"
+  },
+  {
+   "verse": 219,
+   "ar": "وَٱلۡمَيۡسِرِ",
+   "ml": "മൈസിറിനെയും, (ചൂതാട്ടത്തെയും), പന്തയത്തെയും",
+   "en": "and maisir, (and gambling), and wager"
+  },
+  {
+   "verse": 219,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "say"
+  },
+  {
+   "verse": 219,
+   "ar": "فِيهِمَآ",
+   "ml": "ആ രണ്ടിലുമുണ്ട്",
+   "en": "there is in those two"
+  },
+  {
+   "verse": 219,
+   "ar": "إِثۡمٞ",
+   "ml": "കുറ്റം, പാപം, ദോഷം",
+   "en": "offence, sin, ill"
+  },
+  {
+   "verse": 219,
+   "ar": "كَبِيرٞ",
+   "ml": "വലിയ",
+   "en": "big"
+  },
+  {
+   "verse": 219,
+   "ar": "وَمَنَٰفِعُ",
+   "ml": "ചില പ്രയോജന (ഉപകാര)ങ്ങളും",
+   "en": "and some benefits (uses)"
+  },
+  {
+   "verse": 219,
+   "ar": "لِلنَّاسِ",
+   "ml": "മനുഷ്യർക്ക്",
+   "en": "for mankind"
+  },
+  {
+   "verse": 219,
+   "ar": "وَإِثۡمُهُمَآ",
+   "ml": "അവ രണ്ടിന്റെയും കുറ്റം (പാപം -ദോഷം)",
+   "en": "the offence of both of them (sin – ill)"
+  },
+  {
+   "verse": 219,
+   "ar": "أَكۡبَرُ",
+   "ml": "അധികം വലുതാണ്",
+   "en": "is big in excess"
+  },
+  {
+   "verse": 219,
+   "ar": "مِن نَّفۡعِهِمَا",
+   "ml": "അവയുടെ പ്രയോജനത്തെക്കാൾ",
+   "en": "than their benefit"
+  },
+  {
+   "verse": 219,
+   "ar": "وَيَسۡـَٔلُونَكَ",
+   "ml": "അവർ നിന്നോട് ചോദിക്കുകയും ചെയ്യുന്നു",
+   "en": "and they ask you"
+  },
+  {
+   "verse": 219,
+   "ar": "مَاذَا",
+   "ml": "എന്തൊന്ന്",
+   "en": "what thing"
+  },
+  {
+   "verse": 219,
+   "ar": "يُنفِقُونَ",
+   "ml": "അവർ ചിലവഴിക്കും (ചിലവഴിക്കണം) എന്ന്",
+   "en": "that they will spend (must spend)"
+  },
+  {
+   "verse": 219,
+   "ar": "قُلِ",
+   "ml": "നീ പറയുക",
+   "en": "say"
+  },
+  {
+   "verse": 219,
+   "ar": "ٱلۡعَفۡوَ",
+   "ml": "മാപ്പ് (വിട്ടുവീഴ്ച) ചെയ്യാവുന്നത് (സൗകര്യപ്പെട്ടത്, ശിഷ്ടം)",
+   "en": "what can be pardoned (let go) (what is convenient, remainder)"
+  },
+  {
+   "verse": 219,
+   "ar": "كَذَٰلِكَ",
+   "ml": "അതുപോലെ, ഇപ്രകാരം",
+   "en": "like that, thus"
+  },
+  {
+   "verse": 219,
+   "ar": "يُبَيِّنُ ٱللَّهُ",
+   "ml": "അല്ലാഹു വിവരിക്കുന്നു",
+   "en": "Allah explains"
+  },
+  {
+   "verse": 219,
+   "ar": "لَكُمُ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 219,
+   "ar": "ٱلۡأٓيَٰتِ",
+   "ml": "ആയത്ത് (ലക്ഷ്യം- വചനം)കളെ",
+   "en": "the ayah (evidence – verse)s *[DOUBT: ലക്ഷ്യം beside ആയത്ത് is rendered “evidence”, as in parts 01–02, 07, 17, 20, 23 and 30; it may instead mean “aim”. The same open question as those parts.]*"
+  },
+  {
+   "verse": 219,
+   "ar": "لَعَلَّكُمۡ",
+   "ml": "നിങ്ങളാകുവാൻ, ആയേക്കാം",
+   "en": "for you to be, may be"
+  },
+  {
+   "verse": 219,
+   "ar": "تَتَفَكَّرُونَ",
+   "ml": "നിങ്ങൾ ചിന്തിക്കുക, ആലോചിച്ചു നോക്കുക",
+   "en": "you think, reflect and see"
+  },
+  {
+   "verse": 220,
+   "ar": "فِي ٱلدُّنۡيَا",
+   "ml": "ഇഹത്തി (ന്റെ കാര്യത്തി)ൽ, ഇഹത്തെ സംബന്ധിച്ച്",
+   "en": "in (the matter of) this world, concerning this world"
+  },
+  {
+   "verse": 220,
+   "ar": "وَٱلۡأٓخِرَةِ",
+   "ml": "പരത്തി(ന്റെ കാര്യത്തി)ലും, പരത്തെപ്പറ്റിയും",
+   "en": "and in (the matter of) the next, and about the next"
+  },
+  {
+   "verse": 220,
+   "ar": "وَيَسۡـَٔلُونَكَ",
+   "ml": "അവർ നിന്നോട് ചോദിക്കുകയും ചെയ്യുന്നു",
+   "en": "and they ask you"
+  },
+  {
+   "verse": 220,
+   "ar": "عَنِ ٱلۡيَتَٰمَىٰ",
+   "ml": "അനാഥകളെപ്പറ്റി",
+   "en": "about orphans"
+  },
+  {
+   "verse": 220,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "say"
+  },
+  {
+   "verse": 220,
+   "ar": "إِصۡلَاحٞ",
+   "ml": "നന്മ വരുത്തൽ, നന്നാക്കിത്തീർക്കൽ, നന്മയുണ്ടാക്കൽ",
+   "en": "bringing about goodness, making good, causing goodness"
+  },
+  {
+   "verse": 220,
+   "ar": "لَّهُمۡ",
+   "ml": "അവർക്ക്",
+   "en": "for them"
+  },
+  {
+   "verse": 220,
+   "ar": "خَيۡرٞ",
+   "ml": "ഉത്തമമാണ്, നല്ലതാണ്",
+   "en": "is excellent, is good"
+  },
+  {
+   "verse": 220,
+   "ar": "وَإِن تُخَالِطُوهُمۡ",
+   "ml": "നിങ്ങൾ അവരോട് കൂടിക്കലരുന്നുവെങ്കിൽ",
+   "en": "if you mix together with them"
+  },
+  {
+   "verse": 220,
+   "ar": "فَإِخۡوَٰنُكُمۡ",
+   "ml": "അപ്പോൾ നിങ്ങളുടെ സഹോദരങ്ങളാണ്",
+   "en": "then are your brothers"
+  },
+  {
+   "verse": 220,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 220,
+   "ar": "يَعۡلَمُ",
+   "ml": "അറിയും, അറിയുന്നു",
+   "en": "will know, knows"
+  },
+  {
+   "verse": 220,
+   "ar": "ٱلۡمُفۡسِدَ",
+   "ml": "നാശം (കുഴപ്പം) ഉണ്ടാക്കുന്ന (വരുത്തുന്ന)വനെ",
+   "en": "the one causing (bringing about) corruption (disorder)"
+  },
+  {
+   "verse": 220,
+   "ar": "مِنَ ٱلۡمُصۡلِحِ",
+   "ml": "നന്മയുണ്ടാക്കുന്നവനിൽ നിന്ന്",
+   "en": "from the one who causes goodness"
+  },
+  {
+   "verse": 220,
+   "ar": "وَلَوۡ شَآءَ",
+   "ml": "ഉദ്ദേശിച്ചിരുന്നെങ്കിൽ",
+   "en": "if had willed"
+  },
+  {
+   "verse": 220,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 220,
+   "ar": "لَأَعۡنَتَكُمۡ",
+   "ml": "നിങ്ങളെ അവൻ ബുദ്ധിമുട്ടി (വിഷമിപ്പി)ക്കുകതന്നെ ചെയ്യുമായിരുന്നു",
+   "en": "He would indeed have put you to difficulty (hardship)"
+  },
+  {
+   "verse": 220,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 220,
+   "ar": "عَزِيزٌ",
+   "ml": "പ്രതാപശാലിയാകുന്നു",
+   "en": "is the Majestic"
+  },
+  {
+   "verse": 220,
+   "ar": "حَكِيمٞ",
+   "ml": "അഗാധജ്ഞനാണ്, യുക്തിമാനായ",
+   "en": "is the Profoundly Knowing, the Sagacious"
+  },
+  {
+   "verse": 221,
+   "ar": "وَلَا تَنكِحُواْ",
+   "ml": "നിങ്ങൾ വിവാഹം കഴിക്കരുത്",
+   "en": "you must not marry"
+  },
+  {
+   "verse": 221,
+   "ar": "ٱلۡمُشۡرِكَٰتِ",
+   "ml": "ബഹുദൈവ വിശ്വാസിനികളെ",
+   "en": "women who are polytheists"
+  },
+  {
+   "verse": 221,
+   "ar": "حَتَّىٰ يُؤۡمِنَّ",
+   "ml": "അവർ വിശ്വസിക്കുന്നത് വരെ",
+   "en": "until they believe"
+  },
+  {
+   "verse": 221,
+   "ar": "وَلَأَمَةٞ مُّؤۡمِنَةٌ",
+   "ml": "വിശ്വാസിനിയായ ഒരു അടിമസ്ത്രീ തന്നെ",
+   "en": "a slave woman who is a believer indeed"
+  },
+  {
+   "verse": 221,
+   "ar": "خَيۡرٞ",
+   "ml": "ഉത്തമം",
+   "en": "excellent"
+  },
+  {
+   "verse": 221,
+   "ar": "مِّن مُّشۡرِكَةٖ",
+   "ml": "ഒരു ബഹുദൈവ വിശ്വാസിനിയെക്കാൾ",
+   "en": "than a woman who is a polytheist"
+  },
+  {
+   "verse": 221,
+   "ar": "وَلَوۡ أَعۡجَبَتۡكُمۡ",
+   "ml": "അവൾ നിങ്ങളെ അൽഭുത (കൗതുക)പ്പെടുത്തിയാലും",
+   "en": "even if she amazes (fascinates) you"
+  },
+  {
+   "verse": 221,
+   "ar": "وَلَا تُنكِحُواْ",
+   "ml": "നിങ്ങൾ വിവാഹം ചെയ്തുകൊടുക്കുകയും അരുത്",
+   "en": "you must not give in marriage either"
+  },
+  {
+   "verse": 221,
+   "ar": "ٱلۡمُشۡرِكِينَ",
+   "ml": "മുശ്‌രിക്കുകൾക്ക്",
+   "en": "to mushriks"
+  },
+  {
+   "verse": 221,
+   "ar": "حَتَّىٰ يُؤۡمِنُواْ",
+   "ml": "അവർ വിശ്വസിക്കുന്നതുവരെ",
+   "en": "until they believe"
+  },
+  {
+   "verse": 221,
+   "ar": "وَلَعَبۡدٞ مُّؤۡمِنٌ",
+   "ml": "സത്യവിശ്വാസിയായ ഒരു അടിമ തന്നെ",
+   "en": "a slave who is a true believer indeed"
+  },
+  {
+   "verse": 221,
+   "ar": "خَيۡرٞ",
+   "ml": "ഉത്തമം",
+   "en": "excellent"
+  },
+  {
+   "verse": 221,
+   "ar": "مِّن مُّشۡرِكٖ",
+   "ml": "ഒരു മുശ്‌രിക്കിനെക്കാൾ",
+   "en": "than a mushrik"
+  },
+  {
+   "verse": 221,
+   "ar": "وَلَوۡ أَعۡجَبَكُمۡ",
+   "ml": "അവൻ നിങ്ങളെ ആശ്ചര്യ (കൗതുക)പ്പെടുത്തിയാലും",
+   "en": "even if he astonishes (fascinates) you"
+  },
+  {
+   "verse": 221,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "that group"
+  },
+  {
+   "verse": 221,
+   "ar": "يَدۡعُونَ",
+   "ml": "അവർ ക്ഷണിക്കുന്നു, അവർ വിളിക്കുന്നു",
+   "en": "they invite, they call"
+  },
+  {
+   "verse": 221,
+   "ar": "إِلَى ٱلنَّارِ",
+   "ml": "നരകത്തിലേക്ക്",
+   "en": "to Hell"
+  },
+  {
+   "verse": 221,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹുവാകട്ടെ",
+   "en": "Allah, for His part"
+  },
+  {
+   "verse": 221,
+   "ar": "يَدۡعُوٓاْ",
+   "ml": "ക്ഷണിക്കുന്നു, വിളിക്കുന്നു",
+   "en": "invites, calls"
+  },
+  {
+   "verse": 221,
+   "ar": "إِلَى ٱلۡجَنَّةِ",
+   "ml": "സ്വർഗത്തിലേക്ക്",
+   "en": "to Paradise"
+  },
+  {
+   "verse": 221,
+   "ar": "وَٱلۡمَغۡفِرَةِ",
+   "ml": "പാപമോചനത്തിലേക്കും",
+   "en": "and to forgiveness of sins"
+  },
+  {
+   "verse": 221,
+   "ar": "بِإِذۡنِهِۦ",
+   "ml": "അവന്റെ അനുമതി (സമ്മതം- ഉത്തരവ്) മുഖേന",
+   "en": "by means of His permission (consent – order)"
+  },
+  {
+   "verse": 221,
+   "ar": "وَيُبَيِّنُ",
+   "ml": "അവൻ വിവരിക്കുകയും ചെയ്യുന്നു",
+   "en": "and He explains"
+  },
+  {
+   "verse": 221,
+   "ar": "ءَايَٰتِهِۦ",
+   "ml": "അവന്റെ ലക്ഷ്യം (വചനം)കളെ",
+   "en": "His evidence (verse)s"
+  },
+  {
+   "verse": 221,
+   "ar": "لِلنَّاسِ",
+   "ml": "മനുഷ്യർക്ക്",
+   "en": "to mankind"
+  },
+  {
+   "verse": 221,
+   "ar": "لَعَلَّهُمۡ",
+   "ml": "അവരാകുവാൻ വേണ്ടി, ആയേക്കാം",
+   "en": "so that they may be, may be"
+  },
+  {
+   "verse": 221,
+   "ar": "يَتَذَكَّرُونَ",
+   "ml": "അവർ ഉറ്റാലോചിക്കും, ഓർമവെക്കും.",
+   "en": "they will reflect intently, will keep in memory."
+  },
+  {
+   "verse": 222,
+   "ar": "وَيَسۡـَٔلُونَكَ",
+   "ml": "അവർ നിന്നോട് ചോദിക്കുകയും ചെയ്യുന്നു",
+   "en": "and they ask you"
+  },
+  {
+   "verse": 222,
+   "ar": "عَنِ ٱلۡمَحِيضِ",
+   "ml": "ആർത്തവത്തെപ്പറ്റി, ഋതുകാലത്തെപ്പറ്റി",
+   "en": "about menstruation, about the menstrual season"
+  },
+  {
+   "verse": 222,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "say"
+  },
+  {
+   "verse": 222,
+   "ar": "هُوَ",
+   "ml": "അത്",
+   "en": "it"
+  },
+  {
+   "verse": 222,
+   "ar": "أَذٗى",
+   "ml": "ഒരു ഉപദ്രവമാണ്, ശല്യമാണ് (മ്‌ളേഛ്‌ചമാണ്)",
+   "en": "is a harm, is a nuisance (is foul)"
+  },
+  {
+   "verse": 222,
+   "ar": "فَٱعۡتَزِلُواْ",
+   "ml": "അതിനാൽ നിങ്ങൾ വിട്ടു (അകന്നു) നിൽക്കുവിൻ",
+   "en": "therefore keep away (apart)"
+  },
+  {
+   "verse": 222,
+   "ar": "ٱلنِّسَآءَ",
+   "ml": "സ്ത്രീകളെ",
+   "en": "from women"
+  },
+  {
+   "verse": 222,
+   "ar": "فِي ٱلۡمَحِيضِ",
+   "ml": "ആർത്തവത്തിൽ, ഋതുകാലത്തിൽ",
+   "en": "in menstruation, in the menstrual season"
+  },
+  {
+   "verse": 222,
+   "ar": "وَلَا تَقۡرَبُوهُنَّ",
+   "ml": "അവരെ നിങ്ങൾ സമീപിക്കുകയും ചെയ്യരുത്",
+   "en": "and you must not approach them"
+  },
+  {
+   "verse": 222,
+   "ar": "حَتَّىٰ يَطۡهُرۡنَ",
+   "ml": "അവർ ശുദ്ധിയാകുന്നത് വരെ",
+   "en": "until they become pure"
+  },
+  {
+   "verse": 222,
+   "ar": "فَإِذَا تَطَهَّرۡنَ",
+   "ml": "എന്നിട്ട് (അങ്ങനെ) അവർ ശുദ്ധിയായിത്തീർന്നാൽ",
+   "en": "then (and so) when they have become pure"
+  },
+  {
+   "verse": 222,
+   "ar": "فَأۡتُوهُنَّ",
+   "ml": "നിങ്ങളവരുടെ അടുക്കൽ ചെന്നുകൊള്ളുവിൻ",
+   "en": "go to them"
+  },
+  {
+   "verse": 222,
+   "ar": "مِنۡ حَيۡثُ",
+   "ml": "വിധത്തിലൂടെ",
+   "en": "through the manner"
+  },
+  {
+   "verse": 222,
+   "ar": "أَمَرَكُمُ",
+   "ml": "നിങ്ങളോട് കൽപിച്ച",
+   "en": "commanded you"
+  },
+  {
+   "verse": 222,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 222,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 222,
+   "ar": "يُحِبُّ",
+   "ml": "അവൻ ഇഷ്ടപ്പെടുന്നു, സ്നേഹിക്കും",
+   "en": "He likes, will love"
+  },
+  {
+   "verse": 222,
+   "ar": "ٱلتَّوَّـٰبِينَ",
+   "ml": "(പശ്ചാത്തപിച്ചു) മടങ്ങുന്നവരെ",
+   "en": "those who turn back (repenting)"
+  },
+  {
+   "verse": 222,
+   "ar": "وَيُحِبُّ",
+   "ml": "അവൻ ഇഷ്ടപ്പെടുകയും ചെയ്യുന്നു",
+   "en": "and He likes"
+  },
+  {
+   "verse": 222,
+   "ar": "ٱلۡمُتَطَهِّرِينَ",
+   "ml": "ശുദ്ധി പ്രാപിക്കുന്നവരെ",
+   "en": "those who attain purity"
+  },
+  {
+   "verse": 223,
+   "ar": "نِسَآؤُكُمۡ",
+   "ml": "നിങ്ങളുടെ സ്ത്രീകൾ",
+   "en": "your women"
+  },
+  {
+   "verse": 223,
+   "ar": "حَرۡثٞ",
+   "ml": "കൃഷി (വിളയിടം) ആകുന്നു",
+   "en": "are cultivation (crop-ground)"
+  },
+  {
+   "verse": 223,
+   "ar": "لَّكُمۡ",
+   "ml": "നിങ്ങൾക്ക്, നിങ്ങളുടെ",
+   "en": "for you, your"
+  },
+  {
+   "verse": 223,
+   "ar": "فَأۡتُواْ",
+   "ml": "അതിനാൽ നിങ്ങൾ ചെല്ലുവിൻ",
+   "en": "therefore go"
+  },
+  {
+   "verse": 223,
+   "ar": "حَرۡثَكُمۡ",
+   "ml": "നിങ്ങളുടെ വിളക്കൽ, കൃഷിയുടെ അടുക്കൽ",
+   "en": "to your crop *[DOUBT: വിളക്കൽ as printed; it is read here as വിള “crop” + -ക്കൽ “at”, parallel to the next words; it may instead be a misprint (e.g. for വിളയിടം “crop-ground”).]*, to your cultivation"
+  },
+  {
+   "verse": 223,
+   "ar": "أَنَّىٰ شِئۡتُمۡ",
+   "ml": "നിങ്ങൾ എങ്ങനെ ഉദ്ദേശിച്ചുവോ (അങ്ങനെ)",
+   "en": "in whatever way you have intended (so)"
+  },
+  {
+   "verse": 223,
+   "ar": "وَقَدِّمُواْ",
+   "ml": "നിങ്ങൾ മുൻകൂട്ടി (മുൻ ചെയ്തു വെയ്ക്കുകയും ചെയ്യുക)",
+   "en": "you, beforehand (and do before and lay by)"
+  },
+  {
+   "verse": 223,
+   "ar": "لِأَنفُسِكُمۡ",
+   "ml": "നിങ്ങളുടെ സ്വന്തങ്ങൾക്ക്, നിങ്ങൾക്കുതന്നെ",
+   "en": "for your own selves, for yourselves indeed"
+  },
+  {
+   "verse": 223,
+   "ar": "وَٱتَّقُواْ ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനെ നിങ്ങൾ സൂക്ഷിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and guard against Allah"
+  },
+  {
+   "verse": 223,
+   "ar": "وَٱعۡلَمُوٓاْ",
+   "ml": "നിങ്ങൾ അറിയുകയും ചെയ്യുക",
+   "en": "and know"
+  },
+  {
+   "verse": 223,
+   "ar": "أَنَّكُم",
+   "ml": "നിങ്ങൾ (ആകുന്നു) എന്ന്",
+   "en": "that you (are)"
+  },
+  {
+   "verse": 223,
+   "ar": "مُّلَٰقُوهُ",
+   "ml": "അവനുമായി കണ്ടുമുട്ടുന്നവർ",
+   "en": "ones who meet Him"
+  },
+  {
+   "verse": 223,
+   "ar": "وَبَشِّرِ",
+   "ml": "നീ സന്തോഷം അറിയിക്കുകയും ചെയ്യുക",
+   "en": "and announce gladness"
+  },
+  {
+   "verse": 223,
+   "ar": "ٱلۡمُؤۡمِنِينَ",
+   "ml": "സത്യവിശ്വാസികൾക്ക്",
+   "en": "to the true believers"
+  }
+ ]
+}
