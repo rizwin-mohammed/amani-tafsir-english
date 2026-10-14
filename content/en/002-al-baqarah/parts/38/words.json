@@ -1,0 +1,580 @@
+{
+ "words": [
+  {
+   "verse": 231,
+   "ar": "وَإِذَا طَلَّقۡتُمُ",
+   "ml": "നിങ്ങൾ വിവാഹമോചനം ചെയ്താൽ",
+   "en": "if you do divorce"
+  },
+  {
+   "verse": 231,
+   "ar": "ٱلنِّسَآءَ",
+   "ml": "സ്ത്രീകളെ",
+   "en": "women"
+  },
+  {
+   "verse": 231,
+   "ar": "فَبَلَغۡنَ",
+   "ml": "എന്നിട്ടവർ എത്തി, പ്രാപിച്ചു",
+   "en": "then they arrived, reached"
+  },
+  {
+   "verse": 231,
+   "ar": "أَجَلَهُنَّ",
+   "ml": "അവരുടെ അവധി",
+   "en": "their term"
+  },
+  {
+   "verse": 231,
+   "ar": "فَأَمۡسِكُوهُنَّ",
+   "ml": "എന്നാലവരെ നിങ്ങൾ വെച്ചുകൊണ്ടിരിക്കുവിൻ",
+   "en": "then keep them on"
+  },
+  {
+   "verse": 231,
+   "ar": "بِمَعۡرُوفٍ",
+   "ml": "ആചാരം (മര്യാദ) അനുസരിച്ച്",
+   "en": "in accordance with custom (propriety)"
+  },
+  {
+   "verse": 231,
+   "ar": "أَوۡ سَرِّحُوهُنَّ",
+   "ml": "അല്ലെങ്കിൽ അവരെ നിങ്ങൾ പിരിച്ചയക്കുക, വേർപെടുത്തുക",
+   "en": "or send them off, separate"
+  },
+  {
+   "verse": 231,
+   "ar": "بِمَعۡرُوفٖ",
+   "ml": "ആചാരപ്രകാരം, മര്യാദയനുസരിച്ച്",
+   "en": "according to custom, in accordance with propriety"
+  },
+  {
+   "verse": 231,
+   "ar": "وَلَا تُمۡسِكُوهُنَّ",
+   "ml": "അവരെ നിങ്ങൾ പിടിച്ചുവെക്കരുത്",
+   "en": "do not hold them back"
+  },
+  {
+   "verse": 231,
+   "ar": "ضِرَارٗا",
+   "ml": "ദ്രോഹം ചെയ്യാൻ,",
+   "en": "to do injury,"
+  },
+  {
+   "verse": 231,
+   "ar": "لِّتَعۡتَدُواْ",
+   "ml": "നിങ്ങൾ അതിരുവിടുവാനായിട്ട്, അതിക്രമം ചെയ്യുമാറ്",
+   "en": "so that you leave the bound, such that you do transgression"
+  },
+  {
+   "verse": 231,
+   "ar": "وَمَن يَفۡعَلۡ",
+   "ml": "ആരെങ്കിലും ചെയ്യുന്നതായാൽ",
+   "en": "if anyone does"
+  },
+  {
+   "verse": 231,
+   "ar": "ذَٰلِكَ",
+   "ml": "അത്",
+   "en": "that"
+  },
+  {
+   "verse": 231,
+   "ar": "فَقَدۡ ظَلَمَ",
+   "ml": "എന്നാലവൻ അക്രമം പ്രവർത്തിച്ചു",
+   "en": "then he has worked wrong"
+  },
+  {
+   "verse": 231,
+   "ar": "نَفۡسَهُۥ",
+   "ml": "അവനോട് തന്നെ",
+   "en": "to himself indeed"
+  },
+  {
+   "verse": 231,
+   "ar": "وَلَا تَتَّخِذُوٓاْ",
+   "ml": "നിങ്ങൾ ആക്കിത്തീർക്കരുത്",
+   "en": "do not make into"
+  },
+  {
+   "verse": 231,
+   "ar": "ءَايَٰتِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ ആയത്തുകളെ",
+   "en": "the ayahs of Allah"
+  },
+  {
+   "verse": 231,
+   "ar": "هُزُوٗا",
+   "ml": "പരിഹാസം (പരിഹാസ്യം)",
+   "en": "mockery (an object of mockery)"
+  },
+  {
+   "verse": 231,
+   "ar": "وَٱذۡكُرُواْ",
+   "ml": "നിങ്ങൾ ഓർക്കുകയും ചെയ്യുവിൻ",
+   "en": "and bear in mind"
+  },
+  {
+   "verse": 231,
+   "ar": "نِعۡمَتَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ അനുഗ്രഹത്തെ",
+   "en": "the favour of Allah"
+  },
+  {
+   "verse": 231,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 231,
+   "ar": "وَمَآ أَنزَلَ",
+   "ml": "അവൻ ഇറക്കിയതിനെയും",
+   "en": "and what He sent down"
+  },
+  {
+   "verse": 231,
+   "ar": "عَلَيۡكُم",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 231,
+   "ar": "مِّنَ ٱلۡكِتَٰبِ",
+   "ml": "ഗ്രന്ഥത്തിൽനിന്ന്",
+   "en": "from the book"
+  },
+  {
+   "verse": 231,
+   "ar": "وَٱلۡحِكۡمَةِ",
+   "ml": "വിജ്ഞാനത്തിൽ നിന്നും",
+   "en": "and from wisdom"
+  },
+  {
+   "verse": 231,
+   "ar": "يَعِظُكُم بِهِۦ",
+   "ml": "അതുവഴി നിങ്ങൾക്ക് അവൻ സദുപദേശം നൽകിക്കൊണ്ട് (നൽകുവാൻ)",
+   "en": "He giving you good counsel by way of it (to give)"
+  },
+  {
+   "verse": 231,
+   "ar": "وَٱتَّقُواْ ٱللَّهَ",
+   "ml": "നിങ്ങൾ അല്ലാഹുവിനെ സൂക്ഷിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and guard against Allah"
+  },
+  {
+   "verse": 231,
+   "ar": "وَٱعۡلَمُوٓاْ",
+   "ml": "നിങ്ങൾ അറിയുകയും ചെയ്‌വിൻ",
+   "en": "and know"
+  },
+  {
+   "verse": 231,
+   "ar": "أَنَّ ٱللَّهَ",
+   "ml": "അല്ലാഹു (ആകുന്നു) എന്ന്",
+   "en": "that Allah (is)"
+  },
+  {
+   "verse": 231,
+   "ar": "بِكُلِّ شَيۡءٍ",
+   "ml": "എല്ലാ കാര്യത്തെപ്പറ്റിയും",
+   "en": "about every matter"
+  },
+  {
+   "verse": 231,
+   "ar": "عَلِيمٞ",
+   "ml": "അറിയുന്നവൻ",
+   "en": "One who knows"
+  },
+  {
+   "verse": 232,
+   "ar": "وَإِذَا طَلَّقۡتُمُ",
+   "ml": "നിങ്ങൾ വിവാഹമോചനം ചെയ്താൽ",
+   "en": "if you do divorce"
+  },
+  {
+   "verse": 232,
+   "ar": "ٱلنِّسَآءَ",
+   "ml": "സ്ത്രീകളെ",
+   "en": "women"
+  },
+  {
+   "verse": 232,
+   "ar": "فَبَلَغۡنَ",
+   "ml": "എന്നിട്ടവർ എത്തി(യാൽ), പ്രാപിച്ചു",
+   "en": "then (if) they arrived, reached"
+  },
+  {
+   "verse": 232,
+   "ar": "أَجَلَهُنَّ",
+   "ml": "അവരുടെ അവധി",
+   "en": "their term"
+  },
+  {
+   "verse": 232,
+   "ar": "فَلَا تَعۡضُلُوهُنَّ",
+   "ml": "എന്നാൽ നിങ്ങളവരെ മുടക്കിയിടരുത്",
+   "en": "then do not hinder them"
+  },
+  {
+   "verse": 232,
+   "ar": "أَن يَنكِحۡنَ",
+   "ml": "അവർ വിവാഹം ചെയ്യുന്നതിന് (ചെയ്യുന്നതിൽ നിന്ന്)",
+   "en": "for their marrying (from marrying)"
+  },
+  {
+   "verse": 232,
+   "ar": "أَزۡوَٰجَهُنَّ",
+   "ml": "അവരുടെ ഭർത്താക്കളെ",
+   "en": "their husbands"
+  },
+  {
+   "verse": 232,
+   "ar": "إِذَا تَرَٰضَوۡاْ",
+   "ml": "അവർ പരസ്പരം തൃപ്തിപ്പെട്ടാൽ",
+   "en": "if they are pleased with each other"
+  },
+  {
+   "verse": 232,
+   "ar": "بَيۡنَهُم",
+   "ml": "അവർക്കിടയിൽ",
+   "en": "between them"
+  },
+  {
+   "verse": 232,
+   "ar": "بِٱلۡمَعۡرُوفِ",
+   "ml": "മര്യാദ (സദാചാരം) അനുസരിച്ച്",
+   "en": "in accordance with propriety (good custom)"
+  },
+  {
+   "verse": 232,
+   "ar": "ذَٰلِكَ",
+   "ml": "അത്",
+   "en": "that"
+  },
+  {
+   "verse": 232,
+   "ar": "يُوعَظُ بِهِۦ",
+   "ml": "അത് മുഖേന സദുപദേശം ചെയ്യപ്പെടുന്നു",
+   "en": "by means of it good counsel is done"
+  },
+  {
+   "verse": 232,
+   "ar": "مَن كَانَ",
+   "ml": "ആയിട്ടുള്ളവർക്ക്",
+   "en": "to those who are"
+  },
+  {
+   "verse": 232,
+   "ar": "مِنكُمۡ",
+   "ml": "നിങ്ങളിൽ നിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 232,
+   "ar": "يُؤۡمِنُ",
+   "ml": "വിശ്വസിക്കുന്നു",
+   "en": "believe"
+  },
+  {
+   "verse": 232,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ",
+   "en": "in Allah"
+  },
+  {
+   "verse": 232,
+   "ar": "وَٱلۡيَوۡمِ ٱلۡأٓخِرِ",
+   "ml": "അന്ത്യനാളിലും",
+   "en": "and in the Day of the End"
+  },
+  {
+   "verse": 232,
+   "ar": "ذَٰلِكُمۡ",
+   "ml": "അത്",
+   "en": "that"
+  },
+  {
+   "verse": 232,
+   "ar": "أَزۡكَىٰ لَكُمۡ",
+   "ml": "നിങ്ങൾക്ക് ഏറ്റം സംശുദ്ധമായതാണ്",
+   "en": "is the most thoroughly pure for you"
+  },
+  {
+   "verse": 232,
+   "ar": "وَأَطۡهَرُ",
+   "ml": "അധികം വൃത്തിയായതും",
+   "en": "and more clean"
+  },
+  {
+   "verse": 232,
+   "ar": "وَٱللَّهُ يَعۡلَمُ",
+   "ml": "അല്ലാഹു അറിയുന്നു",
+   "en": "Allah knows"
+  },
+  {
+   "verse": 232,
+   "ar": "وَأَنتُمۡ",
+   "ml": "നിങ്ങളാകട്ടെ",
+   "en": "you, for your part"
+  },
+  {
+   "verse": 232,
+   "ar": "لَا تَعۡلَمُونَ",
+   "ml": "നിങ്ങൾ അറിയുകയില്ല",
+   "en": "you will not know"
+  },
+  {
+   "verse": 233,
+   "ar": "وَٱلۡوَٰلِدَٰتُ",
+   "ml": "മാതാക്കൾ, പ്രസവിച്ച സ്ത്രീകൾ",
+   "en": "mothers, women who have given birth"
+  },
+  {
+   "verse": 233,
+   "ar": "يُرۡضِعۡنَ",
+   "ml": "അവർ മുലകൊടുക്കണം",
+   "en": "they must give suck"
+  },
+  {
+   "verse": 233,
+   "ar": "أَوۡلَٰدَهُنَّ",
+   "ml": "അവരുടെ കുട്ടി (സന്താനം)കൾക്ക്",
+   "en": "to their child (offspring)ren"
+  },
+  {
+   "verse": 233,
+   "ar": "حَوۡلَيۡنِ",
+   "ml": "രണ്ട് കൊല്ലം",
+   "en": "two years"
+  },
+  {
+   "verse": 233,
+   "ar": "كَامِلَيۡنِ",
+   "ml": "പൂർണമായ",
+   "en": "complete"
+  },
+  {
+   "verse": 233,
+   "ar": "لِمَنۡ أَرَادَ",
+   "ml": "ഉദ്ദേശിച്ചവർക്ക്",
+   "en": "for those who intended"
+  },
+  {
+   "verse": 233,
+   "ar": "أَن يُتِمَّ",
+   "ml": "പൂർത്തിയാക്കുവാൻ",
+   "en": "to complete"
+  },
+  {
+   "verse": 233,
+   "ar": "ٱلرَّضَاعَةَ",
+   "ml": "മുലകുടി",
+   "en": "the suckling *[DOUBT: printed split at a line end as “മുല / കുടി”, so the image cannot show whether there is a space; written joined, as മുലകുടി is printed in the verse translation.]*"
+  },
+  {
+   "verse": 233,
+   "ar": "وَعَلَى ٱلۡمَوۡلُودِ لَهُۥ",
+   "ml": "യാതൊരുവന് ജനിച്ചുവോ അവന്റെ മേലാണ്",
+   "en": "it is upon him to whom was born"
+  },
+  {
+   "verse": 233,
+   "ar": "رِزۡقُهُنَّ",
+   "ml": "അവരുടെ ആഹാരം, ഉപജീവനം",
+   "en": "their provision, livelihood"
+  },
+  {
+   "verse": 233,
+   "ar": "وَكِسۡوَتُهُنَّ",
+   "ml": "അവരുടെ വസ്ത്രങ്ങളും",
+   "en": "and their garments"
+  },
+  {
+   "verse": 233,
+   "ar": "بِٱلۡمَعۡرُوفِ",
+   "ml": "മര്യാദപ്രകാരം",
+   "en": "according to propriety"
+  },
+  {
+   "verse": 233,
+   "ar": "لَا تُكَلَّفُ",
+   "ml": "ശാസിക്കപ്പെടുകയില്ല",
+   "en": "will not be charged"
+  },
+  {
+   "verse": 233,
+   "ar": "نَفۡسٌ",
+   "ml": "ഒരു ദേഹവും, ആത്മാവും",
+   "en": "any body, any soul"
+  },
+  {
+   "verse": 233,
+   "ar": "إِلَّا وُسۡعَهَا",
+   "ml": "അതിന്റെ കഴിവ് (സാധിക്കുന്നത്) അല്ലാതെ",
+   "en": "except its capacity (what it is able to)"
+  },
+  {
+   "verse": 233,
+   "ar": "لَا تُضَآرَّ",
+   "ml": "ദ്രോഹിക്കപ്പെട്ടുകൂടാ, ഉപദ്രവം ഏൽപിക്കപ്പെടരുത്",
+   "en": "must not be injured, must not be dealt harm"
+  },
+  {
+   "verse": 233,
+   "ar": "وَٰلِدَةُۢ",
+   "ml": "ഒരു മാതാവും",
+   "en": "any mother"
+  },
+  {
+   "verse": 233,
+   "ar": "بِوَلَدِهَا",
+   "ml": "അവളുടെ കുട്ടി (സന്താനം) നിമിത്തം",
+   "en": "on account of her child (offspring)"
+  },
+  {
+   "verse": 233,
+   "ar": "وَلَا مَوۡلُودٞ لَّهُۥ",
+   "ml": "യാതൊരുവന് ജനിച്ചുവോ അവനും (പിതാവും) പാടില്ല",
+   "en": "he too to whom was born (the father too) must not"
+  },
+  {
+   "verse": 233,
+   "ar": "بِوَلَدِهِۦ",
+   "ml": "അവന്റെ കുട്ടി (സന്താനം) കാരണം",
+   "en": "because of his child (offspring)"
+  },
+  {
+   "verse": 233,
+   "ar": "وَعَلَى ٱلۡوَارِثِ",
+   "ml": "അനന്തരാവകാശിയുടെ മേലുമുണ്ട്",
+   "en": "there is upon the inheritor too"
+  },
+  {
+   "verse": 233,
+   "ar": "مِثۡلُ ذَٰلِكَ",
+   "ml": "അതുപോലെയുള്ളത്",
+   "en": "what is like that"
+  },
+  {
+   "verse": 233,
+   "ar": "فَإِنۡ أَرَادَا",
+   "ml": "എനി അവർ രണ്ടാളും ഉദ്ദേശിച്ചെങ്കിൽ",
+   "en": "now if both of them have intended"
+  },
+  {
+   "verse": 233,
+   "ar": "فِصَالًا",
+   "ml": "(മുലകുടി) പിരിക്കുവാൻ",
+   "en": "to part (the suckling)"
+  },
+  {
+   "verse": 233,
+   "ar": "عَن تَرَاضٖ",
+   "ml": "പരസ്പര തൃപ്തിയോടെ",
+   "en": "with mutual pleasure"
+  },
+  {
+   "verse": 233,
+   "ar": "مِّنۡهُمَا",
+   "ml": "അവർ രണ്ടാളിൽ നിന്നും",
+   "en": "from the two of them"
+  },
+  {
+   "verse": 233,
+   "ar": "وَتَشَاوُرٖ",
+   "ml": "അന്യോന്യം ആലോചനയോടെയും",
+   "en": "and with deliberation with each other"
+  },
+  {
+   "verse": 233,
+   "ar": "فَلَا جُنَاحَ",
+   "ml": "എന്നാൽ തെറ്റില്ല, കുറ്റമില്ല",
+   "en": "then there is no wrong, there is no offence"
+  },
+  {
+   "verse": 233,
+   "ar": "عَلَيۡهِمَا",
+   "ml": "അവർ രണ്ടാളുടെമേൽ",
+   "en": "upon the two of them"
+  },
+  {
+   "verse": 233,
+   "ar": "وَإِنۡ أَرَدتُّمۡ",
+   "ml": "നിങ്ങൾ ഉദ്ദേശിച്ചെങ്കിൽ",
+   "en": "if you have intended"
+  },
+  {
+   "verse": 233,
+   "ar": "أَن تَسۡتَرۡضِعُوٓاْ",
+   "ml": "നിങ്ങൾ മുല കൊടുപ്പിക്കുവാൻ",
+   "en": "for you to have suck given"
+  },
+  {
+   "verse": 233,
+   "ar": "أَوۡلَٰدَكُمۡ",
+   "ml": "നിങ്ങളുടെ സന്താനങ്ങൾക്ക്",
+   "en": "to your offspring"
+  },
+  {
+   "verse": 233,
+   "ar": "فَلَا جُنَاحَ",
+   "ml": "എന്നാൽ കുറ്റമില്ല, തെറ്റില്ല",
+   "en": "then there is no offence, there is no wrong"
+  },
+  {
+   "verse": 233,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങളുടെ മേൽ, നിങ്ങൾക്ക്",
+   "en": "upon you, for you"
+  },
+  {
+   "verse": 233,
+   "ar": "إِذَا سَلَّمۡتُم",
+   "ml": "നിങ്ങൾ ഏൽപിച്ചുകൊടുത്താൽ",
+   "en": "if you hand over"
+  },
+  {
+   "verse": 233,
+   "ar": "مَّآ ءَاتَيۡتُم",
+   "ml": "നിങ്ങൾ കൊടുക്കുന്നത്",
+   "en": "what you give"
+  },
+  {
+   "verse": 233,
+   "ar": "بِٱلۡمَعۡرُوفِ",
+   "ml": "മര്യാദപ്രകാരം, ആചാരമനുസരിച്ച്",
+   "en": "according to propriety, in accordance with custom"
+  },
+  {
+   "verse": 233,
+   "ar": "وَٱتَّقُواْ ٱللَّهَ",
+   "ml": "നിങ്ങൾ അല്ലാഹുവിനെ സൂക്ഷിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and guard against Allah"
+  },
+  {
+   "verse": 233,
+   "ar": "وَٱعۡلَمُوٓاْ",
+   "ml": "നിങ്ങൾ അറിയുകയും ചെയ്യുവിൻ",
+   "en": "and know"
+  },
+  {
+   "verse": 233,
+   "ar": "أَنَّ ٱللَّهَ",
+   "ml": "അല്ലാഹു (ആകുന്നു) എന്ന്",
+   "en": "that Allah (is)"
+  },
+  {
+   "verse": 233,
+   "ar": "بِمَا تَعۡمَلُونَ",
+   "ml": "നിങ്ങൾ പ്രവർത്തിക്കുന്നതിനെപ്പറ്റി",
+   "en": "about what you work"
+  },
+  {
+   "verse": 233,
+   "ar": "بَصِيرٞ",
+   "ml": "കണ്ടറിയുന്നവനാണ് (എന്ന്)",
+   "en": "is the One who sees and knows (that)"
+  }
+ ]
+}
