@@ -120,6 +120,9 @@ tr:target, h2:target, h3:target { background: var(--accent-soft); }
 body.hide-ml .ml, .hide-ml .ml { display: none; }
 .hide-ar table.verses .quran, .hide-ar table.verses th:nth-child(2) { display: none; }
 .hide-words .words-block, .hide-comm .commentary { display: none; }
+.hidden-notice { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1rem; margin: 0 0 1rem; padding: .6rem .9rem; border: 1px solid var(--accent); border-radius: 8px; background: var(--accent-soft); color: var(--text); font-family: var(--sans); font-size: .95rem; }
+.hidden-notice p { margin: 0; flex: 1 1 14rem; }
+.hidden-notice button { font: inherit; padding: .35rem .8rem; border-radius: 6px; border: 1px solid currentColor; background: transparent; color: inherit; cursor: pointer; }
 .mark-tools { display: inline-flex; gap: 6px; margin-left: 8px; vertical-align: middle; }
 td .mark-tools { display: grid; grid-template-columns: repeat(2, 34px); margin: 6px 0 0; }
 .mark-tools { gap: 2px; }
