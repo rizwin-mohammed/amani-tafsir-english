@@ -1,0 +1,610 @@
+{
+ "words": [
+  {
+   "verse": 234,
+   "ar": "وَٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടർ",
+   "en": "the group who"
+  },
+  {
+   "verse": 234,
+   "ar": "يُتَوَفَّوۡنَ",
+   "ml": "അവർ മുഴുവനുമായി പിടിച്ചെടുക്കപ്പെടുന്നു (മരിക്കുന്നു)",
+   "en": "they are taken in full (die)"
+  },
+  {
+   "verse": 234,
+   "ar": "مِنكُمۡ",
+   "ml": "നിങ്ങളിൽ നിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 234,
+   "ar": "وَيَذَرُونَ",
+   "ml": "അവർ വിട്ടേക്കുകയും ചെയ്യുന്നു",
+   "en": "and they leave"
+  },
+  {
+   "verse": 234,
+   "ar": "أَزۡوَٰجٗا",
+   "ml": "ഇണകളെ (ഭാര്യമാരെ)",
+   "en": "mates (wives)"
+  },
+  {
+   "verse": 234,
+   "ar": "يَتَرَبَّصۡنَ",
+   "ml": "ആ സ്ത്രീകൾ കാത്തിരിക്കണം",
+   "en": "those women must wait"
+  },
+  {
+   "verse": 234,
+   "ar": "بِأَنفُسِهِنَّ",
+   "ml": "അവരുടെ ദേഹങ്ങളുമായി, സ്വന്തങ്ങളും കൊണ്ട്",
+   "en": "with their selves, with their own selves"
+  },
+  {
+   "verse": 234,
+   "ar": "أَرۡبَعَةَ أَشۡهُرٖ",
+   "ml": "നാലുമാസങ്ങൾ",
+   "en": "four months"
+  },
+  {
+   "verse": 234,
+   "ar": "وَعَشۡرٗا",
+   "ml": "ഒരു പത്തും (പത്തുദിവസവും)",
+   "en": "and one ten (and ten days)"
+  },
+  {
+   "verse": 234,
+   "ar": "فَإِذَا بَلَغۡنَ",
+   "ml": "എന്നിട്ട് അവർ എത്തിയാൽ, പ്രാപിച്ചാൽ",
+   "en": "then if they arrive, if they reach"
+  },
+  {
+   "verse": 234,
+   "ar": "أَجَلَهُنَّ",
+   "ml": "അവരുടെ അവധി",
+   "en": "their term"
+  },
+  {
+   "verse": 234,
+   "ar": "فَلَا جُنَاحَ",
+   "ml": "അപ്പോൾ തെറ്റില്ല",
+   "en": "then there is no wrong"
+  },
+  {
+   "verse": 234,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങളുടെ മേൽ",
+   "en": "upon you"
+  },
+  {
+   "verse": 234,
+   "ar": "فِيمَا فَعَلۡنَ",
+   "ml": "അവർ ചെയ്യുന്നതിൽ",
+   "en": "in what they do"
+  },
+  {
+   "verse": 234,
+   "ar": "فِيٓ أَنفُسِهِنَّ",
+   "ml": "അവരുടെ സ്വന്തം(കാര്യ)ങ്ങളിൽ, ദേഹങ്ങളെപ്പറ്റി",
+   "en": "in their own (matter)s, about their selves"
+  },
+  {
+   "verse": 234,
+   "ar": "بِٱلۡمَعۡرُوفِ",
+   "ml": "മര്യാദ (ആചാര) പ്രകാരം",
+   "en": "according to propriety (custom)"
+  },
+  {
+   "verse": 234,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 234,
+   "ar": "بِمَا تَعۡمَلُونَ",
+   "ml": "നിങ്ങൾ പ്രവർത്തിക്കുന്നതിനെപ്പറ്റി",
+   "en": "about what you do"
+  },
+  {
+   "verse": 234,
+   "ar": "خَبِيرٞ",
+   "ml": "സൂക്ഷ്മമായി അറിയുന്നവനാണ്.",
+   "en": "is One who knows minutely."
+  },
+  {
+   "verse": 235,
+   "ar": "وَلَا جُنَاحَ عَلَيۡكُمۡ",
+   "ml": "നിങ്ങളുടെ മേൽ തെറ്റില്ല",
+   "en": "there is no wrong upon you"
+  },
+  {
+   "verse": 235,
+   "ar": "فِيمَا",
+   "ml": "യാതൊന്നിൽ, ഒരു കാര്യത്തിൽ",
+   "en": "in that which, in a matter"
+  },
+  {
+   "verse": 235,
+   "ar": "عَرَّضۡتُم بِهِۦ",
+   "ml": "അതിനെപ്പറ്റി നിങ്ങൾ സൂചന നൽകി",
+   "en": "you gave an indication about it"
+  },
+  {
+   "verse": 235,
+   "ar": "مِنۡ خِطۡبَةِ",
+   "ml": "വിവാഹാർത്ഥന സംബന്ധിച്ച്",
+   "en": "concerning marriage request"
+  },
+  {
+   "verse": 235,
+   "ar": "ٱلنِّسَآءِ",
+   "ml": "(ആ) സ്ത്രീകളുടെ",
+   "en": "of (those) women"
+  },
+  {
+   "verse": 235,
+   "ar": "أَوۡ أَكۡنَنتُمۡ",
+   "ml": "അല്ലെങ്കിൽ നിങ്ങൾ ഒളിച്ചു (മറച്ചു) വെച്ചു",
+   "en": "or you hid (concealed) away"
+  },
+  {
+   "verse": 235,
+   "ar": "فِيٓ أَنفُسِكُمۡ",
+   "ml": "നിങ്ങളുടെ സ്വന്തങ്ങളിൽ (മനസ്സുകളിൽ)",
+   "en": "in your own selves (minds)"
+  },
+  {
+   "verse": 235,
+   "ar": "عَلِمَ ٱللَّهُ",
+   "ml": "അല്ലാഹുവിനറിയാം",
+   "en": "Allah knows"
+  },
+  {
+   "verse": 235,
+   "ar": "أَنَّكُمۡ",
+   "ml": "നിങ്ങൾ (ആകുന്നു) എന്ന്",
+   "en": "that you (are)"
+  },
+  {
+   "verse": 235,
+   "ar": "سَتَذۡكُرُونَهُنَّ",
+   "ml": "വഴിയെ നിങ്ങൾ അവരെ ഓർമിക്കും",
+   "en": "by and by you will keep them in mind"
+  },
+  {
+   "verse": 235,
+   "ar": "وَلَٰكِن",
+   "ml": "എങ്കിലും",
+   "en": "but"
+  },
+  {
+   "verse": 235,
+   "ar": "لَّا تُوَاعِدُوهُنَّ",
+   "ml": "നിങ്ങളവരോട് വാഗ്ദാനം നടത്തരുത്",
+   "en": "do not make promise to them"
+  },
+  {
+   "verse": 235,
+   "ar": "سِرًّا",
+   "ml": "രഹസ്യമായി, സ്വകാര്യത്തിൽ",
+   "en": "secretly, in private"
+  },
+  {
+   "verse": 235,
+   "ar": "إِلَّآ أَن تَقُولُواْ",
+   "ml": "നിങ്ങൾ പറയുന്നതൊഴികെ",
+   "en": "except your saying"
+  },
+  {
+   "verse": 235,
+   "ar": "قَوۡلٗا",
+   "ml": "വല്ല വാക്കും",
+   "en": "some word"
+  },
+  {
+   "verse": 235,
+   "ar": "مَّعۡرُوفٗا",
+   "ml": "മര്യാദയായ (മിതമായ)",
+   "en": "of propriety (moderate)"
+  },
+  {
+   "verse": 235,
+   "ar": "وَلَا تَعۡزِمُواْ",
+   "ml": "നിങ്ങൾ തീർച്ചപ്പെടുത്തുക (ഉറപ്പിക്കുക)യും അരുത്",
+   "en": "and do not settle (make firm) *[DOUBT: “തീർച്ചപ്പെടുത്തുക” ends a line and “(ഉറപ്പിക്കുക)യും” begins the next, so the image cannot show whether there is a space; written as shown.]*"
+  },
+  {
+   "verse": 235,
+   "ar": "عُقۡدَةَ ٱلنِّكَاحِ",
+   "ml": "വിവാഹബന്ധത്തെ",
+   "en": "the marriage bond"
+  },
+  {
+   "verse": 235,
+   "ar": "حَتَّىٰ يَبۡلُغَ",
+   "ml": "എത്തുന്നതുവരേക്ക്",
+   "en": "until reaches"
+  },
+  {
+   "verse": 235,
+   "ar": "ٱلۡكِتَٰبُ",
+   "ml": "നിയമം, രേഖ",
+   "en": "the law, the record"
+  },
+  {
+   "verse": 235,
+   "ar": "أَجَلَهُۥ",
+   "ml": "അതിന്റെ അവധി",
+   "en": "its term"
+  },
+  {
+   "verse": 235,
+   "ar": "وَٱعۡلَمُوٓاْ",
+   "ml": "നിങ്ങൾ അറിയുകയും ചെയ്യുവിൻ",
+   "en": "and know"
+  },
+  {
+   "verse": 235,
+   "ar": "أَنَّ ٱللَّهَ يَعۡلَمُ",
+   "ml": "അല്ലാഹു അറിയുന്നതാണെന്ന്",
+   "en": "that Allah will know"
+  },
+  {
+   "verse": 235,
+   "ar": "مَا فِيٓ أَنفُسِكُمۡ",
+   "ml": "നിങ്ങളുടെ മനസ്സുകളിലുള്ളത്",
+   "en": "what is in your minds"
+  },
+  {
+   "verse": 235,
+   "ar": "فَٱحۡذَرُوهُ",
+   "ml": "അതിനാൽ നിങ്ങളവനെ ശ്രദ്ധിച്ചു കാക്കുവിൻ",
+   "en": "therefore be attentive and watchful of Him"
+  },
+  {
+   "verse": 235,
+   "ar": "وَٱعۡلَمُوٓاْ",
+   "ml": "നിങ്ങൾ അറിയുകയും ചെയ്യുക",
+   "en": "and know"
+  },
+  {
+   "verse": 235,
+   "ar": "أَنَّ ٱللَّهَ",
+   "ml": "അല്ലാഹു (ആകുന്നു) എന്ന്",
+   "en": "that Allah (is)"
+  },
+  {
+   "verse": 235,
+   "ar": "غَفُورٌ",
+   "ml": "വളരെ പൊറുക്കുന്നവൻ",
+   "en": "one who forgives much"
+  },
+  {
+   "verse": 235,
+   "ar": "حَلِيمٞ",
+   "ml": "സഹനശീലൻ",
+   "en": "the Forbearing"
+  },
+  {
+   "verse": 236,
+   "ar": "لَّا جُنَاحَ عَلَيۡكُمۡ",
+   "ml": "നിങ്ങളുടെ മേൽ തെറ്റില്ല",
+   "en": "there is no wrong upon you"
+  },
+  {
+   "verse": 236,
+   "ar": "إِن طَلَّقۡتُمُ",
+   "ml": "നിങ്ങൾ വിവാഹമോചനം നടത്തിയെങ്കിൽ",
+   "en": "if you have carried out divorce"
+  },
+  {
+   "verse": 236,
+   "ar": "ٱلنِّسَآءَ",
+   "ml": "സ്ത്രീകളെ",
+   "en": "women"
+  },
+  {
+   "verse": 236,
+   "ar": "مَا لَمۡ تَمَسُّوهُنَّ",
+   "ml": "അവരെ നിങ്ങൾ സ്പർശിക്കാത്തപ്പോൾ",
+   "en": "when you have not touched them"
+  },
+  {
+   "verse": 236,
+   "ar": "أَوۡ تَفۡرِضُواْ لَهُنَّ",
+   "ml": "അല്ലെങ്കിൽ അവർക്ക് നിശ്ചയിക്കാത്ത (നിർണയിക്കാത്ത- നിർബന്ധമാക്കാത്ത)പ്പോൾ",
+   "en": "or at the time of not determining (not fixing- not making obligatory) for them"
+  },
+  {
+   "verse": 236,
+   "ar": "فَرِيضَةٗ",
+   "ml": "ഒരു നിർണയം, നിശ്ചയം, നിർബന്ധം",
+   "en": "a fixing, a determination, an obligation"
+  },
+  {
+   "verse": 236,
+   "ar": "وَمَتِّعُوهُنَّ",
+   "ml": "നിങ്ങൾ അവർക്ക് മുത്അത്ത് (വിഭവം- ഉപഭോഗവസ്തു) കൊടുക്കുകയും ചെയ്യുക",
+   "en": "and give them mut'ah (a resource- an article of use)"
+  },
+  {
+   "verse": 236,
+   "ar": "عَلَى ٱلۡمُوسِعِ",
+   "ml": "നിവൃത്തിയുള്ള (കഴിവുള്ള)വന്റെ മേലുണ്ട്",
+   "en": "there is upon the one who has means (who has capacity)"
+  },
+  {
+   "verse": 236,
+   "ar": "قَدَرُهُۥ",
+   "ml": "അവന്റെ തോത്",
+   "en": "his rate"
+  },
+  {
+   "verse": 236,
+   "ar": "وَعَلَى ٱلۡمُقۡتِرِ",
+   "ml": "ഞെരുക്ക(തിടുക്ക)ക്കാരന്റെ മേലും ഉണ്ട്",
+   "en": "and there is upon the man of straitness (hurry) *[DOUBT: തിടുക്കം usually means “haste, hurry”; here it seems to stand for pressure or want. Rendered literally.]*"
+  },
+  {
+   "verse": 236,
+   "ar": "قَدَرُهُۥ",
+   "ml": "അവന്റെ തോത്",
+   "en": "his rate"
+  },
+  {
+   "verse": 236,
+   "ar": "مَتَٰعَۢا",
+   "ml": "ഒരു വിഭവം (നൽകൽ)",
+   "en": "a resource (giving)"
+  },
+  {
+   "verse": 236,
+   "ar": "بِٱلۡمَعۡرُوفِ",
+   "ml": "ആചാര (മര്യാദ)പ്രകാരം",
+   "en": "according to custom (propriety)"
+  },
+  {
+   "verse": 236,
+   "ar": "حَقًّا",
+   "ml": "കടമ, അവകാശം, ന്യായം",
+   "en": "a duty, a right, what is just"
+  },
+  {
+   "verse": 236,
+   "ar": "عَلَى ٱلۡمُحۡسِنِينَ",
+   "ml": "സുകൃതം (നന്മ) ചെയ്യുന്നവരുടെ മേൽ",
+   "en": "upon those who do well (goodness)"
+  },
+  {
+   "verse": 237,
+   "ar": "وَإِن طَلَّقۡتُمُوهُنَّ",
+   "ml": "നിങ്ങളവരെ ത്വലാക്വ് (വിവാഹമോചനം) ചെയ്തുവെങ്കിൽ",
+   "en": "if you have done talaq (divorce) of them"
+  },
+  {
+   "verse": 237,
+   "ar": "مِن قَبۡلِ",
+   "ml": "മുമ്പായി, മുമ്പ്",
+   "en": "before, prior"
+  },
+  {
+   "verse": 237,
+   "ar": "أَن تَمَسُّوهُنَّ",
+   "ml": "നിങ്ങളവരെ സ്പർശിക്കുന്നതിന്",
+   "en": "to your touching them"
+  },
+  {
+   "verse": 237,
+   "ar": "وَقَدۡ فَرَضۡتُمۡ",
+   "ml": "നിങ്ങൾ നിർണയിച്ചിട്ടുമുണ്ട്, നിശ്ചയിച്ചിരിക്കെ",
+   "en": "and you have fixed too, while having determined"
+  },
+  {
+   "verse": 237,
+   "ar": "لَهُنَّ",
+   "ml": "അവർക്ക്, അവരോട്",
+   "en": "for them, to them"
+  },
+  {
+   "verse": 237,
+   "ar": "فَرِيضَةٗ",
+   "ml": "ഒരു നിർണയം, നിശ്ചയം",
+   "en": "a fixing, a determination"
+  },
+  {
+   "verse": 237,
+   "ar": "فَنِصۡفُ",
+   "ml": "എന്നാൽ പകുതിയാണ്",
+   "en": "then it is half"
+  },
+  {
+   "verse": 237,
+   "ar": "مَا فَرَضۡتُمۡ",
+   "ml": "നിങ്ങൾ നിർണയിച്ചതിന്റെ, നിശ്ചയിച്ചതിന്റെ",
+   "en": "of what you fixed, of what you determined"
+  },
+  {
+   "verse": 237,
+   "ar": "إِلَّآ أَن يَعۡفُونَ",
+   "ml": "അവർ മാപ്പാക്കിയാലല്ലാതെ, വിട്ടുവീഴ്ച ചെയ്താലൊഴികെ",
+   "en": "unless they pardon, except if they let go"
+  },
+  {
+   "verse": 237,
+   "ar": "أَوۡ يَعۡفُوَاْ",
+   "ml": "അല്ലെങ്കിൽ മാപ്പ് ചെയ്യുക",
+   "en": "or doing pardon"
+  },
+  {
+   "verse": 237,
+   "ar": "ٱلَّذِي",
+   "ml": "യാതൊരുവൻ",
+   "en": "he who"
+  },
+  {
+   "verse": 237,
+   "ar": "بِيَدِهِۦ",
+   "ml": "അവന്റെ കയ്യിലാണ്",
+   "en": "is in his hand"
+  },
+  {
+   "verse": 237,
+   "ar": "عُقۡدَةُ",
+   "ml": "ബന്ധം, ഉറപ്പ്, കെട്ട്",
+   "en": "bond, firmness, knot"
+  },
+  {
+   "verse": 237,
+   "ar": "ٱلنِّكَاحِ",
+   "ml": "വിവാഹത്തിന്റെ",
+   "en": "of marriage"
+  },
+  {
+   "verse": 237,
+   "ar": "وَأَن تَعۡفُوٓاْ",
+   "ml": "നിങ്ങൾ മാപ്പുചെയ്യുന്നതാകട്ടെ",
+   "en": "your doing pardon, for its part"
+  },
+  {
+   "verse": 237,
+   "ar": "أَقۡرَبُ",
+   "ml": "കൂടുതൽ അടുത്തതാണ്",
+   "en": "is nearer"
+  },
+  {
+   "verse": 237,
+   "ar": "لِلتَّقۡوَىٰ",
+   "ml": "സൂക്ഷ്മതയോട്, ഭയഭക്തിക്ക്",
+   "en": "to caution, to God-fearing reverence *[DOUBT: “ഭയ” ends a line and “ഭക്തിക്ക്” begins the next, so the image cannot show whether there is a space; written joined, as ഭയഭക്തി is printed in the verse translation.]*"
+  },
+  {
+   "verse": 237,
+   "ar": "وَلَا تَنسَوُاْ",
+   "ml": "നിങ്ങൾ മറക്കുക (വിസ്മരിക്കുക)യും അരുത്",
+   "en": "and do not forget (be oblivious)"
+  },
+  {
+   "verse": 237,
+   "ar": "ٱلۡفَضۡلَ",
+   "ml": "ശ്രേഷ്ഠത, യോഗ്യത, ഔദാര്യം, ദയവ്",
+   "en": "superiority, worthiness, generosity, kindness"
+  },
+  {
+   "verse": 237,
+   "ar": "بَيۡنَكُمۡ",
+   "ml": "നിങ്ങൾക്കിടയിൽ (തമ്മിലുള്ള)",
+   "en": "among you (that is between each other)"
+  },
+  {
+   "verse": 237,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 237,
+   "ar": "بِمَا تَعۡمَلُونَ",
+   "ml": "നിങ്ങൾ പ്രവർത്തിക്കുന്നതിനെപ്പറ്റി",
+   "en": "about what you do"
+  },
+  {
+   "verse": 237,
+   "ar": "بَصِيرٌ",
+   "ml": "കണ്ടറിയുന്നവനാണ്.",
+   "en": "is the One who sees and knows."
+  },
+  {
+   "verse": 238,
+   "ar": "حَٰفِظُواْ",
+   "ml": "നിങ്ങൾ സൂക്ഷിച്ചു (കാത്തു) പോരുവിൻ",
+   "en": "keep on guarding (watching over)"
+  },
+  {
+   "verse": 238,
+   "ar": "عَلَى ٱلصَّلَوَٰتِ",
+   "ml": "നമസ്കാരങ്ങളെപ്പറ്റി",
+   "en": "about the prayers"
+  },
+  {
+   "verse": 238,
+   "ar": "وَٱلصَّلَوٰةِ",
+   "ml": "നമസ്കാരത്തെയും",
+   "en": "and the prayer"
+  },
+  {
+   "verse": 238,
+   "ar": "ٱلۡوُسۡطَىٰ",
+   "ml": "മദ്ധ്യ (നടുവിലുള്ള- ശ്രേഷ്ഠമായ)",
+   "en": "middle (that is in the centre- superior)"
+  },
+  {
+   "verse": 238,
+   "ar": "وَقُومُواْ",
+   "ml": "നിങ്ങൾ നിൽക്കുകയും ചെയ്യുക",
+   "en": "and stand"
+  },
+  {
+   "verse": 238,
+   "ar": "لِلَّهِ",
+   "ml": "അല്ലാഹുവിനായി, അല്ലാഹുവിന് വേണ്ടി",
+   "en": "for Allah, for the sake of Allah"
+  },
+  {
+   "verse": 238,
+   "ar": "قَٰنِتِينَ",
+   "ml": "ഭക്തരായിട്ട്, ഒതുക്കമുള്ളവരായിക്കൊണ്ട്",
+   "en": "as devout ones, being ones who have composure"
+  },
+  {
+   "verse": 239,
+   "ar": "فَإِنۡ خِفۡتُمۡ",
+   "ml": "എനി നിങ്ങൾ ഭയപ്പെട്ടെങ്കിൽ",
+   "en": "now if you have feared"
+  },
+  {
+   "verse": 239,
+   "ar": "فَرِجَالًا",
+   "ml": "അപ്പോൾ കാൽനടക്കാരായിക്കൊണ്ട്",
+   "en": "then being ones on foot"
+  },
+  {
+   "verse": 239,
+   "ar": "أَوۡ رُكۡبَانٗا",
+   "ml": "അല്ലെങ്കിൽ വാഹനക്കാരായി (വാഹനമേറി) ക്കൊണ്ട്",
+   "en": "or being conveyance-riders (mounted on conveyances)"
+  },
+  {
+   "verse": 239,
+   "ar": "فَإِذَآ أَمِنتُمۡ",
+   "ml": "എന്നാൽ നിങ്ങൾ സമാധാനപ്പെട്ടാൽ, നിർഭയമായാൽ",
+   "en": "but if you have become at peace, if having become secure"
+  },
+  {
+   "verse": 239,
+   "ar": "فَٱذۡكُرُواْ ٱللَّهَ",
+   "ml": "അപ്പോൾ നിങ്ങൾ അല്ലാഹുവിനെ ഓർക്കുവിൻ",
+   "en": "then bear Allah in mind"
+  },
+  {
+   "verse": 239,
+   "ar": "كَمَا عَلَّمَكُم",
+   "ml": "അവൻ നിങ്ങൾക്ക് പഠിപ്പിച്ച (അറിവ് നൽകിയ) പോലെ",
+   "en": "as He taught you (gave knowledge)"
+  },
+  {
+   "verse": 239,
+   "ar": "مَّا لَمۡ تَكُونُواْ",
+   "ml": "നിങ്ങൾ ആയിരുന്നില്ലാത്തത്",
+   "en": "what you were not"
+  },
+  {
+   "verse": 239,
+   "ar": "تَعۡلَمُونَ",
+   "ml": "നിങ്ങൾ അറിയുക(യായിരുന്നില്ലാത്തത്)",
+   "en": "you know(ing – what you were not)"
+  }
+ ]
+}
