@@ -1,0 +1,382 @@
+{
+ "words": [
+  {
+   "verse": 255,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 255,
+   "ar": "لَآ إِلَٰهَ",
+   "ml": "ഒരു ഇലാഹുമല്ല, ആരാധ്യനേയില്ല, ദൈവവുമില്ല",
+   "en": "not any Ilah, there is no object of worship at all, nor any god"
+  },
+  {
+   "verse": 255,
+   "ar": "إِلَّا هُوَ",
+   "ml": "അവനല്ലാതെ",
+   "en": "except Him"
+  },
+  {
+   "verse": 255,
+   "ar": "ٱلۡحَيُّ",
+   "ml": "ജീവത്തായുള്ളവനാണ്",
+   "en": "is the One who is living"
+  },
+  {
+   "verse": 255,
+   "ar": "ٱلۡقَيُّومُ",
+   "ml": "സർവ്വ നിയന്താവാണ്, സ്വയം നിലകൊള്ളുന്നവൻ",
+   "en": "is the Controller of all, One who subsists by Himself"
+  },
+  {
+   "verse": 255,
+   "ar": "لَا تَأۡخُذُهُۥ",
+   "ml": "അവനെ പിടിപെടുകയില്ല",
+   "en": "will not take hold of Him"
+  },
+  {
+   "verse": 255,
+   "ar": "سِنَةٞ",
+   "ml": "മയക്കം (പ്രാഥമിക നിദ്ര)",
+   "en": "drowsiness (initial slumber)"
+  },
+  {
+   "verse": 255,
+   "ar": "وَلَا نَوۡمٞ",
+   "ml": "നിദ്രയുമില്ല",
+   "en": "nor slumber"
+  },
+  {
+   "verse": 255,
+   "ar": "لَّهُۥ",
+   "ml": "അവനാണ്, അവന്റേതാണ്",
+   "en": "is for Him, is His"
+  },
+  {
+   "verse": 255,
+   "ar": "مَا فِي ٱلسَّمَٰوَٰتِ",
+   "ml": "ആകാശങ്ങളിലുള്ളത്",
+   "en": "what is in the heavens"
+  },
+  {
+   "verse": 255,
+   "ar": "وَمَا فِي ٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയിലുള്ളതും",
+   "en": "and what is in the earth"
+  },
+  {
+   "verse": 255,
+   "ar": "مَن ذَا ٱلَّذِي",
+   "ml": "(ഇങ്ങനെയുള്ള) ഒരുവൻ ആർ, ആരുണ്ട്",
+   "en": "who is the one (such as this), who is there"
+  },
+  {
+   "verse": 255,
+   "ar": "يَشۡفَعُ",
+   "ml": "അവൻ ശുപാർശ ചെയ്യും",
+   "en": "he will intercede"
+  },
+  {
+   "verse": 255,
+   "ar": "عِندَهُۥٓ",
+   "ml": "അവന്റെ അടുക്കൽ",
+   "en": "with Him"
+  },
+  {
+   "verse": 255,
+   "ar": "إِلَّا بِإِذۡنِهِۦ",
+   "ml": "അവന്റെ അനുമതി കൂടാതെ",
+   "en": "without His permission"
+  },
+  {
+   "verse": 255,
+   "ar": "يَعۡلَمُ",
+   "ml": "അവൻ അറിയുന്നു, അറിയും",
+   "en": "He knows, will know"
+  },
+  {
+   "verse": 255,
+   "ar": "مَا بَيۡنَ أَيۡدِيهِمۡ",
+   "ml": "അവരുടെ കൈകൾക്കിടയിലുള്ള (മുമ്പിലുള്ള)ത്",
+   "en": "what is between their hands (before them)"
+  },
+  {
+   "verse": 255,
+   "ar": "وَمَا خَلۡفَهُمۡ",
+   "ml": "അവരുടെ പിമ്പിലുള്ളതും",
+   "en": "and what is behind them"
+  },
+  {
+   "verse": 255,
+   "ar": "وَلَا يُحِيطُونَ",
+   "ml": "അവർ വലയം ചെയ്കയില്ല (സൂക്ഷ്മമായി അറിയുകയില്ല)",
+   "en": "they will not encompass (will not know minutely)"
+  },
+  {
+   "verse": 255,
+   "ar": "بِشَيۡءٖ",
+   "ml": "യാതൊന്നിനെപ്പറ്റിയും",
+   "en": "about anything"
+  },
+  {
+   "verse": 255,
+   "ar": "مِّنۡ عِلۡمِهِۦٓ",
+   "ml": "അവന്റെ അറിവിൽ നിന്ന്",
+   "en": "from His knowledge"
+  },
+  {
+   "verse": 255,
+   "ar": "إِلَّا بِمَا شَآءَ",
+   "ml": "അവൻ ഉദ്ദേശിച്ചതിനെപ്പറ്റിയല്ലാതെ",
+   "en": "except about what He has willed"
+  },
+  {
+   "verse": 255,
+   "ar": "وَسِعَ",
+   "ml": "വിശാലമായിരിക്കുന്നു",
+   "en": "has become wide"
+  },
+  {
+   "verse": 255,
+   "ar": "كُرۡسِيُّهُ",
+   "ml": "അവന്റെ കുർസിയ്യ് (രാജപീഠം)",
+   "en": "His Kursiyy (royal seat)"
+  },
+  {
+   "verse": 255,
+   "ar": "ٱلسَّمَٰوَٰتِ",
+   "ml": "ആകാശങ്ങൾക്ക്",
+   "en": "for the heavens"
+  },
+  {
+   "verse": 255,
+   "ar": "وَٱلۡأَرۡضَ",
+   "ml": "ഭൂമിക്കും",
+   "en": "and for the earth"
+  },
+  {
+   "verse": 255,
+   "ar": "وَلَا يَـُٔودُهُۥ",
+   "ml": "അവനെ ഭാരപ്പെടുത്തുകയില്ല, വിഷമിപ്പിക്കയില്ല",
+   "en": "will not burden Him, will not trouble"
+  },
+  {
+   "verse": 255,
+   "ar": "حِفۡظُهُمَا",
+   "ml": "അവ രണ്ടിനെയും സൂക്ഷിക്കൽ, കാക്കൽ, സംരക്ഷിക്കൽ",
+   "en": "the keeping of them both, watching over, protecting"
+  },
+  {
+   "verse": 255,
+   "ar": "وَهُوَ",
+   "ml": "അവൻ, അവനത്രെ",
+   "en": "He, it is He indeed"
+  },
+  {
+   "verse": 255,
+   "ar": "ٱلۡعَلِيُّ",
+   "ml": "ഉന്നതൻ",
+   "en": "the Exalted"
+  },
+  {
+   "verse": 255,
+   "ar": "ٱلۡعَظِيمُ",
+   "ml": "മഹത്തായുള്ളവൻ, മഹാൻ",
+   "en": "the One who is great, the Great"
+  },
+  {
+   "verse": 256,
+   "ar": "لَآ إِكۡرَاهَ",
+   "ml": "നിർബന്ധം ചെലുത്തലില്ല, ബലാൽക്കാരമില്ല",
+   "en": "there is no applying of compulsion, there is no coercion"
+  },
+  {
+   "verse": 256,
+   "ar": "فِي ٱلدِّينِ",
+   "ml": "മതത്തിൽ",
+   "en": "in religion"
+  },
+  {
+   "verse": 256,
+   "ar": "قَد تَّبَيَّنَ",
+   "ml": "വ്യക്തമായിട്ടുണ്ട്, തീർച്ചയായും സ്പഷ്ടമായിരിക്കുന്നു",
+   "en": "has become clear, has certainly become plain"
+  },
+  {
+   "verse": 256,
+   "ar": "ٱلرُّشۡدُ",
+   "ml": "നേർമാർഗം, നേർവഴി",
+   "en": "the straight way, the right path"
+  },
+  {
+   "verse": 256,
+   "ar": "مِنَ ٱلۡغَيِّ",
+   "ml": "ദുർമാർഗത്തിൽ (വഴികേടിൽ) നിന്ന്",
+   "en": "from misguidance (going astray)"
+  },
+  {
+   "verse": 256,
+   "ar": "فَمَن يَكۡفُرۡ",
+   "ml": "അപ്പോൾ (അതിനാൽ) യാതൊരുവൻ അവിശ്വസിക്കുന്നുവോ, ആരെങ്കിലും അവിശ്വസിക്കുന്നപക്ഷം",
+   "en": "then (therefore) whoever disbelieves, in case anyone disbelieves"
+  },
+  {
+   "verse": 256,
+   "ar": "بِٱلطَّـٰغُوتِ",
+   "ml": "ത്വാഗൂത്തിൽ (ദുർമൂർത്തിയിൽ- പിശാചിൽ)",
+   "en": "in Taghut (in the evil deity- in Satan)"
+  },
+  {
+   "verse": 256,
+   "ar": "وَيُؤۡمِنۢ",
+   "ml": "വിശ്വസിക്കുകയും",
+   "en": "and believes"
+  },
+  {
+   "verse": 256,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ",
+   "en": "in Allah"
+  },
+  {
+   "verse": 256,
+   "ar": "فَقَدِ ٱسۡتَمۡسَكَ",
+   "ml": "എന്നാലവൻ മുറുകെ പിടിച്ചു, പിടിച്ചു കഴിഞ്ഞു",
+   "en": "then he held fast, has already held"
+  },
+  {
+   "verse": 256,
+   "ar": "بِٱلۡعُرۡوَةِ",
+   "ml": "പിടിക്കയറിനെ, പിടിബന്ധത്തെ",
+   "en": "to the handhold rope, to the handhold bond"
+  },
+  {
+   "verse": 256,
+   "ar": "ٱلۡوُثۡقَىٰ",
+   "ml": "വളരെ ബലവത്തായ, ഏറ്റം ഉറപ്പുള്ള",
+   "en": "very strong, most firm"
+  },
+  {
+   "verse": 256,
+   "ar": "لَا ٱنفِصَامَ لَهَا",
+   "ml": "അതിന് അറ്റ് (മുറിഞ്ഞ്- പൊട്ടി)പോകലില്ല",
+   "en": "for it there is no snapping (being cut- breaking) off"
+  },
+  {
+   "verse": 256,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 256,
+   "ar": "سَمِيعٌ",
+   "ml": "കേൾക്കുന്നവനാണ്",
+   "en": "is One who hears"
+  },
+  {
+   "verse": 256,
+   "ar": "عَلِيمٌ",
+   "ml": "അറിയുന്നവനാണ്",
+   "en": "is One who knows"
+  },
+  {
+   "verse": 257,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 257,
+   "ar": "وَلِيُّ",
+   "ml": "ബന്ധു (മിത്രം, രക്ഷാധികാരി) ആകുന്നു",
+   "en": "is the kinsman (friend, guardian)"
+  },
+  {
+   "verse": 257,
+   "ar": "ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരുടെ",
+   "en": "of those who have believed"
+  },
+  {
+   "verse": 257,
+   "ar": "يُخۡرِجُهُم",
+   "ml": "അവൻ അവരെ പുറപ്പെടുവിക്കുന്നു, വെളിക്ക് വരുത്തും",
+   "en": "He makes them go forth, will bring outside"
+  },
+  {
+   "verse": 257,
+   "ar": "مِّنَ ٱلظُّلُمَٰتِ",
+   "ml": "അന്ധകാരങ്ങളിൽ നിന്ന്",
+   "en": "from the darknesses"
+  },
+  {
+   "verse": 257,
+   "ar": "إِلَى ٱلنُّورِ",
+   "ml": "പ്രകാശത്തിലേക്ക്",
+   "en": "to the light"
+  },
+  {
+   "verse": 257,
+   "ar": "وَٱلَّذِينَ كَفَرُوٓاْ",
+   "ml": "അവിശ്വസിച്ചവരാകട്ടെ",
+   "en": "as for those who have disbelieved"
+  },
+  {
+   "verse": 257,
+   "ar": "أَوۡلِيَآؤُهُمُ",
+   "ml": "അവരുടെ ബന്ധുക്കൾ, മിത്രങ്ങൾ, കൈകാര്യക്കാർ",
+   "en": "their kinsmen, friends, managers"
+  },
+  {
+   "verse": 257,
+   "ar": "ٱلطَّـٰغُوتُ",
+   "ml": "ത്വാഗൂത്താകുന്നു",
+   "en": "are Taghut"
+  },
+  {
+   "verse": 257,
+   "ar": "يُخۡرِجُونَهُم",
+   "ml": "അവർ അവരെ പുറത്തുകൊണ്ടുവരുന്നു",
+   "en": "they bring them out"
+  },
+  {
+   "verse": 257,
+   "ar": "مِّنَ ٱلنُّورِ",
+   "ml": "പ്രകാശത്തിൽനിന്ന്",
+   "en": "from the light"
+  },
+  {
+   "verse": 257,
+   "ar": "إِلَى ٱلظُّلُمَٰتِ",
+   "ml": "അന്ധകാരങ്ങളിലേക്ക്",
+   "en": "to the darknesses"
+  },
+  {
+   "verse": 257,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those people"
+  },
+  {
+   "verse": 257,
+   "ar": "أَصۡحَٰبُ ٱلنَّارِ",
+   "ml": "നരകത്തിന്റെ ആൾക്കാരാകുന്നു",
+   "en": "are the people of Hell"
+  },
+  {
+   "verse": 257,
+   "ar": "هُمۡ فِيهَا",
+   "ml": "അവർ അതിൽ",
+   "en": "they, in it"
+  },
+  {
+   "verse": 257,
+   "ar": "خَٰلِدُونَ",
+   "ml": "നിത്യവാസികളാണ്.",
+   "en": "are permanent dwellers."
+  }
+ ]
+}
