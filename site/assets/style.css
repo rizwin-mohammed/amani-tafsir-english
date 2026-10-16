@@ -82,11 +82,13 @@ html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--text); font: calc(18px * var(--scale))/var(--lh) var(--serif); overflow-wrap: break-word; }
 a { color: var(--accent); }
 main { max-width: 860px; margin: 0 auto; padding: 16px; }
-.top { display: flex; flex-wrap: wrap; gap: 8px 20px; align-items: center; justify-content: space-between; padding: 12px 16px; background: var(--band); color: var(--band-text); }
-.brand { font: 600 17px var(--sans); text-decoration: none; color: var(--band-text); letter-spacing: 0.01em; }
+.top { position: sticky; top: 0; z-index: 30; display: flex; flex-wrap: wrap; gap: 8px 20px; align-items: center; justify-content: space-between; padding: 12px 16px; background: var(--band); color: var(--band-text); }
+html { scroll-padding-top: calc(var(--top-h, 56px) + 8px); }
+.brand { margin-right: auto; font: 600 17px var(--sans); text-decoration: none; color: var(--band-text); letter-spacing: 0.01em; }
 .top nav { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 16px; font: 14px var(--sans); }
 .top nav a { text-decoration: none; color: var(--band-muted); }
 .top nav a:hover { color: var(--band-text); }
+.narrow-only { display: none; }
 .preview-bar { background: var(--draft-bg); color: var(--draft); text-align: center; font-size: 14px; padding: 6px 16px; }
 footer { max-width: 860px; margin: 40px auto 0; padding: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
 h1 { font-size: 1.8em; line-height: 1.25; margin: 0.4em 0; color: var(--heading); }
@@ -283,33 +285,47 @@ button:focus-visible, a:focus-visible, .switch:focus-visible { outline: 3px soli
 .toast.show { opacity: 1; transform: translate(-50%, 0); }
 @media (max-width: 420px) { .settings-label { display: none; } .settings-btn { padding: 5px 8px; } }
 @media (prefers-reduced-motion: reduce) {
-  .settings-panel, .settings-backdrop, .switch .knob, .toast { transition: none !important; }
+  .settings-panel, .settings-backdrop, .switch .knob, .toast, .side-index { transition: none !important; }
   html { scroll-behavior: auto; }
 }
 
 /* ---------- Surah pages: wide reading area, side index on the left, verse tools on the right ---------- */
 main.wide { max-width: 1560px; }
 td.tools, th.tools { width: 1%; padding-left: 4px; padding-right: 4px; }
-.side-index { display: none; }
+/* The side index: a column on wide screens, a drawer opened from "Contents" on narrower ones. */
+.side-index { font: 14px/1.45 var(--sans); background: var(--surface); }
+.side-title { font: 600 15px/1.4 var(--sans); color: var(--heading); margin: 0 0 10px; padding-right: 32px; }
+.side-title [lang="ar"] { font-size: 1.1em; margin-left: 4px; }
+.side-go label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 4px; }
+.side-go span { display: flex; gap: 6px; }
+.side-go input { min-width: 0; flex: 1; font: 15px var(--sans); padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--text); }
+.side-go button { font: 14px var(--sans); padding: 6px 12px; }
+.side-progress { font-size: 13px; color: var(--muted); margin: 10px 0 6px; }
+.side-list, .side-sub { list-style: none; margin: 0; padding: 0; }
+.side-list { border-top: 1px solid var(--line); padding-top: 6px; }
+.side-list a { display: block; padding: 5px 8px; border-radius: 8px; text-decoration: none; color: var(--text); }
+.side-list a:hover { background: var(--accent-soft); }
+.side-list a.here { background: var(--accent-soft); color: var(--heading); font-weight: 600; box-shadow: inset 3px 0 0 var(--accent); }
+.side-sub a { padding-left: 18px; font-size: 13px; color: var(--muted); }
+.side-sub .l3 a { padding-left: 30px; }
+.side-surahs { margin-top: 12px; border-top: 1px solid var(--line); padding-top: 8px; }
+.side-step { display: flex; justify-content: space-between; gap: 8px; margin: 0 0 6px; font-size: 13px; }
+.side-step a { text-decoration: none; }
+.side-surahs summary { cursor: pointer; color: var(--accent); padding: 4px 0; }
+.side-surahs .side-list { border-top: 0; }
+.side-close { position: absolute; top: 8px; right: 8px; width: 34px; height: 34px; padding: 0; font: 22px/1 var(--sans); border: 0; background: none; color: var(--muted); }
+.index-btn { display: inline-flex; align-items: center; gap: 6px; font: 14px var(--sans); padding: 5px 10px; background: transparent; color: var(--band-text); border: 1px solid var(--band-muted); }
+.side-backdrop { position: fixed; inset: 0; z-index: 64; background: rgba(0,0,0,0.45); }
+@media (max-width: 1099px) {
+  .side-index { position: fixed; z-index: 65; top: 0; left: 0; bottom: 0; width: min(320px, 88vw); overflow-y: auto; overscroll-behavior: contain; padding: 14px 16px 32px; border-right: 1px solid var(--line); box-shadow: 8px 0 30px rgba(0,0,0,0.2); transform: translateX(-105%); transition: transform .22s ease-out; visibility: hidden; }
+  .side-index.open { transform: none; visibility: visible; }
+}
 @media (min-width: 1100px) {
   main.wide { padding: 16px 24px; }
   .reader { display: grid; grid-template-columns: 250px minmax(0, 1fr); gap: 32px; align-items: start; }
-  .side-index { display: block; position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow-y: auto; overscroll-behavior: contain; padding: 12px 14px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; font: 14px/1.45 var(--sans); }
+  .side-index { position: sticky; top: calc(var(--top-h, 56px) + 12px); max-height: calc(100vh - var(--top-h, 56px) - 24px); overflow-y: auto; overscroll-behavior: contain; padding: 12px 14px 16px; border: 1px solid var(--line); border-radius: 12px; }
+  .side-close, .index-btn, .side-backdrop { display: none !important; }
   .reader .toc { display: none; }
-  .side-title { font: 600 15px/1.4 var(--sans); color: var(--heading); margin: 0 0 10px; }
-  .side-title [lang="ar"] { font-size: 1.1em; margin-left: 4px; }
-  .side-go label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 4px; }
-  .side-go span { display: flex; gap: 6px; }
-  .side-go input { min-width: 0; flex: 1; font: 15px var(--sans); padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--text); }
-  .side-go button { font: 14px var(--sans); padding: 6px 12px; }
-  .side-progress { font-size: 13px; color: var(--muted); margin: 10px 0 6px; }
-  .side-list, .side-sub { list-style: none; margin: 0; padding: 0; }
-  .side-list { border-top: 1px solid var(--line); padding-top: 6px; }
-  .side-list a { display: block; padding: 5px 8px; border-radius: 8px; text-decoration: none; color: var(--text); }
-  .side-list a:hover { background: var(--accent-soft); }
-  .side-list a.here { background: var(--accent-soft); color: var(--heading); font-weight: 600; box-shadow: inset 3px 0 0 var(--accent); }
-  .side-sub a { padding-left: 18px; font-size: 13px; color: var(--muted); }
-  .side-sub .l3 a { padding-left: 30px; }
 }
 @media (max-width: 700px) {
   /* Phones: verse number and its tools share the first line of each verse card. */
@@ -319,3 +335,21 @@ td.tools, th.tools { width: 1%; padding-left: 4px; padding-right: 4px; }
   table.verses td.tools { grid-row: 1; grid-column: 2; width: auto; padding: 0; }
   table.verses th.tools { display: none; }
 }
+
+/* Phones: a compact top bar, since it stays on screen. */
+@media (max-width: 700px) {
+  .top { gap: 6px 10px; padding: 8px 12px; }
+  .top:has(.index-btn) { flex-wrap: nowrap; }
+  .brand { flex: none; font-size: 15px; }
+  .top nav { flex-wrap: nowrap; gap: 12px; margin-left: auto; font-size: 13px; }
+  .top nav a { white-space: nowrap; }
+  .wide-only { display: none; }
+  .narrow-only { display: inline; }
+  /* On surah pages "Surahs" already links home, so the name gives way to the Contents button. */
+  .top:has(.index-btn) .brand { display: none; }
+  .index-label { display: none; }
+  .index-btn { flex: none; padding: 5px 8px; }
+}
+/* Justified text for reading: paragraphs, lists and the verse translations. */
+main p, main li, table.verses td.en, table.verses td.ml, table.words td.en { text-align: justify; -webkit-hyphens: auto; hyphens: auto; }
+main .side-index p, main .side-index li, .side-step, .crumbs, .surah-list li { text-align: left; }

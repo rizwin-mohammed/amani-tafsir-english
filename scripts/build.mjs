@@ -66,7 +66,7 @@ function md(src, used = new Set()) {
   return markScripts(html);
 }
 
-function layout({ title, body, rel = '', description = '', wide = false }) {
+function layout({ title, body, rel = '', description = '', wide = false, index = false }) {
   const canonical = `${BASE}/${rel}`;
   return `<!doctype html>
 <html lang="en">
@@ -91,11 +91,12 @@ ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
 </head>
 <body data-base="${BASE}" data-page="${esc(rel)}" data-repo="${REPO}">
 <header class="top">
+  ${index ? `<button type="button" class="index-btn" id="index-open" aria-controls="side-index" aria-expanded="false" title="Contents of this surah"><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M4 6h16M4 12h16M4 18h10" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg><span class="index-label">Contents</span></button>` : ''}
   <a class="brand" href="${BASE}/en/">${SITE_NAME}</a>
   <nav>
     <a href="${BASE}/en/">Surahs</a>
     <a href="${BASE}/en/search/">Search</a>
-    <a href="${BASE}/en/bookmarks/">My bookmarks</a>
+    <a href="${BASE}/en/bookmarks/"><span class="wide-only">My bookmarks</span><span class="narrow-only">Bookmarks</span></a>
     <a href="${BASE}/en/about/">About</a>
     <button type="button" class="settings-btn" id="settings-open" aria-label="Reading settings" aria-haspopup="dialog" aria-controls="settings-panel" title="Reading settings"><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M4 7h10M18 7h2M4 17h4M12 17h8" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/><circle cx="16" cy="7" r="2.2" stroke="currentColor" stroke-width="2" fill="none"/><circle cx="10" cy="17" r="2.2" stroke="currentColor" stroke-width="2" fill="none"/></svg><span class="settings-label">Settings</span></button>
   </nav>
@@ -183,6 +184,9 @@ function surahStatus(meta, parts) {
   return parts.map((p) => p.meta.status).sort((a, b) => order.indexOf(a) - order.indexOf(b))[0];
 }
 
+// Surahs that have a page, in order: filled in by main() before the pages are built.
+let BUILT = [];
+
 function buildSurah(dir, searchIndex) {
   const base = path.join(ROOT, 'content/en', dir);
   const meta = readJson(path.join(base, 'meta.json'));
@@ -243,7 +247,18 @@ ${words ? `<div class="words-block"><h2 id="words" data-anchor="words">Meanings 
   const sideParts = parts
     ? parts.map((p) => `<li><a href="#part-${esc(p.id)}" data-side="part-${esc(p.id)}">Verses ${esc(p.meta.verses)}</a></li>`)
     : [`<li><a href="#verses" data-side="verses">The text and its translation</a></li>`];
-  const side = `<aside class="side-index" aria-label="Index of ${esc(meta.title)}">
+  // Moving between surahs: the neighbours that have a page, and every surah that has one.
+  const at = BUILT.findIndex((b) => b.n === n);
+  const prev = BUILT[at - 1], next = BUILT[at + 1];
+  const surahNav = `<div class="side-surahs">
+${prev || next ? `<p class="side-step">${prev ? `<a href="${BASE}/en/${prev.dir}/" rel="prev">‹ ${prev.n}. ${esc(prev.title)}</a>` : '<span></span>'}${next ? `<a href="${BASE}/en/${next.dir}/" rel="next">${next.n}. ${esc(next.title)} ›</a>` : ''}</p>` : ''}
+<details><summary>Go to another surah</summary><ul class="side-list">
+${BUILT.map((b) => `<li><a href="${BASE}/en/${b.dir}/"${b.n === n ? ' aria-current="page" class="here"' : ''}>${b.n}. ${esc(b.title)}</a></li>`).join('\n')}
+<li><a href="${BASE}/en/">All 114 surahs</a></li>
+</ul></details>
+</div>`;
+  const side = `<aside class="side-index" id="side-index" aria-label="Index of ${esc(meta.title)}">
+<button type="button" class="side-close" id="index-close" aria-label="Close the contents">×</button>
 <p class="side-title"><span class="sn">${n}.</span> ${esc(meta.title)} <span lang="ar" dir="rtl">${esc(ch.name_ar)}</span></p>
 <form class="side-go" data-surah="${n}" data-max="${ch.verses.length}"><label for="go-verse">Go to verse</label><span><input id="go-verse" type="number" inputmode="numeric" min="1" max="${ch.verses.length}" placeholder="1–${ch.verses.length}"><button type="submit">Go</button></span></form>
 <p class="side-progress">${versesDone.length} of ${ch.verses.length} verses translated</p>
@@ -251,7 +266,9 @@ ${words ? `<div class="words-block"><h2 id="words" data-anchor="words">Meanings 
 ${tocIntro.length ? `<li><a href="#top" data-side="intro">Introduction</a><ul class="side-sub">${tocIntro.join('')}</ul></li>` : ''}
 ${sideParts.join('\n')}
 </ul></nav>
-</aside>`;
+${surahNav}
+</aside>
+<div class="side-backdrop" id="side-backdrop" hidden></div>`;
   const body = `<div class="reader">
 ${side}
 <article class="surah" data-surah="${n}" data-dir="${esc(dir)}" data-title="${esc(meta.title)}" data-status="${esc(meta.status)}"${released ? ' data-released="true"' : ''} data-version="${parts ? 0 : Number(meta.version || 0)}">
@@ -272,7 +289,7 @@ ${main}
 </div>`;
 
   const rel = `en/${dir}/`;
-  write(`${rel}index.html`, layout({ title: `${n}. ${meta.title} · ${SITE_NAME}`, body, rel, wide: true }));
+  write(`${rel}index.html`, layout({ title: `${n}. ${meta.title} · ${SITE_NAME}`, body, rel, wide: true, index: true }));
 
   // One search entry per section, and one per verse.
   function sectionIndex(html, fallback, anchor) {
@@ -290,6 +307,7 @@ function main() {
   fs.rmSync(OUT, { recursive: true, force: true });
   const searchIndex = [];
   const dirs = fs.readdirSync(path.join(ROOT, 'content/en')).filter((d) => /^\d{3}-/.test(d)).sort();
+  BUILT = dirs.map((d) => ({ n: Number(d.slice(0, 3)), dir: d, title: readJson(path.join(ROOT, 'content/en', d, 'meta.json')).title }));
   const built = Object.fromEntries(dirs.map((d) => { const r = buildSurah(d, searchIndex); return [r.n, r]; }));
 
   // Short badge words for the library; the full wording stays on each surah page.
@@ -354,7 +372,7 @@ function main() {
   write('robots.txt', PREVIEW ? 'User-agent: *\nDisallow: /\n' : 'User-agent: *\nAllow: /\n');
   write('en/offline/index.html', layout({ title: `Offline · ${SITE_NAME}`, rel: 'en/offline/', body: `<article class="prose"><h1>You are offline</h1>
 <p>This page has not been saved on this device yet. Pages you have opened before can still be read without a connection.</p>
-<p><a href="${BASE}/en/">Go to the list of surahs</a> · <a href="${BASE}/en/bookmarks/">My bookmarks</a></p></article>` }));
+<p><a href="${BASE}/en/">Go to the list of surahs</a> · <a href="${BASE}/en/bookmarks/"><span class="wide-only">My bookmarks</span><span class="narrow-only">Bookmarks</span></a></p></article>` }));
   write('manifest.webmanifest', JSON.stringify({
     id: `${BASE}/en/`,
     name: SITE_NAME,
