@@ -286,3 +286,36 @@ button:focus-visible, a:focus-visible, .switch:focus-visible { outline: 3px soli
   .settings-panel, .settings-backdrop, .switch .knob, .toast { transition: none !important; }
   html { scroll-behavior: auto; }
 }
+
+/* ---------- Surah pages: wide reading area, side index on the left, verse tools on the right ---------- */
+main.wide { max-width: 1560px; }
+td.tools, th.tools { width: 1%; padding-left: 4px; padding-right: 4px; }
+.side-index { display: none; }
+@media (min-width: 1100px) {
+  main.wide { padding: 16px 24px; }
+  .reader { display: grid; grid-template-columns: 250px minmax(0, 1fr); gap: 32px; align-items: start; }
+  .side-index { display: block; position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow-y: auto; overscroll-behavior: contain; padding: 12px 14px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; font: 14px/1.45 var(--sans); }
+  .reader .toc { display: none; }
+  .side-title { font: 600 15px/1.4 var(--sans); color: var(--heading); margin: 0 0 10px; }
+  .side-title [lang="ar"] { font-size: 1.1em; margin-left: 4px; }
+  .side-go label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 4px; }
+  .side-go span { display: flex; gap: 6px; }
+  .side-go input { min-width: 0; flex: 1; font: 15px var(--sans); padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--text); }
+  .side-go button { font: 14px var(--sans); padding: 6px 12px; }
+  .side-progress { font-size: 13px; color: var(--muted); margin: 10px 0 6px; }
+  .side-list, .side-sub { list-style: none; margin: 0; padding: 0; }
+  .side-list { border-top: 1px solid var(--line); padding-top: 6px; }
+  .side-list a { display: block; padding: 5px 8px; border-radius: 8px; text-decoration: none; color: var(--text); }
+  .side-list a:hover { background: var(--accent-soft); }
+  .side-list a.here { background: var(--accent-soft); color: var(--heading); font-weight: 600; box-shadow: inset 3px 0 0 var(--accent); }
+  .side-sub a { padding-left: 18px; font-size: 13px; color: var(--muted); }
+  .side-sub .l3 a { padding-left: 30px; }
+}
+@media (max-width: 700px) {
+  /* Phones: verse number and its tools share the first line of each verse card. */
+  table.verses tr { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; }
+  table.verses td.ar, table.verses td.ml, table.verses td.en { grid-column: 1 / -1; }
+  table.verses td.num { grid-row: 1; grid-column: 1; }
+  table.verses td.tools { grid-row: 1; grid-column: 2; width: auto; padding: 0; }
+  table.verses th.tools { display: none; }
+}

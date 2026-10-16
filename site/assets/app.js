@@ -180,7 +180,7 @@
       sh.addEventListener('click', () => shareLink(el));
       bar.append(bm, nt, cp, sh);
       if (el.tagName === 'TR') {
-        el.querySelector('.num').append(bar);
+        (el.querySelector('.tools') || el.querySelector('.num')).append(bar);
         el.querySelector('.en').append(noteBox);
       } else {
         el.append(bar);
@@ -188,6 +188,38 @@
       }
       refresh();
     });
+
+    // Side index (wide screens): "Go to verse" and the highlight on the part being read.
+    const go = document.querySelector('.side-go');
+    if (go) {
+      go.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const v = parseInt(go.querySelector('input').value, 10);
+        const target = document.getElementById('v' + go.dataset.surah + '-' + v);
+        if (target) { location.hash = target.id; target.scrollIntoView(); }
+        else toast(v >= 1 && v <= Number(go.dataset.max) ? 'Verse ' + v + ' is not translated yet' : 'There is no verse ' + (go.querySelector('input').value || ''));
+      });
+    }
+    const sideLinks = [...document.querySelectorAll('.side-list a[data-side]')];
+    if (sideLinks.length) {
+      const blocks = sideLinks.map((a) => ({ a, el: a.dataset.side === 'intro' ? document.getElementById('top') : document.getElementById(a.dataset.side) })).filter((b) => b.el);
+      let raf = 0;
+      const mark = () => {
+        raf = 0;
+        let cur = blocks[0];
+        for (const b of blocks) if (b.el.getBoundingClientRect().top < 140) cur = b;
+        sideLinks.forEach((a) => a.classList.toggle('here', !!cur && a === cur.a));
+        if (cur) cur.a.setAttribute('aria-current', 'location');
+        sideLinks.forEach((a) => { if (!cur || a !== cur.a) a.removeAttribute('aria-current'); });
+        const list = cur && cur.a.closest('.side-index');
+        if (list && list.scrollHeight > list.clientHeight) {
+          const r = cur.a.getBoundingClientRect(), lr = list.getBoundingClientRect();
+          if (r.top < lr.top + 80 || r.bottom > lr.bottom - 20) list.scrollTop += r.top - lr.top - lr.height / 2;
+        }
+      };
+      window.addEventListener('scroll', () => { if (!raf) raf = requestAnimationFrame(mark); }, { passive: true });
+      mark();
+    }
 
     // Remember where the reader is.
     const anchors = [...article.querySelectorAll('[data-anchor]')];
