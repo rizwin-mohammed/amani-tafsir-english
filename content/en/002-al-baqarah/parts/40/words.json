@@ -1,0 +1,406 @@
+{
+ "words": [
+  {
+   "verse": 240,
+   "ar": "وَٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടർ",
+   "en": "the group who"
+  },
+  {
+   "verse": 240,
+   "ar": "يُتَوَفَّوۡنَ مِنكُمۡ",
+   "ml": "നിങ്ങളിൽ നിന്ന് മരിക്കുന്ന",
+   "en": "who die from among you"
+  },
+  {
+   "verse": 240,
+   "ar": "وَيَذَرُونَ",
+   "ml": "വിട്ടുപോകുകയും ചെയ്യുന്ന",
+   "en": "and who leave and go"
+  },
+  {
+   "verse": 240,
+   "ar": "أَزۡوَٰجٗا",
+   "ml": "ഭാര്യമാരെ",
+   "en": "wives"
+  },
+  {
+   "verse": 240,
+   "ar": "وَصِيَّةٗ",
+   "ml": "ഒരു വസ്വിയ്യത്ത്",
+   "en": "a wasiyyah"
+  },
+  {
+   "verse": 240,
+   "ar": "لِّأَزۡوَٰجِهِم",
+   "ml": "തങ്ങളുടെ ഭാര്യമാർക്ക്",
+   "en": "for their wives"
+  },
+  {
+   "verse": 240,
+   "ar": "مَّتَٰعًا",
+   "ml": "ഒരു വിഭവം, സാമഗ്രി",
+   "en": "a resource, goods"
+  },
+  {
+   "verse": 240,
+   "ar": "إِلَى ٱلۡحَوۡلِ",
+   "ml": "കൊല്ലത്തേക്ക്",
+   "en": "for the year"
+  },
+  {
+   "verse": 240,
+   "ar": "غَيۡرَ إِخۡرَاجٖ",
+   "ml": "പുറത്താക്കാതെ",
+   "en": "without turning out"
+  },
+  {
+   "verse": 240,
+   "ar": "فَإِنۡ خَرَجۡنَ",
+   "ml": "എനി അവർ പുറത്ത് പോയെങ്കിൽ",
+   "en": "now if they have gone out"
+  },
+  {
+   "verse": 240,
+   "ar": "فَلَا جُنَاحَ",
+   "ml": "എന്നാൽ തെറ്റില്ല",
+   "en": "then there is no wrong"
+  },
+  {
+   "verse": 240,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങളുടെ മേൽ",
+   "en": "upon you"
+  },
+  {
+   "verse": 240,
+   "ar": "فِي مَا فَعَلۡنَ",
+   "ml": "അവർ ചെയ്ത (ചെയ്യുന്ന)തിൽ",
+   "en": "in what they did (do) *[DOUBT: “ചെയ്ത” ends a line and “(ചെയ്യുന്ന)തിൽ” begins the next, so the image cannot show whether there is a space; written as shown.]*"
+  },
+  {
+   "verse": 240,
+   "ar": "فِيٓ أَنفُسِهِنَّ",
+   "ml": "അവരുടെ ദേഹങ്ങളിൽ, തങ്ങളുടെ സ്വന്തങ്ങളുടെ കാര്യത്തിൽ",
+   "en": "in their selves, in the matter of their own selves"
+  },
+  {
+   "verse": 240,
+   "ar": "مِن مَّعۡرُوفٖ",
+   "ml": "മര്യാദയായിട്ട്, ആചാരമായി",
+   "en": "as propriety, as custom"
+  },
+  {
+   "verse": 240,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 240,
+   "ar": "عَزِيزٌ",
+   "ml": "പ്രതാപശാലിയാണ്",
+   "en": "is the Majestic"
+  },
+  {
+   "verse": 240,
+   "ar": "حَكِيمٞ",
+   "ml": "അഗാധജ്ഞനാണ്, യുക്തിമാനാകുന്നു",
+   "en": "is the Profoundly Knowing, is the Sagacious"
+  },
+  {
+   "verse": 241,
+   "ar": "وَلِلۡمُطَلَّقَٰتِ",
+   "ml": "വിവാഹമോചനം ചെയ്യപ്പെട്ട സ്ത്രീകൾക്കുണ്ട്",
+   "en": "there is for women who have been divorced"
+  },
+  {
+   "verse": 241,
+   "ar": "مَتَٰعُۢ",
+   "ml": "വല്ല വിഭവവും, ഒരു വിഭവം (നൽകൽ) മുത്അത്ത്",
+   "en": "some resource or other, a resource (giving) mut'ah"
+  },
+  {
+   "verse": 241,
+   "ar": "بِٱلۡمَعۡرُوفِ",
+   "ml": "ആചാരം (മര്യാദ) അനുസരിച്ച്",
+   "en": "in accordance with custom (propriety)"
+  },
+  {
+   "verse": 241,
+   "ar": "حَقًّا",
+   "ml": "ഒരു കടമ, വേണ്ടപ്പെട്ടത്",
+   "en": "a duty, what is required"
+  },
+  {
+   "verse": 241,
+   "ar": "عَلَى ٱلۡمُتَّقِينَ",
+   "ml": "സൂക്ഷ്മത പാലിക്കുന്നവരുടെ മേൽ",
+   "en": "upon those who observe caution"
+  },
+  {
+   "verse": 242,
+   "ar": "كَذَٰلِكَ",
+   "ml": "അതുപോലെ",
+   "en": "like that"
+  },
+  {
+   "verse": 242,
+   "ar": "يُبَيِّنُ ٱللَّهُ",
+   "ml": "അല്ലാഹു വിവരിക്കുന്നു",
+   "en": "Allah explains"
+  },
+  {
+   "verse": 242,
+   "ar": "لَكُمۡ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 242,
+   "ar": "ءَايَٰتِهِۦ",
+   "ml": "അവന്റെ ആയത്ത് (വചനം- ലക്ഷ്യം- ദൃഷ്ടാന്തം)കളെ",
+   "en": "His ayah (verse- evidence- sign)s *[DOUBT: ലക്ഷ്യം beside ആയത്ത് is rendered “evidence”, as in parts 01–02, 07, 17, 20, 23, 30 and 35; it may instead mean “aim”. The same open question as those parts.]*"
+  },
+  {
+   "verse": 242,
+   "ar": "لَعَلَّكُمۡ",
+   "ml": "നിങ്ങൾ ആകുവാൻ വേണ്ടി, ആയേക്കാം",
+   "en": "in order that you be, you may be"
+  },
+  {
+   "verse": 242,
+   "ar": "تَعۡقِلُونَ",
+   "ml": "നിങ്ങൾ ബുദ്ധി കൊടുക്കും, മനസ്സിലാക്കുന്ന(വർ)",
+   "en": "you will use reason, understanding (ones)"
+  },
+  {
+   "verse": 243,
+   "ar": "أَلَمۡ تَرَ",
+   "ml": "നീ കണ്ടില്ലേ, നോക്കുന്നില്ലേ",
+   "en": "have you not seen, are you not looking"
+  },
+  {
+   "verse": 243,
+   "ar": "إِلَى ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരെ",
+   "en": "the group who"
+  },
+  {
+   "verse": 243,
+   "ar": "خَرَجُواْ",
+   "ml": "അവർ പുറപ്പെട്ടു, പുറത്തുപോയി",
+   "en": "they set out, went out"
+  },
+  {
+   "verse": 243,
+   "ar": "مِن دِيَٰرِهِمۡ",
+   "ml": "അവരുടെ വസതികളിൽ നിന്ന്",
+   "en": "from their residences"
+  },
+  {
+   "verse": 243,
+   "ar": "وَهُمۡ أُلُوفٌ",
+   "ml": "അവർ ആയിരങ്ങളുണ്ടായിട്ടും",
+   "en": "though they were thousands"
+  },
+  {
+   "verse": 243,
+   "ar": "حَذَرَ",
+   "ml": "ഭയന്ന്, കാത്തുകൊണ്ട്",
+   "en": "fearing, watching out"
+  },
+  {
+   "verse": 243,
+   "ar": "ٱلۡمَوۡتِ",
+   "ml": "മരണത്തെ",
+   "en": "death"
+  },
+  {
+   "verse": 243,
+   "ar": "فَقَالَ لَهُمُ",
+   "ml": "എന്നിട്ട് (അപ്പോൾ) അവരോട് പറഞ്ഞു",
+   "en": "then (at that time) said to them"
+  },
+  {
+   "verse": 243,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 243,
+   "ar": "مُوتُواْ",
+   "ml": "നിങ്ങൾ മരണപ്പെടുവിൻ",
+   "en": "die"
+  },
+  {
+   "verse": 243,
+   "ar": "ثُمَّ",
+   "ml": "പിന്നീട്",
+   "en": "afterwards"
+  },
+  {
+   "verse": 243,
+   "ar": "أَحۡيَٰهُمۡ",
+   "ml": "അവരെ അവൻ ജീവിപ്പിച്ചു",
+   "en": "He gave them life"
+  },
+  {
+   "verse": 243,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 243,
+   "ar": "لَذُو فَضۡلٍ",
+   "ml": "ദയവ് (അനുഗ്രഹം- ഔദാര്യം) ഉള്ളവൻ തന്നെ",
+   "en": "indeed One who has kindness (favour- generosity)"
+  },
+  {
+   "verse": 243,
+   "ar": "عَلَى ٱلنَّاسِ",
+   "ml": "മനുഷ്യരുടെ മേൽ",
+   "en": "upon mankind"
+  },
+  {
+   "verse": 243,
+   "ar": "وَلَٰكِنَّ",
+   "ml": "എങ്കിലും",
+   "en": "but"
+  },
+  {
+   "verse": 243,
+   "ar": "أَكۡثَرَ ٱلنَّاسِ",
+   "ml": "മനുഷ്യരിൽ അധികവും",
+   "en": "most of mankind"
+  },
+  {
+   "verse": 243,
+   "ar": "لَا يَشۡكُرُونَ",
+   "ml": "നന്ദി ചെയ്യുന്നില്ല.",
+   "en": "do not give thanks."
+  },
+  {
+   "verse": 244,
+   "ar": "وَقَٰتِلُواْ",
+   "ml": "നിങ്ങൾ യുദ്ധം ചെയ്യുവിൻ",
+   "en": "fight"
+  },
+  {
+   "verse": 244,
+   "ar": "فِي سَبِيلِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ മാർഗത്തിൽ",
+   "en": "in the way of Allah"
+  },
+  {
+   "verse": 244,
+   "ar": "وَٱعۡلَمُوٓاْ",
+   "ml": "നിങ്ങൾ അറിയുകയും ചെയ്യുക",
+   "en": "and know"
+  },
+  {
+   "verse": 244,
+   "ar": "أَنَّ ٱللَّهَ",
+   "ml": "അല്ലാഹു (ആകുന്നു) എന്ന്",
+   "en": "that Allah (is)"
+  },
+  {
+   "verse": 244,
+   "ar": "سَمِيعٌ",
+   "ml": "കേൾക്കുന്നവൻ",
+   "en": "One who hears"
+  },
+  {
+   "verse": 244,
+   "ar": "عَلِيمٞ",
+   "ml": "അറിയുന്നവൻ",
+   "en": "One who knows"
+  },
+  {
+   "verse": 245,
+   "ar": "مَّن ذَا",
+   "ml": "ആരുണ്ട്, ഇങ്ങനെയുള്ളവൻ ആരാണ്",
+   "en": "who is there, who is one such as this"
+  },
+  {
+   "verse": 245,
+   "ar": "ٱلَّذِي يُقۡرِضُ",
+   "ml": "കടം കൊടുക്കുന്നവൻ",
+   "en": "one who lends"
+  },
+  {
+   "verse": 245,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിന്",
+   "en": "to Allah"
+  },
+  {
+   "verse": 245,
+   "ar": "قَرۡضًا",
+   "ml": "കടം",
+   "en": "a loan"
+  },
+  {
+   "verse": 245,
+   "ar": "حَسَنٗا",
+   "ml": "നല്ലതായ",
+   "en": "that is good"
+  },
+  {
+   "verse": 245,
+   "ar": "فَيُضَٰعِفَهُۥ",
+   "ml": "എന്നാൽ അവൻ അതിനെ ഇരട്ടിയായിക്കൊടുക്കും",
+   "en": "then He will give it doubled"
+  },
+  {
+   "verse": 245,
+   "ar": "لَهُۥٓ",
+   "ml": "അവന്",
+   "en": "to him"
+  },
+  {
+   "verse": 245,
+   "ar": "أَضۡعَافٗا",
+   "ml": "ഇരട്ടികൾ",
+   "en": "doubles"
+  },
+  {
+   "verse": 245,
+   "ar": "كَثِيرَةٗ",
+   "ml": "വളരെ, അധികം",
+   "en": "very many, much"
+  },
+  {
+   "verse": 245,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 245,
+   "ar": "يَقۡبِضُ",
+   "ml": "പിടിക്കുന്നു, ചുരുക്കി എടുക്കും",
+   "en": "holds, will take restricting"
+  },
+  {
+   "verse": 245,
+   "ar": "وَيَبۡصُۜطُ",
+   "ml": "നീട്ടുകയും ചെയ്യുന്നു, പരത്തുകയും ചെയ്യും",
+   "en": "and extends, and will spread out"
+  },
+  {
+   "verse": 245,
+   "ar": "وَإِلَيۡهِ",
+   "ml": "അവങ്കലേക്കുതന്നെ",
+   "en": "to Him indeed"
+  },
+  {
+   "verse": 245,
+   "ar": "تُرۡجَعُونَ",
+   "ml": "നിങ്ങൾ മടക്കപ്പെടുന്നു.",
+   "en": "you are returned."
+  }
+ ]
+}
