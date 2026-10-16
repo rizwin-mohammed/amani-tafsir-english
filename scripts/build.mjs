@@ -66,7 +66,7 @@ function md(src, used = new Set()) {
   return markScripts(html);
 }
 
-function layout({ title, body, rel = '', description = '' }) {
+function layout({ title, body, rel = '', description = '', wide = false }) {
   const canonical = `${BASE}/${rel}`;
   return `<!doctype html>
 <html lang="en">
@@ -101,7 +101,7 @@ ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
   </nav>
 </header>
 ${PREVIEW ? '<div class="preview-bar">Preview. This site is still being built and reviewed; please do not share it yet.</div>' : ''}
-<main>
+<main${wide ? ' class="wide"' : ''}>
 ${body}
 </main>
 <footer>
@@ -140,10 +140,11 @@ function verseTable(n, verses) {
 <td class="ar quran" lang="ar" dir="rtl">${esc(ar)}</td>
 <td class="ml" lang="ml">${esc(v.ml)}</td>
 <td class="en">${markScripts('>' + esc(v.en) + '<').slice(1, -1)}</td>
+<td class="tools"></td>
 </tr>`;
   });
   return `<div class="table-wrap"><table class="verses">
-<thead><tr><th>#</th><th>Arabic</th><th class="ml">Malayalam (Amani Moulavi)</th><th>English</th></tr></thead>
+<thead><tr><th>#</th><th>Arabic</th><th class="ml">Malayalam (Amani Moulavi)</th><th>English</th><th class="tools"><span class="visually-hidden">Bookmark, note, copy, share</span></th></tr></thead>
 <tbody>${rows.join('\n')}</tbody></table></div>`;
 }
 
@@ -239,7 +240,21 @@ ${words ? `<div class="words-block"><h2 id="words" data-anchor="words">Meanings 
 
   // Released (whole surah, or every part of it): the review tools are switched off for it.
   const released = parts ? parts.every((p) => p.meta.released) : !!meta.released;
-  const body = `<article class="surah" data-surah="${n}" data-dir="${esc(dir)}" data-title="${esc(meta.title)}" data-status="${esc(meta.status)}"${released ? ' data-released="true"' : ''} data-version="${parts ? 0 : Number(meta.version || 0)}">
+  const sideParts = parts
+    ? parts.map((p) => `<li><a href="#part-${esc(p.id)}" data-side="part-${esc(p.id)}">Verses ${esc(p.meta.verses)}</a></li>`)
+    : [`<li><a href="#verses" data-side="verses">The text and its translation</a></li>`];
+  const side = `<aside class="side-index" aria-label="Index of ${esc(meta.title)}">
+<p class="side-title"><span class="sn">${n}.</span> ${esc(meta.title)} <span lang="ar" dir="rtl">${esc(ch.name_ar)}</span></p>
+<form class="side-go" data-surah="${n}" data-max="${ch.verses.length}"><label for="go-verse">Go to verse</label><span><input id="go-verse" type="number" inputmode="numeric" min="1" max="${ch.verses.length}" placeholder="1–${ch.verses.length}"><button type="submit">Go</button></span></form>
+<p class="side-progress">${versesDone.length} of ${ch.verses.length} verses translated</p>
+<nav><ul class="side-list">
+${tocIntro.length ? `<li><a href="#top" data-side="intro">Introduction</a><ul class="side-sub">${tocIntro.join('')}</ul></li>` : ''}
+${sideParts.join('\n')}
+</ul></nav>
+</aside>`;
+  const body = `<div class="reader">
+${side}
+<article class="surah" data-surah="${n}" data-dir="${esc(dir)}" data-title="${esc(meta.title)}" data-status="${esc(meta.status)}"${released ? ' data-released="true"' : ''} data-version="${parts ? 0 : Number(meta.version || 0)}">
 <p class="crumbs"><a href="${BASE}/en/">Surahs</a> › ${n}</p>
 <h1><span class="sn">${n}.</span> ${esc(meta.title)} <span class="ar-title" lang="ar" dir="rtl">${esc(ch.name_ar)}</span></h1>
 <p class="source">${esc(meta.source)} · ${ch.verses.length} verses</p>
@@ -250,12 +265,14 @@ ${progress}
 ${tocIntro.join('\n')}
 ${tocHead}
 ${tocBody.join('\n')}</ul></details>
+<div id="top"></div>
 ${intro}
 ${main}
-</article>`;
+</article>
+</div>`;
 
   const rel = `en/${dir}/`;
-  write(`${rel}index.html`, layout({ title: `${n}. ${meta.title} · ${SITE_NAME}`, body, rel }));
+  write(`${rel}index.html`, layout({ title: `${n}. ${meta.title} · ${SITE_NAME}`, body, rel, wide: true }));
 
   // One search entry per section, and one per verse.
   function sectionIndex(html, fallback, anchor) {
