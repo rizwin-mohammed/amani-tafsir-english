@@ -3,6 +3,14 @@
 (function () {
   const BASE = document.body.dataset.base || '';
 
+  // The top bar stays on screen; its height keeps anchors and the side index clear of it.
+  const topBar = document.querySelector('header.top');
+  if (topBar) {
+    const setTop = () => document.documentElement.style.setProperty('--top-h', topBar.offsetHeight + 'px');
+    setTop();
+    if ('ResizeObserver' in window) new ResizeObserver(setTop).observe(topBar); else window.addEventListener('resize', setTop);
+  }
+
   // Installable app and offline reading (see /sw.js). Pages are still fetched fresh when online.
   if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
     window.addEventListener('load', () => {
@@ -188,6 +196,26 @@
       }
       refresh();
     });
+
+    // Side index as a drawer on narrower screens, opened from "Contents" in the top bar.
+    const side = document.getElementById('side-index');
+    const opener = document.getElementById('index-open');
+    const backdrop = document.getElementById('side-backdrop');
+    if (side && opener) {
+      const setOpen = (open) => {
+        side.classList.toggle('open', open);
+        if (backdrop) backdrop.hidden = !open;
+        opener.setAttribute('aria-expanded', String(open));
+        if (open) (side.querySelector('a.here') || side.querySelector('input,a')).focus({ preventScroll: true });
+        else if (side.contains(document.activeElement)) opener.focus();
+      };
+      opener.addEventListener('click', () => setOpen(!side.classList.contains('open')));
+      document.getElementById('index-close')?.addEventListener('click', () => setOpen(false));
+      backdrop?.addEventListener('click', () => setOpen(false));
+      side.addEventListener('click', (e) => { if (e.target.closest('a')) setOpen(false); });
+      side.querySelector('.side-go')?.addEventListener('submit', () => setOpen(false));
+      document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && side.classList.contains('open')) setOpen(false); });
+    }
 
     // Side index (wide screens): "Go to verse" and the highlight on the part being read.
     const go = document.querySelector('.side-go');
