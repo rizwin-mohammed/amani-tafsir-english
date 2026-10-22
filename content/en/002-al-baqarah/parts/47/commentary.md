@@ -1,6 +1,6 @@
 *[Verse 269]*
 
-*[p. 653]* Both that frightening that poverty will come through spending wealth, and prompting to vile conducts, are the task of Satan, and that it is the way to attain forgiveness of sins and favour that Allah counsels, were said in the previous verse. Many matters connected with spending in the way of Allah were described before that too. They are also being described further on. But, who it is that will have the fortune both to consider and evaluate such matters as is needed, and to bring them into practice and make use of them, is indeed what Allah, in between, makes us understand in this verse. It is a principle that is very meaningful and pregnant with gist that is contained in this.
+*[p. 653]* Both that frightening that poverty will come through spending wealth, and prompting to vile conducts, are the task of Satan, and that it is the way to attain forgiveness of sins and favour that Allah counsels, were said in the previous verse. Many matters connected with spending in the way of Allah were described before that too. They are also being described further on. But, who it is that will have the fortune both to think about and evaluate such matters as is needed, and to bring them into practice and make use of them, is indeed what Allah, in between, makes us understand in this verse. It is a principle that is very meaningful and pregnant with gist that is contained in this.
 
 For the word **حِكْمَةَ** (hikmah), ‘wisdom, philosophy, sagacious principle,’ and the like are what are usually assigned as meaning. What is meant by it, on the whole, is the knowledge that serves both to grasp a matter in its true form and to bring it into action. What is intended by ‘hikmah’ here can be seen described by many great men in many words too. Intellect, power, learning, fright concerning Allah, Quranic wisdom, the Prophet's way of life, the power of grasping matters, word and works being in agreement with the real, and so on, are the summary of them. In reality all these go and culminate in the meaning stated above. It can be said conclusively that, as the words of some who are people with material interests insinuate, it is not tactical cleverness, or the wisdoms of philosophical science, that is meant by it. From what is stated below, that will become more clear.
 
@@ -48,7 +48,7 @@ How very much begging, and asking others and taking, have been deemed as reprehe
 
 (2) Another saying of the Prophet that both Bukhari and Muslim (r) quoted: ‘If one of you is one who keeps on asking and taking, at the time when he meets Allah *[p. 661]* (on the Day of Qiyamah) there will not be even a pinch of flesh on his face.’
 
-(3) ‘If anyone asks of the people and takes in order that wealth may increase, it is live coals that he is asking for. Therefore let him either try to reduce (the asking), or else try to increase it (at will).’ (Mu.)
+(3) ‘If anyone asks of the people and takes in order that wealth may increase, it is live coals that he is asking for. Therefore let him either try to reduce (the asking), or else try to increase (at will).’ (Mu.)
 
 (4) Whoever tries to guard honour, for him Allah will guard honour. Whoever displays self-sufficiency *[DOUBT: ധന്യത, from ധന്യൻ “Self-Sufficient” (part 46, with an open doubt); literally “richness”.]*, to him Allah will give self-sufficiency.’ (Bu; Mu.)
 
