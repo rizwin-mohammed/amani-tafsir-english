@@ -1,0 +1,808 @@
+{
+ "words": [
+  {
+   "verse": 261,
+   "ar": "مَّثَلُ ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരുടെ ഉപമ, ഉദാഹരണം",
+   "en": "the parable, the example, of the group who"
+  },
+  {
+   "verse": 261,
+   "ar": "يُنفِقُونَ",
+   "ml": "അവർ ചിലവഴിക്കുന്നു",
+   "en": "they spend"
+  },
+  {
+   "verse": 261,
+   "ar": "أَمۡوَٰلَهُمۡ",
+   "ml": "തങ്ങളുടെ സ്വത്തുക്കളെ",
+   "en": "their properties"
+  },
+  {
+   "verse": 261,
+   "ar": "فِي سَبِيلِ",
+   "ml": "മാർഗത്തിൽ",
+   "en": "in the way"
+  },
+  {
+   "verse": 261,
+   "ar": "ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ",
+   "en": "of Allah"
+  },
+  {
+   "verse": 261,
+   "ar": "كَمَثَلِ حَبَّةٍ",
+   "ml": "ഒരു ധാന്യമണിയുടെ മാതിരിയാണ്",
+   "en": "is like that of a grain"
+  },
+  {
+   "verse": 261,
+   "ar": "أَنۢبَتَتۡ",
+   "ml": "അത് ഉൽപാദിപ്പിച്ചു",
+   "en": "it produced"
+  },
+  {
+   "verse": 261,
+   "ar": "سَبۡعَ سَنَابِلَ",
+   "ml": "ഏഴ് കതിരു (കുല)കളെ",
+   "en": "seven ear (cluster)s"
+  },
+  {
+   "verse": 261,
+   "ar": "فِي كُلِّ سُنۢبُلَةٖ",
+   "ml": "എല്ലാ കതിരിലുമുണ്ട്",
+   "en": "in every ear there is"
+  },
+  {
+   "verse": 261,
+   "ar": "مِّاْئَةُ حَبَّةٖ",
+   "ml": "നൂറ് ധാന്യമണി",
+   "en": "a hundred grains"
+  },
+  {
+   "verse": 261,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 261,
+   "ar": "يُضَٰعِفُ",
+   "ml": "ഇരട്ടി(പ്പടി)യായി കൊടുക്കുകയും ചെയ്യും",
+   "en": "will also give doubled (multiplied)"
+  },
+  {
+   "verse": 261,
+   "ar": "لِمَن يَشَآءُ",
+   "ml": "അവൻ ഉദ്ദേശിക്കുന്നവർക്ക്",
+   "en": "to those whom He wills"
+  },
+  {
+   "verse": 261,
+   "ar": "وَٱللَّهُ وَٰسِعٌ",
+   "ml": "അല്ലാഹു വിശാലനുമാകുന്നു",
+   "en": "Allah is also Vast"
+  },
+  {
+   "verse": 261,
+   "ar": "عَلِيمٌ",
+   "ml": "(എല്ലാം) അറിയുന്നവൻ",
+   "en": "One who knows (all)"
+  },
+  {
+   "verse": 262,
+   "ar": "ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടർ",
+   "en": "the group who"
+  },
+  {
+   "verse": 262,
+   "ar": "يُنفِقُونَ",
+   "ml": "അവർ ചെലവഴിക്കും",
+   "en": "they will spend"
+  },
+  {
+   "verse": 262,
+   "ar": "أَمۡوَٰلَهُمۡ",
+   "ml": "തങ്ങളുടെ സ്വത്തുക്കളെ, ധനത്തെ",
+   "en": "their properties, wealth"
+  },
+  {
+   "verse": 262,
+   "ar": "فِي سَبِيلِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ മാർഗത്തിൽ",
+   "en": "in the way of Allah"
+  },
+  {
+   "verse": 262,
+   "ar": "ثُمَّ لَا يُتۡبِعُونَ",
+   "ml": "പിന്നെ അവർ തുടർന്ന് ചെയ്കയില്ല",
+   "en": "then they will not do following upon"
+  },
+  {
+   "verse": 262,
+   "ar": "مَآ أَنفَقُواْ",
+   "ml": "അവർ ചിലവഴിച്ചതിനെ (തുടർന്ന്)",
+   "en": "what they spent (following upon)"
+  },
+  {
+   "verse": 262,
+   "ar": "مَنّٗا",
+   "ml": "ഉപകാരം എടുത്ത് പറയൽ",
+   "en": "bringing up the benefaction"
+  },
+  {
+   "verse": 262,
+   "ar": "وَلَآ أَذٗى",
+   "ml": "ദ്രോഹവും (ഉപദ്രവവും) ഇല്ല",
+   "en": "no injury (harm) either"
+  },
+  {
+   "verse": 262,
+   "ar": "لَّهُمۡ",
+   "ml": "അവർക്കുണ്ട്",
+   "en": "for them there is"
+  },
+  {
+   "verse": 262,
+   "ar": "أَجۡرُهُمۡ",
+   "ml": "അവരുടെ പ്രതിഫലം",
+   "en": "their recompense"
+  },
+  {
+   "verse": 262,
+   "ar": "عِندَ رَبِّهِمۡ",
+   "ml": "അവരുടെ റബ്ബിന്റെ അടുക്കൽ",
+   "en": "with their Rabb"
+  },
+  {
+   "verse": 262,
+   "ar": "وَلَا خَوۡفٌ",
+   "ml": "യാതൊരു ഭയവുമില്ല",
+   "en": "there is no fear at all"
+  },
+  {
+   "verse": 262,
+   "ar": "عَلَيۡهِمۡ",
+   "ml": "അവരുടെ മേൽ, അവർക്ക്",
+   "en": "upon them, for them"
+  },
+  {
+   "verse": 262,
+   "ar": "وَلَا هُمۡ يَحۡزَنُونَ",
+   "ml": "അവർ വ്യസനപ്പെടുകയുമില്ല",
+   "en": "nor will they grieve"
+  },
+  {
+   "verse": 263,
+   "ar": "قَوۡلٞ مَّعۡرُوفٞ",
+   "ml": "മര്യാദപ്പെട്ട (സദാചാരമായ) ഒരു വാക്ക് (വല്ല വാക്കും)",
+   "en": "a proper (good-custom) word (any word)"
+  },
+  {
+   "verse": 263,
+   "ar": "وَمَغۡفِرَةٌ",
+   "ml": "(വല്ല) പൊറുത്തുകൊടുക്കലും",
+   "en": "and (any) forgiving"
+  },
+  {
+   "verse": 263,
+   "ar": "خَيۡرٞ",
+   "ml": "ഉത്തമമാണ്",
+   "en": "is excellent"
+  },
+  {
+   "verse": 263,
+   "ar": "مِّن صَدَقَةٖ",
+   "ml": "ഒരു ധർമത്തെക്കാൾ",
+   "en": "than a charity"
+  },
+  {
+   "verse": 263,
+   "ar": "يَتۡبَعُهَآ",
+   "ml": "അതിനെത്തുടർന്നുണ്ടാകും",
+   "en": "will come about following upon it"
+  },
+  {
+   "verse": 263,
+   "ar": "أَذٗى",
+   "ml": "ഉപദ്രവം",
+   "en": "harm"
+  },
+  {
+   "verse": 263,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 263,
+   "ar": "غَنِيٌّ",
+   "ml": "ധന്യനാണ്, അനാശ്രയനാകുന്നു",
+   "en": "is Self-Sufficient, is the One without dependence *[DOUBT: ധന്യൻ is rendered “Self-Sufficient”, as in the verse 263 panel; “the Rich” is the literal option. അനാശ്രയൻ, literally “one without dependence (on any support)”, is rendered “the One without dependence”.]*"
+  },
+  {
+   "verse": 263,
+   "ar": "حَلِيمٞ",
+   "ml": "സുശീലനാകുന്നു",
+   "en": "is One of good nature"
+  },
+  {
+   "verse": 264,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 264,
+   "ar": "لَا تُبۡطِلُواْ",
+   "ml": "നിങ്ങൾ നിഷ്ഫലമാക്കരുത്",
+   "en": "do not make fruitless"
+  },
+  {
+   "verse": 264,
+   "ar": "صَدَقَٰتِكُم",
+   "ml": "നിങ്ങളുടെ (ദാന) ധർമങ്ങളെ",
+   "en": "your (alms) charities"
+  },
+  {
+   "verse": 264,
+   "ar": "بِٱلۡمَنِّ",
+   "ml": "ഉപകാരം എടുത്തു പറയൽ കൊണ്ട്",
+   "en": "by bringing up the benefaction"
+  },
+  {
+   "verse": 264,
+   "ar": "وَٱلۡأَذَىٰ",
+   "ml": "ദ്രോഹവും",
+   "en": "and injury"
+  },
+  {
+   "verse": 264,
+   "ar": "كَٱلَّذِي يُنفِقُ",
+   "ml": "ചിലവഴിക്കുന്നവനെപ്പോലെ",
+   "en": "like him who spends"
+  },
+  {
+   "verse": 264,
+   "ar": "مَالَهُۥ",
+   "ml": "തന്റെ ധനത്തെ",
+   "en": "his wealth"
+  },
+  {
+   "verse": 264,
+   "ar": "رِئَآءَ ٱلنَّاسِ",
+   "ml": "മനുഷ്യരെ കാണിക്കുവാൻ (മാനം നേടാൻ)",
+   "en": "to show human beings (to gain esteem)"
+  },
+  {
+   "verse": 264,
+   "ar": "وَلَا يُؤۡمِنُ",
+   "ml": "അവൻ വിശ്വസിക്കയുമില്ല",
+   "en": "nor will he believe"
+  },
+  {
+   "verse": 264,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ",
+   "en": "in Allah"
+  },
+  {
+   "verse": 264,
+   "ar": "وَٱلۡيَوۡمِ ٱلۡأٓخِرِ",
+   "ml": "അന്ത്യദിനത്തിലും",
+   "en": "and in the Last Day"
+  },
+  {
+   "verse": 264,
+   "ar": "فَمَثَلُهُۥ",
+   "ml": "എന്നാൽ അവന്റെ ഉപമ",
+   "en": "then his parable"
+  },
+  {
+   "verse": 264,
+   "ar": "كَمَثَلِ صَفۡوَانٍ",
+   "ml": "ഒരു മിനുസപ്പാറമാതിരിയാണ്",
+   "en": "is like a smooth rock"
+  },
+  {
+   "verse": 264,
+   "ar": "عَلَيۡهِ تُرَابٞ",
+   "ml": "അതിൽമേൽ മണ്ണുണ്ട്",
+   "en": "on it there is soil"
+  },
+  {
+   "verse": 264,
+   "ar": "فَأَصَابَهُۥ",
+   "ml": "എന്നിട്ട് അതിന് ബാധിച്ചു",
+   "en": "then there befell it"
+  },
+  {
+   "verse": 264,
+   "ar": "وَابِلٞ",
+   "ml": "ഒരു പേമാരി",
+   "en": "a downpour"
+  },
+  {
+   "verse": 264,
+   "ar": "فَتَرَكَهُۥ",
+   "ml": "എന്നിട്ടത് അതിനെ വിട്ടേച്ചു (ബാക്കിയാക്കി വിട്ടു)",
+   "en": "then it left it behind (left as remaining)"
+  },
+  {
+   "verse": 264,
+   "ar": "صَلۡدٗا",
+   "ml": "ഉറച്ചതായി, ഉറച്ചു മിനുത്തുകൊണ്ട്",
+   "en": "as hardened, being hardened and sleek"
+  },
+  {
+   "verse": 264,
+   "ar": "لَّا يَقۡدِرُونَ",
+   "ml": "അവർക്ക് കഴിയുകയില്ല",
+   "en": "they will not be able"
+  },
+  {
+   "verse": 264,
+   "ar": "عَلَىٰ شَيۡءٖ",
+   "ml": "യാതൊന്നിനും",
+   "en": "for anything"
+  },
+  {
+   "verse": 264,
+   "ar": "مِّمَّا كَسَبُواْ",
+   "ml": "അവർ സമ്പാദിച്ചു (ചെയ്തു) വെച്ചതിൽ (പെട്ട)",
+   "en": "of what they have earned (done) and laid by (belonging)"
+  },
+  {
+   "verse": 264,
+   "ar": "وَٱللَّهُ لَا يَهۡدِي",
+   "ml": "അല്ലാഹു സൻമാർഗത്തിലാക്കുകയുമില്ല",
+   "en": "Allah will not put on right guidance either"
+  },
+  {
+   "verse": 264,
+   "ar": "ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ",
+   "ml": "അവിശ്വാസികളായ ജനങ്ങളെ",
+   "en": "the people who are disbelievers"
+  },
+  {
+   "verse": 265,
+   "ar": "وَمَثَلُ",
+   "ml": "ഉപമയാകട്ടെ",
+   "en": "the parable, for its part"
+  },
+  {
+   "verse": 265,
+   "ar": "ٱلَّذِينَ يُنفِقُونَ",
+   "ml": "ചിലവഴിക്കുന്നവരുടെ",
+   "en": "of those who spend"
+  },
+  {
+   "verse": 265,
+   "ar": "أَمۡوَٰلَهُمُ",
+   "ml": "തങ്ങളുടെ സ്വത്തുക്കളെ",
+   "en": "their properties"
+  },
+  {
+   "verse": 265,
+   "ar": "ٱبۡتِغَآءَ",
+   "ml": "തേടിക്കൊണ്ടും",
+   "en": "both seeking"
+  },
+  {
+   "verse": 265,
+   "ar": "مَرۡضَاتِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ പ്രീതി",
+   "en": "the pleasure of Allah"
+  },
+  {
+   "verse": 265,
+   "ar": "وَتَثۡبِيتٗا",
+   "ml": "ദൃഢപ്പെടുത്തലായും",
+   "en": "and as a making firm"
+  },
+  {
+   "verse": 265,
+   "ar": "مِّنۡ أَنفُسِهِمۡ",
+   "ml": "തങ്ങളുടെ മനസ്സുകളിൽ നിന്നുള്ള",
+   "en": "that is from their minds"
+  },
+  {
+   "verse": 265,
+   "ar": "كَمَثَلِ جَنَّةِۭ",
+   "ml": "ഒരു തോട്ടം മാതിരിയാകുന്നു",
+   "en": "is like a garden"
+  },
+  {
+   "verse": 265,
+   "ar": "بِرَبۡوَةٍ",
+   "ml": "ഒരു മേടിൽ, പീഠപ്രദേശത്ത്",
+   "en": "on an upland, in a plateau region"
+  },
+  {
+   "verse": 265,
+   "ar": "أَصَابَهَا",
+   "ml": "അതിന് കിട്ടി",
+   "en": "it got"
+  },
+  {
+   "verse": 265,
+   "ar": "وَابِلٞ",
+   "ml": "ഒരു കനത്ത മഴ",
+   "en": "a heavy rain"
+  },
+  {
+   "verse": 265,
+   "ar": "فَـَٔاتَتۡ",
+   "ml": "അങ്ങനെ അത് നൽകി",
+   "en": "thus it gave"
+  },
+  {
+   "verse": 265,
+   "ar": "أُكُلَهَا",
+   "ml": "അതിന്റെ കനി, ഫലം",
+   "en": "its produce, fruit"
+  },
+  {
+   "verse": 265,
+   "ar": "ضِعۡفَيۡنِ",
+   "ml": "രണ്ടിരട്ടിയായി",
+   "en": "twofold"
+  },
+  {
+   "verse": 265,
+   "ar": "فَإِن لَّمۡ يُصِبۡهَا",
+   "ml": "എനി അതിന് കിട്ടിയില്ലെങ്കിൽ",
+   "en": "now, if it did not get"
+  },
+  {
+   "verse": 265,
+   "ar": "وَابِلٞ",
+   "ml": "ഒരു കനത്ത മഴ",
+   "en": "a heavy rain"
+  },
+  {
+   "verse": 265,
+   "ar": "فَطَلّٞ",
+   "ml": "എന്നാൽ ഒരു (നേരിയ) ചാറൽ മഴ",
+   "en": "then a (light) drizzle"
+  },
+  {
+   "verse": 265,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 265,
+   "ar": "بِمَا تَعۡمَلُونَ",
+   "ml": "നിങ്ങൾ പ്രവർത്തിക്കുന്നതിനെപ്പറ്റി",
+   "en": "about what you do"
+  },
+  {
+   "verse": 265,
+   "ar": "بَصِيرٌ",
+   "ml": "കണ്ടറിയുന്നവനാണ്",
+   "en": "is the One who sees and knows"
+  },
+  {
+   "verse": 266,
+   "ar": "أَيَوَدُّ",
+   "ml": "മോഹിക്കു (ഇഷ്ടപ്പെടു)മോ",
+   "en": "will … yearn (like)?"
+  },
+  {
+   "verse": 266,
+   "ar": "أَحَدُكُمۡ",
+   "ml": "നിങ്ങളിലൊരുവൻ",
+   "en": "one among you"
+  },
+  {
+   "verse": 266,
+   "ar": "أَن تَكُونَ لَهُۥ",
+   "ml": "അവനുണ്ടായിരിക്കുവാൻ",
+   "en": "that there be for him"
+  },
+  {
+   "verse": 266,
+   "ar": "جَنَّةٞ",
+   "ml": "ഒരു തോട്ടം",
+   "en": "a garden"
+  },
+  {
+   "verse": 266,
+   "ar": "مِّن نَّخِيلٖ",
+   "ml": "ഈത്തപ്പനകളുടെ",
+   "en": "of date-palms"
+  },
+  {
+   "verse": 266,
+   "ar": "وَأَعۡنَابٖ",
+   "ml": "മുന്തിരിവള്ളികളുടെയും",
+   "en": "and of grapevines"
+  },
+  {
+   "verse": 266,
+   "ar": "تَجۡرِي",
+   "ml": "ഒഴുകും",
+   "en": "will flow"
+  },
+  {
+   "verse": 266,
+   "ar": "مِن تَحۡتِهَا",
+   "ml": "അതിന്റെ അടിഭാഗത്തിലൂടെ",
+   "en": "through its underside"
+  },
+  {
+   "verse": 266,
+   "ar": "ٱلۡأَنۡهَٰرُ",
+   "ml": "അരുവി (നദി)കൾ",
+   "en": "stream (river)s"
+  },
+  {
+   "verse": 266,
+   "ar": "لَهُۥ فِيهَا",
+   "ml": "അവനുണ്ട് അതിൽ",
+   "en": "he has in it"
+  },
+  {
+   "verse": 266,
+   "ar": "مِن كُلِّ ٱلثَّمَرَٰتِ",
+   "ml": "എല്ലാ ഫലങ്ങളിൽ നിന്നും",
+   "en": "from all fruits too"
+  },
+  {
+   "verse": 266,
+   "ar": "وَأَصَابَهُ",
+   "ml": "അവന് ബാധിക്കുക (എത്തുക)യും ചെയ്തു",
+   "en": "and there befell (reached) him"
+  },
+  {
+   "verse": 266,
+   "ar": "ٱلۡكِبَرُ",
+   "ml": "വാർദ്ധക്യം",
+   "en": "old age"
+  },
+  {
+   "verse": 266,
+   "ar": "وَلَهُۥ ذُرِّيَّةٞ",
+   "ml": "അവന് കുറെ സന്താനങ്ങളുമുണ്ട്",
+   "en": "he also has quite some offspring"
+  },
+  {
+   "verse": 266,
+   "ar": "ضُعَفَآءُ",
+   "ml": "ദുർബലരായ",
+   "en": "who are weak"
+  },
+  {
+   "verse": 266,
+   "ar": "فَأَصَابَهَآ",
+   "ml": "എന്നിട്ടതിന് ബാധിച്ചു",
+   "en": "then there befell it"
+  },
+  {
+   "verse": 266,
+   "ar": "إِعۡصَارٞ",
+   "ml": "ഒരു ചുഴലിക്കാറ്റ്",
+   "en": "a whirlwind"
+  },
+  {
+   "verse": 266,
+   "ar": "فِيهِ نَارٞ",
+   "ml": "അതിൽ തീയുണ്ട്",
+   "en": "in it there is fire"
+  },
+  {
+   "verse": 266,
+   "ar": "فَٱحۡتَرَقَتۡ",
+   "ml": "അങ്ങനെ അത് കരിഞ്ഞു",
+   "en": "thus it got burnt"
+  },
+  {
+   "verse": 266,
+   "ar": "كَذَٰلِكَ",
+   "ml": "അ(ഇ) പ്രകാരം",
+   "en": "in that (this) manner"
+  },
+  {
+   "verse": 266,
+   "ar": "يُبَيِّنُ ٱللَّهُ",
+   "ml": "അല്ലാഹു വിവരിച്ചുതരുന്നു",
+   "en": "Allah explains"
+  },
+  {
+   "verse": 266,
+   "ar": "لَكُمُ ٱلۡأٓيَٰتِ",
+   "ml": "നിങ്ങൾക്ക് ലക്ഷ്യങ്ങളെ",
+   "en": "to you the evidences *[DOUBT: ലക്ഷ്യം beside ആയത്ത് is rendered “evidence”, as in parts 01–02, 07, 17, 20, 23, 30, 35 and 40; it may instead mean “aim”. The same open question as those parts.]*"
+  },
+  {
+   "verse": 266,
+   "ar": "لَعَلَّكُمۡ",
+   "ml": "നിങ്ങൾ ആകുവാൻ വേണ്ടി, ആയേക്കാം",
+   "en": "in order that you be, you may be"
+  },
+  {
+   "verse": 266,
+   "ar": "تَتَفَكَّرُونَ",
+   "ml": "നിങ്ങൾ ചിന്തിക്കും",
+   "en": "you will think"
+  },
+  {
+   "verse": 267,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ",
+   "ml": "ഹേ, വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 267,
+   "ar": "أَنفِقُواْ",
+   "ml": "നിങ്ങൾ ചിലവഴിക്കുവിൻ",
+   "en": "spend"
+  },
+  {
+   "verse": 267,
+   "ar": "مِن طَيِّبَٰتِ",
+   "ml": "നല്ല വസ്തുക്കളിൽ നിന്ന്",
+   "en": "from good things"
+  },
+  {
+   "verse": 267,
+   "ar": "مَا كَسَبۡتُمۡ",
+   "ml": "നിങ്ങൾ സമ്പാദിച്ചുണ്ടാക്കിയതിലെ",
+   "en": "of what you have earned and made"
+  },
+  {
+   "verse": 267,
+   "ar": "وَمِمَّآ أَخۡرَجۡنَا",
+   "ml": "നാം പുറപ്പെടുവിച്ച (ഉൽപാദിപ്പിച്ച)തിൽ നിന്നും",
+   "en": "and from what We brought forth (produced)"
+  },
+  {
+   "verse": 267,
+   "ar": "لَكُم",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "for you"
+  },
+  {
+   "verse": 267,
+   "ar": "مِّنَ ٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയിൽ നിന്ന്",
+   "en": "from the earth"
+  },
+  {
+   "verse": 267,
+   "ar": "وَلَا تَيَمَّمُواْ",
+   "ml": "നിങ്ങൾ കരുതിവെക്കുകയും അരുത്",
+   "en": "do not set aside either"
+  },
+  {
+   "verse": 267,
+   "ar": "ٱلۡخَبِيثَ",
+   "ml": "ചീത്തയായതിനെ",
+   "en": "what is bad"
+  },
+  {
+   "verse": 267,
+   "ar": "مِنۡهُ تُنفِقُونَ",
+   "ml": "അതിൽ നിന്നുതന്നെ ചിലവഴിക്കുമാറ്, (ചിലവഴിക്കുവാൻ)",
+   "en": "so as to spend from that indeed, (to spend)"
+  },
+  {
+   "verse": 267,
+   "ar": "وَلَسۡتُم",
+   "ml": "നിങ്ങൾ അല്ലതാനും",
+   "en": "and you are not"
+  },
+  {
+   "verse": 267,
+   "ar": "بِـَٔاخِذِيهِ",
+   "ml": "അത് വാങ്ങുന്നവർ",
+   "en": "ones who take it"
+  },
+  {
+   "verse": 267,
+   "ar": "إِلَّآ أَن تُغۡمِضُواْ",
+   "ml": "നിങ്ങൾ കണ്ണടക്കുന്നതായാലല്ലാതെ, കണ്ണ് താഴ്ത്തുന്നതായാലൊഴികെ",
+   "en": "unless it be that you close your eyes, except if it be that you lower the eye"
+  },
+  {
+   "verse": 267,
+   "ar": "فِيهِ",
+   "ml": "അതിൽ, അതിനെപ്പറ്റി",
+   "en": "in it, about it"
+  },
+  {
+   "verse": 267,
+   "ar": "وَٱعۡلَمُوٓاْ",
+   "ml": "നിങ്ങൾ അറിയുകയും ചെയ്യുക",
+   "en": "and know"
+  },
+  {
+   "verse": 267,
+   "ar": "أَنَّ ٱللَّهَ",
+   "ml": "അല്ലാഹു (ആകുന്നു) എന്ന്",
+   "en": "that Allah (is)"
+  },
+  {
+   "verse": 267,
+   "ar": "غَنِيٌّ",
+   "ml": "ധന്യൻ",
+   "en": "Self-Sufficient"
+  },
+  {
+   "verse": 267,
+   "ar": "حَمِيدٌ",
+   "ml": "സ്തുത്യർഹൻ",
+   "en": "Praiseworthy"
+  },
+  {
+   "verse": 268,
+   "ar": "ٱلشَّيۡطَٰنُ",
+   "ml": "പിശാച്, ശൈത്വാൻ",
+   "en": "Satan, Shaitan"
+  },
+  {
+   "verse": 268,
+   "ar": "يَعِدُكُمُ",
+   "ml": "നിങ്ങളോട് വാഗ്ദത്തം (താക്കീത്- ഭീഷണി) ചെയ്യുന്നു",
+   "en": "makes promise (warning- threat) to you"
+  },
+  {
+   "verse": 268,
+   "ar": "ٱلۡفَقۡرَ",
+   "ml": "ദാരിദ്ര്യത്തെ",
+   "en": "poverty"
+  },
+  {
+   "verse": 268,
+   "ar": "وَيَأۡمُرُكُم",
+   "ml": "നിങ്ങളോടവൻ കൽപിക്കുകയും ചെയ്യുന്നു",
+   "en": "and he commands you"
+  },
+  {
+   "verse": 268,
+   "ar": "بِٱلۡفَحۡشَآءِ",
+   "ml": "നീചവൃത്തിക്ക്",
+   "en": "to vile conduct"
+  },
+  {
+   "verse": 268,
+   "ar": "وَٱللَّهُ يَعِدُكُم",
+   "ml": "അല്ലാഹുവാകട്ടെ നിങ്ങളോട് വാഗ്ദത്തം ചെയ്യുന്നു",
+   "en": "Allah, for His part, makes promise to you"
+  },
+  {
+   "verse": 268,
+   "ar": "مَّغۡفِرَةٗ مِّنۡهُ",
+   "ml": "അവങ്കൽ നിന്നുള്ള പാപമോചനം",
+   "en": "forgiveness of sins that is from with Him"
+  },
+  {
+   "verse": 268,
+   "ar": "وَفَضۡلٗا",
+   "ml": "ദയവും, അനുഗ്രഹവും, ഔദാര്യവും",
+   "en": "and kindness, and favour, and generosity"
+  },
+  {
+   "verse": 268,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 268,
+   "ar": "وَٰسِعٌ",
+   "ml": "വിശാലനാകുന്നു",
+   "en": "is Vast"
+  },
+  {
+   "verse": 268,
+   "ar": "عَلِيمٞ",
+   "ml": "(എല്ലാം) അറിയുന്നവനുമാണ്",
+   "en": "and is One who knows (all)"
+  }
+ ]
+}
