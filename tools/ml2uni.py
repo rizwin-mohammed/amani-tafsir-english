@@ -47,4 +47,4 @@ def a2u(t,font='karthika'):
 if __name__=='__main__':
     f,pg=sys.argv[1],sys.argv[2]
     t=subprocess.run(['pdftotext','-f',pg,'-l',pg,f,'-'],capture_output=True,text=True).stdout
-    print(a2u(demac(t),sys.argv[3] if len(sys.argv)>3 else 'karthika')[:900])
+    print(a2u(demac(t),sys.argv[3] if len(sys.argv)>3 else 'karthika'))
