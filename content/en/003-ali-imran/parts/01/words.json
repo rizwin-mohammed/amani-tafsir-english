@@ -1,0 +1,532 @@
+{
+ "words": [
+  {
+   "verse": 1,
+   "ar": "الٓمٓ",
+   "ml": "അലിഫ്-ലാം-മീം",
+   "en": "Alif-Lam-Mim"
+  },
+  {
+   "verse": 2,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 2,
+   "ar": "لَآ إِلَٰهَ",
+   "ml": "ആരാധ്യനേയില്ല",
+   "en": "there is no object of worship at all"
+  },
+  {
+   "verse": 2,
+   "ar": "إِلَّا هُوَ",
+   "ml": "അവനല്ലാതെ",
+   "en": "except Him"
+  },
+  {
+   "verse": 2,
+   "ar": "ٱلۡحَيُّ",
+   "ml": "ജീവത്തായുള്ളവൻ, ജീവിച്ചിരിക്കുന്നവനായ",
+   "en": "the One who is living, who is alive"
+  },
+  {
+   "verse": 2,
+   "ar": "ٱلۡقَيُّومُ",
+   "ml": "സർവ്വനിയന്താവ്, സ്വയം നിലകൊള്ളുന്നവനായ",
+   "en": "the Controller of all, who subsists by Himself"
+  },
+  {
+   "verse": 3,
+   "ar": "نَزَّلَ",
+   "ml": "അവൻ അവതരിപ്പിച്ചു",
+   "en": "He sent down"
+  },
+  {
+   "verse": 3,
+   "ar": "عَلَيۡكَ",
+   "ml": "നിന്റെമേൽ, നിനക്ക്",
+   "en": "upon you, to you"
+  },
+  {
+   "verse": 3,
+   "ar": "ٱلۡكِتَٰبَ",
+   "ml": "(വേദ) ഗ്രന്ഥം",
+   "en": "the (scripture) book"
+  },
+  {
+   "verse": 3,
+   "ar": "بِٱلۡحَقِّ",
+   "ml": "യഥാർത്ഥപ്രകാരം, മുറപ്രകാരം",
+   "en": "according to the real, according to the proper manner"
+  },
+  {
+   "verse": 3,
+   "ar": "مُصَدِّقٗا",
+   "ml": "സത്യമായി, സത്യമാക്കി (ശരിവെച്ചു) കൊണ്ട്",
+   "en": "as true, making true (confirming)"
+  },
+  {
+   "verse": 3,
+   "ar": "لِّمَا بَيۡنَ يَدَيۡهِ",
+   "ml": "അതിന്റെ മുമ്പിലുളളതിനെ",
+   "en": "what is before it"
+  },
+  {
+   "verse": 3,
+   "ar": "وَأَنزَلَ",
+   "ml": "അവൻ ഇറക്കുകയും ചെയ്തു",
+   "en": "and He brought down"
+  },
+  {
+   "verse": 3,
+   "ar": "ٱلتَّوۡرَىٰةَ",
+   "ml": "തൗറാത്ത്",
+   "en": "the Torah"
+  },
+  {
+   "verse": 3,
+   "ar": "وَٱلۡإِنجِيلَ",
+   "ml": "ഇൻജീലും",
+   "en": "and the Injil"
+  },
+  {
+   "verse": 4,
+   "ar": "مِن قَبۡلُ",
+   "ml": "മുമ്പ്, മുമ്പായി",
+   "en": "before, previously"
+  },
+  {
+   "verse": 4,
+   "ar": "هُدٗى",
+   "ml": "മാർഗദർശനമായിട്ട്",
+   "en": "as guidance"
+  },
+  {
+   "verse": 4,
+   "ar": "لِّلنَّاسِ",
+   "ml": "മനുഷ്യർക്ക്",
+   "en": "for mankind"
+  },
+  {
+   "verse": 4,
+   "ar": "وَأَنزَلَ",
+   "ml": "അവൻ ഇറക്കുകയും ചെയ്തിരിക്കുന്നു",
+   "en": "and He has brought down"
+  },
+  {
+   "verse": 4,
+   "ar": "ٱلۡفُرۡقَانَ",
+   "ml": "വിവേചനം, വേർതിരിക്കുന്നത്",
+   "en": "discrimination, that which separates"
+  },
+  {
+   "verse": 4,
+   "ar": "إِنَّ ٱلَّذِينَ كَفَرُواْ",
+   "ml": "നിശ്ചയമായും അവിശ്വസിച്ചവർ",
+   "en": "surely, those who disbelieved"
+  },
+  {
+   "verse": 4,
+   "ar": "بِـَٔايَٰتِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ ആയത്തുകളിൽ",
+   "en": "in the ayahs of Allah"
+  },
+  {
+   "verse": 4,
+   "ar": "لَهُمۡ",
+   "ml": "അവർക്കുണ്ട്",
+   "en": "for them there is"
+  },
+  {
+   "verse": 4,
+   "ar": "عَذَابٞ",
+   "ml": "ശിക്ഷ",
+   "en": "punishment"
+  },
+  {
+   "verse": 4,
+   "ar": "شَدِيدٞ",
+   "ml": "കഠിനമായ",
+   "en": "severe"
+  },
+  {
+   "verse": 4,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹുവാകട്ടെ",
+   "en": "Allah, for His part"
+  },
+  {
+   "verse": 4,
+   "ar": "عَزِيزٞ",
+   "ml": "പ്രതാപശാലിയാണ്.",
+   "en": "is the Majestic."
+  },
+  {
+   "verse": 4,
+   "ar": "ذُو ٱنتِقَامٍ",
+   "ml": "ശിക്ഷാനടപടി എടുക്കുന്നവനാണ്, പ്രതികാരമെടുക്കുന്നവനാണ്",
+   "en": "is One who takes punitive action, is One who takes retribution"
+  },
+  {
+   "verse": 5,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 5,
+   "ar": "لَا يَخۡفَىٰ عَلَيۡهِ",
+   "ml": "അവന്റെ മേൽ അവ്യക്തമാകയില്ല (മറഞ്ഞുപോകുന്നതല്ല)",
+   "en": "will not be unclear to Him (is not such as to be hidden)"
+  },
+  {
+   "verse": 5,
+   "ar": "شَيۡءٞ",
+   "ml": "ഒരു വസ്തുവും",
+   "en": "any thing"
+  },
+  {
+   "verse": 5,
+   "ar": "فِي ٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയിൽ",
+   "en": "in the earth"
+  },
+  {
+   "verse": 5,
+   "ar": "وَلَا فِي ٱلسَّمَآءِ",
+   "ml": "ആകാശത്തിലുമില്ല",
+   "en": "nor in the heaven"
+  },
+  {
+   "verse": 6,
+   "ar": "هُوَ ٱلَّذِي يُصَوِّرُكُمۡ",
+   "ml": "അവനെത്രെ നിങ്ങളെ രൂപപ്പെടുത്തുന്നവൻ",
+   "en": "He indeed is the One who shapes you"
+  },
+  {
+   "verse": 6,
+   "ar": "فِي ٱلۡأَرۡحَامِ",
+   "ml": "ഗർഭാശയങ്ങളിൽ",
+   "en": "in the wombs"
+  },
+  {
+   "verse": 6,
+   "ar": "كَيۡفَ يَشَآءُۚ",
+   "ml": "അവൻ എങ്ങിനെ ഉദ്ദേശിക്കുന്നുവോ (അങ്ങിനെ)",
+   "en": "however He wills (so)"
+  },
+  {
+   "verse": 6,
+   "ar": "لَآ إِلَٰهَ",
+   "ml": "ഒരു ആരാധ്യനുമില്ല",
+   "en": "there is not any object of worship"
+  },
+  {
+   "verse": 6,
+   "ar": "إِلَّا هُوَ",
+   "ml": "അവനല്ലാതെ",
+   "en": "except Him"
+  },
+  {
+   "verse": 6,
+   "ar": "ٱلۡعَزِيزُ",
+   "ml": "പ്രതാപശാലി",
+   "en": "the Majestic"
+  },
+  {
+   "verse": 6,
+   "ar": "ٱلۡحَكِيمُ",
+   "ml": "അഗാധജ്ഞൻ, യുക്തിമാൻ",
+   "en": "the Profoundly Knowing, the Sagacious"
+  },
+  {
+   "verse": 7,
+   "ar": "هُوَ ٱلَّذِيٓ",
+   "ml": "അവൻയാതൊരുവനത്രെ, അവനത്രെ യാതൊരുവൻ",
+   "en": "He indeed is the one who, He indeed is the one"
+  },
+  {
+   "verse": 7,
+   "ar": "أَنزَلَ عَلَيۡكَ",
+   "ml": "നിന്റെ മേൽ അവതരിപ്പിച്ച, അവൻ ഇറക്കി",
+   "en": "who sent down upon you, He brought down"
+  },
+  {
+   "verse": 7,
+   "ar": "ٱلۡكِتَٰبَ",
+   "ml": "(വേദ)ഗ്രന്ഥം, ഈ ഗ്രന്ഥത്തെ",
+   "en": "the (scripture) book, this book"
+  },
+  {
+   "verse": 7,
+   "ar": "مِنۡهُ",
+   "ml": "അതിലുണ്ട്, അതിൽപെട്ടതാണ്",
+   "en": "in it there are, are of it"
+  },
+  {
+   "verse": 7,
+   "ar": "ءَايَٰتٞ",
+   "ml": "ചില ആയത്തുകൾ, ഒരു(തരം) ആയത്തു (വചനം) കൾ",
+   "en": "some ayahs, one (kind of) ayah (verse)s"
+  },
+  {
+   "verse": 7,
+   "ar": "مُّحۡكَمَٰتٌ",
+   "ml": "ദൃഢപ്രധാനമായ, ബലവത്തായ, നിയമബലമുളള",
+   "en": "firm and principal, strong, having the force of law"
+  },
+  {
+   "verse": 7,
+   "ar": "هُنَّ",
+   "ml": "അവ",
+   "en": "they"
+  },
+  {
+   "verse": 7,
+   "ar": "أُمُّ ٱلۡكِتَٰبِ",
+   "ml": "ഗ്രന്ഥത്തിന്റെ മൂലമാകുന്നു (കേന്ദ്രമാണ്-മർമപ്രധാനമാണ്-തള്ളയാണ്)",
+   "en": "are the root of the book (are the centre- are the vital core- are the mother)"
+  },
+  {
+   "verse": 7,
+   "ar": "وَأُخَرُ",
+   "ml": "വേറെ ചിലതുമുണ്ട്, മറ്റുചിലത്",
+   "en": "there are some others too, some others"
+  },
+  {
+   "verse": 7,
+   "ar": "مُتَشَٰبِهَٰتٞ",
+   "ml": "പരസ്പരം സദൃശമായവ, അന്യോന്യം തിരിച്ചറിയാത്തവ",
+   "en": "ones that resemble each other, ones not distinguishable from one another"
+  },
+  {
+   "verse": 7,
+   "ar": "فَأَمَّا ٱلَّذِينَ",
+   "ml": "എന്നാൽ യാതൊരുകൂട്ടർ",
+   "en": "but the group who"
+  },
+  {
+   "verse": 7,
+   "ar": "فِي قُلُوبِهِمۡ",
+   "ml": "അവരുടെ ഹൃദയങ്ങളിലുള്ള (ഉണ്ട്)",
+   "en": "that is in their hearts (there is)"
+  },
+  {
+   "verse": 7,
+   "ar": "زَيۡغٞ",
+   "ml": "വക്രത, തെറ്റൽ",
+   "en": "crookedness, deviation"
+  },
+  {
+   "verse": 7,
+   "ar": "فَيَتَّبِعُونَ",
+   "ml": "അവർ പിൻപറ്റും (പിന്നാലെ കൂടും)",
+   "en": "they will follow (will go after)"
+  },
+  {
+   "verse": 7,
+   "ar": "مَا تَشَٰبَهَ مِنۡهُ",
+   "ml": "അതിൽനിന്ന് പരസ്പര സാദൃശ്യമായതിനെ",
+   "en": "what is of mutual resemblance from it"
+  },
+  {
+   "verse": 7,
+   "ar": "ٱبۡتِغَآءَ",
+   "ml": "ആഗ്രഹിച്ചതിനാൽ",
+   "en": "because of seeking"
+  },
+  {
+   "verse": 7,
+   "ar": "ٱلۡفِتۡنَةِ",
+   "ml": "കുഴപ്പത്തെ",
+   "en": "disorder"
+  },
+  {
+   "verse": 7,
+   "ar": "وَٱبۡتِغَآءَ",
+   "ml": "ആഗ്രഹിച്ചുകൊണ്ടും",
+   "en": "and seeking"
+  },
+  {
+   "verse": 7,
+   "ar": "تَأۡوِيلِهِۦ",
+   "ml": "അതിന്റെ വ്യാഖ്യാനത്തെ, പൊരുളിനെ, പര്യവസാനത്തെ",
+   "en": "its interpretation, its inner meaning, its final outcome"
+  },
+  {
+   "verse": 7,
+   "ar": "وَمَا يَعۡلَمُ",
+   "ml": "അറിയുകയുമില്ല",
+   "en": "and will not know"
+  },
+  {
+   "verse": 7,
+   "ar": "تَأۡوِيلَهُۥٓ",
+   "ml": "അതിന്റെ വ്യാഖ്യാനം, പൊരുൾ",
+   "en": "its interpretation, inner meaning"
+  },
+  {
+   "verse": 7,
+   "ar": "إِلَّا ٱللَّهُۗ",
+   "ml": "അല്ലാഹുവല്ലാതെ",
+   "en": "except Allah"
+  },
+  {
+   "verse": 7,
+   "ar": "وَٱلرَّـٰسِخُونَ",
+   "ml": "അടിയുറച്ചവർ, പൂണ്ടുപിടിച്ചവരാകട്ടെ, അടിയുറച്ചവരും",
+   "en": "those firmly grounded, as for those who have taken firm hold, and those firmly grounded"
+  },
+  {
+   "verse": 7,
+   "ar": "فِي ٱلۡعِلۡمِ",
+   "ml": "അറിവിൽ, ജ്ഞാനത്തിൽ",
+   "en": "in knowledge, in learning"
+  },
+  {
+   "verse": 7,
+   "ar": "يَقُولُونَ",
+   "ml": "അവർപറയും",
+   "en": "they will say"
+  },
+  {
+   "verse": 7,
+   "ar": "ءَامَنَّا بِهِۦ",
+   "ml": "ഞങ്ങളതിൽ വിശ്വസിച്ചിരിക്കുന്നു",
+   "en": "we have believed in it"
+  },
+  {
+   "verse": 7,
+   "ar": "كُلّٞ",
+   "ml": "എല്ലാം",
+   "en": "all"
+  },
+  {
+   "verse": 7,
+   "ar": "مِّنۡ عِندِ رَبِّنَاۗ",
+   "ml": "നമ്മുടെ (ഞങ്ങളുടെ) റബ്ബിന്റെ പക്കൽ നിന്നാകുന്നു",
+   "en": "is from our (our) Rabb"
+  },
+  {
+   "verse": 7,
+   "ar": "وَمَا يَذَّكَّرُ",
+   "ml": "ഉറ്റാലോചിക്കുന്നതുമല്ല, ഓർമവെക്കുകയുമില്ല",
+   "en": "and none reflect intently, and none will keep in memory"
+  },
+  {
+   "verse": 7,
+   "ar": "إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+   "ml": "(സൽ) ബുദ്ധിമാൻമാരല്ലാതെ",
+   "en": "except men of (good) reason"
+  },
+  {
+   "verse": 8,
+   "ar": "رَبَّنَا",
+   "ml": "ഞങ്ങളുടെ റബ്ബേ",
+   "en": "our Rabb"
+  },
+  {
+   "verse": 8,
+   "ar": "لَا تُزِغۡ",
+   "ml": "നീ തെറ്റിക്കരുതേ, വക്രമാക്കരുതേ",
+   "en": "do not make go astray, do not make crooked"
+  },
+  {
+   "verse": 8,
+   "ar": "قُلُوبَنَا",
+   "ml": "ഞങ്ങളുടെ ഹൃദയങ്ങളെ",
+   "en": "our hearts"
+  },
+  {
+   "verse": 8,
+   "ar": "بَعۡدَ إِذۡ هَدَيۡتَنَا",
+   "ml": "നീ ഞങ്ങളെ സന്മാർഗത്തിൽ ആക്കിയതിനുശേഷം",
+   "en": "after You put us on right guidance"
+  },
+  {
+   "verse": 8,
+   "ar": "وَهَبۡ لَنَا",
+   "ml": "ഞങ്ങൾക്ക് നീ പ്രദാനവും ചെയ്യണേ",
+   "en": "and do grant us"
+  },
+  {
+   "verse": 8,
+   "ar": "مِن لَّدُنكَ",
+   "ml": "നിന്റെ പക്കൽ നിന്ന്, നീന്റെ വകയായി",
+   "en": "from You, as Your own"
+  },
+  {
+   "verse": 8,
+   "ar": "رَحۡمَةً",
+   "ml": "കാരുണ്യം",
+   "en": "mercy"
+  },
+  {
+   "verse": 8,
+   "ar": "إِنَّكَ أَنتَ",
+   "ml": "നിശ്ചയമായും നീ തന്നെ",
+   "en": "surely You indeed"
+  },
+  {
+   "verse": 8,
+   "ar": "ٱلۡوَهَّابُ",
+   "ml": "വളരെ പ്രദാനം ചെയ്യുന്നവൻ, വലിയ ദാനക്കാരൻ",
+   "en": "the One who grants greatly, the great giver"
+  },
+  {
+   "verse": 9,
+   "ar": "رَبَّنَآ",
+   "ml": "ഞങ്ങളുടെ റബ്ബേ",
+   "en": "our Rabb"
+  },
+  {
+   "verse": 9,
+   "ar": "إِنَّكَ جَامِعُ",
+   "ml": "നിശ്ചയമായും നീ ഒരുമിച്ചുകൂട്ടുന്നവനാകുന്നു",
+   "en": "surely You are the One who gathers together"
+  },
+  {
+   "verse": 9,
+   "ar": "ٱلنَّاسِ",
+   "ml": "മനുഷ്യരെ",
+   "en": "mankind"
+  },
+  {
+   "verse": 9,
+   "ar": "لِيَوۡمٖ",
+   "ml": "ഒരു ദിവസത്തേക്ക്",
+   "en": "for a day"
+  },
+  {
+   "verse": 9,
+   "ar": "لَّا رَيۡبَ",
+   "ml": "യാതൊരു സന്ദേഹവുമില്ല",
+   "en": "there is not any doubt at all"
+  },
+  {
+   "verse": 9,
+   "ar": "فِيهِ",
+   "ml": "അതിൽ",
+   "en": "in it"
+  },
+  {
+   "verse": 9,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 9,
+   "ar": "لَا يُخۡلِفُ",
+   "ml": "അവൻ വ്യത്യാസം (എതിര്-ലംഘനം) ചെയ്കയില്ല",
+   "en": "He will not make a difference (contrary act- breach)"
+  },
+  {
+   "verse": 9,
+   "ar": "ٱلۡمِيعَادَ",
+   "ml": "വാഗ്ദത്ത നിശ്ചയം, നിശ്ചിത അവധി",
+   "en": "the promised determination, the set term"
+  }
+ ]
+}
