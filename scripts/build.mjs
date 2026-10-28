@@ -66,7 +66,7 @@ function md(src, used = new Set()) {
   return markScripts(html);
 }
 
-function layout({ title, body, rel = '', description = '', wide = false, index = false }) {
+function layout({ title, body, rel = '', description = '', wide = false, index = false, listen = false }) {
   const canonical = `${BASE}/${rel}`;
   return `<!doctype html>
 <html lang="en">
@@ -90,10 +90,11 @@ ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
 <meta name="apple-mobile-web-app-title" content="Amani Tafsir">
 </head>
 <body data-base="${BASE}" data-page="${esc(rel)}" data-repo="${REPO}">
+<a class="skip-link" href="#main">Skip to main content</a>
 <header class="top">
   ${index ? `<button type="button" class="index-btn" id="index-open" aria-controls="side-index" aria-expanded="false" title="Contents of this surah"><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M4 6h16M4 12h16M4 18h10" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg><span class="index-label">Contents</span></button>` : ''}
   <a class="brand" href="${BASE}/en/">${SITE_NAME}</a>
-  <nav>
+  <nav aria-label="Site">
     <a href="${BASE}/en/">Surahs</a>
     <a href="${BASE}/en/search/">Search</a>
     <a href="${BASE}/en/bookmarks/"><span class="wide-only">My bookmarks</span><span class="narrow-only">Bookmarks</span></a>
@@ -102,19 +103,38 @@ ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
   </nav>
 </header>
 ${PREVIEW ? '<div class="preview-bar">Preview. This site is still being built and reviewed; please do not share it yet.</div>' : ''}
-<main${wide ? ' class="wide"' : ''}>
+<main id="main" tabindex="-1"${wide ? ' class="wide"' : ''}>
 ${body}
 </main>
-<footer>
+<footer aria-label="About this page">
   <p>Translated from <em>Vishuddha Quran Vivaranam</em> by Muhammad Amani Moulavi.
   <a href="https://github.com/${REPO}/issues/new?title=${encodeURIComponent('Mistake on ' + title)}&body=${encodeURIComponent('Page: ' + canonical + '\n\nWhat is wrong:\n\nWhat it should say:\n')}">Report a mistake</a></p>
   <p class="review-switch"><button type="button" id="review-toggle">Reviewer mode: off</button></p>
 </footer>
 <script src="${BASE}/assets/app.js" defer></script>
 <script src="${BASE}/assets/review.js" defer></script>
+${listen ? `<script src="${BASE}/assets/listen.js" defer></script>` : ''}
 </body>
 </html>
 `;
+}
+
+// The listening toolbar on surah pages (site/assets/listen.js runs it). The controls stay hidden
+// until the script has checked that this browser can speak.
+function listenBar() {
+  return `<section class="listen-bar" id="listen-bar" aria-labelledby="listen-h" data-state="stopped">
+<h2 class="listen-h" id="listen-h">Listen</h2>
+<div class="listen-controls" hidden>
+<button type="button" class="listen-btn" data-listen="play" aria-label="Play: listen to this surah from the start"><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M7 5l12 7-12 7z" fill="currentColor"/></svg><span class="lbl">Play</span></button>
+<button type="button" class="listen-btn" data-listen="pause" hidden><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M7 5h4v14H7zM13 5h4v14h-4z" fill="currentColor"/></svg><span class="lbl">Pause</span></button>
+<button type="button" class="listen-btn" data-listen="stop" disabled><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M6 6h12v12H6z" fill="currentColor"/></svg><span class="lbl">Stop</span></button>
+<span class="listen-field"><label for="listen-rate">Speed</label><select id="listen-rate"><option value="0.75">Slow</option><option value="0.9">A little slow</option><option value="1">Normal</option><option value="1.15">A little fast</option><option value="1.3">Fast</option><option value="1.5">Very fast</option></select></span>
+<span class="listen-field"><label for="listen-voice">Voice</label><select id="listen-voice"></select></span>
+</div>
+<p class="listen-status" role="status" aria-live="polite">Listening needs JavaScript. A screen reader can still read the page.</p>
+<p class="listen-now"></p>
+<p class="listen-help">Reads the English aloud with your device’s own voice. Arabic and Malayalam are skipped. Use the speaker button next to any verse or heading to start there.</p>
+</section>`;
 }
 
 // "Version 2, released 2026-11-01", or a note that a released part is being corrected.
@@ -278,6 +298,7 @@ ${side}
 ${statusBadge(meta)}
 ${progress}
 <p class="tools"><button type="button" class="settings-inline" data-open-settings aria-haspopup="dialog" aria-controls="settings-panel">Reading settings: theme, text size, what to show</button></p>
+${listenBar()}
 <details class="toc"><summary>Contents</summary><ul>
 ${tocIntro.join('\n')}
 ${tocHead}
@@ -289,7 +310,7 @@ ${main}
 </div>`;
 
   const rel = `en/${dir}/`;
-  write(`${rel}index.html`, layout({ title: `${n}. ${meta.title} · ${SITE_NAME}`, body, rel, wide: true, index: true }));
+  write(`${rel}index.html`, layout({ title: `${n}. ${meta.title} · ${SITE_NAME}`, body, rel, wide: true, index: true, listen: true }));
 
   // One search entry per section, and one per verse.
   function sectionIndex(html, fallback, anchor) {
