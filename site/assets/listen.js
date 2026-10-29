@@ -24,6 +24,9 @@
 
   const btn = (name) => bar.querySelector(`[data-listen="${name}"]`);
   const playBtn = btn('play'), pauseBtn = btn('pause'), stopBtn = btn('stop');
+  const prevBtn = btn('prev'), nextBtn = btn('next'), goBtn = btn('go');
+  const moreBtn = bar.querySelector('.listen-btn.more'), more = bar.querySelector('#listen-more');
+  const fromSel = bar.querySelector('#listen-from');
   const rateSel = bar.querySelector('#listen-rate');
   const voiceSel = bar.querySelector('#listen-voice');
   const arBox = bar.querySelector('#listen-ar');
@@ -114,12 +117,12 @@
   // Blocks in reading order: headings, each verse's English, then paragraphs, lists and notes.
   function collectBlocks() {
     const out = [];
-    const add = (el, label, segs) => { if (segs.length) out.push({ el, label, segs }); };
+    const add = (el, label, segs, kind) => { if (segs.length) out.push({ el, label, segs, kind }); };
     const walk = (root) => {
       for (const el of root.children) {
         if (el.matches('.mark-tools,.note-box,.rv-ui,.listen-bar,.crumbs,.source,.status,.tools,details.toc,.part-meta,.words-block,#top')) continue;
         if (!visible(el)) continue;
-        if (/^H[1-4]$/.test(el.tagName)) { add(el, speakable(el), segments(el)); continue; }
+        if (/^H[1-4]$/.test(el.tagName)) { add(el, speakable(el), segments(el), 'heading'); continue; }
         if (el.matches('.table-wrap')) {
           el.querySelectorAll('table.verses tbody tr').forEach((tr) => {
             const en = tr.querySelector('.en');
@@ -129,19 +132,27 @@
             const segs = [{ lang: 'en', text: 'Verse ' + n + '.' }];
             if (readArabic() && ar && visible(ar)) segs.push(...segments(ar).filter((r) => r.lang === 'ar'));
             segs.push(...segments(en));
-            add(tr, 'Verse ' + n, segs);
+            add(tr, 'Verse ' + n, segs, 'verse');
           });
           continue;
         }
         if (el.matches('section.part, .commentary, .reader, div:not([class])')) { walk(el); continue; }
-        if (el.matches('p, blockquote, ul, ol, li, dl, table')) { add(el, null, segments(el)); continue; }
+        if (el.matches('p, blockquote, ul, ol, li, dl, table')) { add(el, null, segments(el), 'para'); continue; }
         walk(el);
       }
     };
     walk(article);
     // Give paragraphs the label of the heading or verse they belong to, for the status line.
-    let last = article.dataset.title;
-    out.forEach((b) => { if (b.label) last = b.label; else b.label = last; });
+    // Paragraphs are counted under the heading or verse before them: "Verse 7, paragraph 2".
+    let last = article.dataset.title || 'the start', count = 0;
+    out.forEach((b) => {
+      const words = b.segs.filter((g) => g.lang === 'en').map((g) => g.text).join(' ');
+      b.snip = words.slice(0, 60);
+      if (b.kind !== 'para') { last = b.label; count = 0; b.pick = b.label; return; }
+      count++;
+      b.label = last + ', paragraph ' + count;
+      b.pick = b.label + ': ' + words.replace(/^(Verse \d+\.\s*)/, '').slice(0, 50) + (words.length > 50 ? '…' : '');
+    });
     return out;
   }
 
@@ -189,37 +200,85 @@
   let bi = 0, ci = 0, parts = [];
   let state = 'stopped';   // stopped | playing | paused
   let token = 0;           // ends callbacks from an utterance that was cancelled
+  let errors = 0;
 
+  // The place is remembered per page on this device: the block's opening words, with its number
+  // as a fallback, so it survives small changes to the page.
+  const POS_KEY = 'amani-tafsir:listen-pos';
+  const page = location.pathname;
+  function loadPos() { try { return (JSON.parse(localStorage.getItem(POS_KEY)) || {})[page] || null; } catch (e) { return null; } }
+  function savePos(i) {
+    try {
+      const all = JSON.parse(localStorage.getItem(POS_KEY)) || {};
+      if (i == null) delete all[page]; else all[page] = { i, snip: blocks[i].snip, label: blocks[i].label, t: Date.now() };
+      localStorage.setItem(POS_KEY, JSON.stringify(all));
+    } catch (e) { /* not saved */ }
+  }
+  function savedIndex() {
+    const p = loadPos();
+    if (!p || !blocks.length) return 0;
+    let i = blocks.findIndex((b) => b.snip === p.snip);
+    if (i < 0) i = Math.min(p.i || 0, blocks.length - 1);
+    return i;
+  }
+
+  function refresh() {
+    blocks = collectBlocks();
+    fromSel.textContent = '';
+    fromSel.append(new Option('The beginning', '0'));
+    let group = null;
+    blocks.forEach((b, i) => {
+      if (i === 0) return;
+      if (b.kind === 'heading') { group = document.createElement('optgroup'); group.label = b.label; fromSel.append(group); }
+      (group || fromSel).append(new Option(b.pick, String(i)));
+    });
+  }
+
+  function labelPlay() {
+    const lbl = playBtn.querySelector('.lbl');
+    let text = 'Play', aria = 'Play this surah from the start';
+    if (state === 'paused') { text = 'Resume'; aria = 'Resume from ' + (blocks[bi] ? blocks[bi].label : 'where you paused'); }
+    else if (bi > 0 && blocks[bi]) { text = 'Continue'; aria = 'Continue from ' + blocks[bi].label; }
+    lbl.textContent = text;
+    playBtn.setAttribute('aria-label', aria);
+  }
   function setState(s, message) {
     state = s;
     playBtn.hidden = s === 'playing';
     pauseBtn.hidden = s !== 'playing';
     stopBtn.disabled = s === 'stopped';
-    playBtn.querySelector('.lbl').textContent = s === 'paused' ? 'Resume' : 'Play';
-    playBtn.setAttribute('aria-label', s === 'paused' ? 'Resume listening' : 'Play: listen to this surah from the start');
     bar.dataset.state = s;
+    labelPlay();
     // Only state changes are announced, so the screen reader does not talk over the voice.
     if (message) status.textContent = message;
   }
-  function mark(b) {
+  function mark(b, scroll) {
     article.querySelectorAll('.listening').forEach((x) => x.classList.remove('listening'));
     if (!b) { now.textContent = ''; return; }
     b.el.classList.add('listening');
-    now.textContent = 'Now reading: ' + b.label;
+    now.textContent = (state === 'playing' ? 'Now reading: ' : 'At: ') + b.label;
+    if (scroll === false) return;
     const r = b.el.getBoundingClientRect();
-    if (r.top < 80 || r.top > window.innerHeight - 120) {
+    const bottom = window.innerHeight - bar.offsetHeight - 40;
+    if (r.top < 80 || r.top > bottom) {
       const reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
       b.el.scrollIntoView({ block: 'center', behavior: reduce ? 'auto' : 'smooth' });
     }
+  }
+  function go(i) {
+    bi = Math.max(0, Math.min(i, blocks.length - 1)); ci = 0;
+    parts = partsOf(blocks[bi]);
+    mark(blocks[bi]);
+    savePos(bi);
+    fromSel.value = String(bi);
   }
   function speakNext() {
     if (state !== 'playing') return;
     while (bi < blocks.length && ci >= parts.length) {
       bi++; ci = 0;
-      parts = bi < blocks.length ? partsOf(blocks[bi]) : [];
-      if (bi < blocks.length) mark(blocks[bi]);
+      if (bi < blocks.length) { parts = partsOf(blocks[bi]); mark(blocks[bi]); savePos(bi); fromSel.value = String(bi); }
     }
-    if (bi >= blocks.length) { finish('Finished reading this surah.'); return; }
+    if (bi >= blocks.length) { finish('Finished reading this surah.', true); return; }
     const part = parts[ci];
     const u = new SpeechSynthesisUtterance(part.text);
     u.lang = part.lang;
@@ -227,7 +286,7 @@
     if (v) { u.voice = v; u.lang = v.lang; }
     u.rate = Number(prefs.rate) || 1;
     const my = ++token;
-    u.onend = () => { if (my !== token) return; ci++; speakNext(); };
+    u.onend = () => { if (my !== token) return; errors = 0; ci++; speakNext(); };
     u.onerror = (e) => {
       if (my !== token || e.error === 'interrupted' || e.error === 'canceled') return;
       ci++;
@@ -236,27 +295,58 @@
     };
     synth.speak(u);
   }
-  let errors = 0;
   function startAt(index, label) {
     token++; synth.cancel();
-    blocks = collectBlocks();
-    if (!blocks.length) { setState('stopped', 'There is no English text to read here.'); return; }
-    bi = Math.max(0, Math.min(index, blocks.length - 1)); ci = 0; errors = 0;
-    parts = partsOf(blocks[bi]);
-    mark(blocks[bi]);
-    setState('playing', 'Playing' + (label ? ' from ' + label : '') + '.');
+    refresh();
+    if (!blocks.length) { setState('stopped', 'There is no text to read here.'); return; }
+    errors = 0;
+    state = 'playing';
+    go(index);
+    setState('playing', 'Playing from ' + (label || blocks[bi].label) + '.');
     speakNext();
   }
   // Pause is a cancel that keeps the place: the browsers' own pause is unreliable on phones.
-  function pause() { if (state !== 'playing') return; token++; synth.cancel(); setState('paused', 'Paused at ' + (blocks[bi] ? blocks[bi].label : '') + '.'); }
-  function resume() { if (state !== 'paused') return; setState('playing', 'Resumed.'); speakNext(); }
-  function finish(message) { token++; synth.cancel(); mark(null); bi = 0; ci = 0; parts = []; setState('stopped', message); }
+  function pause() { if (state !== 'playing') return; token++; synth.cancel(); setState('paused', 'Paused at ' + (blocks[bi] ? blocks[bi].label : '') + '.'); mark(blocks[bi], false); }
+  function resume() { if (state !== 'paused') return; setState('playing', 'Resumed.'); mark(blocks[bi], false); speakNext(); }
+  // Stop keeps the place for next time; only reaching the end clears it.
+  function finish(message, atEnd) {
+    token++; synth.cancel();
+    if (atEnd) { savePos(null); bi = 0; mark(null); } else mark(blocks[bi], false);
+    ci = 0; parts = [];
+    setState('stopped', message);
+  }
   function restartChunk() { if (state === 'playing') { token++; synth.cancel(); speakNext(); } }
+  // Previous / Next: one verse or paragraph. While playing they jump and keep reading;
+  // otherwise they only move the place and say where it is.
+  function step(d) {
+    if (!blocks.length) refresh();
+    if (!blocks.length) return;
+    const to = Math.max(0, Math.min(bi + d, blocks.length - 1));
+    if (state === 'playing') { token++; synth.cancel(); go(to); speakNext(); status.textContent = blocks[bi].label; return; }
+    go(to);
+    if (state === 'paused') ci = 0;
+    status.textContent = 'At ' + blocks[bi].label + '. Press Play to listen.';
+    labelPlay();
+  }
 
-  playBtn.addEventListener('click', () => (state === 'paused' ? resume() : startAt(0)));
+  playBtn.addEventListener('click', () => (state === 'paused' ? resume() : startAt(bi)));
   pauseBtn.addEventListener('click', () => { pause(); playBtn.focus(); });
-  stopBtn.addEventListener('click', () => { finish('Stopped.'); playBtn.focus(); });
+  stopBtn.addEventListener('click', () => { finish('Stopped. Your place is kept.'); playBtn.focus(); });
+  prevBtn.addEventListener('click', () => step(-1));
+  nextBtn.addEventListener('click', () => step(1));
+  goBtn.addEventListener('click', () => startAt(Number(fromSel.value) || 0));
+  moreBtn.addEventListener('click', () => {
+    const open = more.hidden;
+    if (open) { if (state !== 'playing') { const keep = bi; refresh(); bi = Math.min(keep, Math.max(0, blocks.length - 1)); } fromSel.value = String(bi); }
+    more.hidden = !open;
+    moreBtn.setAttribute('aria-expanded', String(open));
+    bar.classList.toggle('open', open);
+    padBody();
+  });
   window.addEventListener('pagehide', () => { token++; synth.cancel(); });
+
+  // The player sits at the bottom of the screen; keep the page's last lines clear of it.
+  function padBody() { document.body.style.paddingBottom = (bar.offsetHeight + 12) + 'px'; document.documentElement.style.setProperty('--player-h', bar.offsetHeight + 'px'); }
 
   // "Listen from here" beside every heading and verse. app.js adds the other buttons first.
   function addHereButtons() {
@@ -274,16 +364,23 @@
         const list = collectBlocks();
         let i = list.findIndex((x) => x.el === el);
         if (i < 0) i = list.findIndex((x) => el.compareDocumentPosition(x.el) & Node.DOCUMENT_POSITION_FOLLOWING);
-        if (i < 0) { toastLike('Nothing to read here with the current reading settings.'); return; }
+        if (i < 0) { status.textContent = 'Nothing to read here with the current reading settings.'; return; }
         startAt(i, label);
       });
       tools.append(b);
     });
   }
-  function toastLike(msg) { status.textContent = msg; }
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', addHereButtons); else addHereButtons();
-
-  bar.querySelector('.listen-controls').hidden = false;
-  setState('stopped', '');
-  status.textContent = '';
+  function init() {
+    addHereButtons();
+    refresh();
+    bi = savedIndex();
+    bar.classList.add('player');
+    bar.querySelector('.listen-controls').hidden = false;
+    status.textContent = '';
+    setState('stopped', '');
+    if (bi > 0) { mark(blocks[bi], false); now.textContent = 'Your place: ' + blocks[bi].label; fromSel.value = String(bi); }
+    padBody();
+    if ('ResizeObserver' in window) new ResizeObserver(padBody).observe(bar); else window.addEventListener('resize', padBody);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();

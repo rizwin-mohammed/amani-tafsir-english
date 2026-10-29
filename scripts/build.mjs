@@ -90,7 +90,7 @@ ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
 <meta name="apple-mobile-web-app-title" content="Amani Tafsir">
 </head>
 <body data-base="${BASE}" data-page="${esc(rel)}" data-repo="${REPO}">
-<a class="skip-link" href="#main">Skip to main content</a>
+<a class="skip-link" href="#main">Skip to main content</a>${listen ? '\n<a class="skip-link" href="#listen-bar">Skip to the audio player</a>' : ''}
 <header class="top">
   ${index ? `<button type="button" class="index-btn" id="index-open" aria-controls="side-index" aria-expanded="false" title="Contents of this surah"><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M4 6h16M4 12h16M4 18h10" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg><span class="index-label">Contents</span></button>` : ''}
   <a class="brand" href="${BASE}/en/">${SITE_NAME}</a>
@@ -119,23 +119,31 @@ ${listen ? `<script src="${BASE}/assets/listen.js" defer></script>` : ''}
 `;
 }
 
-// The listening toolbar on surah pages (site/assets/listen.js runs it). The controls stay hidden
-// until the script has checked that this browser can speak.
+// The audio player on surah pages (site/assets/listen.js runs it). Once the script has checked that
+// this browser can speak, it stays fixed at the bottom of the screen so its buttons are always in reach.
 function listenBar() {
-  return `<section class="listen-bar" id="listen-bar" aria-labelledby="listen-h" data-state="stopped">
-<h2 class="listen-h" id="listen-h">Listen</h2>
+  return `<section class="listen-bar" id="listen-bar" aria-labelledby="listen-h" data-state="stopped" tabindex="-1">
+<h2 class="visually-hidden" id="listen-h">Audio player</h2>
+<p class="listen-status" role="status" aria-live="polite">Listening needs JavaScript. A screen reader can still read the page.</p>
 <div class="listen-controls" hidden>
-<button type="button" class="listen-btn" data-listen="play" aria-label="Play: listen to this surah from the start"><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M7 5l12 7-12 7z" fill="currentColor"/></svg><span class="lbl">Play</span></button>
-<button type="button" class="listen-btn" data-listen="pause" hidden><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M7 5h4v14H7zM13 5h4v14h-4z" fill="currentColor"/></svg><span class="lbl">Pause</span></button>
-<button type="button" class="listen-btn" data-listen="stop" disabled><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M6 6h12v12H6z" fill="currentColor"/></svg><span class="lbl">Stop</span></button>
+<p class="listen-now"></p>
+<div class="listen-main">
+<button type="button" class="listen-btn icon" data-listen="prev" aria-label="Previous verse or paragraph"><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><path d="M6 5h2v14H6zM20 5v14L9 12z" fill="currentColor"/></svg></button>
+<button type="button" class="listen-btn play" data-listen="play" aria-label="Play"><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><path d="M7 5l12 7-12 7z" fill="currentColor"/></svg><span class="lbl">Play</span></button>
+<button type="button" class="listen-btn play" data-listen="pause" aria-label="Pause" hidden><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><path d="M7 5h4v14H7zM13 5h4v14h-4z" fill="currentColor"/></svg><span class="lbl">Pause</span></button>
+<button type="button" class="listen-btn icon" data-listen="next" aria-label="Next verse or paragraph"><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><path d="M16 5h2v14h-2zM4 5v14l11-7z" fill="currentColor"/></svg></button>
+<button type="button" class="listen-btn icon" data-listen="stop" aria-label="Stop (your place is kept)" disabled><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><path d="M6 6h12v12H6z" fill="currentColor"/></svg></button>
+<button type="button" class="listen-btn icon more" aria-expanded="false" aria-controls="listen-more" aria-label="Listening options"><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+</div>
+<div class="listen-more" id="listen-more" hidden>
+<div class="listen-from"><label for="listen-from">Start from</label><select id="listen-from"></select><button type="button" class="listen-go" data-listen="go">Play from here</button></div>
 <span class="listen-field"><label for="listen-rate">Speed</label><select id="listen-rate"><option value="0.75">Slow</option><option value="0.9">A little slow</option><option value="1">Normal</option><option value="1.15">A little fast</option><option value="1.3">Fast</option><option value="1.5">Very fast</option></select></span>
 <span class="listen-field"><label for="listen-voice">Voice</label><select id="listen-voice"></select></span>
 <span class="listen-field listen-ar"><input type="checkbox" id="listen-ar" checked><label for="listen-ar">Read Arabic too</label></span>
-</div>
 <p class="listen-ar-note"></p>
-<p class="listen-status" role="status" aria-live="polite">Listening needs JavaScript. A screen reader can still read the page.</p>
-<p class="listen-now"></p>
-<p class="listen-help">Reads the English aloud with your device’s own voice, and the Arabic verses and words with its Arabic voice, so the reading moves between the two as the page does. Malayalam is skipped. The Arabic is the device’s voice, not a recitation. Use the speaker button next to any verse or heading to start there.</p>
+<p class="listen-help">Reads the English with your device’s own voice, and the Arabic verses and words with its Arabic voice. Malayalam is skipped. The Arabic is the device’s voice, not a recitation. Your place is remembered on this device, so Play continues where you stopped. Previous and Next move one verse or paragraph; the speaker button next to any verse or heading starts there.</p>
+</div>
+</div>
 </section>`;
 }
 
