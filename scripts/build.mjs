@@ -130,10 +130,12 @@ function listenBar() {
 <button type="button" class="listen-btn" data-listen="stop" disabled><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M6 6h12v12H6z" fill="currentColor"/></svg><span class="lbl">Stop</span></button>
 <span class="listen-field"><label for="listen-rate">Speed</label><select id="listen-rate"><option value="0.75">Slow</option><option value="0.9">A little slow</option><option value="1">Normal</option><option value="1.15">A little fast</option><option value="1.3">Fast</option><option value="1.5">Very fast</option></select></span>
 <span class="listen-field"><label for="listen-voice">Voice</label><select id="listen-voice"></select></span>
+<span class="listen-field listen-ar"><input type="checkbox" id="listen-ar" checked><label for="listen-ar">Read Arabic too</label></span>
 </div>
+<p class="listen-ar-note"></p>
 <p class="listen-status" role="status" aria-live="polite">Listening needs JavaScript. A screen reader can still read the page.</p>
 <p class="listen-now"></p>
-<p class="listen-help">Reads the English aloud with your device’s own voice. Arabic and Malayalam are skipped. Use the speaker button next to any verse or heading to start there.</p>
+<p class="listen-help">Reads the English aloud with your device’s own voice, and the Arabic verses and words with its Arabic voice, so the reading moves between the two as the page does. Malayalam is skipped. The Arabic is the device’s voice, not a recitation. Use the speaker button next to any verse or heading to start there.</p>
 </section>`;
 }
 
