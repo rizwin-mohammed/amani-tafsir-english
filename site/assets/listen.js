@@ -1,7 +1,7 @@
 // Listen: reads the English of a surah page aloud with the browser's own voices (Web Speech API).
 // Free and offline-capable, but the voices depend on the reader's device and browser.
-// Arabic and Malayalam are left out of the English reading; buttons, notes, review controls and
-// book-page markers are left out too. Long passages are read one sentence at a time, so Pause,
+// Arabic is read with an Arabic voice when the device has one and "Read Arabic too" is on;
+// Malayalam is always left out, and so are buttons, notes, review controls and book-page markers. Long passages are read one sentence at a time, so Pause,
 // Resume and Stop stay reliable and the place is never lost.
 (function () {
   const article = document.querySelector('article.surah');
@@ -26,17 +26,31 @@
   const playBtn = btn('play'), pauseBtn = btn('pause'), stopBtn = btn('stop');
   const rateSel = bar.querySelector('#listen-rate');
   const voiceSel = bar.querySelector('#listen-voice');
+  const arBox = bar.querySelector('#listen-ar');
 
   // ---------- Voices ----------
-  let voices = [];
+  let voices = [], arVoices = [];
   function loadVoices() {
-    voices = synth.getVoices().filter((v) => /^en(-|_|$)/i.test(v.lang));
+    const all = synth.getVoices();
+    arVoices = all.filter((v) => /^ar(-|_|$)/i.test(v.lang));
+    voices = all.filter((v) => /^en(-|_|$)/i.test(v.lang));
     voiceSel.textContent = '';
     const auto = new Option('Automatic (best English voice)', '');
     voiceSel.append(auto);
     voices.forEach((v) => voiceSel.append(new Option(`${v.name} (${v.lang})`, v.voiceURI)));
     voiceSel.value = voices.some((v) => v.voiceURI === prefs.voice) ? prefs.voice : '';
     voiceSel.closest('.listen-field').hidden = voices.length === 0;
+    if (arBox) {
+      arBox.disabled = arVoices.length === 0;
+      arBox.checked = arVoices.length > 0 && prefs.ar !== false;
+      const note = bar.querySelector('.listen-ar-note');
+      if (note) note.textContent = arVoices.length ? '' : 'This device has no Arabic voice, so Arabic is skipped. An Arabic voice can be added in the phone’s text-to-speech settings.';
+    }
+  }
+  const readArabic = () => !!(arBox && arBox.checked && arVoices.length);
+  function pickArVoice() {
+    return arVoices.find((v) => v.localService && v.default) || arVoices.find((v) => v.default)
+      || arVoices.find((v) => v.localService) || arVoices[0] || null;
   }
   function pickVoice() {
     const chosen = voices.find((v) => v.voiceURI === prefs.voice);
@@ -50,15 +64,14 @@
   voiceSel.addEventListener('change', () => { prefs.voice = voiceSel.value; savePrefs(); restartChunk(); });
 
   rateSel.value = ['0.75', '0.9', '1', '1.15', '1.3', '1.5'].includes(String(prefs.rate)) ? String(prefs.rate) : '1';
+  if (arBox) arBox.addEventListener('change', () => { prefs.ar = arBox.checked; savePrefs(); if (state === 'playing') startAt(bi); });
   rateSel.addEventListener('change', () => { prefs.rate = Number(rateSel.value); savePrefs(); restartChunk(); });
 
   // ---------- What is read, in order ----------
   const SKIP = '.mark-tools,.note-box,.rv-ui,.page,[lang="ar"],[lang="ml"],.visually-hidden,script,style';
   const AR_ML = /[؀-ۿݐ-ݿࢠ-ࣿﭐ-﷿ﹰ-﻿ഀ-ൿ]+/g;
-  function speakable(node) {
-    const c = node.cloneNode(true);
-    c.querySelectorAll(SKIP).forEach((x) => x.remove());
-    return c.textContent
+  function cleanEn(t) {
+    return t
       .replace(AR_ML, ' ')
       .replace(/ﷺ/g, ' peace be upon him ')
       .replace(/\(\s*[,.;:]?\s*\)|\[\s*[,.;:]?\s*\]/g, ' ')   // brackets left empty once the Arabic is gone
@@ -68,26 +81,60 @@
       .replace(/\s+([,.;:!?])/g, '$1')
       .trim();
   }
+  // Quran script marks that text-to-speech voices do not know: pause signs and the end-of-verse
+  // sign are dropped, the Uthmani sukun and alif wasla become their ordinary forms.
+  function cleanAr(t) {
+    return t
+      .replace(/\u06E1/g, '\u0652').replace(/\u0671/g, '\u0627')
+      .replace(/[\u06D6-\u06DE\u06E9\u06EA-\u06ED\u06E2]/g, '')
+      .replace(/[^\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\s]/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+  // What a node says, as runs of English and Arabic in reading order.
+  function segments(node) {
+    const c = node.cloneNode(true);
+    c.querySelectorAll(readArabic() ? SKIP.replace('[lang="ar"],', '') : SKIP).forEach((x) => x.remove());
+    const runs = [];
+    const push = (lang, t) => {
+      if (runs.length && runs[runs.length - 1].lang === lang) runs[runs.length - 1].raw += t;
+      else runs.push({ lang, raw: t });
+    };
+    const walker = document.createTreeWalker(c, NodeFilter.SHOW_TEXT);
+    for (let n = walker.nextNode(); n; n = walker.nextNode()) {
+      const p = n.parentElement;
+      push(p && p.closest('[lang="ar"]') ? 'ar' : 'en', n.textContent);
+    }
+    return runs.map((r) => ({ lang: r.lang, text: r.lang === 'ar' ? cleanAr(r.raw) : cleanEn(r.raw) }))
+      .filter((r) => (r.lang === 'ar' ? /[\u0621-\u064A]/.test(r.text) : /[A-Za-z0-9]/.test(r.text)));
+  }
+  const speakable = (node) => segments(node).filter((r) => r.lang === 'en').map((r) => r.text).join(' ');
   const visible = (el) => !!(el.offsetParent || el.getClientRects().length);
 
   // Blocks in reading order: headings, each verse's English, then paragraphs, lists and notes.
   function collectBlocks() {
     const out = [];
-    const add = (el, label, text) => { if (text && /[A-Za-z0-9]/.test(text)) out.push({ el, label, text }); };
+    const add = (el, label, segs) => { if (segs.length) out.push({ el, label, segs }); };
     const walk = (root) => {
       for (const el of root.children) {
         if (el.matches('.mark-tools,.note-box,.rv-ui,.listen-bar,.crumbs,.source,.status,.tools,details.toc,.part-meta,.words-block,#top')) continue;
         if (!visible(el)) continue;
-        if (/^H[1-4]$/.test(el.tagName)) { add(el, speakable(el), speakable(el)); continue; }
+        if (/^H[1-4]$/.test(el.tagName)) { add(el, speakable(el), segments(el)); continue; }
         if (el.matches('.table-wrap')) {
           el.querySelectorAll('table.verses tbody tr').forEach((tr) => {
             const en = tr.querySelector('.en');
-            if (en && visible(tr)) add(tr, 'Verse ' + tr.id.split('-')[1], 'Verse ' + tr.id.split('-')[1] + '. ' + speakable(en));
+            if (!en || !visible(tr)) return;
+            const n = tr.id.split('-')[1];
+            const ar = tr.querySelector('td.ar');
+            const segs = [{ lang: 'en', text: 'Verse ' + n + '.' }];
+            if (readArabic() && ar && visible(ar)) segs.push(...segments(ar).filter((r) => r.lang === 'ar'));
+            segs.push(...segments(en));
+            add(tr, 'Verse ' + n, segs);
           });
           continue;
         }
         if (el.matches('section.part, .commentary, .reader, div:not([class])')) { walk(el); continue; }
-        if (el.matches('p, blockquote, ul, ol, li, dl, table')) { add(el, null, speakable(el)); continue; }
+        if (el.matches('p, blockquote, ul, ol, li, dl, table')) { add(el, null, segments(el)); continue; }
         walk(el);
       }
     };
@@ -100,7 +147,7 @@
 
   // Sentences of about 200 characters at most; long sentences are cut at a comma or a space.
   function chunks(text) {
-    const raw = text.match(/[^.!?]+[.!?]+["’”)\]]*\s*|[^.!?]+$/g) || [text];
+    const raw = text.match(/[^.!?؟]+[.!?؟]+["’”)\]]*\s*|[^.!?؟]+$/g) || [text];
     // A number or a short abbreviation ("2.", "Mu.") does not end a sentence: keep it with what follows.
     const parts = [];
     for (const r of raw) {
@@ -111,7 +158,7 @@
     for (let s of parts) {
       s = s.trim();
       while (s.length > 220) {
-        let cut = s.lastIndexOf(', ', 200);
+        let cut = Math.max(s.lastIndexOf(', ', 200), s.lastIndexOf('، ', 200));
         if (cut < 80) cut = s.lastIndexOf(' ', 200);
         if (cut < 40) cut = 200;
         out.push(s.slice(0, cut + 1).trim());
@@ -119,6 +166,21 @@
       }
       if (s) out.push(s);
     }
+    return out;
+  }
+
+  const partsOf = (b) => b.segs.flatMap((g) => (g.lang === 'en' ? chunks(g.text) : chunksAr(g.text)).map((t) => ({ lang: g.lang, text: t })));
+  // Arabic has few full stops: cut long runs at a space, about 200 characters at most.
+  function chunksAr(text) {
+    const out = [];
+    let s = text;
+    while (s.length > 220) {
+      let cut = s.lastIndexOf(' ', 200);
+      if (cut < 40) cut = 200;
+      out.push(s.slice(0, cut).trim());
+      s = s.slice(cut).trim();
+    }
+    if (s) out.push(s);
     return out;
   }
 
@@ -154,13 +216,14 @@
     if (state !== 'playing') return;
     while (bi < blocks.length && ci >= parts.length) {
       bi++; ci = 0;
-      parts = bi < blocks.length ? chunks(blocks[bi].text) : [];
+      parts = bi < blocks.length ? partsOf(blocks[bi]) : [];
       if (bi < blocks.length) mark(blocks[bi]);
     }
     if (bi >= blocks.length) { finish('Finished reading this surah.'); return; }
-    const u = new SpeechSynthesisUtterance(parts[ci]);
-    u.lang = 'en';
-    const v = pickVoice();
+    const part = parts[ci];
+    const u = new SpeechSynthesisUtterance(part.text);
+    u.lang = part.lang;
+    const v = part.lang === 'ar' ? pickArVoice() : pickVoice();
     if (v) { u.voice = v; u.lang = v.lang; }
     u.rate = Number(prefs.rate) || 1;
     const my = ++token;
@@ -179,7 +242,7 @@
     blocks = collectBlocks();
     if (!blocks.length) { setState('stopped', 'There is no English text to read here.'); return; }
     bi = Math.max(0, Math.min(index, blocks.length - 1)); ci = 0; errors = 0;
-    parts = chunks(blocks[bi].text);
+    parts = partsOf(blocks[bi]);
     mark(blocks[bi]);
     setState('playing', 'Playing' + (label ? ' from ' + label : '') + '.');
     speakNext();

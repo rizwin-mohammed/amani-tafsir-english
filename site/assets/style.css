@@ -369,7 +369,10 @@ select:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px 
 .listen-field { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); }
 .listen-field[hidden] { display: none; }
 .listen-field select { min-height: 36px; max-width: 15rem; font: 14px var(--sans); color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 4px 8px; }
-.listen-status:empty, .listen-now:empty { display: none; }
+.listen-status:empty, .listen-now:empty, .listen-ar-note:empty { display: none; }
+.listen-ar input { width: 18px; height: 18px; accent-color: var(--accent); margin: 0; }
+.listen-ar input:disabled + label { opacity: .5; }
+.listen-ar-note { margin: 8px 0 0; color: var(--muted); font-size: 13px; }
 .listen-status, .listen-now { margin: 8px 0 0; color: var(--text); }
 .listen-help { margin: 8px 0 0; color: var(--muted); font-size: 13px; }
 .listening { background: var(--accent-soft); box-shadow: -4px 0 0 var(--accent); border-radius: 4px; }
