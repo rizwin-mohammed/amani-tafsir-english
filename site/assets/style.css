@@ -132,7 +132,6 @@ td .mark-tools { display: grid; grid-template-columns: repeat(2, 34px); margin: 
 h2 .mark-tools, h3 .mark-tools { font-size: 16px; }
 .note-box { margin: 6px 0; padding: 8px 10px; background: var(--accent-soft); border-left: 3px solid var(--accent); border-radius: 4px; font-size: 15px; white-space: pre-wrap; }
 .hero p { color: var(--muted); }
-.continue a { font-weight: 600; }
 .surah-list { list-style: none; padding: 0; margin: 12px 0 20px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); overflow: hidden; }
 .surah-list li + li { border-top: 1px solid var(--line); }
 .surah-list li > a, .surah-list li > span { display: grid; grid-template-columns: 2.4em 1fr auto; align-items: center; gap: 4px 10px; padding: 12px 14px; text-decoration: none; color: var(--text); min-height: 64px; }
@@ -392,3 +391,22 @@ tr.listening > td { background: var(--accent-soft); }
 @media (max-width: 420px) { .listen-btn.play .lbl { display: none; } .listen-btn.play { width: 56px; padding: 0; } .listen-main { gap: 6px; } }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto !important; } }
 @media print { .listen-bar, .skip-link { display: none; } }
+
+/* Continue reading: the home-page button and the offer at the top of a surah. */
+.continue { margin: 18px 0 8px; }
+.continue-btn { display: inline-flex; flex-direction: column; gap: 4px; padding: 14px 22px; border-radius: 12px; background: var(--accent); color: #fff; text-decoration: none; box-shadow: 0 1px 3px rgba(0,0,0,.15); max-width: 100%; }
+.continue-btn:hover, .continue-btn:focus-visible { background: var(--heading); color: #fff; }
+.continue-btn:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.continue-main { font: 600 calc(19px * var(--scale)) var(--sans); }
+.continue-where { font: calc(15px * var(--scale)) var(--sans); opacity: .9; overflow-wrap: anywhere; }
+.resume-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 12px; margin: 12px 0 18px; padding: 14px 16px; border: 2px solid var(--accent); border-radius: 12px; background: var(--accent-soft); font-family: var(--sans); }
+.resume-bar p { flex: 1 1 100%; margin: 0; text-align: left; hyphens: none; font-size: calc(17px * var(--scale)); color: var(--text); }
+.resume-bar button { font: 600 calc(17px * var(--scale)) var(--sans); min-height: 48px; padding: 10px 18px; border-radius: 10px; cursor: pointer; }
+.resume-yes { background: var(--accent); color: #fff; border: 2px solid var(--accent); }
+.resume-no { background: var(--surface); color: var(--accent); border: 2px solid var(--accent); }
+.resume-bar button:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.resume-flash { animation: resume-flash 2.6s ease-out; }
+@keyframes resume-flash { 0%, 40% { background-color: rgba(160,122,60,.22); } 100% { background-color: transparent; } }
+@media (prefers-reduced-motion: reduce) { .resume-flash { animation: none; outline: 2px solid var(--gold); } }
+:root[data-theme="dark"] .continue-btn, :root[data-theme="dark"] .resume-yes { color: var(--bg); }
+:root[data-theme="dark"] .continue-btn:hover, :root[data-theme="dark"] .continue-btn:focus-visible { background: var(--accent); color: var(--bg); filter: brightness(1.1); }
