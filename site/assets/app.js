@@ -249,31 +249,114 @@
       mark();
     }
 
-    // Remember where the reader is.
-    const anchors = [...article.querySelectorAll('[data-anchor]')];
+    // Remember where the reader is, down to the paragraph of the commentary.
+    // Saved per surah (prefs.places) and as the latest place overall (prefs.last).
+    const blocks = [...article.querySelectorAll('[data-anchor], .commentary p, .commentary li, .commentary blockquote')]
+      .filter((el) => !el.closest('.note-box,.mark-tools,.rv-ui,.part-meta') && !(el.matches('p,li') && el.parentElement.closest('blockquote,li')));
+    const snipOf = (el) => (el.dataset.label && el.matches('[data-anchor]') ? el.dataset.label : el.textContent.replace(/\s+/g, ' ').trim().slice(0, 60));
+    // Label: "Verse 12" on a verse row, a heading's own text, or "Verses 10-22, paragraph 4"
+    // for commentary (paragraphs counted from the start of that group of verses).
+    const placeOf = (i) => {
+      const el = blocks[i];
+      let a = i;
+      while (a > 0 && !blocks[a].matches('[data-anchor]')) a--;
+      const head = blocks[a].matches('[data-anchor]') ? blocks[a] : null;
+      let label;
+      if (el.matches('[data-anchor]')) label = labelFor(el);
+      else {
+        let g = i, k = 0;
+        while (g > 0 && !blocks[g].matches('h2[data-anchor]')) { if (!blocks[g].matches('[data-anchor]')) k++; g--; }
+        const group = blocks[g].matches('h2[data-anchor]') ? labelFor(blocks[g]) : pageTitle;
+        label = group + ', paragraph ' + k;
+      }
+      return { url, page: pageTitle, i, snip: snipOf(el), anchor: head ? head.dataset.anchor : '', label, t: Date.now() };
+    };
+    const topOffset = () => (topBar ? topBar.offsetHeight : 0) + 12;
+    const findBlock = (pos) => {
+      if (!pos) return null;
+      let el = blocks[pos.i];
+      if (el && pos.snip && snipOf(el) !== pos.snip) el = blocks.find((b) => snipOf(b) === pos.snip) || null;
+      if (!el && pos.anchor) el = document.getElementById(pos.anchor) || article.querySelector('[data-anchor="' + pos.anchor + '"]');
+      return el;
+    };
+    const goTo = (pos) => {
+      const el = findBlock(pos);
+      if (!el) return false;
+      window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - topOffset() });
+      el.classList.add('resume-flash');
+      setTimeout(() => el.classList.remove('resume-flash'), 2600);
+      if (!el.hasAttribute('tabindex')) el.setAttribute('tabindex', '-1');
+      el.focus({ preventScroll: true });
+      return true;
+    };
+
+    data.prefs.places = data.prefs.places || {};
+    const legacy = data.prefs.last && data.prefs.last.url === url && data.prefs.last.i === undefined ? data.prefs.last : null;
+    const saved = data.prefs.places[url] || legacy;
+    let bar = null;
+
+    if (location.hash === '#continue') {
+      history.replaceState(null, '', url + location.search);
+      const run = () => { if (!goTo(saved)) toast('No saved place in this surah yet'); };
+      if (document.readyState === 'complete') requestAnimationFrame(run); else window.addEventListener('load', () => requestAnimationFrame(run), { once: true });
+    } else if (!location.hash && saved && findBlock(saved) && findBlock(saved) !== blocks[0]) {
+      // Offer to go back to the saved place when a surah is opened from the start.
+      bar = document.createElement('section');
+      bar.className = 'resume-bar';
+      bar.setAttribute('aria-label', 'Continue reading');
+      const msg = document.createElement('p');
+      msg.textContent = 'You were reading ' + saved.label + '.';
+      const yes = document.createElement('button');
+      yes.type = 'button';
+      yes.className = 'resume-yes';
+      yes.textContent = 'Continue from ' + saved.label;
+      const no = document.createElement('button');
+      no.type = 'button';
+      no.className = 'resume-no';
+      no.textContent = 'Start from the beginning';
+      const close = () => { bar.remove(); bar = null; };
+      yes.addEventListener('click', () => { close(); goTo(saved); });
+      no.addEventListener('click', () => { close(); h1 && h1.focus && (h1.setAttribute('tabindex', '-1'), h1.focus({ preventScroll: true })); });
+      bar.append(msg, yes, no);
+      (h1 && article.contains(h1) ? h1 : article.firstElementChild).after(bar);
+    }
+
     let t;
     window.addEventListener('scroll', () => {
       clearTimeout(t);
       t = setTimeout(() => {
-        const cur = anchors.filter((a) => a.getBoundingClientRect().top < 120).pop();
-        if (!cur) return;
-        data.prefs.last = { url, anchor: cur.dataset.anchor, page: pageTitle, label: labelFor(cur) };
+        // While the "continue" offer is still on screen, keep the old place.
+        if (bar && bar.getBoundingClientRect().bottom > 0) return;
+        const lim = topOffset() + 8;
+        let i = -1;
+        for (let j = 0; j < blocks.length; j++) { if (blocks[j].getBoundingClientRect().top <= lim) i = j; else break; }
+        if (i < 0) return;
+        const pos = placeOf(i);
+        data.prefs.places[url] = pos;
+        data.prefs.last = pos;
         save(data);
       }, 400);
     }, { passive: true });
   }
 
-  // "Continue reading" on the home page.
+  // "Continue where you left off" on the home page.
   const hero = document.querySelector('.hero');
-  if (hero && data.prefs.last) {
+  if (hero && data.prefs.last && data.prefs.last.url) {
     const l = data.prefs.last;
+    const a = document.createElement('a');
+    a.className = 'continue-btn';
+    a.href = l.url + (l.i === undefined ? '#' + l.anchor : '#continue');
+    const big = document.createElement('span');
+    big.className = 'continue-main';
+    big.textContent = 'Continue where you left off';
+    const small = document.createElement('span');
+    small.className = 'continue-where';
+    small.textContent = l.page + ', ' + l.label;
+    a.append(big, small);
     const p = document.createElement('p');
     p.className = 'continue';
-    const a = document.createElement('a');
-    a.href = l.url + '#' + l.anchor;
-    a.textContent = 'Continue reading: ' + l.page + ', ' + l.label;
     p.append(a);
-    hero.append(p);
+    hero.querySelector('h1') ? hero.querySelector('h1').after(p) : hero.prepend(p);
   }
 
   // Bookmarks page
