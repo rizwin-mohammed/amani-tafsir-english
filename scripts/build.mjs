@@ -13,6 +13,8 @@ const SITE_NAME = 'Amani Tafsir in English';
 // While the site is a preview, keep it out of search engines.
 const PREVIEW = process.env.PREVIEW !== '0';
 
+const DUAS_FILE = path.join(ROOT, 'content/en/duas/duas.json');
+const DUAS = fs.existsSync(DUAS_FILE) ? JSON.parse(fs.readFileSync(DUAS_FILE, 'utf8')) : null;
 const quran = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/quran-uthmani.json'), 'utf8'));
 
 const STATUS = {
@@ -372,6 +374,7 @@ function main() {
 <h1>The Holy Quran: translation and commentary</h1>
 <p>An English translation of <em>Vishuddha Quran Vivaranam</em>, the Malayalam tafsir by Muhammad Amani Moulavi, published surah by surah after careful review.</p>
 <p class="progress">${done} of 114 surahs translated so far.</p>
+${DUAS ? `<p class="dua-link"><a class="dua-btn" href="${BASE}/en/duas/"><span class="dua-btn-main">Duas for every occasion</span><span class="dua-btn-sub">Morning and evening adhkar and duas for daily life, with references</span></a></p>` : ''}
 </section>
 <h2 class="lib-h" id="library">Surah library</h2>
 <div class="lib-tools" role="search">
@@ -397,6 +400,8 @@ function main() {
 <input type="search" id="q" placeholder="Search the translation, for example: guidance" autofocus>
 <ol id="results" class="results"></ol>
 </article>` }));
+
+  if (DUAS) buildDuas(DUAS);
 
   write('404.html', layout({ title: `Not found · ${SITE_NAME}`, rel: '404.html', body: `<article class="prose"><h1>Page not found</h1><p><a href="${BASE}/en/">Go to the list of surahs</a></p></article>` }));
   write('search-index.json', JSON.stringify(searchIndex));
@@ -426,10 +431,84 @@ function main() {
   console.log(`Built ${done} surah page(s) into dist/ (base "${BASE}", preview ${PREVIEW}).`);
 }
 
+// The dua pages: one tile per case on en/duas/, one page per case, and the references as tables.
+// The duas come from Rizwin's own collection (content/en/duas/duas.json), not from the tafsir.
+const DUA_CASES = [
+  ['morning-evening', 'Morning and evening', 'The adhkar to say each morning and evening'],
+  ['after-prayer', 'After and within prayer', 'Remembrance after prayer and duas inside the prayer'],
+  ['illness', 'Illness and healing', 'Ruqyah, visiting the sick, and seeing someone in trial'],
+  ['distress', 'Distress and hardship', 'Anxiety, grief, calamity and times of severe distress'],
+  ['provision', 'Debt and provision', 'Settling debt and lawful sufficiency'],
+  ['family', 'Family', 'Spouse, children and parents'],
+  ['guidance', 'Guidance and steadfastness', 'A firm heart, piety and a good life'],
+  ['gatherings', 'Gatherings', 'Leaving a gathering and its expiation'],
+  ['daily-life', 'Daily life', 'Sleeping, waking, leaving home, the mosque and travel'],
+  ['occasions', 'Special occasions', 'Istikharah and Laylatul-Qadr'],
+  ['comprehensive', 'Comprehensive duas', 'Duas for the good of this world and the next'],
+];
+
+function duaRefTable(list, linkBase) {
+  const rows = list.map((d, i) => `<tr><td class="num">${i + 1}</td><td><a href="${linkBase(d)}#${d.id}">${esc(d.title)}</a></td><td>${esc(d.refs || '')}</td><td>${esc(d.grading || '')}</td></tr>`);
+  return `<div class="table-wrap"><table class="dua-refs">
+<thead><tr><th scope="col">#</th><th scope="col">Dua</th><th scope="col">Reference</th><th scope="col">Grading</th></tr></thead>
+<tbody>${rows.join('\n')}</tbody></table></div>`;
+}
+
+function duaCard(d) {
+  const doubt = (h) => h.replace(/\[DOUBT:(.*?)\]/gs, '<span class="doubt" lang="en" dir="ltr" title="Not yet settled: waiting for the reviewer">[DOUBT:$1]</span>');
+  const para = (cls, lang, text) => (text ? `<p class="${cls}"${lang ? ` lang="${lang}"` : ''}${lang === 'ar' ? ' dir="rtl"' : ''}>${doubt(esc(text)).replace(/\n/g, '<br>')}</p>` : '');
+  return `<article class="dua" id="${d.id}" data-anchor="${d.id}">
+<h2>${esc(d.title)}</h2>
+${d.count ? `<p class="dua-count"><span class="visually-hidden">How many times and when: </span>${esc(d.count)}</p>` : ''}
+${para(d.quran && d.quran.length ? 'dua-ar quran' : 'dua-ar', 'ar', d.arabic)}
+${para('dua-ml ml', 'ml', d.ml)}
+${para('dua-en', '', d.en)}
+${d.hadith_arabic ? `<p class="dua-hadith-label">The hadith:</p>${para('dua-ar dua-hadith', 'ar', d.hadith_arabic)}` : ''}
+${d.benefit ? `<p class="dua-benefit"><strong>Benefit:</strong> ${esc(d.benefit)}</p>` : ''}
+<p class="dua-ref"><strong>Reference:</strong> ${esc(d.refs || '')}${d.grading ? ` <span class="dua-grade">(${esc(d.grading)})</span>` : ''}</p>
+</article>`;
+}
+
+function buildDuas(data) {
+  const byCase = Object.fromEntries(DUA_CASES.map(([k]) => [k, []]));
+  for (const d of data.duas) (byCase[d.case] || (byCase[d.case] = [])).push(d);
+  const caseOf = Object.fromEntries(DUA_CASES.map((c) => [c[0], c]));
+  const url = (k) => `${BASE}/en/duas/${k}/`;
+  const note = `<p class="dua-note">This collection is a companion to this site; it is not part of Amani Moulavi's tafsir. Each dua shows its source and the grading given in the collection.</p>`;
+  const tiles = DUA_CASES.filter(([k]) => byCase[k].length).map(([k, name, sub]) => `<li><a class="dua-tile" href="${url(k)}"><span class="dua-tile-name">${esc(name)}</span><span class="dua-tile-sub">${esc(sub)}</span><span class="dua-tile-n">${byCase[k].length} dua${byCase[k].length === 1 ? '' : 's'}</span></a></li>`);
+  const all = DUA_CASES.flatMap(([k]) => byCase[k]);
+  write('en/duas/index.html', layout({ title: `Duas · ${SITE_NAME}`, rel: 'en/duas/', description: 'Authentic morning, evening and daily duas in Arabic, Malayalam and English, with their hadith references.', body: `<article class="prose duas">
+<h1>Duas for every occasion</h1>
+<p>${esc(data.subtitle || '')}</p>
+${note}
+<h2 id="cases">Choose a situation</h2>
+<ul class="dua-tiles">${tiles.join('\n')}</ul>
+<h2 id="references">References</h2>
+${data.scholars_note ? `<p class="dua-note">${esc(data.scholars_note)}</p>` : ''}
+${duaRefTable(all, (d) => url(d.case))}
+</article>` }));
+  for (const [k, name, sub] of DUA_CASES) {
+    const list = byCase[k];
+    if (!list.length) continue;
+    write(`en/duas/${k}/index.html`, layout({ title: `${name} · Duas · ${SITE_NAME}`, rel: `en/duas/${k}/`, description: sub, body: `<article class="prose duas">
+<p class="dua-back"><a href="${BASE}/en/duas/">All situations</a></p>
+<h1>${esc(name)}</h1>
+<p>${esc(sub)}.</p>
+<nav aria-label="Duas on this page"><ol class="dua-toc">${list.map((d) => `<li><a href="#${d.id}">${esc(d.title)}</a></li>`).join('')}</ol></nav>
+${list.map(duaCard).join('\n')}
+<h2 id="references">References</h2>
+${duaRefTable(list, () => '')}
+<p class="dua-back"><a href="${BASE}/en/duas/">All situations</a></p>
+</article>` }));
+  }
+  const unknown = Object.keys(byCase).filter((k) => !caseOf[k]);
+  if (unknown.length) throw new Error(`duas.json uses unknown case(s): ${unknown.join(', ')}`);
+}
+
 // The service worker sits at the top of the site so it can serve every page. Its version is a
 // fingerprint of everything built, so each publish makes browsers refresh their saved copies.
 function writeServiceWorker() {
-  const shell = ['en/', 'en/search/', 'en/bookmarks/', 'en/about/', 'en/offline/', 'search-index.json', 'manifest.webmanifest',
+  const shell = ['en/', ...(DUAS ? ['en/duas/'] : []), 'en/search/', 'en/bookmarks/', 'en/about/', 'en/offline/', 'search-index.json', 'manifest.webmanifest',
     ...fs.readdirSync(path.join(OUT, 'assets')).map((f) => `assets/${f}`)].map((p) => `${BASE}/${p}`);
   const hash = crypto.createHash('sha256');
   const files = (dir) => fs.readdirSync(dir, { withFileTypes: true }).flatMap((e) => (e.isDirectory() ? files(path.join(dir, e.name)) : [path.join(dir, e.name)]));
