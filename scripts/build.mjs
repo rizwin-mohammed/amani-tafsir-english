@@ -15,6 +15,9 @@ const PREVIEW = process.env.PREVIEW !== '0';
 
 const DUAS_FILE = path.join(ROOT, 'content/en/duas/duas.json');
 const DUAS = fs.existsSync(DUAS_FILE) ? JSON.parse(fs.readFileSync(DUAS_FILE, 'utf8')) : null;
+// Other languages for the duas (chapter 3 of Rizwin's collection), shown when the reader picks one.
+const DUA_TR_FILE = path.join(ROOT, 'content/en/duas/translations.json');
+const DUA_TR = fs.existsSync(DUA_TR_FILE) ? JSON.parse(fs.readFileSync(DUA_TR_FILE, 'utf8')) : { languages: [], tr: {}, notes: {} };
 const quran = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/quran-uthmani.json'), 'utf8'));
 
 const STATUS = {
@@ -449,9 +452,15 @@ const DUA_CASES = [
 
 function duaRefTable(list, linkBase) {
   const rows = list.map((d, i) => `<tr><td class="num">${i + 1}</td><td><a href="${linkBase(d)}#${d.id}">${esc(d.title)}</a></td><td>${esc(d.refs || '')}</td><td>${esc(d.grading || '')}</td></tr>`);
-  return `<div class="table-wrap"><table class="dua-refs">
+  return `<details class="dua-refs-box" open><summary>Show the references table (${list.length} dua${list.length === 1 ? '' : 's'})</summary><div class="table-wrap"><table class="dua-refs">
 <thead><tr><th scope="col">#</th><th scope="col">Dua</th><th scope="col">Reference</th><th scope="col">Grading</th></tr></thead>
-<tbody>${rows.join('\n')}</tbody></table></div>`;
+<tbody>${rows.join('\n')}</tbody></table></div></details>`;
+}
+
+function duaLangPicker() {
+  if (!DUA_TR.languages.length) return '';
+  const opts = DUA_TR.languages.map((l) => `<option value="${l.code}">${esc(l.name)}${l.native && l.native !== l.name ? ` (${esc(l.native)})` : ''}</option>`);
+  return `<div class="dua-lang"><label for="dua-lang">Language</label> <select id="dua-lang"><option value="">Malayalam and English</option>${opts.join('')}</select></div>`;
 }
 
 function duaCard(d) {
@@ -463,6 +472,13 @@ ${d.count ? `<p class="dua-count"><span class="visually-hidden">How many times a
 ${para(d.quran && d.quran.length ? 'dua-ar quran' : 'dua-ar', 'ar', d.arabic)}
 ${para('dua-ml ml', 'ml', d.ml)}
 ${para('dua-en', '', d.en)}
+${DUA_TR.languages.map((l) => {
+    const t = (DUA_TR.tr[d.id] || {})[l.code];
+    const n = ((DUA_TR.notes || {})[d.id] || {})[l.code];
+    return t
+      ? `<div class="dua-tr" data-lang="${l.code}" hidden><p lang="${l.code === 'pcm' ? 'en' : l.code}" dir="${l.dir || 'ltr'}">${doubt(esc(t))}</p>${n ? `<p class="dua-tr-note">${esc(n)}</p>` : ''}</div>`
+      : `<p class="dua-tr dua-tr-missing" data-lang="${l.code}" hidden>The collection gives no ${esc(l.name)} text for this dua.</p>`;
+  }).join('\n')}
 ${d.hadith_arabic ? `<p class="dua-hadith-label">The hadith:</p>${para('dua-ar dua-hadith', 'ar', d.hadith_arabic)}` : ''}
 ${d.benefit ? `<p class="dua-benefit"><strong>Benefit:</strong> ${esc(d.benefit)}</p>` : ''}
 <p class="dua-ref"><strong>Reference:</strong> ${esc(d.refs || '')}${d.grading ? ` <span class="dua-grade">(${esc(d.grading)})</span>` : ''}</p>
@@ -477,8 +493,9 @@ function buildDuas(data) {
   const note = `<p class="dua-note">This collection is a companion to this site; it is not part of Amani Moulavi's tafsir. Each dua shows its source and the grading given in the collection.</p>`;
   const tiles = DUA_CASES.filter(([k]) => byCase[k].length).map(([k, name, sub]) => `<li><a class="dua-tile" href="${url(k)}"><span class="dua-tile-name">${esc(name)}</span><span class="dua-tile-sub">${esc(sub)}</span><span class="dua-tile-n">${byCase[k].length} dua${byCase[k].length === 1 ? '' : 's'}</span></a></li>`);
   const all = DUA_CASES.flatMap(([k]) => byCase[k]);
-  write('en/duas/index.html', layout({ title: `Duas · ${SITE_NAME}`, rel: 'en/duas/', description: 'Authentic morning, evening and daily duas in Arabic, Malayalam and English, with their hadith references.', body: `<article class="prose duas">
+  write('en/duas/index.html', layout({ title: `Duas · ${SITE_NAME}`, rel: 'en/duas/', wide: true, description: 'Authentic morning, evening and daily duas in Arabic, Malayalam and English, with their hadith references.', body: `<article class="prose duas">
 <h1>Duas for every occasion</h1>
+${duaLangPicker()}
 <p>${esc(data.subtitle || '')}</p>
 ${note}
 <h2 id="cases">Choose a situation</h2>
@@ -490,12 +507,13 @@ ${duaRefTable(all, (d) => url(d.case))}
   for (const [k, name, sub] of DUA_CASES) {
     const list = byCase[k];
     if (!list.length) continue;
-    write(`en/duas/${k}/index.html`, layout({ title: `${name} · Duas · ${SITE_NAME}`, rel: `en/duas/${k}/`, description: sub, body: `<article class="prose duas">
+    write(`en/duas/${k}/index.html`, layout({ title: `${name} · Duas · ${SITE_NAME}`, rel: `en/duas/${k}/`, wide: true, description: sub, body: `<article class="prose duas">
 <p class="dua-back"><a href="${BASE}/en/duas/">All situations</a></p>
 <h1>${esc(name)}</h1>
+${duaLangPicker()}
 <p>${esc(sub)}.</p>
 <nav aria-label="Duas on this page"><ol class="dua-toc">${list.map((d) => `<li><a href="#${d.id}">${esc(d.title)}</a></li>`).join('')}</ol></nav>
-${list.map(duaCard).join('\n')}
+<div class="dua-grid">${list.map(duaCard).join('\n')}</div>
 <h2 id="references">References</h2>
 ${duaRefTable(list, () => '')}
 <p class="dua-back"><a href="${BASE}/en/duas/">All situations</a></p>
