@@ -449,3 +449,32 @@ table.dua-refs td.num { width: 2.5em; color: var(--muted); }
   table.dua-refs { font-size: calc(14px * var(--scale)); }
 }
 .dua-hadith-label { font-family: var(--sans); font-size: 0.9em; color: var(--muted); margin-bottom: 0; }
+
+/* Dua language picker. With another language picked, it replaces the Malayalam; English stays. */
+.dua-lang { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: 8px 0 18px; padding: 10px 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); font-family: var(--sans); }
+.dua-lang label { font-weight: 600; color: var(--heading); }
+.dua-lang select { font: inherit; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); color: var(--text); max-width: 100%; }
+.dua-lang-other .dua .dua-ml { display: none; }
+main .dua .dua-tr p { text-align: left; hyphens: none; line-height: 1.8; }
+main .dua .dua-tr p[dir="rtl"] { text-align: right; font-size: 1.1em; }
+.dua-tr-missing, .dua-tr-note { color: var(--muted); font-size: 0.92em; font-style: italic; }
+
+/* Dua pages use the full width: cards sit side by side on wide screens and stack on phones. */
+main.wide .duas { max-width: 1400px; margin: 0 auto; }
+.dua-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 520px), 1fr)); gap: 16px; align-items: start; margin: 16px 0 24px; }
+.dua-grid .dua { margin: 0; }
+.dua-tiles { grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr)); }
+.dua-toc { columns: 3 260px; }
+@media (max-width: 640px) {
+  .dua-grid { gap: 12px; }
+  .dua-tiles { grid-template-columns: 1fr 1fr; gap: 8px; }
+  .dua-tile { padding: 12px; }
+  .dua-tile-sub { display: none; }
+  .dua-toc { columns: 1; }
+  main .dua p.dua-ar { font-size: calc(1.25em * var(--ar-scale)); line-height: 2; }
+}
+.dua-tile-name, .dua-tile-n { text-align: left; hyphens: none; }
+.dua h2 { margin-bottom: 8px; }
+.dua-count { margin: 0 0 4px; }
+.dua-lang { display: inline-flex; }
+.dua-refs-box > summary { cursor: pointer; font-family: var(--sans); font-weight: 600; color: var(--accent); padding: 8px 0; }

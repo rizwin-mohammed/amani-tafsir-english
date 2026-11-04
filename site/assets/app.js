@@ -563,3 +563,32 @@ ${sw('showComm', 'Commentary')}
     run();
   }
 })();
+
+// Dua pages: the reader's language choice. Empty means the default, Malayalam and English.
+// The choice is remembered on this device and applied on every dua page.
+(function () {
+  var sel = document.getElementById('dua-lang');
+  if (!sel) return;
+  var KEY = 'amani-tafsir:dua-lang';
+  var saved = '';
+  try { saved = localStorage.getItem(KEY) || ''; } catch (e) {}
+  if (saved && !sel.querySelector('option[value="' + saved + '"]')) saved = '';
+  function apply(code) {
+    document.documentElement.classList.toggle('dua-lang-other', !!code);
+    Array.prototype.forEach.call(document.querySelectorAll('.dua-tr'), function (el) {
+      el.hidden = el.getAttribute('data-lang') !== code;
+    });
+  }
+  sel.value = saved;
+  apply(saved);
+  sel.addEventListener('change', function () {
+    try { if (sel.value) localStorage.setItem(KEY, sel.value); else localStorage.removeItem(KEY); } catch (e) {}
+    apply(sel.value);
+  });
+})();
+
+// On phones the dua references tables start folded, so the page stays short; a tap opens them.
+(function () {
+  if (window.innerWidth >= 700) return;
+  Array.prototype.forEach.call(document.querySelectorAll('details.dua-refs-box'), function (d) { d.open = false; });
+})();
