@@ -1,0 +1,916 @@
+{
+ "words": [
+  {
+   "verse": 69,
+   "ar": "وَدَّت",
+   "ml": "മോഹിക്കയാണ്",
+   "en": "are yearning"
+  },
+  {
+   "verse": 69,
+   "ar": "طَّآئِفَةٞ",
+   "ml": "ഒരു വിഭാഗം",
+   "en": "a section"
+  },
+  {
+   "verse": 69,
+   "ar": "مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ",
+   "ml": "വേദക്കാരിൽനിന്ന്",
+   "en": "from the People of the Scripture"
+  },
+  {
+   "verse": 69,
+   "ar": "لَوۡ يُضِلُّونَكُمۡ",
+   "ml": "അവർ നിങ്ങളെ വഴിപിഴപ്പിച്ചിരുന്നെങ്കിൽ (എന്ന്)",
+   "en": "if they had led you astray (thus)"
+  },
+  {
+   "verse": 69,
+   "ar": "وَمَا يُضِلُّونَ",
+   "ml": "അവർ വഴിപിഴപ്പിക്കുന്നുമില്ല (താനും)",
+   "en": "and they do not lead astray (moreover)"
+  },
+  {
+   "verse": 69,
+   "ar": "إِلَّآ أَنفُسَهُمۡ",
+   "ml": "തങ്ങളെത്തന്നെ (സ്വന്തങ്ങളെ)യല്ലാതെ",
+   "en": "except themselves indeed (their own selves)"
+  },
+  {
+   "verse": 69,
+   "ar": "وَمَا يَشۡعُرُونَ",
+   "ml": "അവർ ഗ്രഹിക്കുന്നുമില്ല, അവർക്ക് ബോധം വരുന്നുമില്ല",
+   "en": "nor do they perceive, nor does awareness come to them"
+  },
+  {
+   "verse": 70,
+   "ar": "يَـٰٓأَهۡلَ ٱلۡكِتَٰبِ",
+   "ml": "വേദക്കാരേ",
+   "en": "O People of the Scripture"
+  },
+  {
+   "verse": 70,
+   "ar": "لِمَ تَكۡفُرُونَ",
+   "ml": "എന്തിനാണ് നിങ്ങൾ അവിശ്വസിക്കുന്നത്",
+   "en": "why is it that you disbelieve"
+  },
+  {
+   "verse": 70,
+   "ar": "بِـَٔايَٰتِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ ആയത്ത് (ലക്ഷ്യം- ദൃഷ്ടാന്തം)കളിൽ",
+   "en": "in the ayah (evidence- sign)s of Allah"
+  },
+  {
+   "verse": 70,
+   "ar": "وَأَنتُمۡ",
+   "ml": "നിങ്ങളാകട്ടെ",
+   "en": "while you, for your part"
+  },
+  {
+   "verse": 70,
+   "ar": "تَشۡهَدُونَ",
+   "ml": "സാക്ഷ്യം വഹിക്കുന്നു (താനും)",
+   "en": "bear witness (moreover)"
+  },
+  {
+   "verse": 71,
+   "ar": "يَـٰٓأَهۡلَ ٱلۡكِتَٰبِ",
+   "ml": "വേദക്കാരേ",
+   "en": "O People of the Scripture"
+  },
+  {
+   "verse": 71,
+   "ar": "لِمَ تَلۡبِسُونَ",
+   "ml": "നിങ്ങൾ എന്തിനാണ് കൂട്ടിക്കലർത്തുന്നത്",
+   "en": "why is it that you mix together"
+  },
+  {
+   "verse": 71,
+   "ar": "ٱلۡحَقَّ",
+   "ml": "യഥാർത്ഥ (സത്യ)ത്തെ",
+   "en": "the real (the true)"
+  },
+  {
+   "verse": 71,
+   "ar": "بِٱلۡبَٰطِلِ",
+   "ml": "അയഥാർത്ഥത്തോട്",
+   "en": "with the unreal"
+  },
+  {
+   "verse": 71,
+   "ar": "وَتَكۡتُمُونَ",
+   "ml": "നിങ്ങൾ ഒളിച്ചു (മൂടി)വെക്കുകയും ചെയ്യുന്നു",
+   "en": "and you conceal (cover up)"
+  },
+  {
+   "verse": 71,
+   "ar": "ٱلۡحَقَّ",
+   "ml": "യഥാർത്ഥത്തെ",
+   "en": "the real"
+  },
+  {
+   "verse": 71,
+   "ar": "وَأَنتُمۡ",
+   "ml": "നിങ്ങളാവട്ടെ",
+   "en": "while you, for your part"
+  },
+  {
+   "verse": 71,
+   "ar": "تَعۡلَمُونَ",
+   "ml": "അറിയുന്നു (താനും)",
+   "en": "know (moreover)"
+  },
+  {
+   "verse": 72,
+   "ar": "وَقَالَت",
+   "ml": "പറയുകയും ചെയ്തു, പറയുകയാണ്",
+   "en": "and said, are saying"
+  },
+  {
+   "verse": 72,
+   "ar": "طَّآئِفَةٞ",
+   "ml": "ഒരു വിഭാഗം",
+   "en": "a section"
+  },
+  {
+   "verse": 72,
+   "ar": "مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ",
+   "ml": "വേദക്കാരിൽ നിന്ന്",
+   "en": "from the People of the Scripture"
+  },
+  {
+   "verse": 72,
+   "ar": "ءَامِنُواْ",
+   "ml": "നിങ്ങൾ വിശ്വസിക്കുവിൻ",
+   "en": "believe"
+  },
+  {
+   "verse": 72,
+   "ar": "بِٱلَّذِيٓ أُنزِلَ",
+   "ml": "ഇറക്കപ്പെട്ടതിൽ",
+   "en": "in what has been brought down"
+  },
+  {
+   "verse": 72,
+   "ar": "عَلَى ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവർക്ക്",
+   "en": "to those who have believed"
+  },
+  {
+   "verse": 72,
+   "ar": "وَجۡهَ ٱلنَّهَارِ",
+   "ml": "പകലിന്റെ മുഖത്ത് (മുമ്പിൽ- ആരംഭത്തിൽ)",
+   "en": "at the face of the day (at the front- at the beginning)"
+  },
+  {
+   "verse": 72,
+   "ar": "وَٱكۡفُرُوٓاْ",
+   "ml": "നിങ്ങൾ അവിശ്വസിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and disbelieve"
+  },
+  {
+   "verse": 72,
+   "ar": "ءَاخِرَهُۥ",
+   "ml": "അതിന്റെ അവസാനം",
+   "en": "its end"
+  },
+  {
+   "verse": 72,
+   "ar": "لَعَلَّهُمۡ",
+   "ml": "അവരായേക്കാം, ആകുവാൻ വേണ്ടി",
+   "en": "they may be, in order that they may be"
+  },
+  {
+   "verse": 72,
+   "ar": "يَرۡجِعُونَ",
+   "ml": "അവർ മടങ്ങുക",
+   "en": "they return"
+  },
+  {
+   "verse": 73,
+   "ar": "وَلَا تُؤۡمِنُوٓاْ",
+   "ml": "നിങ്ങൾ വിശ്വസിക്കുകയും ചെയ്യരുത്",
+   "en": "and do not believe either"
+  },
+  {
+   "verse": 73,
+   "ar": "إِلَّا لِمَن",
+   "ml": "യാതൊരുവരെയല്ലാതെ",
+   "en": "except those who"
+  },
+  {
+   "verse": 73,
+   "ar": "تَبِعَ",
+   "ml": "തുടർന്ന്",
+   "en": "followed"
+  },
+  {
+   "verse": 73,
+   "ar": "دِينَكُمۡ",
+   "ml": "നിങ്ങളുടെ മതത്തെ",
+   "en": "your religion"
+  },
+  {
+   "verse": 73,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "say"
+  },
+  {
+   "verse": 73,
+   "ar": "إِنَّ ٱلۡهُدَىٰ",
+   "ml": "നിശ്ചയമായും മാർഗദർശനം, വഴിചേർക്കൽ",
+   "en": "surely guidance, guiding"
+  },
+  {
+   "verse": 73,
+   "ar": "هُدَى ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ മാർഗദർശനമാണ്, വഴിചേർക്കലത്രെ",
+   "en": "is the guidance of Allah, is indeed the guiding of Allah"
+  },
+  {
+   "verse": 73,
+   "ar": "أَن يُؤۡتَىٰٓ",
+   "ml": "നൽകപ്പെടുന്നതിനാൽ",
+   "en": "because … is given"
+  },
+  {
+   "verse": 73,
+   "ar": "أَحَدٞ",
+   "ml": "വല്ല ഒരാൾക്കും",
+   "en": "any one"
+  },
+  {
+   "verse": 73,
+   "ar": "مِّثۡلَ مَآ",
+   "ml": "യാതൊന്നുപോലെ",
+   "en": "like that which"
+  },
+  {
+   "verse": 73,
+   "ar": "أُوتِيتُمۡ",
+   "ml": "അത് നിങ്ങൾക്ക് നൽകപ്പെട്ടു",
+   "en": "it has been given to you"
+  },
+  {
+   "verse": 73,
+   "ar": "أَوۡ يُحَآجُّوكُمۡ",
+   "ml": "അല്ലെങ്കിൽ അവർ നിങ്ങളോട് ന്യായവാദം നടത്തുന്നതിനാൽ",
+   "en": "or because they carry on argument with you"
+  },
+  {
+   "verse": 73,
+   "ar": "عِندَ رَبِّكُمۡ",
+   "ml": "നിങ്ങളുടെ റബ്ബിന്റെ അടുക്കൽ",
+   "en": "in the presence of your Rabb"
+  },
+  {
+   "verse": 73,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "say"
+  },
+  {
+   "verse": 73,
+   "ar": "إِنَّ ٱلۡفَضۡلَ",
+   "ml": "നിശ്ചയമായും അനുഗ്രഹം",
+   "en": "surely the favour"
+  },
+  {
+   "verse": 73,
+   "ar": "بِيَدِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ കയ്യിലാണ്",
+   "en": "is in the hand of Allah"
+  },
+  {
+   "verse": 73,
+   "ar": "يُؤۡتِيهِ",
+   "ml": "അതവൻ നൽകുന്നു",
+   "en": "He gives it"
+  },
+  {
+   "verse": 73,
+   "ar": "مَن يَشَآءُ",
+   "ml": "അവൻ ഉദ്ദേശിക്കുന്നവർക്ക്",
+   "en": "to those whom He intends"
+  },
+  {
+   "verse": 73,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 73,
+   "ar": "وَٰسِعٌ",
+   "ml": "വിശാലനാകുന്നു",
+   "en": "is Vast"
+  },
+  {
+   "verse": 73,
+   "ar": "عَلِيمٞ",
+   "ml": "അറിയുന്നവനാണ്",
+   "en": "is One who knows"
+  },
+  {
+   "verse": 74,
+   "ar": "يَخۡتَصُّ",
+   "ml": "അവൻ പ്രത്യേകപ്പെടുത്തുന്നു",
+   "en": "He singles out"
+  },
+  {
+   "verse": 74,
+   "ar": "بِرَحۡمَتِهِۦ",
+   "ml": "തന്റെ കാരുണ്യംകൊണ്ട്, കാരുണ്യത്തെ",
+   "en": "with His mercy, His mercy"
+  },
+  {
+   "verse": 74,
+   "ar": "مَن يَشَآءُ",
+   "ml": "അവൻ ഉദ്ദേശിക്കുന്നവരെ, ഉദ്ദേശിക്കുന്നവർക്ക്",
+   "en": "those whom He intends, for those whom He intends"
+  },
+  {
+   "verse": 74,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹുവാകട്ടെ",
+   "en": "as for Allah"
+  },
+  {
+   "verse": 74,
+   "ar": "ذُو ٱلۡفَضۡلِ",
+   "ml": "അനുഗ്രഹം ഉള്ളവനാണ്",
+   "en": "is One who has favour"
+  },
+  {
+   "verse": 74,
+   "ar": "ٱلۡعَظِيمِ",
+   "ml": "മഹത്തായ",
+   "en": "great"
+  },
+  {
+   "verse": 75,
+   "ar": "وَمِنۡ أَهۡلِ ٱلۡكِتَٰبِ",
+   "ml": "വേദക്കാരിലുണ്ട്",
+   "en": "among the People of the Scripture there are"
+  },
+  {
+   "verse": 75,
+   "ar": "مَنۡ",
+   "ml": "ചിലർ, യാതൊരുവൻ",
+   "en": "some, one who"
+  },
+  {
+   "verse": 75,
+   "ar": "إِن تَأۡمَنۡهُ",
+   "ml": "അവരെ (അവനെ) നീ വിശ്വസിച്ചാൽ",
+   "en": "if you trust them (him)"
+  },
+  {
+   "verse": 75,
+   "ar": "بِقِنطَارٖ",
+   "ml": "ഒരു ക്വിൻത്വാറിനെ (കൂമ്പാരത്തെ) സംബന്ധിച്ച്",
+   "en": "concerning a qintar (heap)"
+  },
+  {
+   "verse": 75,
+   "ar": "يُؤَدِّهِۦٓ",
+   "ml": "അതവർ (അവൻ) വീട്ടിത്തരും",
+   "en": "they (he) will repay it"
+  },
+  {
+   "verse": 75,
+   "ar": "إِلَيۡكَ",
+   "ml": "നിനക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 75,
+   "ar": "وَمِنۡهُم",
+   "ml": "അവരിലുണ്ട്",
+   "en": "among them there are"
+  },
+  {
+   "verse": 75,
+   "ar": "مَّنۡ",
+   "ml": "ചിലർ, യാതൊരുവൻ",
+   "en": "some, one who"
+  },
+  {
+   "verse": 75,
+   "ar": "إِن تَأۡمَنۡهُ",
+   "ml": "അവരെ (അവനെ) നീ വിശ്വസിച്ചാൽ",
+   "en": "if you trust them (him)"
+  },
+  {
+   "verse": 75,
+   "ar": "بِدِينَارٖ",
+   "ml": "ഒരു ദീനാറിനെ (പൊൻപണത്തെ)പ്പറ്റി",
+   "en": "about a dinar (gold coin)"
+  },
+  {
+   "verse": 75,
+   "ar": "لَّا يُؤَدِّهِۦٓ",
+   "ml": "അതവർ (അവൻ) വീട്ടുകയില്ല",
+   "en": "they (he) will not repay it"
+  },
+  {
+   "verse": 75,
+   "ar": "إِلَيۡكَ",
+   "ml": "നിനക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 75,
+   "ar": "إِلَّا مَا دُمۡتَ",
+   "ml": "നീ ആയിക്കൊണ്ടിരുന്നാലല്ലാതെ",
+   "en": "unless you continue to be"
+  },
+  {
+   "verse": 75,
+   "ar": "عَلَيۡهِ",
+   "ml": "അവന്റെ മേൽ (അവരിൽ)",
+   "en": "over him (over them)"
+  },
+  {
+   "verse": 75,
+   "ar": "قَآئِمٗا",
+   "ml": "നിലകൊള്ളുന്നവൻ",
+   "en": "one who stands"
+  },
+  {
+   "verse": 75,
+   "ar": "ذَٰلِكَ",
+   "ml": "അത്",
+   "en": "that"
+  },
+  {
+   "verse": 75,
+   "ar": "بِأَنَّهُمۡ قَالُواْ",
+   "ml": "അവർ പറയുന്നത് നിമിത്തമാണ്",
+   "en": "is because of their saying"
+  },
+  {
+   "verse": 75,
+   "ar": "لَيۡسَ عَلَيۡنَا",
+   "ml": "ഞങ്ങളുടെ മേൽ ഇല്ല",
+   "en": "there is not upon us"
+  },
+  {
+   "verse": 75,
+   "ar": "فِي ٱلۡأُمِّيِّـۧنَ",
+   "ml": "നിരക്ഷരജ്ഞരിൽ",
+   "en": "in the unlettered"
+  },
+  {
+   "verse": 75,
+   "ar": "سَبِيلٞ",
+   "ml": "ഒരു മാർഗവും",
+   "en": "any way"
+  },
+  {
+   "verse": 75,
+   "ar": "وَيَقُولُونَ",
+   "ml": "അവർ പറയുകയും ചെയ്യുന്നു",
+   "en": "and they say"
+  },
+  {
+   "verse": 75,
+   "ar": "عَلَى ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ പേരിൽ",
+   "en": "in the name of Allah"
+  },
+  {
+   "verse": 75,
+   "ar": "ٱلۡكَذِبَ",
+   "ml": "വ്യാജം",
+   "en": "lies"
+  },
+  {
+   "verse": 75,
+   "ar": "وَهُمۡ يَعۡلَمُونَ",
+   "ml": "അവർ അറിഞ്ഞുകൊണ്ട്",
+   "en": "they, knowingly"
+  },
+  {
+   "verse": 76,
+   "ar": "بَلَىٰ",
+   "ml": "അങ്ങനെയല്ല",
+   "en": "not so"
+  },
+  {
+   "verse": 76,
+   "ar": "مَنۡ أَوۡفَىٰ",
+   "ml": "ആർ നിറവേറ്റിയോ",
+   "en": "whoever has fulfilled"
+  },
+  {
+   "verse": 76,
+   "ar": "بِعَهۡدِهِۦ",
+   "ml": "തന്റെ കരാർ, ഉടമ്പടി",
+   "en": "his pact, covenant"
+  },
+  {
+   "verse": 76,
+   "ar": "وَٱتَّقَىٰ",
+   "ml": "സൂക്ഷിക്കുകയും ചെയ്തു",
+   "en": "and has guarded"
+  },
+  {
+   "verse": 76,
+   "ar": "فَإِنَّ ٱللَّهَ",
+   "ml": "എന്നാൽ നിശ്ചയമായും അല്ലാഹു",
+   "en": "then surely Allah"
+  },
+  {
+   "verse": 76,
+   "ar": "يُحِبُّ",
+   "ml": "സ്നേഹിക്കും, ഇഷ്ടപ്പെടുന്നു",
+   "en": "will love, likes"
+  },
+  {
+   "verse": 76,
+   "ar": "ٱلۡمُتَّقِينَ",
+   "ml": "സൂക്ഷ്മത പാലിക്കുന്നവരെ",
+   "en": "those who observe caution"
+  },
+  {
+   "verse": 77,
+   "ar": "إِنَّ ٱلَّذِينَ يَشۡتَرُونَ",
+   "ml": "നിശ്ചയമായും വാങ്ങുന്നവർ",
+   "en": "surely those who take"
+  },
+  {
+   "verse": 77,
+   "ar": "بِعَهۡدِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിനോടുള്ള കരാറിന്",
+   "en": "for the pact with Allah"
+  },
+  {
+   "verse": 77,
+   "ar": "وَأَيۡمَٰنِهِمۡ",
+   "ml": "തങ്ങളുടെ സത്യ (ശപഥ)ങ്ങൾക്കും",
+   "en": "and for their oaths (solemn oaths)"
+  },
+  {
+   "verse": 77,
+   "ar": "ثَمَنٗا قَلِيلًا",
+   "ml": "തുച്ഛ വില",
+   "en": "a paltry price"
+  },
+  {
+   "verse": 77,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those people"
+  },
+  {
+   "verse": 77,
+   "ar": "لَا خَلَٰقَ",
+   "ml": "ഓഹരിയില്ല",
+   "en": "there is no share"
+  },
+  {
+   "verse": 77,
+   "ar": "لَهُمۡ",
+   "ml": "അവർക്ക്",
+   "en": "for them"
+  },
+  {
+   "verse": 77,
+   "ar": "فِي ٱلۡأٓخِرَةِ",
+   "ml": "പരലോകത്തിൽ",
+   "en": "in the Hereafter"
+  },
+  {
+   "verse": 77,
+   "ar": "وَلَا يُكَلِّمُهُمُ ٱللَّهُ",
+   "ml": "അല്ലാഹു അവരോട് സംസാരിക്കയുമില്ല",
+   "en": "nor will Allah speak to them"
+  },
+  {
+   "verse": 77,
+   "ar": "وَلَا يَنظُرُ",
+   "ml": "നോക്കുകയുമില്ല",
+   "en": "nor will He look"
+  },
+  {
+   "verse": 77,
+   "ar": "إِلَيۡهِمۡ",
+   "ml": "അവരുടെനേരെ",
+   "en": "toward them"
+  },
+  {
+   "verse": 77,
+   "ar": "يَوۡمَ ٱلۡقِيَٰمَةِ",
+   "ml": "ക്വിയാമത്തുനാളിൽ",
+   "en": "on the Day of Qiyamah"
+  },
+  {
+   "verse": 77,
+   "ar": "وَلَا يُزَكِّيهِمۡ",
+   "ml": "അവരെ സംസ്ക്കരിക്കയുമില്ല",
+   "en": "nor will He refine them"
+  },
+  {
+   "verse": 77,
+   "ar": "وَلَهُمۡ",
+   "ml": "അവർക്കുണ്ടുതാനും",
+   "en": "and for them there is, moreover"
+  },
+  {
+   "verse": 77,
+   "ar": "عَذَابٌ",
+   "ml": "ശിക്ഷ",
+   "en": "a punishment"
+  },
+  {
+   "verse": 77,
+   "ar": "أَلِيمٞ",
+   "ml": "വേദനയേറിയ",
+   "en": "painful"
+  },
+  {
+   "verse": 78,
+   "ar": "وَإِنَّ مِنۡهُمۡ",
+   "ml": "നിശ്ചയമായും അവരിലുണ്ട്",
+   "en": "surely among them there is"
+  },
+  {
+   "verse": 78,
+   "ar": "لَفَرِيقٗا",
+   "ml": "ഒരു കക്ഷി (സംഘം- വിഭാഗം) തന്നെ",
+   "en": "a party (band- section) indeed"
+  },
+  {
+   "verse": 78,
+   "ar": "يَلۡوُۥنَ",
+   "ml": "അവർ വളച്ച് തിരിക്കും, ചുരുട്ടുന്നു",
+   "en": "they will twist, they curl"
+  },
+  {
+   "verse": 78,
+   "ar": "أَلۡسِنَتَهُم",
+   "ml": "അവരുടെ നാവുകളെ",
+   "en": "their tongues"
+  },
+  {
+   "verse": 78,
+   "ar": "بِٱلۡكِتَٰبِ",
+   "ml": "വേദഗ്രന്ഥത്തിൽ, ഗ്രന്ഥത്തെ സംബന്ധിച്ച്",
+   "en": "in the scripture, concerning the book"
+  },
+  {
+   "verse": 78,
+   "ar": "لِتَحۡسَبُوهُ",
+   "ml": "നിങ്ങളതിനെ ഗണിക്കു(വിചാരിക്കു)വാൻ വേണ്ടി",
+   "en": "in order that you may deem (think) it"
+  },
+  {
+   "verse": 78,
+   "ar": "مِنَ ٱلۡكِتَٰبِ",
+   "ml": "വേദഗ്രന്ഥത്തിൽ പെട്ടതായി",
+   "en": "as belonging to the scripture"
+  },
+  {
+   "verse": 78,
+   "ar": "وَمَا هُوَ",
+   "ml": "അതല്ലതാനും",
+   "en": "and it is not, moreover"
+  },
+  {
+   "verse": 78,
+   "ar": "مِنَ ٱلۡكِتَٰبِ",
+   "ml": "വേദഗ്രന്ഥത്തിൽ പെട്ടത്",
+   "en": "belonging to the scripture"
+  },
+  {
+   "verse": 78,
+   "ar": "وَيَقُولُونَ",
+   "ml": "അവർ പറയുകയും ചെയ്യും",
+   "en": "and they will say"
+  },
+  {
+   "verse": 78,
+   "ar": "هُوَ",
+   "ml": "അത്",
+   "en": "it"
+  },
+  {
+   "verse": 78,
+   "ar": "مِنۡ عِندِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ പക്കൽ നിന്നുള്ളതാണ് (എന്ന്)",
+   "en": "is from Allah's side (thus)"
+  },
+  {
+   "verse": 78,
+   "ar": "وَمَا هُوَ",
+   "ml": "അതല്ല താനും",
+   "en": "and it is not, moreover"
+  },
+  {
+   "verse": 78,
+   "ar": "مِنۡ عِندِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ പക്കൽനിന്ന്",
+   "en": "from Allah's side"
+  },
+  {
+   "verse": 78,
+   "ar": "وَيَقُولُونَ",
+   "ml": "അവർ പറയുകയും ചെയ്യും",
+   "en": "and they will say"
+  },
+  {
+   "verse": 78,
+   "ar": "عَلَى ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ പേരിൽ",
+   "en": "in the name of Allah"
+  },
+  {
+   "verse": 78,
+   "ar": "ٱلۡكَذِبَ",
+   "ml": "വ്യാജം, അസത്യം",
+   "en": "lies, untruth"
+  },
+  {
+   "verse": 78,
+   "ar": "وَهُمۡ يَعۡلَمُونَ",
+   "ml": "അവർ അറിഞ്ഞുകൊണ്ട്.",
+   "en": "they, knowingly."
+  },
+  {
+   "verse": 79,
+   "ar": "مَا كَانَ",
+   "ml": "ഉണ്ടാവുകയില്ല, ഉണ്ടാകാവതല്ല",
+   "en": "there will not be, it is not fit to be"
+  },
+  {
+   "verse": 79,
+   "ar": "لِبَشَرٍ",
+   "ml": "ഒരു മനുഷ്യനും",
+   "en": "for any human being"
+  },
+  {
+   "verse": 79,
+   "ar": "أَن يُؤۡتِيَهُ",
+   "ml": "അവന് നൽകുക",
+   "en": "that … gives him"
+  },
+  {
+   "verse": 79,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 79,
+   "ar": "ٱلۡكِتَٰبَ",
+   "ml": "ഗ്രന്ഥം",
+   "en": "the book"
+  },
+  {
+   "verse": 79,
+   "ar": "وَٱلۡحُكۡمَ",
+   "ml": "വിജ്ഞാനവും, വിധിയും (അധികാരവും)",
+   "en": "and wisdom, and judgement (and authority)"
+  },
+  {
+   "verse": 79,
+   "ar": "وَٱلنُّبُوَّةَ",
+   "ml": "പ്രവാചകത്വവും",
+   "en": "and prophethood"
+  },
+  {
+   "verse": 79,
+   "ar": "ثُمَّ يَقُولَ",
+   "ml": "പിന്നീട് അദ്ദേഹം പറയുക",
+   "en": "then that he says"
+  },
+  {
+   "verse": 79,
+   "ar": "لِلنَّاسِ",
+   "ml": "മനുഷ്യരോട്",
+   "en": "to mankind"
+  },
+  {
+   "verse": 79,
+   "ar": "كُونُواْ",
+   "ml": "നിങ്ങളായിരിക്കുവിൻ",
+   "en": "be"
+  },
+  {
+   "verse": 79,
+   "ar": "عِبَادٗا لِّي",
+   "ml": "എനിക്ക് (എന്റെ) അടിയാൻമാർ",
+   "en": "servants to me (my)"
+  },
+  {
+   "verse": 79,
+   "ar": "مِن دُونِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിനെ കൂടാതെ (അല്ലാഹുവിന്നല്ലാതെ)",
+   "en": "apart from Allah (other than to Allah)"
+  },
+  {
+   "verse": 79,
+   "ar": "وَلَٰكِن",
+   "ml": "എങ്കിലും (പറയും)",
+   "en": "but (he will say)"
+  },
+  {
+   "verse": 79,
+   "ar": "كُونُواْ",
+   "ml": "നിങ്ങളായിരിക്കുവിൻ",
+   "en": "be"
+  },
+  {
+   "verse": 79,
+   "ar": "رَبَّـٰنِيِّـۧنَ",
+   "ml": "റബ്ബാനികൾ",
+   "en": "Rabbanis"
+  },
+  {
+   "verse": 79,
+   "ar": "بِمَا كُنتُمۡ",
+   "ml": "നിങ്ങളായിരിക്കുന്നതുകൊണ്ട്",
+   "en": "because you have been"
+  },
+  {
+   "verse": 79,
+   "ar": "تُعَلِّمُونَ",
+   "ml": "നിങ്ങൾ പഠിപ്പിച്ചുകൊണ്ടിരിക്കുന്നു",
+   "en": "you keep teaching"
+  },
+  {
+   "verse": 79,
+   "ar": "ٱلۡكِتَٰبَ",
+   "ml": "വേദഗ്രന്ഥം",
+   "en": "the scripture"
+  },
+  {
+   "verse": 79,
+   "ar": "وَبِمَا كُنتُمۡ",
+   "ml": "നിങ്ങളായിരിക്കുന്നതുകൊണ്ടും",
+   "en": "and because you have been"
+  },
+  {
+   "verse": 79,
+   "ar": "تَدۡرُسُونَ",
+   "ml": "പഠിച്ചുകൊണ്ടിരിക്കുന്നു",
+   "en": "keep studying"
+  },
+  {
+   "verse": 80,
+   "ar": "وَلَا يَأۡمُرَكُمۡ",
+   "ml": "അദ്ദേഹം നിങ്ങളോട് കൽപിക്കുകയും (ഉണ്ടാകുക) ഇല്ല",
+   "en": "that he commands you will not (come about) either"
+  },
+  {
+   "verse": 80,
+   "ar": "أَن تَتَّخِذُواْ",
+   "ml": "നിങ്ങൾ സ്വീകരിക്കുവാൻ",
+   "en": "for you to take"
+  },
+  {
+   "verse": 80,
+   "ar": "ٱلۡمَلَـٰٓئِكَةَ",
+   "ml": "മലക്കുകളെ",
+   "en": "the angels"
+  },
+  {
+   "verse": 80,
+   "ar": "وَٱلنَّبِيِّـۧنَ",
+   "ml": "നബിമാരെയും",
+   "en": "and the prophets"
+  },
+  {
+   "verse": 80,
+   "ar": "أَرۡبَابًا",
+   "ml": "റബ്ബുകളായി",
+   "en": "as Rabbs"
+  },
+  {
+   "verse": 80,
+   "ar": "أَيَأۡمُرُكُم",
+   "ml": "അദ്ദേഹം നിങ്ങളോട് കൽപിക്കുകയോ",
+   "en": "will he command you"
+  },
+  {
+   "verse": 80,
+   "ar": "بِٱلۡكُفۡرِ",
+   "ml": "അവിശ്വാസത്തിന്",
+   "en": "to disbelief"
+  },
+  {
+   "verse": 80,
+   "ar": "بَعۡدَ إِذۡ أَنتُم",
+   "ml": "നിങ്ങൾ ആയതിനുശേഷം",
+   "en": "after you have become"
+  },
+  {
+   "verse": 80,
+   "ar": "مُّسۡلِمُونَ",
+   "ml": "മുസ്‌ലിംകൾ (കീഴൊതുങ്ങിയവർ)",
+   "en": "Muslims (those who have become submissive)"
+  }
+ ]
+}
