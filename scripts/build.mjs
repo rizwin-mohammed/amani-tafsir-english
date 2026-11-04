@@ -471,14 +471,13 @@ function duaCard(d) {
 ${d.count ? `<p class="dua-count"><span class="visually-hidden">How many times and when: </span>${esc(d.count)}</p>` : ''}
 ${para(d.quran && d.quran.length ? 'dua-ar quran' : 'dua-ar', 'ar', d.arabic)}
 ${para('dua-ml ml', 'ml', d.ml)}
-${para('dua-en', '', d.en)}
 ${DUA_TR.languages.map((l) => {
     const t = (DUA_TR.tr[d.id] || {})[l.code];
-    const n = ((DUA_TR.notes || {})[d.id] || {})[l.code];
     return t
-      ? `<div class="dua-tr" data-lang="${l.code}" hidden><p lang="${l.code === 'pcm' ? 'en' : l.code}" dir="${l.dir || 'ltr'}">${doubt(esc(t))}</p>${n ? `<p class="dua-tr-note">${esc(n)}</p>` : ''}</div>`
+      ? `<div class="dua-tr" data-lang="${l.code}" hidden><p lang="${l.code === 'pcm' ? 'en' : l.code}" dir="${l.dir || 'ltr'}">${doubt(esc(t))}</p></div>`
       : `<p class="dua-tr dua-tr-missing" data-lang="${l.code}" hidden>The collection gives no ${esc(l.name)} text for this dua.</p>`;
   }).join('\n')}
+${para('dua-en', '', d.en)}
 ${d.hadith_arabic ? `<p class="dua-hadith-label">The hadith:</p>${para('dua-ar dua-hadith', 'ar', d.hadith_arabic)}` : ''}
 ${d.benefit ? `<p class="dua-benefit"><strong>Benefit:</strong> ${esc(d.benefit)}</p>` : ''}
 <p class="dua-ref"><strong>Reference:</strong> ${esc(d.refs || '')}${d.grading ? ` <span class="dua-grade">(${esc(d.grading)})</span>` : ''}</p>
