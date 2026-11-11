@@ -1,0 +1,616 @@
+{
+ "words": [
+  {
+   "verse": 126,
+   "ar": "وَمَا جَعَلَهُ",
+   "ml": "അതിനെ ആക്കിയിട്ടില്ല",
+   "en": "has not made it"
+  },
+  {
+   "verse": 126,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 126,
+   "ar": "إِلَّا بُشۡرَىٰ",
+   "ml": "ഒരു സന്തോഷവാർത്തയല്ലാതെ",
+   "en": "except as good news"
+  },
+  {
+   "verse": 126,
+   "ar": "لَكُمۡ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "for you"
+  },
+  {
+   "verse": 126,
+   "ar": "وَلِتَطۡمَئِنَّ",
+   "ml": "സമാധാനമടയുവാൻ വേണ്ടിയും",
+   "en": "and in order to become at peace"
+  },
+  {
+   "verse": 126,
+   "ar": "قُلُوبُكُم",
+   "ml": "നിങ്ങളുടെ ഹൃദയങ്ങൾ",
+   "en": "your hearts"
+  },
+  {
+   "verse": 126,
+   "ar": "بِهِۦ",
+   "ml": "അതുകൊണ്ട്",
+   "en": "by it"
+  },
+  {
+   "verse": 126,
+   "ar": "وَمَا ٱلنَّصۡرُ",
+   "ml": "സഹായം അല്ല താനും",
+   "en": "help is not, moreover"
+  },
+  {
+   "verse": 126,
+   "ar": "إِلَّا مِنۡ عِندِ",
+   "ml": "പക്കൽ നിന്നല്ലാതെ",
+   "en": "except from the side of"
+  },
+  {
+   "verse": 126,
+   "ar": "ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ",
+   "en": "of Allah"
+  },
+  {
+   "verse": 126,
+   "ar": "ٱلۡعَزِيزِ",
+   "ml": "പ്രതാപശാലിയായ",
+   "en": "who is the Majestic"
+  },
+  {
+   "verse": 126,
+   "ar": "ٱلۡحَكِيمِ",
+   "ml": "അഗാധജ്ഞനായ, യുക്തിമാനായ",
+   "en": "who is the Profoundly Knowing, who is the Sagacious"
+  },
+  {
+   "verse": 127,
+   "ar": "لِيَقۡطَعَ",
+   "ml": "മുറിച്ച് കളയുവാൻ വേണ്ടി",
+   "en": "in order to cut off"
+  },
+  {
+   "verse": 127,
+   "ar": "طَرَفٗا",
+   "ml": "ഒരു ഭാഗം, ഒരു തലപ്പ്",
+   "en": "a part, an end"
+  },
+  {
+   "verse": 127,
+   "ar": "مِّنَ ٱلَّذِينَ كَفَرُوٓاْ",
+   "ml": "അവിശ്വസിച്ചവരിൽ നിന്ന്",
+   "en": "from among those who have disbelieved"
+  },
+  {
+   "verse": 127,
+   "ar": "أَوۡ يَكۡبِتَهُمۡ",
+   "ml": "അല്ലെങ്കിൽ അവരെ അപമാനപ്പെടുത്തുക",
+   "en": "or to disgrace them"
+  },
+  {
+   "verse": 127,
+   "ar": "فَيَنقَلِبُواْ",
+   "ml": "എന്നിട്ട് അവർ തിരിഞ്ഞുപോകുകയും",
+   "en": "and then that they turn back"
+  },
+  {
+   "verse": 127,
+   "ar": "خَآئِبِينَ",
+   "ml": "നിരാശരായി, അപമാനമടഞ്ഞവരായി",
+   "en": "despairing, as ones who have met with disgrace"
+  },
+  {
+   "verse": 128,
+   "ar": "لَيۡسَ لَكَ",
+   "ml": "നിനക്കില്ല",
+   "en": "you have not"
+  },
+  {
+   "verse": 128,
+   "ar": "مِنَ ٱلۡأَمۡرِ",
+   "ml": "കാര്യത്തിൽ നിന്ന്, അധികാരത്തിൽ നിന്ന്",
+   "en": "of the matter, of the authority"
+  },
+  {
+   "verse": 128,
+   "ar": "شَيۡءٌ",
+   "ml": "യാതൊന്നും",
+   "en": "anything at all"
+  },
+  {
+   "verse": 128,
+   "ar": "أَوۡ",
+   "ml": "അല്ലെങ്കിൽ (ഒരു പക്ഷേ)",
+   "en": "or (perhaps)"
+  },
+  {
+   "verse": 128,
+   "ar": "يَتُوبَ",
+   "ml": "അവൻ പശ്ചാത്താപം (മടക്കം) സ്വീകരിക്കുക (ഉണ്ടാവാം)",
+   "en": "He accepting repentance (turning back) (may happen)"
+  },
+  {
+   "verse": 128,
+   "ar": "عَلَيۡهِمۡ",
+   "ml": "അവർക്ക്",
+   "en": "for them"
+  },
+  {
+   "verse": 128,
+   "ar": "أَوۡ يُعَذِّبَهُمۡ",
+   "ml": "അല്ലെങ്കിൽ അവരെ ശിക്ഷിക്കുകയും (ആവാം)",
+   "en": "or else punishing them (may be)"
+  },
+  {
+   "verse": 128,
+   "ar": "فَإِنَّهُمۡ",
+   "ml": "കാരണം നിശ്ചയമായും അവർ",
+   "en": "because surely they"
+  },
+  {
+   "verse": 128,
+   "ar": "ظَٰلِمُونَ",
+   "ml": "അക്രമികളാകുന്നു.",
+   "en": "are wrongdoers."
+  },
+  {
+   "verse": 129,
+   "ar": "وَلِلَّهِ",
+   "ml": "അല്ലാഹുവിനാണ്",
+   "en": "is Allah's"
+  },
+  {
+   "verse": 129,
+   "ar": "مَا فِي ٱلسَّمَٰوَٰتِ",
+   "ml": "ആകാശങ്ങളിലുള്ളത്",
+   "en": "what is in the heavens"
+  },
+  {
+   "verse": 129,
+   "ar": "وَمَا فِي ٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയിലുള്ളത്",
+   "en": "what is in the earth"
+  },
+  {
+   "verse": 129,
+   "ar": "يَغۡفِرُ",
+   "ml": "അവൻ പൊറുക്കും",
+   "en": "He will forgive"
+  },
+  {
+   "verse": 129,
+   "ar": "لِمَن يَشَآءُ",
+   "ml": "അവൻ ഉദ്ദേശിക്കുന്നവർക്ക്",
+   "en": "those whom He wills"
+  },
+  {
+   "verse": 129,
+   "ar": "وَيُعَذِّبُ",
+   "ml": "അവൻ ശിക്ഷിക്കുകയും ചെയ്യും",
+   "en": "and He will punish"
+  },
+  {
+   "verse": 129,
+   "ar": "مَن يَشَآءُ",
+   "ml": "അവൻ ഉദ്ദേശിക്കുന്നവരെ",
+   "en": "those whom He wills"
+  },
+  {
+   "verse": 129,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 129,
+   "ar": "غَفُورٞ",
+   "ml": "വളരെ പൊറുക്കുന്നവനാണ്",
+   "en": "is One who greatly forgives"
+  },
+  {
+   "verse": 129,
+   "ar": "رَّحِيمٞ",
+   "ml": "കരുണാനിധിയാണ്.",
+   "en": "is the Ever-Merciful."
+  },
+  {
+   "verse": 130,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "ഹേ വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 130,
+   "ar": "لَا تَأۡكُلُواْ",
+   "ml": "നിങ്ങൾ തിന്നരുത് (ഉപയോഗിക്കരുത്)",
+   "en": "do not eat (do not use)"
+  },
+  {
+   "verse": 130,
+   "ar": "ٱلرِّبَوٰٓاْ",
+   "ml": "പലിശ",
+   "en": "interest"
+  },
+  {
+   "verse": 130,
+   "ar": "أَضۡعَٰفٗا",
+   "ml": "ഇരട്ടികളായി",
+   "en": "as doubles"
+  },
+  {
+   "verse": 130,
+   "ar": "مُّضَٰعَفَةٗ",
+   "ml": "ഇരട്ടിയാക്കപ്പെട്ട (ഇരിട്ടിയിരട്ടിയായി)",
+   "en": "that have been doubled (doubled and redoubled)"
+  },
+  {
+   "verse": 130,
+   "ar": "وَٱتَّقُواْ",
+   "ml": "നിങ്ങൾ സൂക്ഷിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and guard against"
+  },
+  {
+   "verse": 130,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനെ",
+   "en": "Allah"
+  },
+  {
+   "verse": 130,
+   "ar": "لَعَلَّكُمۡ",
+   "ml": "നിങ്ങളായേക്കാം, ആകുവാൻവേണ്ടി",
+   "en": "you may be, in order to be"
+  },
+  {
+   "verse": 130,
+   "ar": "تُفۡلِحُونَ",
+   "ml": "നിങ്ങൾ വിജയം പ്രാപിക്കുക",
+   "en": "you attaining success"
+  },
+  {
+   "verse": 131,
+   "ar": "وَٱتَّقُواْ",
+   "ml": "നിങ്ങൾ സൂക്ഷിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and guard against"
+  },
+  {
+   "verse": 131,
+   "ar": "ٱلنَّارَ",
+   "ml": "നരകത്തെ",
+   "en": "Hell"
+  },
+  {
+   "verse": 131,
+   "ar": "ٱلَّتِيٓ أُعِدَّتۡ",
+   "ml": "ഒരുക്കിവെക്കപ്പെട്ടതായ",
+   "en": "which has been made ready"
+  },
+  {
+   "verse": 131,
+   "ar": "لِلۡكَٰفِرِينَ",
+   "ml": "അവിശ്വാസികൾക്കുവേണ്ടി.",
+   "en": "for the disbelievers."
+  },
+  {
+   "verse": 132,
+   "ar": "وَأَطِيعُواْ",
+   "ml": "നിങ്ങൾ അനുസരിക്കുക (വഴിപ്പെടുക)യും ചെയ്യുവിൻ",
+   "en": "and obey (submit)"
+  },
+  {
+   "verse": 132,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവെ",
+   "en": "Allah"
+  },
+  {
+   "verse": 132,
+   "ar": "وَٱلرَّسُولَ",
+   "ml": "റസൂലിനെയും",
+   "en": "and the Rasul"
+  },
+  {
+   "verse": 132,
+   "ar": "لَعَلَّكُمۡ",
+   "ml": "നിങ്ങളായേക്കാം, ആകുവാൻ",
+   "en": "you may be, to be"
+  },
+  {
+   "verse": 132,
+   "ar": "تُرۡحَمُونَ",
+   "ml": "നിങ്ങൾക്ക് (നിങ്ങളോട്) കരുണ ചെയ്യപ്പെടും",
+   "en": "mercy will be shown to you (towards you)"
+  },
+  {
+   "verse": 133,
+   "ar": "وَسَارِعُوٓاْ",
+   "ml": "നിങ്ങൾ (അന്യോന്യം) ധൃതിപ്പെട്ട് വരുകയും (ബദ്ധപ്പാട് കാണിക്കുക- ഉത്സാഹം കാട്ടുകയും) ചെയ്യുവിൻ",
+   "en": "and come hastening (with one another) (show hurry- and show zeal)"
+  },
+  {
+   "verse": 133,
+   "ar": "إِلَىٰ مَغۡفِرَةٖ",
+   "ml": "പാപമോചനത്തിലേക്ക്",
+   "en": "towards forgiveness of sins"
+  },
+  {
+   "verse": 133,
+   "ar": "مِّن رَّبِّكُمۡ",
+   "ml": "നിങ്ങളുടെ റബ്ബിങ്കൽ നിന്നുള്ള",
+   "en": "that is from your Rabb"
+  },
+  {
+   "verse": 133,
+   "ar": "وَجَنَّةٍ",
+   "ml": "ഒരു സ്വർഗത്തിലേക്കും",
+   "en": "and towards a Paradise"
+  },
+  {
+   "verse": 133,
+   "ar": "عَرۡضُهَا",
+   "ml": "അതിന്റെ വിസ്താരം, വീതി",
+   "en": "its breadth, width"
+  },
+  {
+   "verse": 133,
+   "ar": "ٱلسَّمَٰوَٰتُ",
+   "ml": "ആകാശങ്ങളാകുന്നു",
+   "en": "is the heavens"
+  },
+  {
+   "verse": 133,
+   "ar": "وَٱلۡأَرۡضُ",
+   "ml": "ഭൂമിയും",
+   "en": "and the earth"
+  },
+  {
+   "verse": 133,
+   "ar": "أُعِدَّتۡ",
+   "ml": "അത് ഒരുക്ക(തയ്യാറാക്ക)പ്പെട്ടിരിക്കുന്നു",
+   "en": "it has been made ready (prepared)"
+  },
+  {
+   "verse": 133,
+   "ar": "لِلۡمُتَّقِينَ",
+   "ml": "സൂക്ഷ്മത പാലിക്കുന്നവർക്ക്, ഭയഭക്തന്മാർക്ക്",
+   "en": "for those who observe caution, for the God-fearing"
+  },
+  {
+   "verse": 134,
+   "ar": "ٱلَّذِينَ يُنفِقُونَ",
+   "ml": "ചിലവഴിക്കുന്നവർ",
+   "en": "those who spend"
+  },
+  {
+   "verse": 134,
+   "ar": "فِي ٱلسَّرَّآءِ",
+   "ml": "സന്തോഷാവസ്ഥയിൽ, സന്തോഷത്തിൽ",
+   "en": "in the state of happiness, in happiness"
+  },
+  {
+   "verse": 134,
+   "ar": "وَٱلضَّرَّآءِ",
+   "ml": "കഷ്ടാവസ്ഥയിലും, സന്താപത്തിലും",
+   "en": "and in the state of hardship, and in sorrow"
+  },
+  {
+   "verse": 134,
+   "ar": "وَٱلۡكَٰظِمِينَ",
+   "ml": "ഒതുക്കി (മൂടി) വെക്കുന്നവരും",
+   "en": "and those who keep restrained (covered)"
+  },
+  {
+   "verse": 134,
+   "ar": "ٱلۡغَيۡظَ",
+   "ml": "കോപത്തെ, ക്ലേശം, കഠിന കോപം",
+   "en": "anger, distress, intense anger"
+  },
+  {
+   "verse": 134,
+   "ar": "وَٱلۡعَافِينَ",
+   "ml": "മാപ്പ് നൽകുന്നവരും",
+   "en": "and those who give pardon"
+  },
+  {
+   "verse": 134,
+   "ar": "عَنِ ٱلنَّاسِ",
+   "ml": "മനുഷ്യർക്ക്, മനുഷ്യരെപ്പറ്റി",
+   "en": "to people, concerning people"
+  },
+  {
+   "verse": 134,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു, അല്ലാഹുവാകട്ടെ",
+   "en": "Allah, Allah, for His part"
+  },
+  {
+   "verse": 134,
+   "ar": "يُحِبُّ",
+   "ml": "സ്നേഹിക്കുന്നു, ഇഷ്ടപ്പെടും",
+   "en": "loves, will like"
+  },
+  {
+   "verse": 134,
+   "ar": "ٱلۡمُحۡسِنِينَ",
+   "ml": "നന്മ (പുണ്യം) ചെയ്യുന്നവരെ",
+   "en": "those who do good (merit)"
+  },
+  {
+   "verse": 135,
+   "ar": "وَٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരും",
+   "en": "and those who"
+  },
+  {
+   "verse": 135,
+   "ar": "إِذَا فَعَلُواْ",
+   "ml": "അവർ ചെയ്താൽ",
+   "en": "if they do"
+  },
+  {
+   "verse": 135,
+   "ar": "فَٰحِشَةً",
+   "ml": "വല്ല (ഒരു) നീചകൃത്യം",
+   "en": "some (a) vile deed"
+  },
+  {
+   "verse": 135,
+   "ar": "أَوۡ ظَلَمُوٓاْ",
+   "ml": "അല്ലെങ്കിൽ അവർ അക്രമം ചെയ്താൽ",
+   "en": "or else if they do wrong"
+  },
+  {
+   "verse": 135,
+   "ar": "أَنفُسَهُمۡ",
+   "ml": "തങ്ങളോട് തന്നെ, സ്വന്തങ്ങളോട്",
+   "en": "to their own selves, to themselves"
+  },
+  {
+   "verse": 135,
+   "ar": "ذَكَرُواْ",
+   "ml": "അവർ ഓർമിക്കുന്നതാണ്",
+   "en": "they will remember"
+  },
+  {
+   "verse": 135,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനെ",
+   "en": "Allah"
+  },
+  {
+   "verse": 135,
+   "ar": "فَٱسۡتَغۡفَرُواْ",
+   "ml": "എന്നിട്ട് (അങ്ങനെ) അവർ പാപമോചനം തേടും",
+   "en": "and then (so) they will seek forgiveness of sins"
+  },
+  {
+   "verse": 135,
+   "ar": "لِذُنُوبِهِمۡ",
+   "ml": "തങ്ങളുടെ പാപങ്ങൾക്ക്",
+   "en": "for their sins"
+  },
+  {
+   "verse": 135,
+   "ar": "وَمَن يَغۡفِرُ",
+   "ml": "ആർ പൊറുക്കും",
+   "en": "who will forgive"
+  },
+  {
+   "verse": 135,
+   "ar": "ٱلذُّنُوبَ",
+   "ml": "പാപങ്ങളെ",
+   "en": "sins"
+  },
+  {
+   "verse": 135,
+   "ar": "إِلَّا ٱللَّهُ",
+   "ml": "അല്ലാഹു അല്ലാതെ",
+   "en": "except Allah"
+  },
+  {
+   "verse": 135,
+   "ar": "وَلَمۡ يُصِرُّواْ",
+   "ml": "അവർ ശഠിച്ചു ( വേറിടാതെ) നിൽക്കുകയുമില്ല",
+   "en": "and they will not persist ( without separating), either"
+  },
+  {
+   "verse": 135,
+   "ar": "عَلَىٰ مَا فَعَلُواْ",
+   "ml": "തങ്ങൾ ചെയ്തതിൽ",
+   "en": "in what they have done"
+  },
+  {
+   "verse": 135,
+   "ar": "وَهُمۡ يَعۡلَمُونَ",
+   "ml": "അവർ അറിഞ്ഞുകൊണ്ട്",
+   "en": "they knowing"
+  },
+  {
+   "verse": 136,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those people"
+  },
+  {
+   "verse": 136,
+   "ar": "جَزَآؤُهُم",
+   "ml": "അവരുടെ പ്രതിഫലം",
+   "en": "their recompense"
+  },
+  {
+   "verse": 136,
+   "ar": "مَّغۡفِرَةٞ",
+   "ml": "പാപമോചനമാണ്",
+   "en": "is forgiveness of sins"
+  },
+  {
+   "verse": 136,
+   "ar": "مِّن رَّبِّهِمۡ",
+   "ml": "തങ്ങളുടെ റബ്ബിങ്കൽ നിന്ന്",
+   "en": "from their Rabb"
+  },
+  {
+   "verse": 136,
+   "ar": "وَجَنَّـٰتٞ",
+   "ml": "സ്വർഗങ്ങളും",
+   "en": "and Paradises"
+  },
+  {
+   "verse": 136,
+   "ar": "تَجۡرِي",
+   "ml": "സഞ്ചരിക്കും, ഒഴുകും",
+   "en": "will run, will flow"
+  },
+  {
+   "verse": 136,
+   "ar": "مِن تَحۡتِهَا",
+   "ml": "അതിന്റെ അടിയിലൂടെ",
+   "en": "through its underneath"
+  },
+  {
+   "verse": 136,
+   "ar": "ٱلۡأَنۡهَٰرُ",
+   "ml": "അരുവികൾ, നദികൾ",
+   "en": "streams, rivers"
+  },
+  {
+   "verse": 136,
+   "ar": "خَٰلِدِينَ",
+   "ml": "സ്ഥിരവാസികളായിക്കൊണ്ട്",
+   "en": "being permanent residents"
+  },
+  {
+   "verse": 136,
+   "ar": "فِيهَا",
+   "ml": "അതിൽ",
+   "en": "in it"
+  },
+  {
+   "verse": 136,
+   "ar": "وَنِعۡمَ",
+   "ml": "എത്രയോ (വളരെ) നല്ലത്",
+   "en": "how very (very) good"
+  },
+  {
+   "verse": 136,
+   "ar": "أَجۡرُ",
+   "ml": "പ്രതിഫലം",
+   "en": "the recompense"
+  },
+  {
+   "verse": 136,
+   "ar": "ٱلۡعَٰمِلِينَ",
+   "ml": "പ്രവർത്തിക്കുന്നവരുടെ",
+   "en": "of those who work"
+  }
+ ]
+}
