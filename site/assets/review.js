@@ -18,11 +18,25 @@
   const PAGE = document.body.dataset.page;
   const EDITORS = ['OWNER', 'COLLABORATOR', 'MEMBER'];
 
+  // The one-tap GitHub key is kept only for this browser tab (sessionStorage) and is gone when the
+  // tab is closed. It is never written to localStorage; a key saved there by an older version is removed.
+  const TOKEN_KEY = KEY + ':key';
   function loadState() {
-    try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; }
+    let st = {};
+    try { st = JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { st = {}; }
+    if (st.token) {
+      try { sessionStorage.setItem(TOKEN_KEY, st.token); } catch (e) { /* not kept */ }
+      delete st.token;
+      try { localStorage.setItem(KEY, JSON.stringify(st)); } catch (e) { /* not saved */ }
+    }
+    try { const t = sessionStorage.getItem(TOKEN_KEY); if (t) st.token = t; } catch (e) { /* none */ }
+    return st;
   }
   function saveState() {
-    try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) { /* not saved */ }
+    const keep = Object.assign({}, state);
+    delete keep.token;
+    try { localStorage.setItem(KEY, JSON.stringify(keep)); } catch (e) { /* not saved */ }
+    try { if (state.token) sessionStorage.setItem(TOKEN_KEY, state.token); else sessionStorage.removeItem(TOKEN_KEY); } catch (e) { /* not kept */ }
   }
   const state = loadState();
   const param = new URLSearchParams(location.search).get('review');
@@ -502,11 +516,11 @@
     const set = el('details', 'rv-settings');
     set.append(el('summary', null, 'Settings'));
     set.append(el('p', 'rv-help', state.token
-      ? 'One-tap sending is on for this device.'
-      : 'Without setup, "Send to Claude" opens GitHub where you tap "Create". The owner can send in one tap instead: create a key on GitHub once (choose "Only select repositories", pick amani-tafsir-english, and allow Issues: Read and write), then paste it here. It stays on this device only.'));
+      ? 'One-tap sending is on until you close this tab.'
+      : 'Without setup, "Send to Claude" opens GitHub where you tap "Create". This is the safest way. For one-tap sending instead, create a key on GitHub (choose "Only select repositories", pick amani-tafsir-english, and allow Issues: Read and write only), then paste it here. For safety it is kept only until you close this tab.'));
     if (!state.token) {
       const mk = el('a', null, 'Create the key on GitHub');
-      mk.href = `https://github.com/settings/personal-access-tokens/new?name=${encodeURIComponent('Amani tafsir review')}&description=${encodeURIComponent('Send review comments from the website')}&target_name=${OWNER}&expires_in=366&issues=write`;
+      mk.href = `https://github.com/settings/personal-access-tokens/new?name=${encodeURIComponent('Amani tafsir review')}&description=${encodeURIComponent('Send review comments from the website')}&target_name=${OWNER}&expires_in=30&issues=write`;
       mk.target = '_blank';
       mk.rel = 'noopener';
       const mp = el('p');

@@ -98,6 +98,19 @@
     toast(done);
   }
   const linkFor = (el) => location.origin + location.pathname + '#' + el.dataset.anchor;
+
+  // Share button in the top bar: the phone's own share sheet where there is one, otherwise copy the link.
+  const shareBtn = document.getElementById('share-open');
+  if (shareBtn) {
+    shareBtn.addEventListener('click', async () => {
+      const url = location.origin + location.pathname + location.hash;
+      const title = document.title;
+      if (navigator.share) {
+        try { await navigator.share({ title, url }); return; } catch (e) { if (e && e.name === 'AbortError') return; }
+      }
+      copyText(url, 'Link copied. You can paste it to share this page.');
+    });
+  }
   function placeName(el) {
     const surah = article.dataset.surah + '. ' + article.dataset.title;
     if (el.tagName === 'TR') return surah + ', verse ' + el.id.split('-')[1];

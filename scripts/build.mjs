@@ -5,6 +5,24 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import { marked } from 'marked';
 
+// The content files are plain Markdown. Any raw HTML in them is shown as text, never run, and links
+// may only go to web pages, e-mail or places on this site, so a bad edit cannot put a script on the site.
+const SAFE_URL = /^(https?:|mailto:|#|\/|\.\.?\/|[^:/?#]+(?:[/?#]|$))/i;
+if (typeof marked.use === 'function') {
+  marked.use({
+    walkTokens(token) {
+      if (token.type === 'html') { token.text = esc(token.text); token.raw = token.text; }
+      if (token.type === 'link' || token.type === 'image') {
+        const href = String(token.href || '')
+          .replace(/&#x([0-9a-f]+);?/gi, (m, h) => String.fromCodePoint(parseInt(h, 16)))
+          .replace(/&#(\d+);?/g, (m, d) => String.fromCodePoint(Number(d)))
+          .replace(/[\s\u0000-\u001f]+/g, '');
+        if (!SAFE_URL.test(href)) token.href = '#';
+      }
+    },
+  });
+}
+
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const OUT = path.join(ROOT, 'dist');
 const BASE = (process.env.BASE ?? '/amani-tafsir-english').replace(/\/$/, '');
@@ -71,6 +89,28 @@ function md(src, used = new Set()) {
   return markScripts(html);
 }
 
+// Applies the reader's saved theme and text size before the page is drawn (no flash of the wrong theme).
+const THEME_JS = `(function(){var d=document.documentElement,s={};try{s=JSON.parse(localStorage.getItem('amani-tafsir:reader'))||{};if(!s.theme)s.theme=localStorage.getItem('amani-tafsir:theme');if(s.ml===undefined){var o=JSON.parse(localStorage.getItem('amani-tafsir:v1')||'{}');if(o&&o.prefs&&o.prefs.showMl===false)s.ml=false}}catch(e){}d.dataset.theme=s.theme==='dark'||s.theme==='sepia'?s.theme:'light';d.dataset.size=/^(xs|s|m|l|xl)$/.test(s.size)?s.size:'m';d.dataset.lh=/^(xs|s|m)$/.test(s.lh)?s.lh:'s';d.dataset.ar=/^(xs|s|m|l)$/.test(s.ar)?s.ar:'s';[['arText','ar'],['ml','ml'],['words','words'],['comm','comm']].forEach(function(k){if(s[k[0]]===false)d.classList.add('hide-'+k[1])})})()`;
+
+// Visit counter: GoatCounter (no cookies, nothing personal kept). Off until the site's GoatCounter code
+// is filled in here; it then counts visits to every page, so each surah and each dua page separately.
+const GOATCOUNTER = process.env.GOATCOUNTER ?? '';
+const GC_URL = /^[a-z0-9-]+$/.test(GOATCOUNTER) ? `https://${GOATCOUNTER}.goatcounter.com` : '';
+
+// Content Security Policy: the browser runs only this site's own scripts (and the counter), so even a
+// bad edit to the text cannot run code on readers' devices.
+const CSP = [
+  "default-src 'self'",
+  `script-src 'self' 'sha256-${crypto.createHash('sha256').update(THEME_JS).digest('base64')}'${GC_URL ? ' https://gc.zgo.at' : ''}`,
+  "style-src 'self' https://fonts.googleapis.com",
+  "font-src https://fonts.gstatic.com",
+  `img-src 'self' data:${GC_URL ? ' ' + GC_URL : ''}`,
+  `connect-src 'self' https://api.github.com${GC_URL ? ' ' + GC_URL : ''}`,
+  "object-src 'none'",
+  "base-uri 'self'",
+  "form-action 'self' https://github.com",
+].join('; ');
+
 function layout({ title, body, rel = '', description = '', wide = false, index = false, listen = false }) {
   const canonical = `${BASE}/${rel}`;
   return `<!doctype html>
@@ -78,10 +118,12 @@ function layout({ title, body, rel = '', description = '', wide = false, index =
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="${CSP}">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description || 'English translation of Muhammad Amani Moulavi\'s Malayalam tafsir of the Holy Quran.')}">
 ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
-<script>(function(){var d=document.documentElement,s={};try{s=JSON.parse(localStorage.getItem('amani-tafsir:reader'))||{};if(!s.theme)s.theme=localStorage.getItem('amani-tafsir:theme');if(s.ml===undefined){var o=JSON.parse(localStorage.getItem('amani-tafsir:v1')||'{}');if(o&&o.prefs&&o.prefs.showMl===false)s.ml=false}}catch(e){}d.dataset.theme=s.theme==='dark'||s.theme==='sepia'?s.theme:'light';d.dataset.size=/^(xs|s|m|l|xl)$/.test(s.size)?s.size:'m';d.dataset.lh=/^(xs|s|m)$/.test(s.lh)?s.lh:'s';d.dataset.ar=/^(xs|s|m|l)$/.test(s.ar)?s.ar:'s';[['arText','ar'],['ml','ml'],['words','words'],['comm','comm']].forEach(function(k){if(s[k[0]]===false)d.classList.add('hide-'+k[1])})})()</script>
+<script>${THEME_JS}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Inter:wght@400;600&family=Noto+Naskh+Arabic:wght@400;600&family=Noto+Sans+Malayalam:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
@@ -104,6 +146,7 @@ ${PREVIEW ? '<meta name="robots" content="noindex">' : ''}
     <a href="${BASE}/en/search/">Search</a>
     <a href="${BASE}/en/bookmarks/"><span class="wide-only">My bookmarks</span><span class="narrow-only">Bookmarks</span></a>
     <a href="${BASE}/en/about/">About</a>
+    <button type="button" class="settings-btn share-btn" id="share-open" aria-label="Share this page" title="Share this page"><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="M8.2 10.8l7.6-4.4M8.2 13.2l7.6 4.4"/></svg><span class="settings-label">Share</span></button>
     <button type="button" class="settings-btn" id="settings-open" aria-label="Reading settings" aria-haspopup="dialog" aria-controls="settings-panel" title="Reading settings"><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path d="M4 7h10M18 7h2M4 17h4M12 17h8" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/><circle cx="16" cy="7" r="2.2" stroke="currentColor" stroke-width="2" fill="none"/><circle cx="10" cy="17" r="2.2" stroke="currentColor" stroke-width="2" fill="none"/></svg><span class="settings-label">Settings</span></button>
   </nav>
 </header>
@@ -119,6 +162,7 @@ ${body}
 <script src="${BASE}/assets/app.js" defer></script>
 <script src="${BASE}/assets/review.js" defer></script>
 ${listen ? `<script src="${BASE}/assets/listen.js" defer></script>` : ''}
+${GC_URL ? `<script data-goatcounter="${GC_URL}/count" async src="https://gc.zgo.at/count.js"></script>` : ''}
 </body>
 </html>
 `;
@@ -138,7 +182,9 @@ function listenBar() {
 <button type="button" class="listen-btn play" data-listen="pause" aria-label="Pause" hidden><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><path d="M7 5h4v14H7zM13 5h4v14h-4z" fill="currentColor"/></svg><span class="lbl">Pause</span></button>
 <button type="button" class="listen-btn icon" data-listen="next" aria-label="Next verse or paragraph"><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><path d="M16 5h2v14h-2zM4 5v14l11-7z" fill="currentColor"/></svg></button>
 <button type="button" class="listen-btn icon" data-listen="stop" aria-label="Stop (your place is kept)" disabled><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><path d="M6 6h12v12H6z" fill="currentColor"/></svg></button>
-<button type="button" class="listen-btn icon more" aria-expanded="false" aria-controls="listen-more" aria-label="Listening options"><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+<button type="button" class="listen-btn icon more" aria-expanded="false" aria-controls="listen-more" aria-label="Listening options" title="Listening options"><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+<button type="button" class="listen-btn icon listen-min" data-listen="min" aria-label="Make the player small" title="Make the player small"><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg></button>
+<button type="button" class="listen-btn listen-max" data-listen="max" aria-label="Show the full player" title="Show the full player" hidden><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 15l6-6 6 6"/></svg><span class="lbl">Player</span></button>
 </div>
 <div class="listen-more" id="listen-more" hidden>
 <div class="listen-from"><label for="listen-from">Start from</label><select id="listen-from"></select><button type="button" class="listen-go" data-listen="go">Play from here</button></div>
@@ -147,6 +193,7 @@ function listenBar() {
 <span class="listen-field listen-ar"><input type="checkbox" id="listen-ar" checked><label for="listen-ar">Read Arabic too</label></span>
 <p class="listen-ar-note"></p>
 <p class="listen-help">Reads the English with your device’s own voice, and the Arabic verses and words with its Arabic voice. Malayalam is skipped. The Arabic is the device’s voice, not a recitation. Your place is remembered on this device, so Play continues where you stopped. Previous and Next move one verse or paragraph; the speaker button next to any verse or heading starts there.</p>
+<p class="listen-close"><button type="button" class="listen-go" data-listen="close">Close options</button></p>
 </div>
 </div>
 </section>`;
