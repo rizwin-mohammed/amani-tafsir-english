@@ -1,0 +1,598 @@
+{
+ "words": [
+  {
+   "verse": 118,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 118,
+   "ar": "لَا تَتَّخِذُواْ",
+   "ml": "നിങ്ങൾ ഉണ്ടാക്കി വെക്കരുത്, സ്വീകരിക്കരുത്",
+   "en": "do not set up, do not take"
+  },
+  {
+   "verse": 118,
+   "ar": "بِطَانَةٗ",
+   "ml": "അകമ്പടി (ഉള്ളുകള്ളി- രഹസ്യബന്ധ)ക്കാരെ",
+   "en": "attendants (confidants- people of secret ties)"
+  },
+  {
+   "verse": 118,
+   "ar": "مِّن دُونِكُمۡ",
+   "ml": "നിങ്ങൾക്ക് പുറമെയുള്ള (നിങ്ങളല്ലാത്ത)വരിൽ നിന്ന്",
+   "en": "from those who are other than you (who are not you)"
+  },
+  {
+   "verse": 118,
+   "ar": "لَا يَأۡلُونَكُمۡ",
+   "ml": "അവർ നിങ്ങളോട് (നിങ്ങൾക്ക്) വീഴ്ച (കുറവ്) വരുത്തുകയില്ല",
+   "en": "they will not make a lapse (shortfall) towards you (for you)"
+  },
+  {
+   "verse": 118,
+   "ar": "خَبَالٗا",
+   "ml": "കുഴപ്പത്തിൽ, നാശത്തിന്",
+   "en": "in disorder, for ruin"
+  },
+  {
+   "verse": 118,
+   "ar": "وَدُّواْ",
+   "ml": "അവർ കൊതിക്കുകയാണ്",
+   "en": "they are longing"
+  },
+  {
+   "verse": 118,
+   "ar": "مَا عَنِتُّمۡ",
+   "ml": "നിങ്ങൾ ബുദ്ധിമുട്ടുന്നതിന്, കഷ്ടപ്പെടുവാൻ",
+   "en": "for your suffering hardship, for you to be in distress"
+  },
+  {
+   "verse": 118,
+   "ar": "قَدۡ بَدَتِ",
+   "ml": "വെളിവായിക്കഴിഞ്ഞിരിക്കുന്നു",
+   "en": "has already become manifest"
+  },
+  {
+   "verse": 118,
+   "ar": "ٱلۡبَغۡضَآءُ",
+   "ml": "ഈർഷ്യത, വൈരാഗ്യം",
+   "en": "resentment, animosity"
+  },
+  {
+   "verse": 118,
+   "ar": "مِنۡ أَفۡوَٰهِهِمۡ",
+   "ml": "അവരുടെ വായകളിൽ നിന്ന്",
+   "en": "from their mouths"
+  },
+  {
+   "verse": 118,
+   "ar": "وَمَا تُخۡفِي",
+   "ml": "മറച്ചുവെക്കുന്നതാകട്ടെ",
+   "en": "and as for what conceals"
+  },
+  {
+   "verse": 118,
+   "ar": "صُدُورُهُمۡ",
+   "ml": "അവരുടെ നെഞ്ചുകൾ",
+   "en": "their breasts"
+  },
+  {
+   "verse": 118,
+   "ar": "أَكۡبَرُ",
+   "ml": "കൂടുതൽ വലുതുമാണ്, വമ്പിച്ചതാണ്",
+   "en": "is bigger still, too, is great"
+  },
+  {
+   "verse": 118,
+   "ar": "قَدۡ بَيَّنَّا",
+   "ml": "നാം വിവരിച്ച് തന്നിട്ടുണ്ട്, തീർച്ചയായും വിവരിച്ചിരിക്കുന്നു",
+   "en": "We have explained, surely We have explained"
+  },
+  {
+   "verse": 118,
+   "ar": "لَكُمُ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 118,
+   "ar": "ٱلۡأٓيَٰتِ",
+   "ml": "ദൃഷ്ടാന്തങ്ങളെ",
+   "en": "the signs"
+  },
+  {
+   "verse": 118,
+   "ar": "إِن كُنتُمۡ",
+   "ml": "നിങ്ങൾ ആണെങ്കിൽ",
+   "en": "if you are"
+  },
+  {
+   "verse": 118,
+   "ar": "تَعۡقِلُونَ",
+   "ml": "ബുദ്ധികൊടുക്കുന്നു(വെങ്കിൽ)",
+   "en": "using reason (if)"
+  },
+  {
+   "verse": 119,
+   "ar": "هَـٰٓأَنتُمۡ",
+   "ml": "ഹാ നിങ്ങൾ",
+   "en": "ha, you"
+  },
+  {
+   "verse": 119,
+   "ar": "أُوْلَآءِ",
+   "ml": "ഇങ്ങനെയുള്ളവരാണ്",
+   "en": "are ones such as these"
+  },
+  {
+   "verse": 119,
+   "ar": "تُحِبُّونَهُمۡ",
+   "ml": "നിങ്ങളവരെ സ്നേഹിക്കുന്നു",
+   "en": "you love them"
+  },
+  {
+   "verse": 119,
+   "ar": "وَلَا يُحِبُّونَكُمۡ",
+   "ml": "അവർ നിങ്ങളെ സ്നേഹിക്കുന്നുമില്ല",
+   "en": "and they do not love you, either"
+  },
+  {
+   "verse": 119,
+   "ar": "وَتُؤۡمِنُونَ",
+   "ml": "നിങ്ങൾ വിശ്വസിക്കയും ചെയ്യുന്നു",
+   "en": "and you believe"
+  },
+  {
+   "verse": 119,
+   "ar": "بِٱلۡكِتَٰبِ",
+   "ml": "വേദഗ്രന്ഥത്തിൽ",
+   "en": "in the scripture"
+  },
+  {
+   "verse": 119,
+   "ar": "كُلِّهِۦ",
+   "ml": "അതിലെല്ലാം",
+   "en": "in all of it"
+  },
+  {
+   "verse": 119,
+   "ar": "وَإِذَا لَقُوكُمۡ",
+   "ml": "അവർ നിങ്ങളെ കണ്ടുമുട്ടിയാൽ",
+   "en": "and when they meet you"
+  },
+  {
+   "verse": 119,
+   "ar": "قَالُوٓاْ",
+   "ml": "അവർ പറയും",
+   "en": "they will say"
+  },
+  {
+   "verse": 119,
+   "ar": "ءَامَنَّا",
+   "ml": "ഞങ്ങൾ വിശ്വസിച്ചിരിക്കുന്നു",
+   "en": "we have believed"
+  },
+  {
+   "verse": 119,
+   "ar": "وَإِذَا خَلَوۡاْ",
+   "ml": "അവർ ഒഴിഞ്ഞു (ഒഴിവായി) പോയാലാകട്ടെ",
+   "en": "and as for when they have gone away (become free)"
+  },
+  {
+   "verse": 119,
+   "ar": "عَضُّواْ",
+   "ml": "അവർ കടിക്കും, കടിക്കുകയായി",
+   "en": "they will bite, they are biting"
+  },
+  {
+   "verse": 119,
+   "ar": "عَلَيۡكُمُ",
+   "ml": "നിങ്ങളെപ്പറ്റി, നിങ്ങൾക്കെതിരെ",
+   "en": "about you, against you"
+  },
+  {
+   "verse": 119,
+   "ar": "ٱلۡأَنَامِلَ",
+   "ml": "വിരൽതലപ്പു (വിരലു)കളെ",
+   "en": "the finger-tips (fingers)"
+  },
+  {
+   "verse": 119,
+   "ar": "مِنَ ٱلۡغَيۡظِ",
+   "ml": "കഠിന കോപം നിമിത്തം",
+   "en": "because of intense anger"
+  },
+  {
+   "verse": 119,
+   "ar": "قُلۡ مُوتُواْ",
+   "ml": "നീ പറയുക നിങ്ങൾ മരിച്ചുകൊള്ളുവിൻ",
+   "en": "you say, die"
+  },
+  {
+   "verse": 119,
+   "ar": "بِغَيۡظِكُمۡ",
+   "ml": "നിങ്ങളുടെ കോപം കൊണ്ട്",
+   "en": "with your anger"
+  },
+  {
+   "verse": 119,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 119,
+   "ar": "عَلِيمُۢ",
+   "ml": "അറിയുന്നവനാണ്",
+   "en": "is One who knows"
+  },
+  {
+   "verse": 119,
+   "ar": "بِذَاتِ ٱلصُّدُورِ",
+   "ml": "നെഞ്ചു (മനസ്സു)കളിലുള്ളതിനെപ്പറ്റി",
+   "en": "about what is in the breasts (minds)"
+  },
+  {
+   "verse": 120,
+   "ar": "إِن تَمۡسَسۡكُمۡ",
+   "ml": "നിങ്ങളെ സ്പർശിച്ചെങ്കിൽ, തീണ്ടുന്ന പക്ഷം",
+   "en": "if it has touched you, if it comes into contact"
+  },
+  {
+   "verse": 120,
+   "ar": "حَسَنَةٞ",
+   "ml": "വല്ല നന്മയും",
+   "en": "some good"
+  },
+  {
+   "verse": 120,
+   "ar": "تَسُؤۡهُمۡ",
+   "ml": "അതവരെ വെറുപ്പിക്കും (വ്യസനിപ്പിക്കും)",
+   "en": "it will displease them (grieve them)"
+  },
+  {
+   "verse": 120,
+   "ar": "وَإِن تُصِبۡكُمۡ",
+   "ml": "നിങ്ങൾക്ക് ബാധിച്ചുവെങ്കിലാകട്ടെ",
+   "en": "and as for if it has befallen you"
+  },
+  {
+   "verse": 120,
+   "ar": "سَيِّئَةٞ",
+   "ml": "വല്ല തിന്മയും",
+   "en": "some evil"
+  },
+  {
+   "verse": 120,
+   "ar": "يَفۡرَحُواْ",
+   "ml": "അവർ പുളകം കൊള്ളും",
+   "en": "they will thrill with delight"
+  },
+  {
+   "verse": 120,
+   "ar": "بِهَا",
+   "ml": "അതിൽ, അതിനെപ്പറ്റി",
+   "en": "at it, about it"
+  },
+  {
+   "verse": 120,
+   "ar": "وَإِن تَصۡبِرُواْ",
+   "ml": "നിങ്ങൾ ക്ഷമിക്കുന്നപക്ഷം",
+   "en": "if you are patient"
+  },
+  {
+   "verse": 120,
+   "ar": "وَتَتَّقُواْ",
+   "ml": "നിങ്ങൾ സൂക്ഷിക്കുകയും (ചെയ്യും)",
+   "en": "and you are on guard (will)"
+  },
+  {
+   "verse": 120,
+   "ar": "لَا يَضُرُّكُمۡ",
+   "ml": "നിങ്ങൾക്ക് ഉപദ്രവം വരുത്തുകയില്ല",
+   "en": "will not bring harm to you"
+  },
+  {
+   "verse": 120,
+   "ar": "كَيۡدُهُمۡ",
+   "ml": "അവരുടെ ഉപായം, കെണി",
+   "en": "their device, snare"
+  },
+  {
+   "verse": 120,
+   "ar": "شَيۡـًٔا",
+   "ml": "യാതൊന്നും (ഒട്ടും)",
+   "en": "anything at all (at all)"
+  },
+  {
+   "verse": 120,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 120,
+   "ar": "بِمَا يَعۡمَلُونَ",
+   "ml": "അവർ പ്രവർത്തിക്കുന്നതിനെ",
+   "en": "what they do"
+  },
+  {
+   "verse": 120,
+   "ar": "مُحِيطٞ",
+   "ml": "വലയം ചെയ്യുന്ന (സൂക്ഷ്മമായി അറിയുന്ന)വനാണ്. [അവന് എല്ലാം അറിയാം]",
+   "en": "is One who encompasses (who knows minutely). [He knows everything]"
+  },
+  {
+   "verse": 121,
+   "ar": "وَإِذۡ غَدَوۡتَ",
+   "ml": "നീ രാവിലെ പോയ സന്ദർഭം",
+   "en": "the occasion when you went in the morning"
+  },
+  {
+   "verse": 121,
+   "ar": "مِنۡ أَهۡلِكَ",
+   "ml": "നിന്റെ വീട്ടുകാരിൽ (കുടുംബത്തിൽ) നിന്ന്",
+   "en": "from your household (from your family)"
+  },
+  {
+   "verse": 121,
+   "ar": "تُبَوِّئُ",
+   "ml": "നീ സൗകര്യപ്പെടുത്തി (ശരിപ്പെടുത്തി)ക്കൊണ്ട്",
+   "en": "you arranging (setting right)"
+  },
+  {
+   "verse": 121,
+   "ar": "ٱلۡمُؤۡمِنِينَ",
+   "ml": "സത്യവിശ്വാസികൾക്ക്",
+   "en": "for the true believers"
+  },
+  {
+   "verse": 121,
+   "ar": "مَقَٰعِدَ",
+   "ml": "ഇരിപ്പിടങ്ങൾ, താവളങ്ങളെ",
+   "en": "sitting-places, stations"
+  },
+  {
+   "verse": 121,
+   "ar": "لِلۡقِتَالِ",
+   "ml": "യുദ്ധത്തിന്",
+   "en": "for fighting"
+  },
+  {
+   "verse": 121,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 121,
+   "ar": "سَمِيعٌ",
+   "ml": "കേൾക്കുന്നവനാണ്",
+   "en": "is One who hears"
+  },
+  {
+   "verse": 121,
+   "ar": "عَلِيمٌ",
+   "ml": "അറിയുന്നവനാണ്",
+   "en": "is One who knows"
+  },
+  {
+   "verse": 122,
+   "ar": "إِذۡ هَمَّت",
+   "ml": "ഉദ്ദേശിച്ച (ശ്രമിച്ച)പ്പോൾ",
+   "en": "when intended (attempted)"
+  },
+  {
+   "verse": 122,
+   "ar": "طَّآئِفَتَانِ",
+   "ml": "രണ്ട് വിഭാഗങ്ങൾ",
+   "en": "two sections"
+  },
+  {
+   "verse": 122,
+   "ar": "مِنكُمۡ",
+   "ml": "നിങ്ങളിൽ നിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 122,
+   "ar": "أَن تَفۡشَلَا",
+   "ml": "അവ ഭീരുത്വം കാണിക്കുവാൻ",
+   "en": "that they show cowardice"
+  },
+  {
+   "verse": 122,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹുവാകട്ടെ",
+   "en": "and Allah, for His part"
+  },
+  {
+   "verse": 122,
+   "ar": "وَلِيُّهُمَا",
+   "ml": "അവ രണ്ടിന്റെയും കാര്യകർത്താവാകുന്നു (സഹായിയാണ്)",
+   "en": "is the One in charge of the affairs of both of them (is the Helper)"
+  },
+  {
+   "verse": 122,
+   "ar": "وَعَلَى ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ മേൽ (തന്നെ)",
+   "en": "upon Allah (indeed)"
+  },
+  {
+   "verse": 122,
+   "ar": "فَلۡيَتَوَكَّلِ",
+   "ml": "അപ്പോൾ ഭരമേൽപിച്ചുകൊള്ളട്ടെ",
+   "en": "then let them rely"
+  },
+  {
+   "verse": 122,
+   "ar": "ٱلۡمُؤۡمِنُونَ",
+   "ml": "സത്യവിശ്വാസികൾ.",
+   "en": "the true believers."
+  },
+  {
+   "verse": 123,
+   "ar": "وَلَقَدۡ نَصَرَكُمُ",
+   "ml": "നിങ്ങളെ സഹായിച്ചിട്ടുണ്ടല്ലോ",
+   "en": "has helped you, surely"
+  },
+  {
+   "verse": 123,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 123,
+   "ar": "بِبَدۡرٖ",
+   "ml": "ബദ്റിൽവെച്ച്",
+   "en": "at Badr"
+  },
+  {
+   "verse": 123,
+   "ar": "وَأَنتُمۡ",
+   "ml": "നിങ്ങളാകട്ടെ",
+   "en": "and you, for your part"
+  },
+  {
+   "verse": 123,
+   "ar": "أَذِلَّةٞ",
+   "ml": "എളിയവർ, നിസ്സാരർ",
+   "en": "lowly ones, insignificant ones"
+  },
+  {
+   "verse": 123,
+   "ar": "فَٱتَّقُواْ",
+   "ml": "അതിനാൽ നിങ്ങൾ സൂക്ഷിക്കുവിൻ",
+   "en": "so guard against"
+  },
+  {
+   "verse": 123,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനെ",
+   "en": "Allah"
+  },
+  {
+   "verse": 123,
+   "ar": "لَعَلَّكُمۡ",
+   "ml": "നിങ്ങളായേക്കാം, ആകുവാൻ വേണ്ടി",
+   "en": "you may be, in order to be"
+  },
+  {
+   "verse": 123,
+   "ar": "تَشۡكُرُونَ",
+   "ml": "നിങ്ങൾ നന്ദി കാണിക്കും",
+   "en": "you will show thanks"
+  },
+  {
+   "verse": 124,
+   "ar": "إِذۡ تَقُولُ",
+   "ml": "നീ പറയുന്ന സന്ദർഭം",
+   "en": "the occasion when you say"
+  },
+  {
+   "verse": 124,
+   "ar": "لِلۡمُؤۡمِنِينَ",
+   "ml": "സത്യവിശ്വാസികളോട്",
+   "en": "to the true believers"
+  },
+  {
+   "verse": 124,
+   "ar": "أَلَن يَكۡفِيَكُمۡ",
+   "ml": "നിങ്ങൾക്ക് മതിയാകുകയില്ലേ, പോരേ",
+   "en": "will it not suffice you, is it not enough"
+  },
+  {
+   "verse": 124,
+   "ar": "أَن يُمِدَّكُمۡ",
+   "ml": "നിങ്ങൾക്ക് സഹായം നൽകൽ, സഹായ സൈന്യത്തെ അയക്കൽ",
+   "en": "giving you help, sending an army of help"
+  },
+  {
+   "verse": 124,
+   "ar": "رَبُّكُم",
+   "ml": "നിങ്ങളുടെ റബ്ബ്",
+   "en": "your Rabb"
+  },
+  {
+   "verse": 124,
+   "ar": "بِثَلَٰثَةِ ءَالَٰفٖ",
+   "ml": "മൂവ്വായിരം കൊണ്ട്",
+   "en": "with three thousand"
+  },
+  {
+   "verse": 124,
+   "ar": "مِّنَ ٱلۡمَلَـٰٓئِكَةِ",
+   "ml": "മലക്കുകളിൽ നിന്ന്",
+   "en": "from among the angels"
+  },
+  {
+   "verse": 124,
+   "ar": "مُنزَلِينَ",
+   "ml": "ഇറക്കപ്പെടുന്ന, ഇറക്കപ്പെട്ടവരായ",
+   "en": "being brought down, who have been brought down"
+  },
+  {
+   "verse": 125,
+   "ar": "بَلَىٰٓ",
+   "ml": "ഇല്ലാതേ, അതെ",
+   "en": "not without, yes *[DOUBT: ഇല്ലാതേ is literally “without”; as in Al-Baqarah parts 13, 16 and 45 (بَلَىٰ), “not” is added in the English to make the sense of an affirming reply. It may mean “on the contrary”. Please confirm the rendering.]*"
+  },
+  {
+   "verse": 125,
+   "ar": "إِن تَصۡبِرُواْ",
+   "ml": "നിങ്ങൾ ക്ഷമിക്കുന്ന പക്ഷം",
+   "en": "if you are patient"
+  },
+  {
+   "verse": 125,
+   "ar": "وَتَتَّقُواْ",
+   "ml": "നിങ്ങൾ സൂക്ഷിക്കുകയും",
+   "en": "and you are on guard"
+  },
+  {
+   "verse": 125,
+   "ar": "وَيَأۡتُوكُم",
+   "ml": "അവർ നിങ്ങൾക്ക് വരുകയും",
+   "en": "and they come to you"
+  },
+  {
+   "verse": 125,
+   "ar": "مِّن فَوۡرِهِمۡ هَٰذَا",
+   "ml": "അവരുടെ ഈ ക്ഷണത്തിൽ (വേഗത്തിൽ)",
+   "en": "at this instant of theirs (quickly)"
+  },
+  {
+   "verse": 125,
+   "ar": "يُمۡدِدۡكُمۡ",
+   "ml": "നിങ്ങൾക്ക് സഹായം നൽകും",
+   "en": "will give you help"
+  },
+  {
+   "verse": 125,
+   "ar": "رَبُّكُم",
+   "ml": "നിങ്ങളുടെ റബ്ബ്",
+   "en": "your Rabb"
+  },
+  {
+   "verse": 125,
+   "ar": "بِخَمۡسَةِ ءَالَٰفٖ",
+   "ml": "അയ്യായിരം കൊണ്ട്",
+   "en": "with five thousand"
+  },
+  {
+   "verse": 125,
+   "ar": "مِّنَ ٱلۡمَلَـٰٓئِكَةِ",
+   "ml": "മലക്കുകളിൽ നിന്ന്",
+   "en": "from among the angels"
+  },
+  {
+   "verse": 125,
+   "ar": "مُسَوِّمِينَ",
+   "ml": "അടയാളം (ചിഹ്നം) വെക്കുന്ന (ലഭിക്കുന്ന, സ്വീകരിക്കുന്ന), അടയാളം വെക്കപ്പെട്ടവരായി, അയച്ചുവിടപ്പെട്ടവരായി",
+   "en": "who put on marks (emblems) (who receive, who adopt), as ones who have been given marks, as ones who have been let loose"
+  }
+ ]
+}
