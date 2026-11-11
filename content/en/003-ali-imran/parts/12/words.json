@@ -1,0 +1,640 @@
+{
+ "words": [
+  {
+   "verse": 110,
+   "ar": "كُنتُمۡ",
+   "ml": "നിങ്ങളാകുന്നു",
+   "en": "you are"
+  },
+  {
+   "verse": 110,
+   "ar": "خَيۡرَ أُمَّةٍ",
+   "ml": "ഏറ്റം ഉത്തമ സമുദായം, സമുദായത്തിൽ ഉത്തമമായത്",
+   "en": "the very best community, the best in community"
+  },
+  {
+   "verse": 110,
+   "ar": "أُخۡرِجَتۡ",
+   "ml": "പുറപ്പെടുവിക്കപ്പെട്ടു",
+   "en": "has been brought forth"
+  },
+  {
+   "verse": 110,
+   "ar": "لِلنَّاسِ",
+   "ml": "മനുഷ്യർക്കുവേണ്ടി, മനുഷ്യരിലേക്ക്",
+   "en": "for mankind, to mankind"
+  },
+  {
+   "verse": 110,
+   "ar": "تَأۡمُرُونَ",
+   "ml": "നിങ്ങൾ കൽപിക്കുന്നു",
+   "en": "you command"
+  },
+  {
+   "verse": 110,
+   "ar": "بِٱلۡمَعۡرُوفِ",
+   "ml": "സദാചാരം കൊണ്ട്",
+   "en": "with good custom"
+  },
+  {
+   "verse": 110,
+   "ar": "وَتَنۡهَوۡنَ",
+   "ml": "നിങ്ങൾ വിരോധിക്കുകയും ചെയ്യുന്നു",
+   "en": "and you forbid"
+  },
+  {
+   "verse": 110,
+   "ar": "عَنِ ٱلۡمُنكَرِ",
+   "ml": "ദുരാചാരത്തെപ്പറ്റി",
+   "en": "concerning evil custom"
+  },
+  {
+   "verse": 110,
+   "ar": "وَتُؤۡمِنُونَ",
+   "ml": "നിങ്ങൾ വിശ്വസിക്കുകയും ചെയ്യുന്നു",
+   "en": "and you believe"
+  },
+  {
+   "verse": 110,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ",
+   "en": "in Allah"
+  },
+  {
+   "verse": 110,
+   "ar": "وَلَوۡ ءَامَنَ",
+   "ml": "വിശ്വസിച്ചിരുന്നുവെങ്കിൽ",
+   "en": "had believed"
+  },
+  {
+   "verse": 110,
+   "ar": "أَهۡلُ ٱلۡكِتَٰبِ",
+   "ml": "വേദക്കാർ",
+   "en": "the People of the Scripture"
+  },
+  {
+   "verse": 110,
+   "ar": "لَكَانَ",
+   "ml": "അതാകുമായിരുന്നു",
+   "en": "it would have been"
+  },
+  {
+   "verse": 110,
+   "ar": "خَيۡرٗا",
+   "ml": "ഉത്തമം, ഏറ്റം നല്ലത്",
+   "en": "best, the very good"
+  },
+  {
+   "verse": 110,
+   "ar": "لَّهُم",
+   "ml": "അവർക്ക്",
+   "en": "for them"
+  },
+  {
+   "verse": 110,
+   "ar": "مِّنۡهُمُ",
+   "ml": "അവരിലുണ്ട്",
+   "en": "among them there are"
+  },
+  {
+   "verse": 110,
+   "ar": "ٱلۡمُؤۡمِنُونَ",
+   "ml": "സത്യവിശ്വാസികൾ",
+   "en": "the true believers"
+  },
+  {
+   "verse": 110,
+   "ar": "وَأَكۡثَرُهُمُ",
+   "ml": "അവരിൽ അധികവും",
+   "en": "and most of them"
+  },
+  {
+   "verse": 110,
+   "ar": "ٱلۡفَٰسِقُونَ",
+   "ml": "തോന്നിയവാസി (ധിക്കാരി- തെമ്മാടി)കളത്രെ",
+   "en": "are indeed wayward (defiant- rogue) ones"
+  },
+  {
+   "verse": 111,
+   "ar": "لَن يَضُرُّوكُمۡ",
+   "ml": "അവർ നിങ്ങൾക്ക് ഉപദ്രവം വരുത്തുകയേയില്ല",
+   "en": "they will not bring harm to you at all"
+  },
+  {
+   "verse": 111,
+   "ar": "إِلَّآ أَذٗى",
+   "ml": "ശല്യം (സ്വൈര്യക്കേട്- ലഘുവായ ദ്രോഹം) അല്ലാതെ",
+   "en": "except nuisance (disturbance- slight injury)"
+  },
+  {
+   "verse": 111,
+   "ar": "وَإِن يُقَٰتِلُوكُمۡ",
+   "ml": "അവർ നിങ്ങളോട് യുദ്ധം ചെയ്യുന്നുവെങ്കിലോ",
+   "en": "and if they fight with you"
+  },
+  {
+   "verse": 111,
+   "ar": "يُوَلُّوكُمُ",
+   "ml": "അവർ നിങ്ങൾക്ക് തിരിക്കും",
+   "en": "they will turn to you"
+  },
+  {
+   "verse": 111,
+   "ar": "ٱلۡأَدۡبَارَ",
+   "ml": "പിൻപുറങ്ങളെ",
+   "en": "the backs"
+  },
+  {
+   "verse": 111,
+   "ar": "ثُمَّ",
+   "ml": "പിന്നെ",
+   "en": "then"
+  },
+  {
+   "verse": 111,
+   "ar": "لَا يُنصَرُونَ",
+   "ml": "അവർ സഹായിക്കപ്പെടുകയില്ല",
+   "en": "they will not be helped"
+  },
+  {
+   "verse": 112,
+   "ar": "ضُرِبَتۡ",
+   "ml": "അടിക്കപ്പെട്ടിരിക്കുന്നു (ആക്കിവെക്കപ്പെട്ടിരിക്കുന്നു)",
+   "en": "has been struck (has been placed)"
+  },
+  {
+   "verse": 112,
+   "ar": "عَلَيۡهِمُ",
+   "ml": "അവരുടെമേൽ, അവരിൽ",
+   "en": "upon them, on them"
+  },
+  {
+   "verse": 112,
+   "ar": "ٱلذِّلَّةُ",
+   "ml": "നിന്ദ്യത, എളിമത്വം",
+   "en": "abasement, lowliness"
+  },
+  {
+   "verse": 112,
+   "ar": "أَيۡنَ مَا ثُقِفُوٓاْ",
+   "ml": "എവിടെത്തന്നെ അവർ കാണപ്പെട്ടാലും, (എവിടെ വെച്ച് കണ്ടാലും)",
+   "en": "wherever they are found, (wherever they are seen)"
+  },
+  {
+   "verse": 112,
+   "ar": "إِلَّا بِحَبۡلٖ",
+   "ml": "വല്ല കയറും കൊണ്ടല്ലാതെ, വല്ല ബന്ധവും നിമിത്തമല്ലാതെ",
+   "en": "except with some rope, except because of some bond"
+  },
+  {
+   "verse": 112,
+   "ar": "مِّنَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിങ്കൽ നിന്ന്",
+   "en": "from Allah"
+  },
+  {
+   "verse": 112,
+   "ar": "وَحَبۡلٖ",
+   "ml": "കയറും (ബന്ധവും)",
+   "en": "and rope (and bond)"
+  },
+  {
+   "verse": 112,
+   "ar": "مِّنَ ٱلنَّاسِ",
+   "ml": "മനുഷ്യരിൽ നിന്ന്",
+   "en": "from mankind"
+  },
+  {
+   "verse": 112,
+   "ar": "وَبَآءُو",
+   "ml": "അവർ മടങ്ങുകയും ചെയ്തു",
+   "en": "and they returned"
+  },
+  {
+   "verse": 112,
+   "ar": "بِغَضَبٖ",
+   "ml": "കോപവുമായി",
+   "en": "with wrath"
+  },
+  {
+   "verse": 112,
+   "ar": "مِّنَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിങ്കൽ നിന്ന്",
+   "en": "from Allah"
+  },
+  {
+   "verse": 112,
+   "ar": "وَضُرِبَتۡ",
+   "ml": "അടിക്ക (ആക്ക)പ്പെടുകയും ചെയ്തു",
+   "en": "and was struck (placed)"
+  },
+  {
+   "verse": 112,
+   "ar": "عَلَيۡهِمُ",
+   "ml": "അവരുടെ മേൽ",
+   "en": "upon them"
+  },
+  {
+   "verse": 112,
+   "ar": "ٱلۡمَسۡكَنَةُ",
+   "ml": "നിർഗതി,പതിതത്വം",
+   "en": "helplessness, degradation"
+  },
+  {
+   "verse": 112,
+   "ar": "ذَٰلِكَ",
+   "ml": "അത് (കാരണം)",
+   "en": "that (reason)"
+  },
+  {
+   "verse": 112,
+   "ar": "بِأَنَّهُمۡ كَانُواْ",
+   "ml": "അവർ ആയിരുന്നതുകൊണ്ടാണ്",
+   "en": "is because they were"
+  },
+  {
+   "verse": 112,
+   "ar": "يَكۡفُرُونَ",
+   "ml": "അവിശ്വസിക്കുക",
+   "en": "disbelieving"
+  },
+  {
+   "verse": 112,
+   "ar": "بِـَٔايَٰتِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ ആയത്ത് (ദൃഷ്ടാന്തം)കളിൽ",
+   "en": "in the ayah (sign)s of Allah"
+  },
+  {
+   "verse": 112,
+   "ar": "وَيَقۡتُلُونَ",
+   "ml": "അവർ കൊലപ്പെടുത്തി വരുകയും",
+   "en": "and they kept on killing"
+  },
+  {
+   "verse": 112,
+   "ar": "ٱلۡأَنۢبِيَآءَ",
+   "ml": "പ്രവാചകൻമാരെ",
+   "en": "the prophets"
+  },
+  {
+   "verse": 112,
+   "ar": "بِغَيۡرِ حَقّٖ",
+   "ml": "ഒരു ന്യായവും (കാര്യവും- അവകാശവും) ഇല്ലാതെ",
+   "en": "without any justification (cause- right)"
+  },
+  {
+   "verse": 112,
+   "ar": "ذَٰلِكَ",
+   "ml": "അത്",
+   "en": "that"
+  },
+  {
+   "verse": 112,
+   "ar": "بِمَا عَصَواْ",
+   "ml": "അവർ അനുസരണക്കേട് ചെയ്തതുകൊണ്ടാണ് (നിമിത്തമാണ്)",
+   "en": "is because of their having disobeyed (is on account of)"
+  },
+  {
+   "verse": 112,
+   "ar": "وَّكَانُواْ",
+   "ml": "അവരായിരുന്നതും",
+   "en": "and their having been"
+  },
+  {
+   "verse": 112,
+   "ar": "يَعۡتَدُونَ",
+   "ml": "അവർ അതിരുവിടുക, അതിക്രമം ചെയ്യുക",
+   "en": "they overstepping the bounds, committing transgression"
+  },
+  {
+   "verse": 113,
+   "ar": "لَيۡسُواْ",
+   "ml": "അവരല്ല",
+   "en": "they are not"
+  },
+  {
+   "verse": 113,
+   "ar": "سَوَآءٗ",
+   "ml": "സമം, ഒരുപോലെ",
+   "en": "alike, the same"
+  },
+  {
+   "verse": 113,
+   "ar": "مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ",
+   "ml": "വേദക്കാരിൽ ഉണ്ട്",
+   "en": "among the People of the Scripture there is"
+  },
+  {
+   "verse": 113,
+   "ar": "أُمَّةٞ",
+   "ml": "ഒരു സമുദായം (സമൂഹം)",
+   "en": "a community (body)"
+  },
+  {
+   "verse": 113,
+   "ar": "قَآئِمَةٞ",
+   "ml": "നേരെ (ചൊവ്വിന്) നിൽക്കുന്ന",
+   "en": "that stands straight (upright)"
+  },
+  {
+   "verse": 113,
+   "ar": "يَتۡلُونَ",
+   "ml": "അവർ പാരായണം ചെയ്യും",
+   "en": "they will recite"
+  },
+  {
+   "verse": 113,
+   "ar": "ءَايَٰتِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ ആയത്തുകളെ",
+   "en": "the ayat of Allah"
+  },
+  {
+   "verse": 113,
+   "ar": "ءَانَآءَ ٱلَّيۡلِ",
+   "ml": "രാത്രി നേരങ്ങളിൽ",
+   "en": "in the hours of the night"
+  },
+  {
+   "verse": 113,
+   "ar": "وَهُمۡ يَسۡجُدُونَ",
+   "ml": "അവർ സജൂദ് ചെയ്തുകൊണ്ട്, അവർ സജൂദ് ചെയ്യും",
+   "en": "while they do sajud, they will do sajud"
+  },
+  {
+   "verse": 114,
+   "ar": "يُؤۡمِنُونَ",
+   "ml": "അവർ വിശ്വസിക്കുന്നു",
+   "en": "they believe"
+  },
+  {
+   "verse": 114,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ",
+   "en": "in Allah"
+  },
+  {
+   "verse": 114,
+   "ar": "وَٱلۡيَوۡمِ ٱلۡأٓخِرِ",
+   "ml": "അന്ത്യദിനത്തിലും",
+   "en": "and in the Last Day"
+  },
+  {
+   "verse": 114,
+   "ar": "وَيَأۡمُرُونَ",
+   "ml": "അവർ കൽപിക്കുക (ഉപദേശിക്കുക)യും ചെയ്യുന്നു",
+   "en": "and they command (counsel)"
+  },
+  {
+   "verse": 114,
+   "ar": "بِٱلۡمَعۡرُوفِ",
+   "ml": "സദാചാരം കൊണ്ട്",
+   "en": "with good custom"
+  },
+  {
+   "verse": 114,
+   "ar": "وَيَنۡهَوۡنَ",
+   "ml": "അവർ വിരോധിക്കയും ചെയ്യുന്നു",
+   "en": "and they forbid"
+  },
+  {
+   "verse": 114,
+   "ar": "عَنِ ٱلۡمُنكَرِ",
+   "ml": "ദുരാചാരത്തെക്കുറിച്ച്",
+   "en": "concerning evil custom"
+  },
+  {
+   "verse": 114,
+   "ar": "وَيُسَٰرِعُونَ",
+   "ml": "അവർ പരസ്പരം ധൃതിപ്പെടുകയും (വാശിപൂർവ്വം ബദ്ധപ്പെടുകയും) ചെയ്യും",
+   "en": "and they will mutually make haste (and hurry with zeal)"
+  },
+  {
+   "verse": 114,
+   "ar": "فِي ٱلۡخَيۡرَٰتِ",
+   "ml": "നല്ല കാര്യങ്ങളിൽ",
+   "en": "in good things"
+  },
+  {
+   "verse": 114,
+   "ar": "وَأُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those people"
+  },
+  {
+   "verse": 114,
+   "ar": "مِنَ ٱلصَّـٰلِحِينَ",
+   "ml": "നല്ലവരിൽ പെട്ടവരുമാണ്",
+   "en": "are among the good ones, too"
+  },
+  {
+   "verse": 115,
+   "ar": "وَمَا يَفۡعَلُواْ",
+   "ml": "അവർ എന്ത് ചെയ്യുന്നതായാലും",
+   "en": "whatever they do"
+  },
+  {
+   "verse": 115,
+   "ar": "مِنۡ خَيۡرٖ",
+   "ml": "നല്ലതായിട്ട്",
+   "en": "as good"
+  },
+  {
+   "verse": 115,
+   "ar": "فَلَن يُكۡفَرُوهُ",
+   "ml": "അവരോട് (അവർക്ക്) അതിൽ (അതിനോട്) നന്ദികേട് കാണിക്കപ്പെടുന്നതേയല്ല",
+   "en": "ingratitude will not be shown at all to them (for them) in it (towards it)"
+  },
+  {
+   "verse": 115,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 115,
+   "ar": "عَلِيمُۢ",
+   "ml": "അറിയുന്നവനാണ്",
+   "en": "is One who knows"
+  },
+  {
+   "verse": 115,
+   "ar": "بِٱلۡمُتَّقِينَ",
+   "ml": "സൂക്ഷ്മത പാലിക്കുന്നവരെപ്പറ്റി",
+   "en": "about those who observe caution"
+  },
+  {
+   "verse": 116,
+   "ar": "إِنَّ ٱلَّذِينَ كَفَرُواْ",
+   "ml": "നിശ്ചയമായും അവിശ്വസിച്ചവർ",
+   "en": "surely, those who disbelieved"
+  },
+  {
+   "verse": 116,
+   "ar": "لَن تُغۡنِيَ",
+   "ml": "ധന്യമാക്കുക (തടുക്കുക)യില്ലതന്നെ",
+   "en": "will not make self-sufficient (ward off), indeed"
+  },
+  {
+   "verse": 116,
+   "ar": "عَنۡهُمۡ",
+   "ml": "അവർക്ക്",
+   "en": "for them"
+  },
+  {
+   "verse": 116,
+   "ar": "أَمۡوَٰلُهُمۡ",
+   "ml": "അവരുടെ സ്വത്തുക്കൾ",
+   "en": "their properties"
+  },
+  {
+   "verse": 116,
+   "ar": "وَلَآ أَوۡلَٰدُهُم",
+   "ml": "അവരുടെ മക്കളും (സന്താനങ്ങളും) ഇല്ല",
+   "en": "nor their children (offspring)"
+  },
+  {
+   "verse": 116,
+   "ar": "مِّنَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ നിന്ന്",
+   "en": "from Allah"
+  },
+  {
+   "verse": 116,
+   "ar": "شَيۡـٔٗا",
+   "ml": "യാതൊന്നും ഒട്ടും",
+   "en": "anything, at all"
+  },
+  {
+   "verse": 116,
+   "ar": "وَأُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those people"
+  },
+  {
+   "verse": 116,
+   "ar": "أَصۡحَٰبُ ٱلنَّارِ",
+   "ml": "നരകത്തിന്റെ ആൾക്കാരുമാകുന്നു",
+   "en": "are the people of Hell, too"
+  },
+  {
+   "verse": 116,
+   "ar": "هُمۡ فِيهَا",
+   "ml": "അവർ അതിൽ",
+   "en": "they, in it"
+  },
+  {
+   "verse": 116,
+   "ar": "خَٰلِدُونَ",
+   "ml": "സ്ഥിരവാസികൾ ആകുന്നു",
+   "en": "are permanent residents"
+  },
+  {
+   "verse": 117,
+   "ar": "مَثَلُ مَا",
+   "ml": "യാതൊന്നിന്റെ ഉപമ, ഉദാഹരണം",
+   "en": "the parable, the example, of what"
+  },
+  {
+   "verse": 117,
+   "ar": "يُنفِقُونَ",
+   "ml": "അവർ ചിലവഴിക്കുന്ന",
+   "en": "they spend"
+  },
+  {
+   "verse": 117,
+   "ar": "فِي هَٰذِهِ ٱلۡحَيَوٰةِ",
+   "ml": "ഈ ജീവിതത്തിൽ",
+   "en": "in this life"
+  },
+  {
+   "verse": 117,
+   "ar": "ٱلدُّنۡيَا",
+   "ml": "ഐഹികമായ",
+   "en": "worldly"
+  },
+  {
+   "verse": 117,
+   "ar": "كَمَثَلِ",
+   "ml": "ഉപമപോലെയാണ്",
+   "en": "is like the parable"
+  },
+  {
+   "verse": 117,
+   "ar": "رِيحٖ",
+   "ml": "ഒരു കാറ്റിന്റെ",
+   "en": "of a wind"
+  },
+  {
+   "verse": 117,
+   "ar": "فِيهَا",
+   "ml": "അതിലുണ്ട്",
+   "en": "in it there is"
+  },
+  {
+   "verse": 117,
+   "ar": "صِرٌّ",
+   "ml": "അതിശൈത്യം",
+   "en": "intense cold"
+  },
+  {
+   "verse": 117,
+   "ar": "أَصَابَتۡ",
+   "ml": "അത് ബാധിച്ചു",
+   "en": "it struck"
+  },
+  {
+   "verse": 117,
+   "ar": "حَرۡثَ قَوۡمٖ",
+   "ml": "ഒരു ജനതയുടെ വിളയ്ക്ക്, വിളയിടത്തിന്",
+   "en": "to the crop of a people, to the crop-land"
+  },
+  {
+   "verse": 117,
+   "ar": "ظَلَمُوٓاْ",
+   "ml": "അവർ അക്രമം (അനീതി) ചെയ്തിരിക്കുന്നു",
+   "en": "they have done wrongdoing (injustice)"
+  },
+  {
+   "verse": 117,
+   "ar": "أَنفُسَهُمۡ",
+   "ml": "തങ്ങളുടെ സ്വന്തങ്ങളോട്",
+   "en": "towards their own selves"
+  },
+  {
+   "verse": 117,
+   "ar": "فَأَهۡلَكَتۡهُ",
+   "ml": "എന്നിട്ടത് അതിനെ നശിപ്പിച്ചു",
+   "en": "then it destroyed it"
+  },
+  {
+   "verse": 117,
+   "ar": "وَمَا ظَلَمَهُمُ",
+   "ml": "അവരെ അക്രമിച്ചിട്ടുമില്ല",
+   "en": "and has not wronged them"
+  },
+  {
+   "verse": 117,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 117,
+   "ar": "وَلَٰكِنۡ",
+   "ml": "എങ്കിലും, പക്ഷേ",
+   "en": "but, however"
+  },
+  {
+   "verse": 117,
+   "ar": "أَنفُسَهُمۡ",
+   "ml": "അവരുടെ സ്വന്തങ്ങളെ, തങ്ങളെത്തന്നെ",
+   "en": "their own selves, themselves indeed"
+  },
+  {
+   "verse": 117,
+   "ar": "يَظۡلِمُونَ",
+   "ml": "അവർ അക്രമിക്കുന്നു.",
+   "en": "they wrong."
+  }
+ ]
+}
