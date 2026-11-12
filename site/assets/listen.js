@@ -335,14 +335,30 @@
   prevBtn.addEventListener('click', () => step(-1));
   nextBtn.addEventListener('click', () => step(1));
   goBtn.addEventListener('click', () => startAt(Number(fromSel.value) || 0));
-  moreBtn.addEventListener('click', () => {
-    const open = more.hidden;
+  function setMore(open) {
     if (open) { if (state !== 'playing') { const keep = bi; refresh(); bi = Math.min(keep, Math.max(0, blocks.length - 1)); } fromSel.value = String(bi); }
     more.hidden = !open;
     moreBtn.setAttribute('aria-expanded', String(open));
     bar.classList.toggle('open', open);
     padBody();
-  });
+  }
+  moreBtn.addEventListener('click', () => setMore(more.hidden));
+  btn('close').addEventListener('click', () => { setMore(false); moreBtn.focus(); });
+  bar.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !more.hidden) { setMore(false); moreBtn.focus(); } });
+
+  // Small player: only Play/Pause and a button to bring the full player back. Remembered on this device.
+  const minBtn = btn('min'), maxBtn = btn('max');
+  function setMini(on) {
+    if (on) setMore(false);
+    bar.classList.toggle('mini', on);
+    [prevBtn, nextBtn, stopBtn, moreBtn, minBtn].forEach((b) => { b.hidden = on; });
+    maxBtn.hidden = !on;
+    prefs.mini = on;
+    savePrefs();
+    padBody();
+  }
+  minBtn.addEventListener('click', () => { setMini(true); maxBtn.focus(); });
+  maxBtn.addEventListener('click', () => { setMini(false); minBtn.focus(); });
   window.addEventListener('pagehide', () => { token++; synth.cancel(); });
 
   // The player sits at the bottom of the screen; keep the page's last lines clear of it.
@@ -379,6 +395,7 @@
     status.textContent = '';
     setState('stopped', '');
     if (bi > 0) { mark(blocks[bi], false); now.textContent = 'Your place: ' + blocks[bi].label; fromSel.value = String(bi); }
+    if (prefs.mini) setMini(true);
     padBody();
     if ('ResizeObserver' in window) new ResizeObserver(padBody).observe(bar); else window.addEventListener('resize', padBody);
   }
