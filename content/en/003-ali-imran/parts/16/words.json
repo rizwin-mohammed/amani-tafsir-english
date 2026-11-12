@@ -1,0 +1,808 @@
+{
+ "words": [
+  {
+   "verse": 149,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ",
+   "ml": "ഹേ വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 149,
+   "ar": "إِن تُطِيعُواْ",
+   "ml": "നിങ്ങൾ അനുസരിക്കുന്ന പക്ഷം",
+   "en": "if you obey"
+  },
+  {
+   "verse": 149,
+   "ar": "ٱلَّذِينَ كَفَرُواْ",
+   "ml": "അവിശ്വസിച്ചവരെ",
+   "en": "those who have disbelieved"
+  },
+  {
+   "verse": 149,
+   "ar": "يَرُدُّوكُمۡ",
+   "ml": "അവർ നിങ്ങളെ മടക്കും, തള്ളിവിടും",
+   "en": "they will turn you back, will push you off"
+  },
+  {
+   "verse": 149,
+   "ar": "عَلَىٰٓ أَعۡقَٰبِكُمۡ",
+   "ml": "നിങ്ങളുടെ മടമ്പുകാലുകളിൽ (പിന്നോക്കം)",
+   "en": "on your heels (backwards)"
+  },
+  {
+   "verse": 149,
+   "ar": "فَتَنقَلِبُواْ",
+   "ml": "അങ്ങനെ (അപ്പോൾ) നിങ്ങൾ മറിയും, മാറും, മടങ്ങും",
+   "en": "thus (then) you will turn over, will change, will go back"
+  },
+  {
+   "verse": 149,
+   "ar": "خَٰسِرِينَ",
+   "ml": "നഷ്ടപ്പെട്ടവരായി",
+   "en": "as ones who have suffered loss"
+  },
+  {
+   "verse": 150,
+   "ar": "بَلِ ٱللَّهُ",
+   "ml": "എങ്കിലും (പക്ഷേ- എന്നാൽ) അല്ലാഹു",
+   "en": "but (however- yet) Allah"
+  },
+  {
+   "verse": 150,
+   "ar": "مَوۡلَىٰكُمۡ",
+   "ml": "നിങ്ങളുടെ യജമാനനാകുന്നു",
+   "en": "is your Master"
+  },
+  {
+   "verse": 150,
+   "ar": "وَهُوَ",
+   "ml": "അവനാകട്ടെ",
+   "en": "He, for His part"
+  },
+  {
+   "verse": 150,
+   "ar": "خَيۡرُ ٱلنَّـٰصِرِينَ",
+   "ml": "സഹായികളിൽ ഉത്തമനാണ്",
+   "en": "is the best among helpers"
+  },
+  {
+   "verse": 151,
+   "ar": "سَنُلۡقِي",
+   "ml": "നാം വഴിയെ ഇട്ടുകളയും",
+   "en": "We will in due course cast"
+  },
+  {
+   "verse": 151,
+   "ar": "فِي قُلُوبِ",
+   "ml": "ഹൃദയങ്ങളിൽ",
+   "en": "into the hearts"
+  },
+  {
+   "verse": 151,
+   "ar": "ٱلَّذِينَ كَفَرُواْ",
+   "ml": "അവിശ്വസിച്ചവരുടെ",
+   "en": "of those who have disbelieved"
+  },
+  {
+   "verse": 151,
+   "ar": "ٱلرُّعۡبَ",
+   "ml": "ഭീതി, നടുക്കം",
+   "en": "terror, trembling"
+  },
+  {
+   "verse": 151,
+   "ar": "بِمَآ أَشۡرَكُواْ",
+   "ml": "അവർ പങ്കുചേർത്തത് നിമിത്തം",
+   "en": "because of their associating"
+  },
+  {
+   "verse": 151,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ, അല്ലാഹുവിനോട്",
+   "en": "in Allah, with Allah"
+  },
+  {
+   "verse": 151,
+   "ar": "مَا لَمۡ يُنَزِّلۡ",
+   "ml": "അവൻ അവതരിപ്പിക്കാത്തതിനെ",
+   "en": "that for which He has not sent down"
+  },
+  {
+   "verse": 151,
+   "ar": "بِهِۦ",
+   "ml": "അതിന്, അതിനെപ്പറ്റി",
+   "en": "for it, about it"
+  },
+  {
+   "verse": 151,
+   "ar": "سُلۡطَٰنٗا",
+   "ml": "ഒരു (അധികൃത) രേഖയും, പ്രമാണവും, ആധാരവും",
+   "en": "any (authoritative) record, any authority, any warrant"
+  },
+  {
+   "verse": 151,
+   "ar": "وَمَأۡوَىٰهُمُ",
+   "ml": "അവരുടെ സങ്കേതം, പ്രാപ്യസ്ഥാനം",
+   "en": "their resort, their destination"
+  },
+  {
+   "verse": 151,
+   "ar": "ٱلنَّارُ",
+   "ml": "നരകമാകുന്നു",
+   "en": "is Hell"
+  },
+  {
+   "verse": 151,
+   "ar": "وَبِئۡسَ",
+   "ml": "എത്രയോ ചീത്ത",
+   "en": "how bad"
+  },
+  {
+   "verse": 151,
+   "ar": "مَثۡوَى",
+   "ml": "പാർപ്പിടം",
+   "en": "the dwelling-place"
+  },
+  {
+   "verse": 151,
+   "ar": "ٱلظَّـٰلِمِينَ",
+   "ml": "അക്രമികളുടെ",
+   "en": "of the wrongdoers"
+  },
+  {
+   "verse": 152,
+   "ar": "وَلَقَدۡ صَدَقَكُمُ",
+   "ml": "നിങ്ങൾക്ക് സത്യമാക്കുകയുണ്ടായി",
+   "en": "made true to you"
+  },
+  {
+   "verse": 152,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 152,
+   "ar": "وَعۡدَهُۥٓ",
+   "ml": "അവന്റെ വാഗ്ദാനം, വാഗ്ദത്തം",
+   "en": "His promise, His pledge"
+  },
+  {
+   "verse": 152,
+   "ar": "إِذۡ تَحُسُّونَهُم",
+   "ml": "നിങ്ങൾ അവരെ കൊന്ന് നശിപ്പിക്കുമ്പോൾ",
+   "en": "when you kill and destroy them"
+  },
+  {
+   "verse": 152,
+   "ar": "بِإِذۡنِهِۦ",
+   "ml": "അവന്റെ അനുമതി പ്രകാരം",
+   "en": "by His permission"
+  },
+  {
+   "verse": 152,
+   "ar": "حَتَّىٰٓ",
+   "ml": "അങ്ങനെ",
+   "en": "thus"
+  },
+  {
+   "verse": 152,
+   "ar": "إِذَا فَشِلۡتُمۡ",
+   "ml": "നിങ്ങൾ ഭീരുത്വം കാണിച്ചപ്പോൾ",
+   "en": "when you showed cowardice"
+  },
+  {
+   "verse": 152,
+   "ar": "وَتَنَٰزَعۡتُمۡ",
+   "ml": "നിങ്ങൾ അന്യോന്യം പിണങ്ങുക (വഴക്കിടുക- തർക്കിക്കുക- ഭിന്നിക്കുക)യും",
+   "en": "and you falling out (quarrelling- disputing- becoming divided) with one another"
+  },
+  {
+   "verse": 152,
+   "ar": "فِي ٱلۡأَمۡرِ",
+   "ml": "കാര്യത്തിൽ",
+   "en": "in the matter"
+  },
+  {
+   "verse": 152,
+   "ar": "وَعَصَيۡتُم",
+   "ml": "നിങ്ങൾ അനുസരണക്കേട് ചെയ്കയും",
+   "en": "and you doing disobedience"
+  },
+  {
+   "verse": 152,
+   "ar": "مِّنۢ بَعۡدِ",
+   "ml": "ശേഷം",
+   "en": "after"
+  },
+  {
+   "verse": 152,
+   "ar": "مَآ أَرَىٰكُم",
+   "ml": "അവൻ നിങ്ങൾക്ക് കാട്ടിത്തന്നതിന്റെ",
+   "en": "His showing you"
+  },
+  {
+   "verse": 152,
+   "ar": "مَّا تُحِبُّونَ",
+   "ml": "നിങ്ങൾ ഇഷ്ടപ്പെടുന്നതിനെ (കാര്യത്തെ)",
+   "en": "what (the thing) you like"
+  },
+  {
+   "verse": 152,
+   "ar": "مِنكُم مَّن",
+   "ml": "നിങ്ങളിലുണ്ട് ചിലർ",
+   "en": "among you there are some"
+  },
+  {
+   "verse": 152,
+   "ar": "يُرِيدُ",
+   "ml": "ഉദ്ദേശിക്കുന്നു",
+   "en": "intend"
+  },
+  {
+   "verse": 152,
+   "ar": "ٱلدُّنۡيَا",
+   "ml": "ഇഹലോകം",
+   "en": "this world"
+  },
+  {
+   "verse": 152,
+   "ar": "وَمِنكُم",
+   "ml": "നിങ്ങളിലുണ്ട്",
+   "en": "and among you there are"
+  },
+  {
+   "verse": 152,
+   "ar": "مَّن يُرِيدُ",
+   "ml": "ഉദ്ദേശിക്കുന്നവർ",
+   "en": "those who intend"
+  },
+  {
+   "verse": 152,
+   "ar": "ٱلۡأٓخِرَةَ",
+   "ml": "പരലോകത്തെ",
+   "en": "the Hereafter"
+  },
+  {
+   "verse": 152,
+   "ar": "ثُمَّ صَرَفَكُمۡ",
+   "ml": "പിന്നെ അവൻ നിങ്ങളെ തിരിച്ചുവിട്ടു",
+   "en": "then He turned you away"
+  },
+  {
+   "verse": 152,
+   "ar": "عَنۡهُمۡ",
+   "ml": "അവരിൽ നിന്ന്",
+   "en": "from them"
+  },
+  {
+   "verse": 152,
+   "ar": "لِيَبۡتَلِيَكُمۡ",
+   "ml": "നിങ്ങളെ അവൻ പരീക്ഷിക്കുവാൻ",
+   "en": "in order that He may test you"
+  },
+  {
+   "verse": 152,
+   "ar": "وَلَقَدۡ عَفَا",
+   "ml": "അവൻ മാപ്പ് നൽകുക തന്നെ ചെയ്തിട്ടുണ്ട്",
+   "en": "He has indeed given pardon"
+  },
+  {
+   "verse": 152,
+   "ar": "عَنكُمۡ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 152,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 152,
+   "ar": "ذُو فَضۡلٍ",
+   "ml": "അനുഗ്രഹം (ദയവ്- ഔദാര്യം) ഉള്ളവനാണ്",
+   "en": "is One who has favour (kindness- generosity)"
+  },
+  {
+   "verse": 152,
+   "ar": "عَلَى ٱلۡمُؤۡمِنِينَ",
+   "ml": "സത്യവിശ്വാസികളുടെ മേൽ",
+   "en": "upon the true believers"
+  },
+  {
+   "verse": 153,
+   "ar": "إِذۡ تُصۡعِدُونَ",
+   "ml": "നിങ്ങൾ കയറിപ്പോകു(ഓടിപ്പോകു)മ്പോൾ",
+   "en": "when you were going up (running away)"
+  },
+  {
+   "verse": 153,
+   "ar": "وَلَا تَلۡوُۥنَ",
+   "ml": "നിങ്ങൾ വളഞ്ഞുപോകു(തിരിഞ്ഞുനോക്കു)ന്നുമില്ല",
+   "en": "and you were not turning aside (looking back)"
+  },
+  {
+   "verse": 153,
+   "ar": "عَلَىٰٓ أَحَدٖ",
+   "ml": "ഒരാളെയും",
+   "en": "at anyone"
+  },
+  {
+   "verse": 153,
+   "ar": "وَٱلرَّسُولُ",
+   "ml": "റസൂലാകട്ടെ",
+   "en": "the Rasul, for his part"
+  },
+  {
+   "verse": 153,
+   "ar": "يَدۡعُوكُمۡ",
+   "ml": "നിങ്ങളെ വിളിക്കുന്നു",
+   "en": "calls you"
+  },
+  {
+   "verse": 153,
+   "ar": "فِيٓ أُخۡرَىٰكُمۡ",
+   "ml": "നിങ്ങളുടെ പിൻവശത്തിൽ",
+   "en": "at your rear side"
+  },
+  {
+   "verse": 153,
+   "ar": "فَأَثَٰبَكُمۡ",
+   "ml": "അങ്ങനെ അവൻ നിങ്ങൾക്ക് പ്രതിഫലമാക്കി (പകരമാക്കി)",
+   "en": "thus He made as a recompense (made as a replacement) for you"
+  },
+  {
+   "verse": 153,
+   "ar": "غَمَّۢا",
+   "ml": "ദുഃഖത്തെ",
+   "en": "grief"
+  },
+  {
+   "verse": 153,
+   "ar": "بِغَمّٖ",
+   "ml": "ദുഃഖത്തോടെ",
+   "en": "with grief"
+  },
+  {
+   "verse": 153,
+   "ar": "لِّكَيۡلَا",
+   "ml": "ഇല്ലാതിരിക്കുവാൻ വേണ്ടി",
+   "en": "in order that there may not be"
+  },
+  {
+   "verse": 153,
+   "ar": "تَحۡزَنُواْ",
+   "ml": "നിങ്ങൾ വ്യസനപ്പെടുക",
+   "en": "your grieving"
+  },
+  {
+   "verse": 153,
+   "ar": "عَلَىٰ مَا فَاتَكُمۡ",
+   "ml": "നിങ്ങൾ പാഴായിപ്പോയതിനെപ്പറ്റി",
+   "en": "about what went to waste (for) you"
+  },
+  {
+   "verse": 153,
+   "ar": "وَلَا مَآ",
+   "ml": "യാതൊന്നിനെപ്പറ്റിയും",
+   "en": "and about that which, too"
+  },
+  {
+   "verse": 153,
+   "ar": "أَصَٰبَكُمۡ",
+   "ml": "നിങ്ങൾക്ക് ബാധിച്ചു",
+   "en": "befell you"
+  },
+  {
+   "verse": 153,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു, അല്ലാഹുവാകട്ടെ",
+   "en": "Allah, Allah for His part"
+  },
+  {
+   "verse": 153,
+   "ar": "خَبِيرُۢ",
+   "ml": "സൂക്ഷ്മമായി അറിയുന്നവനാണ്",
+   "en": "is One who knows minutely"
+  },
+  {
+   "verse": 153,
+   "ar": "بِمَا تَعۡمَلُونَ",
+   "ml": "നിങ്ങൾ പ്രവർത്തിക്കുന്നതിനെപ്പറ്റി",
+   "en": "about what you do"
+  },
+  {
+   "verse": 154,
+   "ar": "ثُمَّ أَنزَلَ",
+   "ml": "പിന്നെ അവൻ ഇറക്കി",
+   "en": "then He sent down"
+  },
+  {
+   "verse": 154,
+   "ar": "عَلَيۡكُم",
+   "ml": "നിങ്ങളുടെ മേൽ",
+   "en": "upon you"
+  },
+  {
+   "verse": 154,
+   "ar": "مِّنۢ بَعۡدِ ٱلۡغَمِّ",
+   "ml": "ദുഃഖത്തിന് ശേഷം",
+   "en": "after the grief"
+  },
+  {
+   "verse": 154,
+   "ar": "أَمَنَةٗ",
+   "ml": "ഒരു നിർഭയത, മനഃശാന്തി",
+   "en": "a security, calm of mind"
+  },
+  {
+   "verse": 154,
+   "ar": "نُّعَاسٗا",
+   "ml": "അതായത് ഒരു നിദ്രാമയക്കം",
+   "en": "that is, a drowsiness of slumber"
+  },
+  {
+   "verse": 154,
+   "ar": "يَغۡشَىٰ",
+   "ml": "അത് മൂടിയിരുന്നു, ആവരണം ചെയ്തിരുന്നു",
+   "en": "it was covering, it was enveloping"
+  },
+  {
+   "verse": 154,
+   "ar": "طَآئِفَةٗ",
+   "ml": "ഒരു വിഭാഗത്തെ",
+   "en": "a section"
+  },
+  {
+   "verse": 154,
+   "ar": "مِّنكُمۡ",
+   "ml": "നിങ്ങളിൽ നിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 154,
+   "ar": "وَطَآئِفَةٞ",
+   "ml": "ഒരു വിഭാഗമാകട്ടെ",
+   "en": "a section, for their part"
+  },
+  {
+   "verse": 154,
+   "ar": "قَدۡ أَهَمَّتۡهُمۡ",
+   "ml": "അവരെ വിചാരത്തിലാക്കിയിട്ടുണ്ട്, അസ്വസ്ഥമാക്കിക്കളയുകയും ചെയ്തു",
+   "en": "have put them into worry, and also made them uneasy"
+  },
+  {
+   "verse": 154,
+   "ar": "أَنفُسُهُمۡ",
+   "ml": "അവരുടെ സ്വന്തങ്ങൾ, ദേഹങ്ങൾ",
+   "en": "their own selves, their persons"
+  },
+  {
+   "verse": 154,
+   "ar": "يَظُنُّونَ",
+   "ml": "അവർ വിചാരിച്ചുകൊണ്ട്",
+   "en": "they thinking"
+  },
+  {
+   "verse": 154,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവിനെ കുറിച്ച്",
+   "en": "about Allah"
+  },
+  {
+   "verse": 154,
+   "ar": "غَيۡرَ ٱلۡحَقِّ",
+   "ml": "ന്യായം, (യഥാർത്ഥം) അല്ലാത്തത്",
+   "en": "what is not right, (real)"
+  },
+  {
+   "verse": 154,
+   "ar": "ظَنَّ ٱلۡجَٰهِلِيَّةِ",
+   "ml": "ജാഹിലിയ്യത്തിന്റെ വിചാരം",
+   "en": "the thought of the Jahiliyyah"
+  },
+  {
+   "verse": 154,
+   "ar": "يَقُولُونَ",
+   "ml": "അവർ പറയുന്നു",
+   "en": "they say"
+  },
+  {
+   "verse": 154,
+   "ar": "هَل لَّنَا",
+   "ml": "നമുക്കുണ്ടോ",
+   "en": "is there for us"
+  },
+  {
+   "verse": 154,
+   "ar": "مِنَ ٱلۡأَمۡرِ",
+   "ml": "കാര്യത്തിൽ നിന്ന്, കാര്യത്തെ സംബന്ധിച്ച്",
+   "en": "from the matter, concerning the matter"
+  },
+  {
+   "verse": 154,
+   "ar": "مِن شَيۡءٖ",
+   "ml": "വല്ലതും, വല്ല വസ്തുവും",
+   "en": "anything, any thing at all"
+  },
+  {
+   "verse": 154,
+   "ar": "قُلۡ",
+   "ml": "പറയുക",
+   "en": "say"
+  },
+  {
+   "verse": 154,
+   "ar": "إِنَّ ٱلۡأَمۡرَ",
+   "ml": "നിശ്ചയമായും കാര്യം",
+   "en": "surely the matter"
+  },
+  {
+   "verse": 154,
+   "ar": "كُلَّهُۥ",
+   "ml": "അതെല്ലാം",
+   "en": "all of it"
+  },
+  {
+   "verse": 154,
+   "ar": "لِلَّهِ",
+   "ml": "അല്ലാഹുവിനാണ് (ഉള്ളത്)",
+   "en": "is for Allah (what there is)"
+  },
+  {
+   "verse": 154,
+   "ar": "يُخۡفُونَ",
+   "ml": "അവർ മറച്ച് (ഒളിച്ചു)വെക്കുന്നു",
+   "en": "they conceal (hide)"
+  },
+  {
+   "verse": 154,
+   "ar": "فِيٓ أَنفُسِهِم",
+   "ml": "അവരുടെ സ്വന്തങ്ങളിൽ (മനസ്സിൽ)",
+   "en": "in their own selves (in the mind)"
+  },
+  {
+   "verse": 154,
+   "ar": "مَّا لَا يُبۡدُونَ",
+   "ml": "അവർ, വെളിവാക്കാത്തത്, വ്യക്തമാക്കാത്ത ചിലത്",
+   "en": "what they do not reveal, something they do not make clear"
+  },
+  {
+   "verse": 154,
+   "ar": "لَكَ",
+   "ml": "നിന്നോട്, നിനക്ക്",
+   "en": "to you, for you"
+  },
+  {
+   "verse": 154,
+   "ar": "يَقُولُونَ",
+   "ml": "അവർ പറയുന്നു",
+   "en": "they say"
+  },
+  {
+   "verse": 154,
+   "ar": "لَوۡ كَانَ",
+   "ml": "ഉണ്ടായിരുന്നെങ്കിൽ",
+   "en": "if there had been"
+  },
+  {
+   "verse": 154,
+   "ar": "لَنَا",
+   "ml": "നമുക്ക്",
+   "en": "for us"
+  },
+  {
+   "verse": 154,
+   "ar": "مِنَ ٱلۡأَمۡرِ",
+   "ml": "കാര്യത്തിൽ നിന്ന്",
+   "en": "from the matter"
+  },
+  {
+   "verse": 154,
+   "ar": "شَيۡءٞ",
+   "ml": "വല്ലതും, വല്ല വസ്തുവും",
+   "en": "anything, any thing at all"
+  },
+  {
+   "verse": 154,
+   "ar": "مَّا قُتِلۡنَا",
+   "ml": "നാം കൊല്ലപ്പെടുമായിരുന്നില്ല",
+   "en": "we would not have been killed"
+  },
+  {
+   "verse": 154,
+   "ar": "هَٰهُنَا",
+   "ml": "ഇവിടെ വെച്ച്",
+   "en": "here"
+  },
+  {
+   "verse": 154,
+   "ar": "قُل",
+   "ml": "നീ പറയുക",
+   "en": "you say"
+  },
+  {
+   "verse": 154,
+   "ar": "لَّوۡ كُنتُمۡ",
+   "ml": "നിങ്ങൾ ആയിരുന്നെങ്കിൽ, ആയിരുന്നാലും",
+   "en": "if you had been, even if you were"
+  },
+  {
+   "verse": 154,
+   "ar": "فِي بُيُوتِكُمۡ",
+   "ml": "നിങ്ങളുടെ വീടുകളിൽ",
+   "en": "in your houses"
+  },
+  {
+   "verse": 154,
+   "ar": "لَبَرَزَ",
+   "ml": "വെളിക്ക് വരുക (പ്രത്യക്ഷപ്പെടുക- പുറത്ത് വരുക)തന്നെ ചെയ്യും",
+   "en": "will indeed come into the open (appear- come outside)"
+  },
+  {
+   "verse": 154,
+   "ar": "ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടർ",
+   "en": "the group who"
+  },
+  {
+   "verse": 154,
+   "ar": "كُتِبَ عَلَيۡهِمُ",
+   "ml": "അവരുടെ മേൽ നിശ്ചയിക്ക (വിധിക്ക്- രേഖപ്പെടുത്ത)പ്പെട്ടിരിക്കുന്നു",
+   "en": "has been determined (decreed- recorded) upon them"
+  },
+  {
+   "verse": 154,
+   "ar": "ٱلۡقَتۡلُ",
+   "ml": "കൊല, കൊല്ലപ്പെടൽ",
+   "en": "killing, being killed"
+  },
+  {
+   "verse": 154,
+   "ar": "إِلَىٰ مَضَاجِعِهِمۡ",
+   "ml": "അവരുടെ കിടപ്പ് സ്ഥാനങ്ങളിലേക്ക്",
+   "en": "to their places of lying"
+  },
+  {
+   "verse": 154,
+   "ar": "وَلِيَبۡتَلِيَ",
+   "ml": "പരീക്ഷിക്കുവാൻ വേണ്ടിയും",
+   "en": "and in order to test"
+  },
+  {
+   "verse": 154,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 154,
+   "ar": "مَا فِي صُدُورِكُمۡ",
+   "ml": "നിങ്ങളുടെ നെഞ്ചു(ഹൃദയം- മനസ്സു)കളിലുള്ളത്",
+   "en": "what is in your breasts (hearts- minds)"
+  },
+  {
+   "verse": 154,
+   "ar": "وَلِيُمَحِّصَ",
+   "ml": "ശുദ്ധീകരിച്ചെടുക്കുവാനും",
+   "en": "and in order to purify"
+  },
+  {
+   "verse": 154,
+   "ar": "مَا فِي قُلُوبِكُمۡ",
+   "ml": "നിങ്ങളുടെ ഹൃദയങ്ങളിലുള്ളത്",
+   "en": "what is in your hearts"
+  },
+  {
+   "verse": 154,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹുവാകട്ടെ, അല്ലാഹു",
+   "en": "Allah, for His part, Allah"
+  },
+  {
+   "verse": 154,
+   "ar": "عَلِيمُۢ",
+   "ml": "അറിയുന്നവനാണ്",
+   "en": "is One who knows"
+  },
+  {
+   "verse": 154,
+   "ar": "بِذَاتِ ٱلصُّدُورِ",
+   "ml": "നെഞ്ചു(ഹൃദയം- മനസ്സു)കളിലുള്ളത്’",
+   "en": "what is in the breasts (hearts- minds)’"
+  },
+  {
+   "verse": 155,
+   "ar": "إِنَّ ٱلَّذِينَ",
+   "ml": "നിശ്ചയമായും യാതൊരുകൂട്ടർ",
+   "en": "surely the group who"
+  },
+  {
+   "verse": 155,
+   "ar": "تَوَلَّوۡاْ",
+   "ml": "അവർ തിരിഞ്ഞുകളഞ്ഞു",
+   "en": "they turned away"
+  },
+  {
+   "verse": 155,
+   "ar": "مِنكُمۡ",
+   "ml": "നിങ്ങളിൽ നിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 155,
+   "ar": "يَوۡمَ ٱلۡتَقَى",
+   "ml": "കണ്ടുമുട്ടിയ (കൂട്ടിമുട്ടിയ) ദിവസം",
+   "en": "on the day when met (clashed)"
+  },
+  {
+   "verse": 155,
+   "ar": "ٱلۡجَمۡعَانِ",
+   "ml": "രണ്ട് സംഘങ്ങൾ",
+   "en": "two bands"
+  },
+  {
+   "verse": 155,
+   "ar": "إِنَّمَا ٱسۡتَزَلَّهُمُ",
+   "ml": "അവരെ വഴി തെറ്റിക്കുവാൻ (കാലിടറിക്കുവാൻ) ശ്രമിച്ചിരിക്കയാണ്",
+   "en": "has only tried to lead them astray (make them stumble)"
+  },
+  {
+   "verse": 155,
+   "ar": "ٱلشَّيۡطَٰنُ",
+   "ml": "പിശാച്",
+   "en": "Satan"
+  },
+  {
+   "verse": 155,
+   "ar": "بِبَعۡضِ",
+   "ml": "ചിലത് നിമിത്തം",
+   "en": "because of some"
+  },
+  {
+   "verse": 155,
+   "ar": "مَا كَسَبُواْ",
+   "ml": "അവർ സമ്പാദിച്ച",
+   "en": "of what they earned"
+  },
+  {
+   "verse": 155,
+   "ar": "وَلَقَدۡ عَفَا",
+   "ml": "തീർച്ചയായും മാപ്പ് ചെയ്തിട്ടുണ്ട്",
+   "en": "surely has pardoned"
+  },
+  {
+   "verse": 155,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 155,
+   "ar": "عَنۡهُمۡ",
+   "ml": "അവർക്ക്, അവരെപ്പറ്റി",
+   "en": "to them, concerning them"
+  },
+  {
+   "verse": 155,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 155,
+   "ar": "غَفُورٌ",
+   "ml": "വളരെ പൊറുക്കുന്നവനാണ്",
+   "en": "is one who forgives much"
+  },
+  {
+   "verse": 155,
+   "ar": "حَلِيمٞ",
+   "ml": "സഹനശീലനാണ്.",
+   "en": "is Forbearing."
+  }
+ ]
+}
