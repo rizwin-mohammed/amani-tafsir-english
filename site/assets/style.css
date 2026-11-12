@@ -484,3 +484,24 @@ main.wide .duas { max-width: 1400px; margin: 0 auto; }
 .dua-count { margin: 0 0 4px; }
 .dua-lang { display: inline-flex; }
 .dua-refs-box > summary { cursor: pointer; font-family: var(--sans); font-weight: 600; color: var(--accent); padding: 8px 0; }
+
+/* Each dua: its new title, the old one under it, a share button, the story and benefits, and its own page */
+.dua h2 .dua-h-link { color: inherit; text-decoration: none; }
+.dua h2 .dua-h-link:hover, .dua h2 .dua-h-link:focus-visible { text-decoration: underline; }
+.dua-was { margin: -4px 0 8px; font-family: var(--sans); font-size: 0.9em; color: var(--muted); text-align: left; hyphens: none; }
+.dua-tools { margin: 6px 0 10px; }
+.dua-share { font: inherit; font-family: var(--sans); font-size: 0.88em; padding: 5px 12px; border-radius: 999px; border: 1px solid var(--accent); background: transparent; color: var(--accent); cursor: pointer; }
+.dua-share::before { content: "↗ "; }
+.dua-share:hover, .dua-share:focus-visible { background: var(--accent-soft); }
+.dua-share:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.dua-story { margin: 14px 0 10px; padding: 12px 14px; border-left: 3px solid var(--gold); background: var(--accent-soft); border-radius: 0 10px 10px 0; }
+.dua-story h3 { margin: 0 0 4px; font-family: var(--sans); font-size: 0.95em; color: var(--heading); }
+.dua-story h3 + p { margin-top: 0; }
+.dua-story ul.dua-benefits { margin: 4px 0 0; padding-left: 1.2em; }
+main .dua .dua-story p, main .dua .dua-story li { text-align: left; hyphens: none; -webkit-hyphens: none; font-size: 0.96em; }
+.dua-story li { margin: 4px 0; }
+.dua-more { font-family: var(--sans); font-size: 0.95em; margin-bottom: 0; }
+.dua-more a::after { content: " →"; }
+.dua-own .dua { margin-top: 8px; }
+.dua-full { margin: 22px 0; }
+.dua-full blockquote, .dua-full p { text-align: left; hyphens: none; }
