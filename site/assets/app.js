@@ -111,6 +111,17 @@
       copyText(url, 'Link copied. You can paste it to share this page.');
     });
   }
+  // A share button on each dua: shares that dua's own page.
+  document.querySelectorAll('button.dua-share').forEach((b) => {
+    b.addEventListener('click', async () => {
+      const url = location.origin + b.dataset.url;
+      const title = b.dataset.title;
+      if (navigator.share) {
+        try { await navigator.share({ title, text: title + ' · ' + SITE, url }); return; } catch (e) { if (e && e.name === 'AbortError') return; }
+      }
+      copyText(url, 'Link to this dua copied. You can paste it to share it.');
+    });
+  });
   function placeName(el) {
     const surah = article.dataset.surah + '. ' + article.dataset.title;
     if (el.tagName === 'TR') return surah + ', verse ' + el.id.split('-')[1];
