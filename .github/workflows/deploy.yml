@@ -31,6 +31,9 @@ jobs:
         run: npm run check
       - name: Build the site
         run: npm run build
+        env:
+          # Visit counter: counts are at https://rizwinmohammed.goatcounter.com
+          GOATCOUNTER: rizwinmohammed
       - name: Add the check report to the run summary
         if: always()
         run: cat check-report.md >> "$GITHUB_STEP_SUMMARY" || true
