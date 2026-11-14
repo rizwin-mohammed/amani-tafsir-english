@@ -95,8 +95,9 @@ function md(src, used = new Set()) {
 // Applies the reader's saved theme and text size before the page is drawn (no flash of the wrong theme).
 const THEME_JS = `(function(){var d=document.documentElement,s={};try{s=JSON.parse(localStorage.getItem('amani-tafsir:reader'))||{};if(!s.theme)s.theme=localStorage.getItem('amani-tafsir:theme');if(s.ml===undefined){var o=JSON.parse(localStorage.getItem('amani-tafsir:v1')||'{}');if(o&&o.prefs&&o.prefs.showMl===false)s.ml=false}}catch(e){}d.dataset.theme=s.theme==='dark'||s.theme==='sepia'?s.theme:'light';d.dataset.size=/^(xs|s|m|l|xl)$/.test(s.size)?s.size:'m';d.dataset.lh=/^(xs|s|m)$/.test(s.lh)?s.lh:'s';d.dataset.ar=/^(xs|s|m|l)$/.test(s.ar)?s.ar:'s';[['arText','ar'],['ml','ml'],['words','words'],['comm','comm']].forEach(function(k){if(s[k[0]]===false)d.classList.add('hide-'+k[1])})})()`;
 
-// Visit counter: GoatCounter (no cookies, nothing personal kept). Off until the site's GoatCounter code
-// is filled in here; it then counts visits to every page, so each surah and each dua page separately.
+// Visit counter: GoatCounter (no cookies, nothing personal kept). On when GOATCOUNTER is set (the publish
+// step in .github/workflows/deploy.yml sets it); it counts visits to every page, so each surah and each
+// dua page separately. Counts are at https://<GOATCOUNTER>.goatcounter.com
 const GOATCOUNTER = process.env.GOATCOUNTER ?? '';
 const GC_URL = /^[a-z0-9-]+$/.test(GOATCOUNTER) ? `https://${GOATCOUNTER}.goatcounter.com` : '';
 
