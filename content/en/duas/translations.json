@@ -1,0 +1,735 @@
+{
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin Chinese",
+      "native": "中文",
+      "dir": "ltr"
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "native": "हिन्दी",
+      "dir": "ltr"
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "native": "Español",
+      "dir": "ltr"
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "native": "Français",
+      "dir": "ltr"
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "native": "বাংলা",
+      "dir": "ltr"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "native": "Português",
+      "dir": "ltr"
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "native": "Bahasa Indonesia",
+      "dir": "ltr"
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "native": "اردو",
+      "dir": "rtl"
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "native": "Русский",
+      "dir": "ltr"
+    },
+    {
+      "code": "de",
+      "name": "Standard German",
+      "native": "Deutsch",
+      "dir": "ltr"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "native": "日本語",
+      "dir": "ltr"
+    },
+    {
+      "code": "pcm",
+      "name": "Nigerian Pidgin",
+      "native": "Naijá",
+      "dir": "ltr"
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "native": "Türkçe",
+      "dir": "ltr"
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "native": "தமிழ்",
+      "dir": "ltr"
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "native": "Kiswahili",
+      "dir": "ltr"
+    }
+  ],
+  "tr": {
+    "m1": {
+      "zh": "安拉，除祂外绝无应受崇拜的；祂是永生不灭的，是维护万物的；祂不打盹，也不睡觉；天地万物都是祂的……（每拜主命拜后诵读一遍，除死亡外无物能阻止其进入乐园；早晚及睡前诵读受安拉保护免遭恶魔侵害）。",
+      "hi": "अल्लाह, उसके सिवा कोई पूज्य नहीं, वह सदा जीवित और सबका थामने वाला है। उसे न ऊँघ आती है और न नींद... (प्रत्येक फ़र्ज़ नमाज़ के बाद पढ़ने वाले को जन्नत में प्रवेश करने से मृत्यु के सिवा कोई चीज़ नहीं रोकती, और सुबह-शाम व सोते समय पढ़ने से शैतान से सुरक्षा मिलती है)।",
+      "es": "\"Alá, no hay divinidad salvo Él, el Viviente, el Sustentador. No le toman la somnolencia ni el sueño...\" (Quien lo recita tras cada oración obligatoria, nada le impide entrar al Paraíso salvo la muerte; recitarlo por la mañana, tarde y al dormir protege contra el demonio).",
+      "fr": "« Allah ! Point de divinité à part Lui, le Vivant, Celui qui subsiste par Lui-même. Ni somnolence ni sommeil ne Le saisissent... » (Celui qui le récite après chaque prière obligatoire, rien ne l'empêche d'entrer au Paradis sinon la mort ; protection matin, soir et au coucher contre le diable).",
+      "bn": "\"আল্লাহ, তিনি ছাড়া কোনো সত্য উপাস্য নেই, তিনি চিরঞ্জীব, সর্বধারক। তন্দ্রা ও নিদ্রা তাঁকে স্পর্শ করে না...\" (প্রত্যেক ফরজ নামাজের পর পাঠ করলে মৃত্যু ছাড়া জান্নাতে প্রবেশের কোনো বাধা থাকে না; সকাল-সন্ধ্যা ও ঘুমানোর সময় পাঠ করলে শয়তান থেকে নিরাপদ থাকে)।",
+      "pt": "\"Allah! Não há divindade além d'Ele, o Vivente, o Sustentador. Não O tomam a sonolência nem o sono...\" (Quem o recita após cada oração obrigatória, nada o impede de entrar no Paraíso exceto a morte; protege contra o demônio de manhã, à tarde e ao dormir).",
+      "id": "\"Allah, tidak ada Tuhan yang berhak disembah melainkan Dia Yang Hidup kekal lagi terus-menerus mengurus makhluk-Nya; tidak mengantuk dan tidak tidur...\" (Barangsiapa membacanya setiap selesai shalat fardhu, tidak ada yang menghalanginya masuk surga selain kematian; dibaca pagi, petang, dan sebelum tidur untuk penjagaan dari setan).",
+      "ur": "\"اللہ، اس کے سوا کوئی معبودِ برحق نہیں، وہ ہمیشہ زندہ رہنے والا اور سب کو تھامنے والا ہے، اسے نہ اونگھ آتی ہے نہ نیند...\" (ہر فرض نماز کے بعد پڑھنے والے کے درمیان اور جنت کے درمیان موت کے سوا کوئی رکاوٹ نہیں، اور صبح و شام اور سوتے وقت پڑھنے سے شیطان سے حفاظت رہتی ہے)۔",
+      "ru": "«Аллах — нет божества, кроме Него, Живого, Вседержителя. Им не овладевают ни дремота, ни сон...» (Кто читает после каждой обязательной молитвы, тому ничто не помешает войти в Рай, кроме смерти; защита утром, вечером и перед сном).",
+      "de": "„Allah – es gibt keine Gottheit außer Ihm, dem Lebendigen und Beständigen. Ihn überkommt weder Schlummer noch Schlaf...\" (Wer ihn nach jedem Pflichtgebet rezitiert, den hindert nichts am Eintritt ins Paradies außer dem Tod; Schutz am Morgen, Abend und vor dem Schlafengehen).",
+      "ja": "「アッラー、かれの他に崇拝すべきものはなく、永遠に生き続け、万物を維持される御方。まどろみも眠りもかれを襲うことはない…」（毎回の義務の礼拝後に唱える者は、死以外に楽園に入ることを妨げるものはなく、朝夕と就寝時に唱えれば悪魔から守られます）。",
+      "pcm": "\"Allah, no god dey wey fit take worship pass Am, Na Im dey alive forever, Na Im dey hold everything. Sleep or slumber no dey catch Am...\" (Anybody wey read am after every compulsory prayer, nothing go stop am from entering Paradise except death; and e dey protect person from devil morning, evening and night).",
+      "tr": "\"Allah, O'ndan başka hak ilah yoktur; O الحي (Diri) ve القيوم (Her şeyi ayakta tutan)dır...\" (Her farz namazdan sonra okuyanın Cennete girmesine ölümden başka engel yoktur; sabah, akşam ve yatarken okuyanı şeytandan korur).",
+      "ta": "\"அல்லாஹ் - அவனைத் தவிர வணக்கத்திற்குரியவர் வேறு யாருமில்லை. அவன் நித்திய ஜீவன்; அனைத்தையும் நிலைநிறுத்துபவன்...\" (ஒவ்வொரு கடமையான தொழுகைக்குப் பிறகும் ஓதுபவரை சொர்க்கம் செல்வதிலிருந்து மரணத்தைத் தவிர வேறு எதுவும் தடுக்காது).",
+      "sw": "\"Mwenyezi Mungu, hapana mungu wa haki ila Yeye, Aliye hai, Msimamizi wa yote...\" (Anayoisoma baada ya kila swala ya faradhi, hakuna kinachomzuia kuingia Peponi isipokuwa kifo; ulinzi asubuhi, jioni na wakati wa kulala)."
+    },
+    "m2": {
+      "zh": "早晚各诵读《忠诚章》（112）、《曙光章》（113）、《世人章》（114）三遍，足以保护你免受一切伤害。",
+      "hi": "सुबह और शाम सूरह अल-इख़लास, अल-फ़लक़ और अन-नास तीन-तीन बार पढ़ना हर चीज़ (हर बुराई) से आपकी रक्षा के लिए काफ़ी होगा।",
+      "es": "Recitar Surah Al-Ikhlas, Al-Falaq y An-Nas tres veces por la mañana y por la tarde te bastará como protección contra todo mal.",
+      "fr": "Réciter les sourates Al-Ikhlas, Al-Falaq et An-Nas trois fois matin et soir te suffira contre toute chose nuisible.",
+      "bn": "সকাল ও সন্ধ্যায় সূরা ইখলাস, ফালাক ও নাস তিনবার করে পাঠ করলে তা সব ক্ষতিকর জিনিস থেকে তোমার জন্য যথেষ্ট হবে।",
+      "pt": "Recitar as Suratas Al-Ikhlas, Al-Falaq e An-Nas três vezes pela manhã e à tarde será suficiente para protegê-lo contra tudo.",
+      "id": "Membaca Surah Al-Ikhlas, Al-Falaq, dan An-Nas tiga kali pada waktu pagi dan petang akan mencukupimu (melindungimu) dari segala sesuatu yang membahayakan.",
+      "ur": "صبح اور شام سورة الاخلاص، الفلق اور الناس تین تین بار پڑھنا تمہیں ہر چیز (ہر شر اور نقصان) سے بچانے کے لیے کافی ہوگا۔",
+      "ru": "Чтение сур «Аль-Ихляс», «Аль-Фаляк» и «Ан-Нас» по три раза утром и вечером защитит тебя от всякого зла.",
+      "de": "Das dreimalige Rezitieren der Suren Al-Ikhlas, Al-Falaq und An-Nas am Morgen und am Abend genügt dir als Schutz vor allem Übel.",
+      "ja": "朝と夕方に純正章（112章）、黎明章（113章）、人々章（114章）を3回ずつ唱えれば、あらゆる害悪からあなたを守るのに十分です。",
+      "pcm": "If you read Surah Al-Ikhlas, Al-Falaq, and An-Nas three times for morning and evening, e go reach to protect you from every bad thing.",
+      "tr": "Sabah ve akşam İhlâs, Felak ve Nâs surelerini üçer defa okumak her şeye (her türlü kötülüğe) karşı sana yeter.",
+      "ta": "காலையிலும் மாலையிலும் சூரா இக்லாஸ், ஃபலக், நாஸ் ஆகியவற்றை மும்மூன்று முறை ஓதுவது அனைத்துத் தீங்குகளிலிருந்தும் உங்களுக்குப் போதுமான பாதுகாப்பாகும்.",
+      "sw": "Kusoma Surah Al-Ikhlas, Al-Falaq na An-Nas mara tatu asubuhi na jioni kutakutosheleza dhidi ya kila jambo baya."
+    },
+    "m3": {
+      "zh": "\"我们进入了清晨（夜晚），一切主权归于安拉，一切赞颂归于安拉。除独一无偶的安拉外，绝无应受崇拜的。我的主啊，我向祢祈求今日（今夜）及其后的善好，求祢保佑我免遭今日（今夜）及其后的邪恶、懒惰、晚年凄凉以及火狱和坟墓的刑罚。\"",
+      "hi": "\"हमने सुबह (शाम) में प्रवेश किया और सारा राज्य और सारी प्रशंसा अल्लाह के लिए है... ऐ मेरे रब! मैं तुझसे आज के दिन की और उसके बाद की भलाई माँगता हूँ, और आलस्य, बुढ़ापे की कमज़ोरी, जहन्नम और क़ब्र के अज़ाब से तेरी पनाह माँगता हूँ।\"",
+      "es": "\"Hemos entrado en la mañana (tarde) y el dominio pertenece a Alá... Mi Señor, te pido el bien de este día y me refugio en Ti de la pereza, la decrepitud y el castigo del Fuego y de la tumba.\"",
+      "fr": "« Nous sommes au matin et la royauté appartient à Allah... Seigneur, je me réfugie auprès de Toi contre la paresse, la sénilité et le châtiment du Feu et de la tombe. »",
+      "bn": "\"আমরা সকালে উপনীত হয়েছি এবং সার্বভৌমত্ব আল্লাহর জন্য... হে আমার রব! আমি আপনার কাছে অলসতা, বার্ধক্যের গ্লানি এবং জাহান্নাম ও কবরের আজাব থেকে আশ্রয় চাই।\"",
+      "pt": "\"Amanhecemos e a soberania pertence a Allah... Meu Senhor, busco refúgio em Ti contra a preguiça, a velhice penosa e o tormento do Fogo e do túmulo.\"",
+      "id": "\"Kami memasuki waktu pagi dan kerajaan hanya milik Allah... Ya Tuhanku, aku berlindung kepada-Mu dari kemalasan, kepikunan, serta siksa neraka dan kubur.\"",
+      "ur": "\"ہم نے صبح کی اور ساری بادشاہی اللہ کے لیے ہے... اے میرے رب! میں سستی، بڑھاپے کی برائی، اور دوزخ و قبر کے عذاب سے تیری پناہ مانگتا ہوں۔\"",
+      "ru": "«Мы дожили до утра, и вся власть принадлежит Аллаху... Господи, прибегаю к Тебе от лени, дряхлости и мучений в Огне и могиле».",
+      "de": "„Wir haben den Morgen erreicht und die Herrschaft gehört Allah... Mein Herr, ich suche Zuflucht bei Dir vor Trägheit, Gebrechlichkeit und der Strafe des Feuers und des Grabes.\"",
+      "ja": "「私たちは朝を迎え、すべての主権はアッラーに属します…主よ、怠惰、老いの苦しみ、業火と墓の懲罰からあなたに保護を求めます。」",
+      "pcm": "\"We don enter morning and all power belong to Allah... My Lord, I beg You make You protect me from laziness, old age wahala, and punishment for Hellfire and grave.\"",
+      "tr": "\"Sabaha erdik ve mülk Allah'ındır...\"",
+      "ta": "\"நாங்கள் காலையை அடைந்தோம், ஆட்சியதிகாரம் அல்லாஹ்வுக்கே உரியது...\"",
+      "sw": "\"Tumeingia asubuhi na ufalme ni wa Mwenyezi Mungu...\""
+    },
+    "m4": {
+      "zh": "\"安拉足以襄助我，除祂外绝无应受崇拜的；我只信托祂，祂是伟大宝座的主。\"（早晚7遍）。",
+      "hi": "\"मेरे लिए अल्लाह काफ़ी है, उसके सिवा कोई पूज्य नहीं, उसी पर मैंने भरोसा किया और वह महान अर्श (सिंहासन) का रब है।\" (सुबह-शाम 7 बार)।",
+      "es": "\"Alá me basta; no hay divinidad salvo Él; en Él confío y Él es el Señor del Trono Supremo.\" (7 veces).",
+      "fr": "« Allah me suffit, il n'y a de divinité que Lui, en Lui je place ma confiance et Il est le Seigneur du Trône immense » (7 fois).",
+      "bn": "\"আল্লাহই আমার জন্য যথেষ্ট, তিনি ছাড়া কোনো উপাস্য নেই, তাঁরই ওপর আমি ভরসা করি এবং তিনি মহান আরশের রব\" (৭ বার)।",
+      "pt": "\"Allah me basta; não há divindade além d'Ele; n'Ele confio\" (7x).",
+      "id": "\"Cukuplah Allah bagiku, tiada Tuhan selain Dia, hanya kepada-Nya aku bertawakal\" (7x).",
+      "ur": "\"میرے لیے اللہ کافی ہے، اس کے سوا کوئی معبود نہیں، اسی پر میں نے بھروسہ کیا اور وہ عرشِ عظیم کا رب ہے\" (7 بار)۔",
+      "ru": "«Достаточно мне Аллаха, нет божества, кроме Него, на Него я уповаю» (7 раз).",
+      "de": "„Allah genügt mir; es gibt keinen Gott außer Ihm; auf Ihn vertraue ich\" (7x).",
+      "ja": "「アッラーは私に十分であり、かれの他に崇拝すべきものはありません」（7回）。",
+      "pcm": "\"Allah reach for me; no god dey pass Am; na Im I put my trust\" (7x).",
+      "tr": "\"Allah bana yeter, O'ndan başka ilah yoktur\" (7x)",
+      "ta": "\"எனக்கு அல்லாஹ்வே போதுமானவன்\" (7x)",
+      "sw": "\"Mwenyezi Mungu ananitosha, hapana mungu ila Yeye\" (7x)"
+    },
+    "m5": {
+      "zh": "\"我们本着伊斯兰的天性、虔诚的言辞（清真言）、我们的先知穆罕默德（ﷺ）的宗教以及我们的祖先易卜拉欣的正道进入清晨（夜晚）。\"",
+      "hi": "\"हमने इस्लाम की फ़ितरत (प्रकृति), इख़लास के कलमे, हमारे नबी मुहम्मद (ﷺ) के दीन और हमारे पिता इब्राहीम (अलैहिस्सलाम) के तरीक़े पर सुबह (शाम) की।\"",
+      "es": "\"Hemos amanecido sobre la naturaleza primordial del Islam...\"",
+      "fr": "« Nous voici au matin sur la saine nature de l'Islam... »",
+      "bn": "\"আমরা ইসলামের ফিতরাত ও ইখলাসের বাণীর ওপর সকালে উপনীত হয়েছি...\""
+    },
+    "m6": {
+      "zh": "\"主啊！我向祢祈求今世和后世的宽恕与平安；求祢在我的宗教、世俗生活、家庭和财产中赐予我宽恕与平安；求祢遮掩我的过失，平息我的恐惧，从我的前后左右和上方保护我，并凭祢的伟大求祢保佑我不致从下方遭受突如其来的毁灭。\"",
+      "hi": "\"ऐ अल्लाह! मैं तुझसे दुनिया और आख़िरत में माफ़ी और आफ़ियत (कुशलता) माँगता हूँ; मेरे दीन, दुनिया, परिवार और धन में आफ़ियत दे; मेरे दोषों को ढक दे, मेरे भय को शांति में बदल दे, और आगे-पीछे, दाएँ-बाएँ, ऊपर-नीचे हर ओर से मेरी रक्षा कर।\"",
+      "es": "\"¡Oh Alá! Te pido el perdón y el bienestar en esta vida y en la Otra, en mi religión, mi vida mundana, mi familia y mis bienes...\"",
+      "fr": "« Ô Allah, je Te demande le pardon et la préservation dans ce monde et dans l'au-delà, dans ma religion, ma vie, ma famille et mes biens... »",
+      "bn": "\"হে আল্লাহ! আমি আপনার কাছে দুনিয়া ও আখিরাতে ক্ষমা ও নিরাপত্তা চাই; আমার দ্বীন, দুনিয়া, পরিবার ও সম্পদে নিরাপত্তা দিন...\"",
+      "pt": "\"Ó Allah, peço-Te o perdão e o bem-estar neste mundo e no Outro...\"",
+      "id": "\"Ya Allah, aku memohon ampunan dan keselamatan di dunia dan akhirat, pada agamaku, duniaku, keluargaku, dan hartaku...\"",
+      "ur": "\"اے اللہ! میں تجھ سے دنیا اور آخرت میں معافی اور عافیت مانگتا ہوں، میرے دین، دنیا، اہل و عیال اور مال میں عافیت عطا فرما...\"",
+      "ru": "«О Аллах, прошу у Тебя прощения и благополучия в этом мире и в Вечности...»",
+      "de": "„O Allah, ich bitte Dich um Vergebung und Wohlergehen im Diesseits und Jenseits...\"",
+      "ja": "「アッラーよ、現世と来世における赦しと安寧を願います…」",
+      "pcm": "\"O Allah, I beg You for forgiveness and peace for this world and Hereafter, for my religion, my life, my family and my property...\"",
+      "tr": "\"Allah'ım! Dünya ve ahirette af ve afiyet dilerim...\"",
+      "ta": "\"யா அல்லாஹ்! இம்மையிலும் மறுமையிலும் மன்னிப்பையும் நலனையும் வேண்டுகிறேன்...\"",
+      "sw": "\"Ee Allah, nakuomba msamaha na afya duniani na Akhera...\""
+    },
+    "m7": {},
+    "m8": {
+      "zh": "\"主啊！凭着祢我们进入清晨和夜晚，凭着祢我们生存和死亡，向着祢是复活（归宿）。\"",
+      "hi": "\"ऐ अल्लाह! तेरी ही मदद से हमने सुबह और शाम की, तेरे ही नाम पर हम जीते और मरते हैं और तेरी ही ओर लौटना है।\"",
+      "es": "\"¡Oh Alá! Por Ti amanecemos y anochecemos, por Ti vivimos y morimos...\""
+    },
+    "m9": {
+      "zh": "\"主啊！今晨我或祢的任何被造物所获得的任何恩典，都独出于祢；一切赞颂和感谢都归于祢。\"",
+      "hi": "\"ऐ अल्लाह! आज सुबह मुझे या तेरी सृष्टि में से किसी को जो भी नेमत मिली है, वह केवल तेरी ओर से है।\""
+    },
+    "m10": {
+      "zh": "\"主啊！求祢赐予我身体、听觉和视觉的康健；求祢保佑我免遭悖信、贫穷和坟墓的刑罚。\"（早晚3遍）。",
+      "hi": "\"ऐ अल्लाह! मेरे शरीर, मेरे कान और मेरी आँखों में आफ़ियत (स्वास्थ्य) प्रदान कर, और कुफ़्र, ग़रीबी तथा क़ब्र के अज़ाब से मेरी रक्षा कर।\" (3 बार)।",
+      "es": "\"¡Oh Alá! Concédeme salud en mi cuerpo, en mi oído y en mi vista, y me refugio en Ti de la incredulidad, la pobreza y el castigo de la tumba\" (3 veces).",
+      "fr": "« Ô Allah, accorde-moi la santé dans mon corps, mon ouïe et ma vue, et je cherche refuge auprès de Toi contre la mécréance, la pauvreté et le châtiment de la tombe » (3 fois).",
+      "bn": "\"হে আল্লাহ! আমার দেহে, শ্রবণে ও দৃষ্টিতে সুস্থতা দিন এবং কুফর, দারিদ্র্য ও কবরের আজাব থেকে আমাকে রক্ষা করুন\" (৩ বার)।",
+      "pt": "\"Ó Allah, concede-me saúde no corpo, na audição e na visão, e protege-me da descrença, da pobreza e do castigo do túmulo\" (3x).",
+      "id": "\"Ya Allah, sehatkanlah badanku, pendengaranku, dan penglihatanku, serta lindungilah aku dari kekufuran, kefakiran, dan siksa kubur\" (3x).",
+      "ur": "\"اے اللہ! میرے بدن، میرے کان اور میری آنکھوں میں عافیت دے اور کفر، محتاجی اور عذابِ قبر سے بچا\" (3 بار)۔",
+      "ru": "«О Аллах, исцели моё тело, мой слух и моё зрение и защити меня от неверия, бедности и мучений могилы» (3 раза).",
+      "de": "„O Allah, schenke mir Gesundheit an meinem Körper, meinem Gehör und meinem Augenlicht\" (3x).",
+      "ja": "「アッラーよ、私の身体、聴覚、視覚に健康をお与えください」（3回）。",
+      "pcm": "\"O Allah, give me good health for my body, my ear, and my eye, and protect me from unbelief, poverty, and grave punishment\" (3x).",
+      "tr": "\"Allah'ım! Bedenime, kulağıma ve gözüme afiyet ver\" (3x).",
+      "ta": "\"யா அல்லாஹ்! என் உடலிலும் செவியிலும் பார்வையிலும் ஆரோக்கியத்தை வழங்குவாயாக\" (3x).",
+      "sw": "\"Ee Allah, nipe afya katika mwili wangu, masikio yangu na macho yangu\" (3x)."
+    },
+    "m11": {
+      "zh": "\"主啊！祢是我的养主，除祢外绝无应受崇拜的。祢创造了我，我是祢的仆人，我尽己所能信守对祢的盟约和许诺。我求祢保佑我免遭我所做之恶；我向祢承认祢对我的恩典，也向祢忏悔我的罪过，求祢饶恕我，因为除祢之外绝无能饶恕罪过的。\"（白天坚信诵读而在入夜前去世者入乐园；夜间坚信诵读而在天亮前去世者入乐园）。",
+      "hi": "\"ऐ अल्लाह! तू मेरा रब है, तेरे सिवा कोई पूज्य नहीं। तूने मुझे पैदा किया और मैं तेरा बंदा हूँ, और अपनी शक्ति भर तेरे वचन और वादे पर क़ायम हूँ। मैंने जो कुछ किया उसकी बुराई से तेरी पनाह माँगता हूँ, अपने ऊपर तेरी नेमत का इक़रार करता हूँ और अपने गुनाह का इक़रार करता हूँ, अतः मुझे बख़्श दे क्योंकि तेरे सिवा कोई गुनाहों को नहीं बख़्शता।\" (विश्वास के साथ सुबह या शाम पढ़ने वाला यदि उसी दिन या रात मृत्यु को प्राप्त हो तो जन्नत में जाएगा)।",
+      "es": "\"¡Oh Alá! Tú eres mi Señor, no hay divinidad salvo Tú. Me creaste y soy Tu siervo... Reconozco Tus bendiciones sobre mí y confieso mi pecado; perdóname, pues nadie perdona los pecados sino Tú.\" (Quien lo dice con convicción por la mañana o noche y muere entra al Paraíso).",
+      "fr": "« Ô Allah, Tu es mon Seigneur, point de divinité à part Toi. Tu m'as créé et je suis Ton serviteur... Je reconnais Tes bienfaits sur moi et je reconnais mon péché ; pardonne-moi car nul ne pardonne les péchés sinon Toi. »",
+      "bn": "\"হে আল্লাহ! আপনি আমার রব, আপনি ছাড়া কোনো উপাস্য নেই। আপনি আমাকে সৃষ্টি করেছেন এবং আমি আপনার বান্দা... আমি আমার প্রতি আপনার নেয়ামত ও আমার পাপের কথা স্বীকার করছি; অতএব আমাকে ক্ষমা করুন, কেননা আপনি ছাড়া কেউ পাপ ক্ষমা করতে পারে না।\"",
+      "pt": "\"Ó Allah, Tu és meu Senhor, não há divindade além de Ti. Criaste-me e sou Teu servo... perdoa-me, pois ninguém perdoa os pecados senão Tu.\"",
+      "id": "\"Ya Allah, Engkau adalah Tuhanku, tiada Tuhan yang berhak disembah selain Engkau. Engkau telah menciptakanku dan aku adalah hamba-Mu... Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku, maka ampunilah aku.\"",
+      "ur": "\"اے اللہ! تو میرا رب ہے، تیرے سوا کوئی معبود نہیں۔ تو نے مجھے پیدا کیا اور میں تیرا بندہ ہوں... میں اپنے اوپر تیری نعمت کا اقرار کرتا ہوں اور اپنے گناہ کا اقرار کرتا ہوں، پس مجھے بخش دے۔\"",
+      "ru": "«О Аллах, Ты — Господь мой, нет божества, кроме Тебя; Ты сотворил меня, а я — Твой раб... признаю Твою милость и свои грехи, прости же меня!»",
+      "de": "„O Allah, Du bist mein Herr, es gibt keinen Gott außer Dir. Du hast mich erschaffen und ich bin Dein Diener... vergib mir, denn niemand vergibt die Sünden außer Dir.\"",
+      "ja": "「アッラーよ、あなたは私の主であり、あなたの他に崇拝すべきものはありません…あなたの恩恵を認め、私の罪を認めますので、私をお赦しください。」",
+      "pcm": "\"O Allah, Na You be my Lord, no god dey pass You. Na You create me and I be Your servant... I gree say You bless me plenty and I confess my sin, so make You forgive me.\"",
+      "tr": "\"Allah'ım! Sen benim Rabbimsin... Nimetini ve günahımı kabul ediyorum, beni bağışla.\"",
+      "ta": "\"யா அல்லாஹ்! நீயே என் இறைவன்... என் பாவங்களை மன்னிப்பாயாக.\"",
+      "sw": "\"Ee Allah, Wewe ni Mola wangu... nisamehe madhambi yangu.\""
+    },
+    "m12": {
+      "zh": "\"主啊，幽玄和明显的全知者，求祢保佑我免遭自我的邪恶和恶魔及其举伴的邪恶。\"",
+      "hi": "\"ऐ ग़ैब और हाज़िर के जानने वाले अल्लाह! मुझे मेरे नफ़्स और शैतान की बुराई से बचा।\""
+    },
+    "m13": {
+      "zh": "\"我欣然接受安拉为主，伊斯兰为宗教，穆罕默德（ﷺ）为先知\"（3遍）。",
+      "hi": "\"मैं अल्लाह के रब होने, इस्लाम के दीन होने और मुहम्मद (ﷺ) के नबी होने पर राज़ी हूँ\" (3 बार)।",
+      "es": "\"Estoy complacido con Alá como Señor, con el Islam como religión y con Muhammad (ﷺ) como Profeta\" (3x).",
+      "fr": "« J'agrée Allah comme Seigneur, l'Islam comme religion et Muhammad (ﷺ) comme Prophète » (3x).",
+      "bn": "\"আমি আল্লাহকে রব হিসেবে, ইসলামকে দ্বীন হিসেবে এবং মুহাম্মাদ (ﷺ)-কে নবী হিসেবে সন্তুষ্টচিত্তে মেনে নিয়েছি\" (৩ বার)।",
+      "pt": "\"Estou satisfeito com Allah como Senhor, com o Islã como religião e com Muhammad (ﷺ) como Profeta\" (3x).",
+      "id": "\"Aku ridha Allah sebagai Tuhan, Islam sebagai agama, dan Muhammad (ﷺ) sebagai Nabi\" (3x).",
+      "ur": "\"میں اللہ کے رب ہونے، اسلام کے دین ہونے اور محمد (ﷺ) کے نبی ہونے پر راضی ہوں\" (3 بار)۔",
+      "ru": "«Я доволен Аллахом как Господом, Исламом как религией и Мухаммадом (ﷺ) как Пророком» (3 раза).",
+      "de": "„Ich bin zufrieden mit Allah als Herrn, dem Islam als Religion und Muhammad (ﷺ) als Propheten\" (3x).",
+      "ja": "「私はアッラーを主として、イスラームを宗教として、ムハンマド（ﷺ）を預言者として満足しています」（3回）。",
+      "pcm": "\"My belle sweet with Allah as my Lord, Islam as my religion, and Muhammad (ﷺ) as my Prophet\" (3x).",
+      "tr": "\"Rab olarak Allah'tan, din olarak İslam'dan, Peygamber olarak Muhammed'den (ﷺ) razı oldum\" (3x).",
+      "ta": "\"அல்லாஹ்வை இறைவனாகவும், இஸ்லாத்தை மார்க்கமாகவும், முஹம்மது (ﷺ) அவர்களை நபியாகவும் நான் மனப்பூர்வமாக ஏற்றுக்கொண்டேன்\" (3x).",
+      "sw": "\"Nimeridhia Allah kuwa Mola wangu, Uislamu kuwa dini yangu, na Muhammad (ﷺ) kuwa Nabii wangu\" (3x)."
+    },
+    "m14": {
+      "zh": "\"奉安拉之名，伴随祂的名号，天地间没有任何事物能造成伤害，祂是全聪的、全知的\"（3遍）。",
+      "hi": "\"अल्लाह के नाम के साथ जिसके नाम की बरकत से ज़मीन और आसमान में कोई चीज़ नुक़सान नहीं पहुँचा सकती\" (3 बार)।",
+      "es": "\"En el nombre de Alá, con cuyo nombre nada en la tierra ni en el cielo puede causar daño\" (3x).",
+      "fr": "« Au nom d'Allah avec le nom Duquel rien sur terre ni au ciel ne peut nuire » (3x).",
+      "bn": "\"আল্লাহর নামে, যাঁর নামের সাথে আসমান ও জমিনে কোনো কিছুই ক্ষতি করতে পারে না\" (৩ বার)।",
+      "pt": "\"Em nome de Allah, com cujo nome nada na terra ou no céu pode causar dano\" (3x).",
+      "id": "\"Dengan nama Allah yang bila disebut nama-Nya tidak ada sesuatu pun di bumi dan di langit yang dapat membahayakan\" (3x).",
+      "ur": "\"اللہ کے نام کے ساتھ جس کے نام کی برکت سے زمین و آسمان میں کوئی چیز نقصان نہیں پہنچا سکتی\" (3 بار)۔",
+      "ru": "«С именем Аллаха, с именем Которого ничто не причинит вреда ни на земле, ни на небе» (3 раза).",
+      "de": "„Im Namen Allahs, mit Dessen Namen nichts auf der Erde und im Himmel schaden kann\" (3x).",
+      "ja": "「その御名とともにあれば天地のいかなるものも害を及ぼすことのできないアッラーの御名において」（3回）。",
+      "pcm": "\"With the Name of Allah wey nothing for earth or sky fit do bad thing when person call Am\" (3x)."
+    },
+    "m15": {
+      "zh": "\"除独一无偶的安拉外绝无应受崇拜的，主权和赞颂归于祂，祂是全能于万物的\"（10遍或100遍）。"
+    },
+    "m16": {},
+    "m17": {
+      "zh": "\"主啊，我向祢祈求有益的知识、纯洁的给养和蒙接纳的善功\"（晨礼后）。",
+      "hi": "\"ऐ अल्लाह! मैं तुझसे लाभदायक ज्ञान, पाक रोज़ी और क़बूल होने वाले अमल का सवाल करता हूँ\" (फ़ज्र के बाद)।",
+      "es": "\"¡Oh Alá! Te pido conocimiento beneficioso, sustento puro y obras aceptadas\" (tras el Fajr).",
+      "fr": "« Ô Allah, je Te demande une science utile, une subsistance pure et une œuvre acceptée. »",
+      "bn": "\"হে আল্লাহ! আমি আপনার কাছে উপকারী ইলম, পবিত্র রিজিক এবং কবুলযোগ্য আমল প্রার্থনা করছি\" (ফজরের পর)।",
+      "pt": "\"Ó Allah, peço-Te conhecimento benéfico, sustento puro e obras aceitas.\"",
+      "id": "\"Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima.\"",
+      "ur": "\"اے اللہ! میں تجھ سے نفع بخش علم، پاکیزہ رزق اور مقبول عمل کا سوال کرتا ہوں۔\"",
+      "ru": "«О Аллах, прошу у Тебя полезного знания, благого удела и принимаемых деяний».",
+      "de": "„O Allah, ich bitte Dich um nützliches Wissen, gute Versorgung und angenommene Taten.\"",
+      "ja": "「アッラーよ、有益な知識と清らかな糧と受け入れられる善行を願います。」",
+      "pcm": "\"O Allah, I beg You for knowledge wey go help me, clean provision, and good work wey You go accept.\"",
+      "tr": "\"Allah'ım! Senden faydalı ilim, temiz rızık ve kabul edilen amel dilerim.\"",
+      "ta": "\"யா அல்லாஹ்! பயனுள்ள கல்வியையும், தூய்மையான வாழ்வாதாரத்தையும், ஏற்றுக்கொள்ளப்படும் நற்செயல்களையும் உன்னிடம் வேண்டுகிறேன்.\"",
+      "sw": "\"Ee Allah, nakuomba elimu yenye manufaa, riziki iliyo njema, na amali inayokubaliwa.\""
+    },
+    "m18": {
+      "zh": "\"永生不灭、维护万物的主啊，凭祢的仁慈我向祢求救，求祢改善我的一切事务，哪怕一眨眼也不要让我依赖自己。\"",
+      "hi": "\"या हय्यु या क़य्यूम! अपनी रहमत से मेरी मदद कर और पलक झपकने के बराबर भी मुझे मेरे नफ़्स के हवाले न कर।\"",
+      "es": "\"¡Oh Viviente, Oh Sustentador! Por Tu misericordia busco auxilio; corrige todos mis asuntos y no me abandones a mí mismo ni un parpadeo.\"",
+      "fr": "« Ô Vivant, Ô Subsistant, par Ta miséricorde j'implore secours ; réforme toutes mes affaires et ne me livre pas à moi-même le temps d'un clin d'œil. »",
+      "bn": "\"ইয়া হাইয়্যু ইয়া কাইয়্যুম! আপনার রহমতের উসিলায় সাহায্য চাইছি; আমার সমস্ত কাজ সংশোধন করে দিন এবং চোখের পলকের জন্যও আমাকে আমার নফসের ওপর ছেড়ে দেবেন না।\"",
+      "pt": "\"Ó Vivente, Ó Sustentador, por Tua misericórdia busco socorro; corrige todos os meus assuntos.\"",
+      "id": "\"Wahai Yang Maha Hidup lagi Maha Berdiri Sendiri, dengan rahmat-Mu aku memohon pertolongan, perbaikilah seluruh urusanku dan jangan serahkan aku kepada diriku sendiri walau sekejap mata.\"",
+      "ur": "\"یا حی یا قیوم! تیری رحمت کے وسیلے سے مدد مانگتا ہوں، میرے تمام معاملات درست فرما دے اور پلک جھپکنے کے برابر بھی مجھے میرے نفس کے حوالے نہ کر۔\"",
+      "ru": "«О Живой, О Вседержитель! К Твоей милости взываю о помощи: приведи в порядок все мои дела и не доверяй меня душе моей ни на мгновение ока»."
+    },
+    "m19": {
+      "zh": "\"赞美安拉超绝万物：如祂被造物的数量、祂自身的喜悦、祂宝座的重量和祂言辞的墨水\"（早3遍）。"
+    },
+    "m20": {
+      "zh": "\"我求庇于安拉完美的言辞，免遭祂所造之物的邪恶\"（晚3遍）。"
+    },
+    "m21": {},
+    "m22": {},
+    "m23": {},
+    "m24": {
+      "hi": "\"सुब्हानल्लाहि व बिहम्दिही, सुब्हानल्लाहिल-अज़ीम\" (ज़ुबान पर हल्के, तराज़ू में भारी और रहमान को अत्यंत प्रिय दो कलमे)।"
+    },
+    "m25": {},
+    "m26": {},
+    "m27": {},
+    "m28": {},
+    "s1": {
+      "zh": "\"主啊！我求祢保佑我免遭无益的知识、不敬畏的心、不知足的灵魂和不被应答的祈祷。\"",
+      "hi": "\"ऐ अल्लाह! मैं ऐसे ज्ञान से तेरी पनाह माँगता हूँ जो लाभ न दे, ऐसे दिल से जो झुके नहीं (डरे नहीं), ऐसे नफ़्स से जो तृप्त न हो, और ऐसी दुआ से जो सुनी न जाए।\"",
+      "es": "\"¡Oh Alá! Me refugio en Ti del conocimiento que no beneficia, del corazón que no se humilla, del alma insaciable y de la súplica que no es escuchada.\"",
+      "fr": "« Ô Allah, je cherche refuge auprès de Toi contre une science inutile, un cœur qui ne s'humilie pas, une âme insatiable et une invocation qui n'est pas exaucée. »",
+      "bn": "\"হে আল্লাহ! আমি আপনার কাছে আশ্রয় চাই উপকারহীন ইলম থেকে, ভীতিহীন হৃদয় থেকে, অতৃপ্ত আত্মা থেকে এবং এমন দোয়া থেকে যা কবুল হয় না।\"",
+      "pt": "\"Ó Allah, busco refúgio em Ti contra o conhecimento que não beneficia, o coração que não se humilha, a alma que não se sacia e a súplica que não é atendida.\"",
+      "id": "\"Ya Allah, aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat, hati yang tidak khusyuk, jiwa yang tidak pernah puas, dan doa yang tidak dikabulkan.\"",
+      "ur": "\"اے اللہ! میں تیری پناہ مانگتا ہوں ایسے علم سے جو نفع نہ دے، ایسے دل سے جو نہ جھکے، ایسے نفس سے جو سیر نہ ہو، اور ایسی دعا سے جو قبول نہ ہو۔\"",
+      "ru": "«О Аллах, прибегаю к Тебе от бесполезного знания, несмиренного сердца, ненасытной души и мольбы, которая остаётся без ответа».",
+      "de": "„O Allah, ich suche Zuflucht bei Dir vor nutzlosem Wissen, einem Herzen ohne Demut, einer unersättlichen Seele und einem Bittgebet, das nicht erhört wird.\"",
+      "ja": "「アッラーよ、有益でない知識、畏れない心、満たされない魂、そして聞き入れられない祈りからあなたに保護を求めます。」",
+      "pcm": "\"O Allah, I beg make You protect me from knowledge wey no get benefit, heart wey no dey fear You, belle/soul wey no dey satisfy, and prayer wey You no go answer.\"",
+      "tr": "\"Allah'ım! Fayda vermeyen ilimden, huşu duymayan kalpten, doymayan nefisten ve kabul olunmayan duadan Sana sığınırım.\"",
+      "ta": "\"யா அல்லாஹ்! பயனளிக்காத கல்வியிலிருந்தும், பணிவில்லாத உள்ளத்திலிருந்தும், திருப்தியடையாத மனதிலிருந்தும், ஏற்றுக்கொள்ளப்படாத பிரார்த்தனையிலிருந்தும் உன்னிடம் பாதுகாவல் தேடுகிறேன்.\"",
+      "sw": "\"Ee Allah, najikinga Kwako kutokana na elimu isiyofaa, moyo usionyenyekea, nafsi isiyoshiba na dua isiyojibiwa.\""
+    },
+    "s2": {
+      "zh": "\"主啊！求祢帮助我记念祢、感谢祢并完美地崇拜祢。\"",
+      "hi": "\"ऐ अल्लाह! अपने ज़िक्र, अपने शुक्र और अपनी बेहतरीन इबादत पर मेरी मदद फ़रमा।\"",
+      "es": "\"¡Oh Alá! Ayúdame a recordarte, agradecerte y adorarte de la mejor manera.\"",
+      "fr": "« Ô Allah, aide-moi à T'invoquer, à Te remercier et à T'adorer de la meilleure manière. »",
+      "bn": "\"হে আল্লাহ! আপনাকে স্মরণ করার, আপনার শুকরিয়া আদায় করার এবং উত্তমরূপে আপনার ইবাদত করার ব্যাপারে আমাকে সাহায্য করুন।\"",
+      "pt": "\"Ó Allah, ajuda-me a lembrar-Te, agradecer-Te e adorar-Te da melhor forma.\"",
+      "id": "\"Ya Allah, bantulah aku untuk mengingat-Mu, bersyukur kepada-Mu, dan beribadah dengan baik kepada-Mu.\"",
+      "ur": "\"اے اللہ! اپنے ذکر، اپنے شکر اور اپنی بہترین عبادت پر میری مدد فرما۔\"",
+      "ru": "«О Аллах, помоги мне поминать Тебя, благодарить Тебя и наилучшим образом поклоняться Тебе».",
+      "de": "„O Allah, hilf mir, Deiner zu gedenken, Dir zu danken und Dir auf beste Weise zu dienen.\"",
+      "ja": "「アッラーよ、あなたを念じ、あなたに感謝し、最善の形であなたに崇拝を捧げられるよう私をお助けください。」",
+      "pcm": "\"O Allah, help me make I remember You, thank You, and worship You well-well.\"",
+      "tr": "\"Allah'ım! Seni zikretmek, Sana şükretmek ve Sana güzelce ibadet etmek için bana yardım et.\"",
+      "ta": "\"யா அல்லாஹ்! உன்னை நினைவு கூரவும், உனக்கு நன்றி செலுத்தவும், அழகிய முறையில் உன்னை வணங்கவும் எனக்கு உதவுவாயாக.\"",
+      "sw": "\"Ee Allah, nisaidie kukukumbuka, kukushukuru na kukuabudu vizuri.\""
+    },
+    "s3": {
+      "zh": "\"一切赞颂归于安拉，祂使我免遭你所受的考验，并使我优越于祂所创造的许多被造物。\"",
+      "hi": "\"सारी प्रशंसा अल्लाह के लिए है जिसने मुझे उस परीक्षा से सुरक्षित रखा जिसमें उसने तुम्हें डाला है।\"",
+      "es": "\"Alabado sea Alá que me ha salvado de aquello con lo que te ha probado.\"",
+      "fr": "« Louange à Allah qui m'a préservé de ce par quoi Il t'a éprouvé. »",
+      "bn": "\"সব প্রশংসা আল্লাহর, যিনি তোমাকে যে পরীক্ষায় ফেলেছেন তা থেকে আমাকে নিরাপদ রেখেছেন।\"",
+      "pt": "\"Louvado seja Allah que me poupou daquilo com que te pôs à prova.\"",
+      "id": "\"Segala puji bagi Allah yang telah menyelamatkanku dari ujian yang menimpamu.\"",
+      "ur": "\"سب تعریف اللہ کے لیے ہے جس نے مجھے اس آزمائش سے عافیت دی جس میں تجھے مبتلا کیا۔\"",
+      "ru": "«Хвала Аллаху, Который избавил меня от того, чем испытал тебя».",
+      "de": "„Alles Lob gebührt Allah, Der mich vor dem bewahrt hat, womit Er dich geprüft hat.\"",
+      "ja": "「あなたに試練として与えたものから私を救ってくださったアッラーにすべての賛美あれ。」",
+      "pcm": "\"All praise na for Allah wey save me from the wahala wey He take test you.\"",
+      "tr": "\"Seni imtihan ettiği şeyden beni koruyan Allah'a hamdolsun.\""
+    },
+    "s4": {
+      "zh": "\"主啊，世人的养主，消除痛苦的主！求祢治愈，唯有祢是医治者，赐予不留任何病痛的痊愈。\"",
+      "hi": "\"ऐ लोगों के रब! तकलीफ़ को दूर कर और शिफ़ा दे, तू ही शिफ़ा देने वाला है।\"",
+      "es": "\"¡Oh Alá, Señor de la humanidad, Quien quita el mal! Cura, pues Tú eres el Sanador.\"",
+      "fr": "« Ô Allah, Seigneur des hommes, Dissipeur du mal, guéris car Tu es le Guérisseur. »",
+      "bn": "\"হে মানুষের রব, কষ্ট দূরকারী! আরোগ্য দিন, আপনিই আরোগ্যদাতা।\"",
+      "pt": "\"Ó Allah, Senhor da humanidade, Removedor do mal! Cura, pois Tu és o Curador.\"",
+      "id": "\"Ya Allah, Tuhan manusia, Penghilang penyakit, sembuhkanlah, Engkaulah Maha Penyembuh.\"",
+      "ur": "\"اے لوگوں کے رب، تکلیف دور کرنے والے! شفا دے، تو ہی شفا دینے والا ہے۔\"",
+      "ru": "«О Аллах, Господь людей, Устраняющий страдания! Исцели, ведь Ты — Исцеляющий».",
+      "de": "„O Allah, Herr der Menschen, Beseitiger des Leids, heile, denn Du bist der Heiler.\"",
+      "ja": "「人々の主、苦痛を取り除く御方よ、癒やしをお与えください。あなたこそ癒やし主です。」",
+      "pcm": "\"O Allah, Lord of all people, You wey dey commot sickness! Heal this person, na only You be Healer.\"",
+      "tr": "\"Ey insanların Rabbi! Sıkıntıyı gider, şifa ver, Şafi Sensin.\"",
+      "ta": "\"மனிதர்களின் இறைவனே! துன்பத்தை நீக்கி குணமளிப்பாயாக.\"",
+      "sw": "\"Ee Mola wa watu, Mwenye kuondoa dhiki, ponya kwani Wewe ndiye Mponyaji.\""
+    },
+    "s5": {
+      "zh": "\"我祈求伟大的安拉、伟大宝座的主治愈你\"（7遍）。",
+      "hi": "\"मैं महान अल्लाह, महान अर्श के रब से दुआ करता हूँ कि वह तुम्हें शिफ़ा प्रदान करे\" (7 बार)।",
+      "es": "\"Pido a Alá el Todopoderoso, Señor del Trono Supremo, que te cure\" (7x).",
+      "fr": "« Je demande à Allah le Très-Grand, Seigneur du Trône immense, de te guérir » (7x).",
+      "bn": "\"আমি মহান আরশের রব মহান আল্লাহর কাছে তোমার রোগমুক্তির জন্য প্রার্থনা করছি\" (৭ বার)।",
+      "pt": "\"Peço a Allah, o Grandioso, Senhor do Trono Magnífico, que te cure\" (7x).",
+      "id": "\"Aku memohon kepada Allah Yang Maha Agung, Tuhan pemilik Arsy yang agung, agar menyembuhkanmu\" (7x).",
+      "ur": "\"میں عظمت والے اللہ، عرشِ عظیم کے رب سے سوال کرتا ہوں کہ وہ تجھے شفا عطا فرمائے\" (7 بار)۔",
+      "ru": "«Прошу Аллаха Великого, Господа Великого Трона, исцелить тебя» (7 раз).",
+      "de": "„Ich bitte Allah, den Gewaltigen, den Herrn des Gewaltigen Throns, dich zu heilen\" (7x).",
+      "ja": "「偉大なる玉座の主、偉大なるアッラーに、あなたを癒やしてくださるよう祈ります」（7回）。",
+      "pcm": "\"I dey beg Allah the Almighty, Lord of the Mighty Throne, make He cure you\" (7x).",
+      "tr": "\"Büyük Arş'ın Rabbi olan Yüce Allah'tan sana şifa vermesini diliyorum\" (7x)."
+    },
+    "s6": {
+      "zh": "\"主啊，求祢赐予我们足以阻隔违抗祢的敬畏、足以使我们进入乐园的顺从、足以减轻今世灾难的坚信……\"",
+      "hi": "\"ऐ अल्लाह! हमें अपने डर का इतना हिस्सा दे जो हमारे और तेरी नाफ़रमानी के बीच आड़ बन जाए...\"",
+      "es": "\"¡Oh Alá! Repártenos de Tu temor lo que se interponga entre nosotros y Tu desobediencia...\"",
+      "fr": "« Ô Allah, accorde-nous de Ta crainte ce qui s'interpose entre nous et Ta désobéissance... »",
+      "bn": "\"হে আল্লাহ! আমাদেরকে আপনার এতটুকু ভয় দান করুন যা আমাদের ও আপনার নাফরমানির মাঝে আড়াল হয়ে দাঁড়ায়...\"",
+      "pt": "\"Ó Allah, concede-nos do Teu temor o que se interponha entre nós e a Tua desobediência...\"",
+      "id": "\"Ya Allah, curahkanlah kepada kami rasa takut kepada-Mu yang menghalangi kami dari bermaksiat kepada-Mu...\"",
+      "ur": "\"اے اللہ! ہمیں اپنی خشیت کا اتنا حصہ عطا فرما جو ہمارے اور تیری نافرمانیوں کے درمیان حائل ہو جائے...\"",
+      "ru": "«О Аллах, надели нас таким страхом перед Тобой, который удержит нас от ослушания Тебя...»",
+      "de": "„O Allah, teile uns von Deiner Ehrfurcht so viel zu, dass sie uns vom Ungehorsam Dir gegenüber abhält...\"",
+      "ja": "「アッラーよ、あなたへの不従順を阻むほどの畏れを私たちにお分けください…」",
+      "pcm": "\"O Allah, give us fear of You wey go stop us from doing wetin You forbid...\"",
+      "tr": "\"Allah'ım! Bize günahlarla aramıza girecek kadar korkundan nasip ver...\""
+    },
+    "s7": {
+      "zh": "\"主啊，我向祢祈求今世和后世我所知与不知的一切善，求祢保佑我免遭一切恶……\"",
+      "hi": "\"ऐ अल्लाह! मैं तुझसे हर भलाई माँगता हूँ, जो अभी है और जो आने वाली है...\"",
+      "es": "\"¡Oh Alá! Te pido todo el bien presente y futuro y me refugio en Ti de todo mal...\"",
+      "fr": "« Ô Allah, je Te demande tout le bien immédiat et futur... »",
+      "bn": "\"হে আল্লাহ! আমি আপনার কাছে দুনিয়া ও আখিরাতের সমস্ত কল্যাণ চাই...\"",
+      "pt": "\"Ó Allah, peço-Te todo o bem, imediato e futuro...\"",
+      "id": "\"Ya Allah, aku memohon kepada-Mu seluruh kebaikan, yang cepat maupun yang lambat...\"",
+      "ur": "\"اے اللہ! میں تجھ سے ہر بھلائی کا سوال کرتا ہوں، جو فوری ہے اور جو بعد میں آنے والی ہے...\"",
+      "ru": "«О Аллах, я прошу у Тебя всего благого в настоящем и будущем...»",
+      "de": "„O Allah, ich bitte Dich um alles Gute, das Gegenwärtige und das Zukünftige...\"",
+      "ja": "「アッラーよ、現在と未来のすべての善を願い、すべての悪から保護を求めます…」",
+      "pcm": "\"O Allah, I beg You for every good thing, now and tomorrow, and protect me from every bad thing...\""
+    },
+    "s8": {
+      "zh": "\"主啊，我求祢保佑我免遭严酷的灾难、坠入不幸、恶劣的定然和敌人的幸灾乐祸。\"",
+      "hi": "\"ऐ अल्लाह! मैं कठिन मुसीबत, बदबख़्ती, बुरे फ़ैसले और दुश्मनों के हँसने से तेरी पनाह माँगता हूँ।\"",
+      "es": "\"Me refugio en Ti de la severidad de la calamidad, la miseria, el mal decreto y la burla de los enemigos.\"",
+      "fr": "« Je cherche refuge contre la dureté de l'épreuve, l'abîme du malheur, le mauvais décret et la réjouissance des ennemis. »",
+      "bn": "\"আমি কঠিন বিপদ, দুর্ভাগ্য, মন্দ ফয়সালা এবং শত্রুদের উপহাস থেকে আশ্রয় চাই।\"",
+      "pt": "\"Busco refúgio contra a severidade da calamidade, a miséria, o mau decreto e o escárnio dos inimigos.\"",
+      "id": "\"Aku berlindung kepada-Mu dari beratnya musibah, kesengsaraan, buruknya takdir, dan kegembiraan musuh atas penderitaanku.\"",
+      "ur": "\"اے اللہ! میں مصیبت کی سختی، بدبختی کے آ پہنچنے، بری تقدیر اور دشمنوں کے خوش ہونے سے تیری پناہ مانگتا ہوں۔\"",
+      "ru": "«Прибегаю к Тебе от тяжкого испытания, несчастья, дурного предопределения и злорадства врагов».",
+      "de": "„Ich suche Zuflucht vor der Schwere der Prüfung, dem Elend, einer üblen Bestimmung und der Schadenfreude der Feinde.\"",
+      "ja": "「耐え難い試練、不幸の到来、悪い定め、敵のあざけりから保護を求めます。」",
+      "pcm": "\"Protect me from heavy wahala, bad luck, bad decree, and make my enemies no laugh at me.\""
+    },
+    "s9": {
+      "zh": "\"主啊，求祢以祢的合法之物满足我而无需非法之物，并凭祢的恩典使我无求于除祢之外的一切。\"",
+      "hi": "\"ऐ अल्लाह! अपने हलाल के ज़रिए मुझे अपने हराम से बेनियाज़ कर दे और अपने फ़ज़्ल से मुझे अपने सिवा हर किसी से बेनियाज़ कर दे।\"",
+      "es": "\"¡Oh Alá! Bástame con lo lícito frente a lo ilícito y enriquece mi alma con Tu gracia.\"",
+      "fr": "« Ô Allah, suffis-moi par Ton licite contre Ton illicite et enrichis-moi par Ta grâce. »",
+      "bn": "\"হে আল্লাহ! আপনার হালাল দ্বারা আমাকে হারাম থেকে মুক্ত রাখুন এবং আপনার অনুগ্রহে আপনি ছাড়া অন্য সবার থেকে অমুখাপেক্ষী করুন।\"",
+      "pt": "\"Ó Allah, basta-me com o Teu lícito contra o Teu ilícito e torna-me independente, por Tua graça, de todos além de Ti.\"",
+      "id": "\"Ya Allah, cukupkanlah aku dengan yang halal dari-Mu sehingga terhindar dari yang haram, dan kayakanlah aku dengan karunia-Mu dari selain-Mu.\"",
+      "ur": "\"اے اللہ! اپنے حلال کے ذریعے مجھے اپنے حرام سے بے نیاز کر دے اور اپنے فضل سے مجھے اپنے سوا ہر ایک سے بے نیاز کر دے۔\"",
+      "ru": "«О Аллах, избавь меня посредством дозволенного Тобой от запретного и обогати меня милостью Твоей».",
+      "de": "„O Allah, genüge mir mit Deinem Erlaubten gegenüber Deinem Verbotenen und mache mich durch Deine Huld unabhängig von allen außer Dir.\"",
+      "ja": "「アッラーよ、あなたのハラール（合法）によってハラーム（禁制）から私を満ち足りた状態にし、あなたの恩恵によってあなた以外のすべてから私を自立させてください。」",
+      "pcm": "\"O Allah, make wetin You allow (halal) reach me so I no go touch wetin You forbid (haram), and bless me make I no depend on anybody except You.\"",
+      "tr": "\"Allah'ım! Helalinle beni haramından koru ve lütfunla beni Senden başkasına muhtaç etme.\"",
+      "ta": "\"யா அல்லாஹ்! உனது ஹலால் மூலம் ஹராமை விட்டும் என்னைக் காத்து, உனது அருளால் உன்னைத் தவிர மற்றவர்களிடம் தேவையற்றவனாக என்னை ஆக்குவாயாக.\"",
+      "sw": "\"Ee Allah, nitosheleze kwa halali Yako dhidi ya haramu Yako, na unitajirishe kwa fadhila Zako.\""
+    },
+    "s10": {
+      "zh": "\"我们的主啊！求祢赐予我们今世的美好和后世的美好，并保护我们免受火狱的刑罚。\"",
+      "hi": "\"ऐ हमारे रब! हमें दुनिया में भलाई दे और आख़िरत में भी भलाई दे और हमें आग के अज़ाब से बचा\" (2:201)।",
+      "es": "\"¡Señor nuestro! Concédenos el bien en este mundo y en el Más Allá, y protégenos del castigo del Fuego\" (2:201).",
+      "fr": "« Seigneur, accorde-nous belle part ici-bas et dans l'au-delà, et protège-nous du châtiment du Feu » (2:201).",
+      "bn": "\"হে আমাদের রব! আমাদের দুনিয়াতে কল্যাণ দিন এবং আখিরাতেও কল্যাণ দিন এবং জাহান্নামের আজাব থেকে রক্ষা করুন\" (2:201)।",
+      "pt": "\"Senhor nosso, concede-nos o bem neste mundo e no Outro, e protege-nos do tormento do Fogo\" (2:201).",
+      "id": "\"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari siksa neraka\" (2:201).",
+      "ur": "\"اے ہمارے رب! ہمیں دنیا میں بھلائی عطا فرما اور آخرت میں بھی بھلائی عطا فرما اور ہمیں آگ کے عذاب سے بچا\" (2:201)۔",
+      "ru": "«Господь наш! Одари нас добром в этом мире и добром в Последней жизни и защити нас от мучений в Огне» (2:201).",
+      "de": "„Unser Herr, gib uns im Diesseits Gutes und im Jenseits Gutes und bewahre uns vor der Strafe des Feuers\" (2:201).",
+      "ja": "「私たちの主よ、現世で善を、来世でも善をお与えください。そして業火の懲罰から私たちをお守りください」（2:201）。",
+      "pcm": "\"Our Lord, give us good for this world and good for Hereafter, and save us from Hellfire\" (2:201).",
+      "tr": "\"Rabbimiz! Bize dünyada da ahirette de iyilik ver ve bizi ateş azabından koru\" (2:201).",
+      "ta": "\"எங்கள் இறைவனே! இம்மையிலும் மறுமையிலும் எங்களுக்கு நன்மையை வழங்குவாயாக; நரக வேதனையிலிருந்து எங்களைக் காப்பாயாக\" (2:201).",
+      "sw": "\"Mola wetu, tupe mema duniani na Akhera, na utulinde na adhabu ya Moto\" (2:201)."
+    },
+    "s11": {
+      "zh": "\"我们的主啊！求祢从我们的配偶和后代中赐予我们眼目的清凉（安慰），并使我们成为敬畏者的表率。\"",
+      "hi": "\"ऐ हमारे रब! हमें हमारे जीवनसाथियों और संतानों से आँखों की ठंडक प्रदान कर और हमें मुत्तक़ीन (अल्लाह से डरने वालों) का इमाम बना\" (25:74)।",
+      "es": "\"¡Señor nuestro! Concédenos en nuestras esposas y descendencia la alegría de nuestros ojos y haznos ejemplo para los piadosos\" (25:74).",
+      "fr": "« Seigneur, donne-nous en nos épouses et nos descendants la joie des yeux, et fais de nous un guide pour les pieux » (25:74).",
+      "bn": "\"হে আমাদের রব! আমাদের স্বামী-স্ত্রী ও সন্তানদের আমাদের চোখের শীতলতা বানিয়ে দিন এবং আমাদের মুত্তাকিদের আদর্শ করুন\" (25:74)।",
+      "pt": "\"Senhor nosso, concede-nos em nossos cônjuges e descendentes o conforto dos nossos olhos e torna-nos exemplos para os piedosos\" (25:74).",
+      "id": "\"Ya Tuhan kami, anugerahkanlah kepada kami pasangan dan keturunan kami sebagai penyejuk mata, dan jadikanlah kami pemimpin bagi orang-orang yang bertakwa\" (25:74).",
+      "ur": "\"اے ہمارے رب! ہمیں ہماری بیویوں اور اولاد سے آنکھوں کی ٹھنڈک عطا فرما اور ہمیں متقین کا پیشوا بنا\" (25:74)۔",
+      "ru": "«Господь наш! Даруй нам отраду глаз в наших супругах и потомках и сделай нас образцом для богобоязненных» (25:74).",
+      "de": "„Unser Herr, schenke uns an unseren Gattinnen und Nachkommen Augentrost und mache uns zu einem Vorbild für die Gottesfürchtigen\" (25:74).",
+      "ja": "「私たちの主よ、配偶者と子孫から私たちの目の涼しさ（喜び）を授け、私たちを敬虔な人々の模範としてください」（25:74）。",
+      "pcm": "\"Our Lord, make our wife/husband and pikin dem bring joy for our eye, and make us good leaders for people wey fear You\" (25:74).",
+      "tr": "\"Rabbimiz! Eşlerimizden ve nesillerimizden bize göz aydınlığı bağışla ve bizi muttakilere önder kıl\" (25:74).",
+      "ta": "\"எங்கள் இறைவனே! எங்கள் வாழ்க்கைத் துணைகளிலிருந்தும் சந்ததிகளிலிருந்தும் எங்களுக்குக் கண்குளிர்ச்சியை வழங்குவாயாக\" (25:74).",
+      "sw": "\"Mola wetu, utupe katika wake zetu na vizazi vyetu burudisho la macho na utufanye viongozi wa wachamungu\" (25:74)."
+    },
+    "s12": {
+      "zh": "\"翻转人心的全能主啊，求祢使我的心坚定于祢的宗教。\"",
+      "hi": "\"ऐ दिलों को फेरने वाले! मेरे दिल को अपने दीन पर स्थिर रख।\"",
+      "es": "\"¡Oh Cambiador de los corazones! Afirma mi corazón en Tu religión.\"",
+      "fr": "« Ô Toi qui retournes les cœurs, affermis mon cœur sur Ta religion. »",
+      "bn": "\"হে অন্তরসমূহ পরিবর্তনকারী! আমার অন্তরকে আপনার দ্বীনের ওপর অবিচল রাখুন।\"",
+      "pt": "\"Ó Transformador dos corações, firma meu coração em Tua religião.\"",
+      "id": "\"Wahai Dzat yang membolak-balikkan hati, teguhkanlah hatiku di atas agama-Mu.\"",
+      "ur": "\"اے دلوں کو پھیرنے والے! میرے دل کو اپنے دین پر ثابت قدم رکھ۔\"",
+      "ru": "«О Переворачивающий сердца, укрепи моё сердце на Твоей религии!»",
+      "de": "„O Wender der Herzen, festige mein Herz auf Deiner Religion!\"",
+      "ja": "「心を翻す御方よ、私の心をあなたの宗教の上に堅固にしてください。」",
+      "pcm": "\"O Turner of hearts, make my heart stand strong for Your religion!\"",
+      "tr": "\"Ey kalpleri evirip çeviren! Kalbimi dinin üzere sabit kıl.\"",
+      "ta": "\"உள்ளங்களைப் புரட்டுபவனே! உனது மார்க்கத்தில் என் உள்ளத்தை உறுதிப்படுத்துவாயாக.\"",
+      "sw": "\"Ee Mgeuzaji wa nyoyo, uthibitishe moyo wangu katika dini Yako.\""
+    },
+    "s13": {
+      "zh": "\"主啊，我向祢祈求正道、敬畏、贞洁与富足。\"",
+      "hi": "\"ऐ अल्लाह! मैं तुझसे हिदायत, तक़वा, पाकदामनी और बेनियाज़ी माँगता हूँ।\"",
+      "es": "\"¡Oh Alá! Te pido guía, piedad, castidad y suficiencia.\"",
+      "fr": "« Ô Allah, je Te demande la guidée, la piété, la pudeur et la suffisance. »",
+      "bn": "\"হে আল্লাহ! আমি আপনার কাছে হিদায়াত, তাকওয়া, পবিত্রতা ও সচ্ছলতা চাই।\"",
+      "pt": "\"Ó Allah, peço-Te orientação, piedade, castidade e contentamento.\"",
+      "id": "\"Ya Allah, aku memohon kepada-Mu petunjuk, ketakwaan, kesucian diri, dan kecukupan.\"",
+      "ur": "\"اے اللہ! میں تجھ سے ہدایت، تقویٰ، پاکدامنی اور بے نیازی مانگتا ہوں۔\"",
+      "ru": "«О Аллах, прошу у Тебя верного руководства, богобоязненности, целомудрия и достатка».",
+      "de": "„O Allah, ich bitte Dich um Rechtleitung, Gottesfurcht, Keuschheit und Genügsamkeit.\"",
+      "ja": "「アッラーよ、導きと敬虔さと貞潔と心の豊かさを願います。」",
+      "pcm": "\"O Allah, I beg You for guidance, fear of God, clean life, and contented heart.\"",
+      "tr": "\"Allah'ım! Senden hidayet, takva, iffet ve gönül zenginliği diliyorum.\"",
+      "ta": "\"யா அல்லாஹ்! உன்னிடம் நேர்வழி, இறையச்சம், கற்பொழுக்கம் மற்றும் மனநிறைவை வேண்டுகிறேன்.\"",
+      "sw": "\"Ee Allah, nakuomba uongofu, uchamungu, kujizuia na utoshelevu.\""
+    },
+    "s14": {
+      "zh": "\"主啊，求祢改善作为我一切事务保障的宗教、我有生计于其中的今世以及我将归去的后世……\"",
+      "hi": "\"ऐ अल्लाह! मेरे दीन, मेरी दुनिया और मेरी आख़िरत को दुरुस्त कर दे...\"",
+      "es": "\"¡Oh Alá! Corrige mi religión, mi vida mundana y mi Más Allá...\"",
+      "fr": "« Ô Allah, réforme ma religion, ma vie d'ici-bas et mon au-delà... »",
+      "bn": "\"হে আল্লাহ! আমার দ্বীন, আমার দুনিয়া এবং আমার আখিরাতকে সংশোধন করে দিন...\"",
+      "pt": "\"Ó Allah, corrige minha religião, minha vida mundana e meu Além...\"",
+      "id": "\"Ya Allah, perbaikilah agamaku yang merupakan penjaga urusanku, perbaikilah duniaku dan akhiratku...\"",
+      "ur": "\"اے اللہ! میرے دین، میری دنیا اور میری آخرت کو سنوار دے...\"",
+      "ru": "«О Аллах, приведи в порядок мою религию, мою мирскую жизнь и мою Вечную жизнь...»",
+      "de": "„O Allah, bringe meine Religion, mein Diesseits und mein Jenseits in Ordnung...\"",
+      "ja": "「アッラーよ、私の宗教、現世、そして来世を整えてください…」",
+      "pcm": "\"O Allah, arrange my religion, my world life, and my Hereafter...\""
+    },
+    "s15": {
+      "zh": "\"除伟大、宽容的安拉外绝无应受崇拜的，伟大宝座的主……\"",
+      "hi": "\"अल्लाह के सिवा कोई पूज्य नहीं जो महान और सहनशील है...\" (दुआ -ए-करब)।",
+      "es": "\"No hay divinidad salvo Alá, el Inmenso, el Indulgente...\"",
+      "fr": "« Point de divinité sinon Allah, le Très-Grand, l'Indulgent... »",
+      "bn": "\"মহান ও পরম সহনশীল আল্লাহ ছাড়া কোনো উপাস্য নেই...\"",
+      "pt": "\"Não há divindade além de Allah, o Grandioso, o Clemente...\"",
+      "id": "\"Tiada Tuhan selain Allah Yang Maha Agung lagi Maha Penyantun...\"",
+      "ur": "\"اللہ کے سوا کوئی معبود نہیں جو عظمت والا اور بردبار ہے...\"",
+      "ru": "«Нет божества, кроме Аллаха, Великого, Выдержанного...»",
+      "de": "„Es gibt keinen Gott außer Allah, dem Gewaltigen, dem Nachsichtigen...\"",
+      "ja": "「偉大にして寛容なるアッラーの他に崇拝すべきものはありません…」",
+      "pcm": "\"No god dey pass Allah, the Mighty, the Patient...\""
+    },
+    "s16": {
+      "zh": "\"除祢外绝无应受崇拜的，赞美祢超绝万物，我确是不义者\"（优努斯圣人祈祷词）。",
+      "hi": "\"तेरे सिवा कोई पूज्य नहीं, तू पाक है, बेशक मैं ज़ालिमों में से था\" (यूनुस अलैहिस्सलाम की दुआ)।",
+      "es": "\"No hay divinidad salvo Tú, ¡Glorificado seas! Ciertamente he sido de los injustos\" (21:87).",
+      "fr": "« Point de divinité à part Toi ! Pureté à Toi ! J'ai été vraiment du nombre des injustes » (21:87).",
+      "bn": "\"আপনি ছাড়া কোনো উপাস্য নেই, আপনি পবিত্র, নিশ্চয়ই আমি জালিমদের অন্তর্ভুক্ত ছিলাম\" (21:87)।",
+      "pt": "\"Não há divindade além de Ti; Glorificado sejas! Certamente fui dos injustos\" (21:87).",
+      "id": "\"Tiada Tuhan selain Engkau, Maha Suci Engkau, sesungguhnya aku termasuk orang-orang yang zalim\" (21:87).",
+      "ur": "\"تیرے سوا کوئی معبود نہیں، تو پاک ہے، بے شک میں ظالموں میں سے تھا\" (21:87)۔",
+      "ru": "«Нет божества, кроме Тебя! Пречист Ты! Воистину, я был одним из несправедливых» (21:87).",
+      "de": "„Es gibt keinen Gott außer Dir! Preis sei Dir! Gewiss, ich gehörte zu den Ungerechten\" (21:87).",
+      "ja": "「あなたの他に崇拝すべきものはありません。あなたに栄光あれ。本当に私は不正を行う者の一人でした」（21:87）。",
+      "pcm": "\"No god dey except You; Glory be to You! True-true I don do wrong\" (21:87).",
+      "tr": "\"Senden başka ilah yoktur, Seni tenzih ederim, gerçekten ben zalimlerden oldum\" (21:87).",
+      "ta": "\"உன்னைத் தவிர வணக்கத்திற்குரியவர் யாருமில்லை; நீ தூயவன்; நிச்சயமாக நான் அநீதி இழைத்தவர்களில் ஆகிவிட்டேன்\" (21:87).",
+      "sw": "\"Hapana mungu ila Wewe, umetakasika, hakika mimi nilikuwa miongoni mwa madhalimu\" (21:87)."
+    },
+    "s17": {
+      "zh": "\"主啊，我求祢保佑我免遭忧愁与悲伤、无能与懒惰、怯懦与吝啬、债务重压与世人欺凌。\"",
+      "hi": "\"ऐ अल्लाह! मैं चिंता और ग़म, कमज़ोरी और आलस्य, बुज़दिली और कंजूसी, क़र्ज़ के बोझ और लोगों के दबाव से तेरी पनाह माँगता हूँ।\"",
+      "es": "\"¡Oh Alá! Me refugio en Ti de la angustia y la tristeza, la incapacidad y la pereza, la cobardía y la avaricia, el peso de las deudas y la opresión de los hombres.\"",
+      "fr": "« Ô Allah, je cherche refuge auprès de Toi contre le souci et la tristesse, l'incapacité et la paresse, la lâcheté et l'avarice, le poids de la dette et la domination des hommes. »",
+      "bn": "\"হে আল্লাহ! আমি দুশ্চিন্তা ও শোক, অক্ষমতা ও অলসতা, কাপুরুষতা ও কৃপণতা, ঋণের বোঝা এবং মানুষের দমন-পীড়ন থেকে আশ্রয় চাই।\"",
+      "pt": "\"Ó Allah, busco refúgio em Ti contra a ansiedade e a tristeza, a incapacidade e a preguiça, a covardia e a avareza, o peso da dívida e a opressão dos homens.\"",
+      "id": "\"Ya Allah, aku berlindung kepada-Mu dari kegelisahan dan kesedihan, kelemahan dan kemalasan, sifat pengecut dan kikir, lilitan hutang dan penindasan manusia.\"",
+      "ur": "\"اے اللہ! میں فکر اور غم، عاجزی اور سستی، بزدلی اور بخل، قرض کے بوجھ اور لوگوں کے غلبے سے تیری پناہ مانگتا ہوں۔\"",
+      "ru": "«О Аллах, прибегаю к Тебе от тревоги и грусти, бессилия и лени, трусости и скупости, бремени долга и притеснения людей».",
+      "de": "„O Allah, ich suche Zuflucht bei Dir vor Sorge und Kummer, Unfähigkeit und Trägheit, Feigheit und Geiz, der Last der Schulden und der Überwältigung durch Menschen.\"",
+      "ja": "「アッラーよ、不安と悲しみ、無力と怠惰、臆病とけち、借金の重荷と人々からの圧制から保護を求めます。」",
+      "pcm": "\"O Allah, protect me from worry and sorrow, weakness and laziness, fear-fear and stinginess, heavy debt and wicked people oppression.\""
+    },
+    "s18": {},
+    "s19": {},
+    "s20": {
+      "zh": "病痛按手念3遍\"奉安拉之名\"及7遍\"我求庇于安拉及其大能免遭我所感受与畏惧之恶\"（Muslim 2202）以及求善拜祈祷词（Bukhari 1166）。"
+    },
+    "s21": {},
+    "s22": {
+      "zh": "\"主啊，我求庇于祢免遭坟墓的刑罚、火狱的刑罚、生死的考验以及伪基督旦จญाल的邪恶。\""
+    },
+    "s23": {
+      "zh": "\"主啊，我确已多多亏枉了自己，除祢外无人能饶恕罪过，求祢从祢那里赐予我饶恕并怜悯我。\""
+    },
+    "s24": {
+      "zh": "\"主啊，祢确是至宥的，喜爱宽宥，故求祢宽宥我\"（盖德尔夜）。",
+      "es": "\"¡Oh Alá! Tú eres Perdonador, amas el perdón, perdóname\"",
+      "fr": "« Ô Allah, Tu es Indulgent, Tu aimes le pardon, alors pardonne-moi »",
+      "pt": "\"Ó Allah, Tu és Indulgente, amas o perdão, então perdoa-me\"",
+      "id": "\"Ya Allah, sesungguhnya Engkau Maha Pemaaf, menyukai maaf, maka maafkanlah aku\"",
+      "ur": "\"اے اللہ! بے شک تو معاف کرنے والا ہے، معافی کو پسند کرتا ہے، پس مجھے معاف فرما دے\"",
+      "ru": "«О Аллах, поистине, Ты — Прощающий, любишь прощение, так прости же меня!»",
+      "de": "„O Allah, Du bist Vergebend, Du liebst die Vergebung, so vergib mir\"",
+      "ja": "「アッラーよ、あなたは誠に寛恕される御方であり、寛恕を愛されますので、私を寛恕してください」",
+      "pcm": "\"O Allah, You dey forgive well-well and You love forgiveness, so forgive me\"",
+      "tr": "\"Allah'ım! Şüphesiz Sen affedicisin, affı seversin, beni affet\" (Kadir Gecesi).",
+      "ta": "\"யா அல்லாஹ்! நிச்சயமாக நீ மன்னிப்பவன், மன்னிப்பதை விரும்புகிறாய், எனவே என்னை மன்னிப்பாயாக\" (லைலத்துல் கத்ர்).",
+      "sw": "\"Ee Allah, hakika Wewe ni Msamehevu, unapenda msamaha, basi nisamehe\" (Laylatul-Qadr)."
+    },
+    "s25": {},
+    "s26": {},
+    "s27": {},
+    "s28": {},
+    "s29": {},
+    "s30": {
+      "zh": "\"我的主啊！求祢怜悯他俩，就像他俩在我幼小时抚育我那样\"（17:24）",
+      "tr": "\"Rabbim! Küçüklüğümde beni yetiştirdikleri gibi anne ve babama merhamet et\" (17:24).",
+      "ta": "\"என் இறைவனே! நான் குழந்தையாக இருந்தபோது என்னை வளர்த்தது போல் என் பெற்றோருக்குக் கருணை காட்டுவாயாக\" (17:24).",
+      "sw": "\"Mola wangu, warehemu wazazi wangu kama walivyonilea nilipokuwa mdogo\" (17:24)."
+    },
+    "s31": {
+      "zh": "\"我们的主啊！在引导我们之后，求祢不要让我们的心偏邪\"（3:8）"
+    }
+  },
+  "notes": {
+    "m1": {
+      "tr": "The two Arabic words الحي and القيوم are printed inside the Turkish text; placed as the page image shows them (the text layer had them out of order)."
+    },
+    "m24": {
+      "hi": "The quote is the Arabic words in Hindi transliteration (\"Subhanallahi wa bihamdihi, Subhanallahil-'Azim\"), not a translation; its bracketed benefit (two words light on the tongue, heavy on the Scale, beloved to the Most Merciful) identifies m24."
+    },
+    "s20": {
+      "zh": "This item covers two duas: the pain ruqyah (s20, with its translation and Muslim 2202) and, at its end, a mention of the Istikharah supplication (Bukhari 1166 = s21) without any translation; assigned to the first (s20)."
+    },
+    "s22": {
+      "zh": "[DOUBT: the PDF itself prints \"伪基督旦จญाल\" here: Thai letters (จญ) and Devanagari (ाल) inside the Chinese, apparently a corrupted rendering of the name of the Dajjal. Copied exactly as printed; needs the correct Chinese from the owner.]"
+    },
+    "s24": {
+      "es": "Quote taken from inside the summary list item that closes the Section 3B #12–#31 block (given in brackets after Laylatul-Qadr); the whole item is listed under unplaced.",
+      "fr": "Quote taken from inside the summary list item that closes the Section 3B #12–#31 block (given in brackets after Laylatul-Qadr); the whole item is listed under unplaced.",
+      "pt": "Quote taken from inside the summary list item that closes the Section 3B #12–#31 block (given in brackets after Laylatul-Qadr); the whole item is listed under unplaced.",
+      "id": "Quote taken from inside the summary list item that closes the Section 3B #12–#31 block (given in brackets after Laylatul-Qadr); the whole item is listed under unplaced.",
+      "ru": "Quote taken from inside the summary list item that closes the Section 3B #12–#31 block (given in brackets after Laylatul-Qadr); the whole item is listed under unplaced.",
+      "de": "Quote taken from inside the summary list item that closes the Section 3B #12–#31 block (given in brackets after Laylatul-Qadr); the whole item is listed under unplaced.",
+      "ja": "Quote taken from inside the summary list item that closes the Section 3B #12–#31 block (given in brackets after Laylatul-Qadr); the whole item is listed under unplaced.",
+      "pcm": "Quote taken from inside the summary list item that closes the Section 3B #12–#31 block (given in brackets after Laylatul-Qadr); the whole item is listed under unplaced.",
+      "ur": "Quote taken from inside the summary list item that closes the Section 3B #12–#31 block (given in brackets after Laylatul-Qadr); the whole item is listed under unplaced."
+    },
+    "s30": {
+      "zh": "Quote taken from inside the summary list item that closes the Section 3B #22–#31 block; the whole item is listed under unplaced."
+    },
+    "s31": {
+      "zh": "Quote taken from inside the summary list item that closes the Section 3B #22–#31 block; the whole item is listed under unplaced."
+    }
+  },
+  "unplaced": [
+    {
+      "lang": "zh",
+      "block": "Section 3A #11–#28",
+      "text": "每日百遍求饶（Astaghfirullaha wa atubu ilayh）与赞主超绝（Subhanallahi wa bihamdihi, Subhanallahil-'Azim）。",
+      "reason": "Unquoted description of two daily dhikrs (\"Astaghfirullaha wa atubu ilayh\" = m21, and \"Subhanallahi wa bihamdihi, Subhanallahil-'Azim\", which could be m22 or m24) given only as transliterations, not translations; it cannot be put under one dua."
+    },
+    {
+      "lang": "zh",
+      "block": "Section 3B #22–#31",
+      "text": "睡前、醒来、出门、进出清真寺、旅行、聚会结束赎罪词，以及为父母祈祷：\"我的主啊！求祢怜悯他俩，就像他俩在我幼小时抚育我那样\"（17:24）和\"我们的主啊！在引导我们之后，求祢不要让我们的心偏邪\"（3:8）。",
+      "reason": "Summary list naming the remaining duas of the block (before sleeping, waking, leaving home, entering/leaving the mosque, travel, expiation of a gathering = s25–s29) without translating them, so it cannot go under one dua. Its two embedded quotes (17:24 and 3:8) were taken out and placed under s30 and s31."
+    },
+    {
+      "lang": "hi",
+      "block": "Section 3B #12–#31",
+      "text": "दर्द पर हाथ रखकर 3 बार 'बिस्मिल्लाह' और 7 बार दुआ, इस्तिख़ारा की दुआ, तशह्हुद के बाद 4 चीज़ों से पनाह, अबू बक्र (रज़ि०) की दुआ, लैलतुल-क़द्र की दुआ (अल्लाहुम्मा इन्नका अफ़ुव्वुन तुहिब्बुल-अफ़्वा फ़अफ़ु अन्नी), सोने-जागने, घर से निकलने, मस्जिद में आने-जाने, सफ़र और मजलिस के कफ़्फ़ारे की दुआ, और माता-पिता व हिदायत पर जमे रहने की क़ुरआनी दुआ एँ (17:24, 3:8)।",
+      "reason": "Summary list naming several duas of the block (pain ruqyah, Istikharah, before Taslim, Abu Bakr, Laylatul-Qadr, sleep/waking, leaving home, mosque, travel, Kaffarat al-Majlis, parents 17:24, firmness 3:8 = s20–s31) without translating them, so it cannot go under one dua. Its Laylatul-Qadr dua is given only as a Hindi-script transliteration of the Arabic (no translation), so nothing was taken out for s24."
+    },
+    {
+      "lang": "es",
+      "block": "Section 3B #12–#31",
+      "text": "Súplicas para el dolor corporal, Istikharah, protección antes del Taslim, súplica de Abu Bakr (RA), Laylatul-Qadr (\"¡Oh Alá! Tú eres Perdonador, amas el perdón, perdóname\"), dormir y despertar, salir de casa, mezquita, viaje, expiación de la reunión y súplicas coránicas por los padres (17:24) y la firmeza del corazón (3:8).",
+      "reason": "Summary list naming several duas of the block (pain ruqyah, Istikharah, before Taslim, Abu Bakr, Laylatul-Qadr, sleep/waking, leaving home, mosque, travel, Kaffarat al-Majlis, parents 17:24, firmness 3:8 = s20–s31) without translating them, so it cannot go under one dua. Its Laylatul-Qadr quote (in brackets) was taken out and placed under s24."
+    },
+    {
+      "lang": "fr",
+      "block": "Section 3B #12–#31",
+      "text": "Invocations pour la douleur physique, l'Istikharah, avant le Taslim, d'Abou Bakr (RA), de Laylatul-Qadr (« Ô Allah, Tu es Indulgent, Tu aimes le pardon, alors pardonne-moi »), du sommeil, de la sortie de la maison, de la mosquée, du voyage, de la clôture d'assemblée, et pour les parents (17:24) et la fermeté des cœurs (3:8).",
+      "reason": "Summary list naming several duas of the block (pain ruqyah, Istikharah, before Taslim, Abu Bakr, Laylatul-Qadr, sleep/waking, leaving home, mosque, travel, Kaffarat al-Majlis, parents 17:24, firmness 3:8 = s20–s31) without translating them, so it cannot go under one dua. Its Laylatul-Qadr quote (in brackets) was taken out and placed under s24."
+    },
+    {
+      "lang": "bn",
+      "block": "Section 3B #12–#31",
+      "text": "শরীরের ব্যথার রুকইয়াহ, ইস্তিখারা, সালাম ফেরানোর আগের দোয়া, আবু বকর (রা.)-কে শেখানো দোয়া, লাইলাতুল কদরের দোয়া, ঘুমানো ও জাগার দোয়া, ঘর থেকে বের হওয়া, মসজিদে প্রবেশ ও বের হওয়া, সফর, মজলিসের কাফফারা এবং পিতা-মাতা (17:24) ও হিদায়াতের ওপর অবিচলতার কুরআনী দোয়া (3:8)।",
+      "reason": "Summary list naming several duas of the block (pain ruqyah, Istikharah, before Taslim, Abu Bakr, Laylatul-Qadr, sleep/waking, leaving home, mosque, travel, Kaffarat al-Majlis, parents 17:24, firmness 3:8 = s20–s31) without translating them, so it cannot go under one dua."
+    },
+    {
+      "lang": "pt",
+      "block": "Section 3B #12–#31",
+      "text": "Súplicas para dor no corpo, Istikharah, antes do Taslim, de Abu Bakr (RA), Laylatul-Qadr (\"Ó Allah, Tu és Indulgente, amas o perdão, então perdoa-me\"), dormir e acordar, sair de casa, mesquita, viagem, expiação da reunião e pelos pais (17:24) e firmeza do coração (3:8).",
+      "reason": "Summary list naming several duas of the block (pain ruqyah, Istikharah, before Taslim, Abu Bakr, Laylatul-Qadr, sleep/waking, leaving home, mosque, travel, Kaffarat al-Majlis, parents 17:24, firmness 3:8 = s20–s31) without translating them, so it cannot go under one dua. Its Laylatul-Qadr quote (in brackets) was taken out and placed under s24."
+    },
+    {
+      "lang": "id",
+      "block": "Section 3B #12–#31",
+      "text": "Ruqyah nyeri tubuh, Istikharah, doa sebelum salam, doa Abu Bakar (RA), doa Lailatul Qadar (\"Ya Allah, sesungguhnya Engkau Maha Pemaaf, menyukai maaf, maka maafkanlah aku\"), doa tidur & bangun, keluar rumah, masjid, safar, kafaratul majelis, serta doa Al-Qur'an untuk kedua orang tua (17:24) dan keteguhan hati (3:8).",
+      "reason": "Summary list naming several duas of the block (pain ruqyah, Istikharah, before Taslim, Abu Bakr, Laylatul-Qadr, sleep/waking, leaving home, mosque, travel, Kaffarat al-Majlis, parents 17:24, firmness 3:8 = s20–s31) without translating them, so it cannot go under one dua. Its Laylatul-Qadr quote (in brackets) was taken out and placed under s24."
+    },
+    {
+      "lang": "ru",
+      "block": "Section 3B #12–#31",
+      "text": "Мольбы при боли в теле, Истихара, перед таслимом, мольба Абу Бакра (РА), Ляйлятуль-Кадр («О Аллах, поистине, Ты — Прощающий, любишь прощение, так прости же меня!»), перед сном и при пробуждении, при выходе из дома, входе в мечеть, в пути, Каффарат аль-маджлис и коранические мольбы за родителей (17:24) и стойкость сердец (3:8).",
+      "reason": "Summary list naming several duas of the block (pain ruqyah, Istikharah, before Taslim, Abu Bakr, Laylatul-Qadr, sleep/waking, leaving home, mosque, travel, Kaffarat al-Majlis, parents 17:24, firmness 3:8 = s20–s31) without translating them, so it cannot go under one dua. Its Laylatul-Qadr quote (in brackets) was taken out and placed under s24."
+    },
+    {
+      "lang": "de",
+      "block": "Section 3B #12–#31",
+      "text": "Bittgebete bei Körperschmerzen, Istikhara, vor dem Taslim, von Abu Bakr (RA), für Laylatul-Qadr („O Allah, Du bist Vergebend, Du liebst die Vergebung, so vergib mir\"), zum Schlafen und Aufwachen, Verlassen des Hauses, für die Moschee, die Reise, Kaffarat al-Majlis sowie für die Eltern (17:24) und die Festigkeit der Herzen (3:8).",
+      "reason": "Summary list naming several duas of the block (pain ruqyah, Istikharah, before Taslim, Abu Bakr, Laylatul-Qadr, sleep/waking, leaving home, mosque, travel, Kaffarat al-Majlis, parents 17:24, firmness 3:8 = s20–s31) without translating them, so it cannot go under one dua. Its Laylatul-Qadr quote (in brackets) was taken out and placed under s24."
+    },
+    {
+      "lang": "ja",
+      "block": "Section 3B #12–#31",
+      "text": "身体の痛みのルクヤ、イスティハーラ、礼拝結びの前の祈り、アブー・バクル（RA）の祈り、みいつ（カドル）の夜の祈り（「アッラーよ、あなたは誠に寛恕される御方であり、寛恕を愛されますので、私を寛恕してください」）、就寝・起床、外出、モスク、旅、集会の贖いの祈り、そして両親（17:24）と心の堅固さ（3:8）のためのクルアーンの祈り。",
+      "reason": "Summary list naming several duas of the block (pain ruqyah, Istikharah, before Taslim, Abu Bakr, Laylatul-Qadr, sleep/waking, leaving home, mosque, travel, Kaffarat al-Majlis, parents 17:24, firmness 3:8 = s20–s31) without translating them, so it cannot go under one dua. Its Laylatul-Qadr quote (in brackets) was taken out and placed under s24."
+    },
+    {
+      "lang": "pcm",
+      "block": "Section 3B #12–#31",
+      "text": "Plus Duas for body pain, Istikharah, before Taslim, Abu Bakr (RA) prayer Dua, Laylatul-Qadr (\"O Allah, You dey forgive well-well and You love forgiveness, so forgive me\"), sleeping/waking, leaving house, mosque, travel, closing meeting, and Quran Duas for mama & papa (17:24) and strong heart (3:8).",
+      "reason": "Summary list naming several duas of the block (pain ruqyah, Istikharah, before Taslim, Abu Bakr, Laylatul-Qadr, sleep/waking, leaving home, mosque, travel, Kaffarat al-Majlis, parents 17:24, firmness 3:8 = s20–s31) without translating them, so it cannot go under one dua. Its Laylatul-Qadr quote (in brackets) was taken out and placed under s24."
+    },
+    {
+      "lang": "ur",
+      "block": "Section 3B #12–#31",
+      "text": "جسم کے درد کا دم، استخارہ، سلام سے پہلے چار چیزوں سے پناہ، ابوبکر صدیق (رضی اللہ عنہ) کی دعا، لیلة القدر کی دعا (\"اے اللہ! بے شک تو معاف کرنے والا ہے، معافی کو پسند کرتا ہے، پس مجھے معاف فرما دے\")، سونے جاگنے، گھر سے نکلنے، مسجد، سفر، کفارہ مجلس اور والدین (17:24) اور دلوں کی ثابت قدمی کی قرآنی دعائیں (3:8)۔",
+      "reason": "Summary list naming several duas of the block (pain ruqyah, Istikharah, before Taslim, Abu Bakr, Laylatul-Qadr, sleep/waking, leaving home, mosque, travel, Kaffarat al-Majlis, parents 17:24, firmness 3:8 = s20–s31) without translating them, so it cannot go under one dua. Its Laylatul-Qadr quote (in brackets) was taken out and placed under s24."
+    }
+  ]
+}
