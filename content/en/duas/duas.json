@@ -872,14 +872,14 @@
       "added": true,
       "situation": "Dua for Traveling (Du'a as-Safar)",
       "count": "3x",
-      "arabic": "اللَّهُ أَكْبَرُ (3x)، ﴿سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ * وَإِنَّا إِلَى رَبِّ[DOUBT: the PDF is garbled here: it shows رَبّ followed by stray glyphs, and the opening ﴿ is also garbled; Quran 43:14 reads رَبِّنَا] لَمُنْقَلِبُونَ﴾، اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيفَةُ فِي الْأَهْلِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ",
+      "arabic": "اللَّهُ أَكْبَرُ (3x)، ﴿سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ * وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ﴾، اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيفَةُ فِي الْأَهْلِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ",
       "quran": [],
       "ml": "ഇതിനെ നമുക്ക് കീഴ്പ്പെടുത്തിത്തന്ന അല്ലാഹു എത്രയോ പരിശുദ്ധൻ... അല്ലാഹുവേ! ഞങ്ങളുടെ ഈ യാത്രയിൽ നന്മയും തഖ്‌വയും നീ തൃപ്തിപ്പെടുന്ന കർമ്മങ്ങളും ചോദിക്കുന്നു...",
       "en": "Glory is to Him Who has subjected this to us... O Allah, we ask You on this journey for righteousness and piety...",
       "refs": "Sahih Muslim 1342, Hisn al-Muslim 207",
       "grading": "Sahih",
       "case": "daily-life",
-      "notes": "The bracketed part ﴿…﴾ is Quran 43:13–14, but the entry gives no Quran reference, so it is copied as the document shows it, not from quran-uthmani.json. The count (3x) for اللَّهُ أَكْبَرُ is inside the Arabic line and kept there. See the DOUBT in the Arabic: the PDF is garbled at رَبِّنَا."
+      "notes": "The bracketed part ﴿…﴾ is Quran 43:13–14, but the entry gives no Quran reference, so it is copied as the document shows it, not from quran-uthmani.json. The count (3x) for اللَّهُ أَكْبَرُ is inside the Arabic line and kept there. The PDF is garbled at رَبِّنَا; Rizwin confirmed on 2026-11-18 that the dua reads رَبِّنَا (Quran 43:14), so the doubt was removed."
     },
     {
       "id": "s29",
