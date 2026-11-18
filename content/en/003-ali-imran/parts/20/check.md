@@ -114,3 +114,7 @@ I found no dropped sentences, may/will errors, voice changes, reversed negations
 | കൂടാരപ്പെരുന്നാൾ | — | the Feast of Tabernacles |
 | വസ്വിയ്യത്ത് | wasiyyah | wasiyyah |
 | ഉലുൽ അൽബാബ് / (സൽ) ബുദ്ധിയുള്ളവർ | ulul albab | ulul albab / those who have (good) reason |
+
+## Later consistency fix (2026-11-18)
+
+- വേദക്കാർ was rendered "People of the Book" three times (pp. 904, 909, 912 area); parts 02–19 use "People of the Scripture". Changed to "People of the Scripture" in all three places.
