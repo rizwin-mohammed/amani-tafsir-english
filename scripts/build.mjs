@@ -598,7 +598,7 @@ ${duaRefTable(all, (d) => url(d.case))}
 ${duaLangPicker()}
 <p>${esc(sub)}.</p>
 <nav aria-label="Duas on this page"><ol class="dua-toc">${list.map((d) => `<li><a href="#${d.id}">${esc(duaTitle(d))}</a></li>`).join('')}</ol></nav>
-<div class="dua-grid">${list.map(duaCard).join('\n')}</div>
+<div class="dua-grid">${list.map((d) => duaCard(d)).join('\n')}</div>
 <h2 id="references">References</h2>
 ${duaRefTable(list, () => '')}
 <p class="dua-back"><a href="${BASE}/en/duas/">All situations</a></p>
