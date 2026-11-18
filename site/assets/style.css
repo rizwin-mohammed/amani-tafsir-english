@@ -84,8 +84,8 @@ a { color: var(--accent); }
 main { max-width: 860px; margin: 0 auto; padding: 16px; }
 .top { position: sticky; top: 0; z-index: 30; display: flex; flex-wrap: wrap; gap: 8px 20px; align-items: center; justify-content: space-between; padding: 12px 16px; background: var(--band); color: var(--band-text); }
 html { scroll-padding-top: calc(var(--top-h, 56px) + 8px); }
-.brand { margin-right: auto; font: 600 17px var(--sans); text-decoration: none; color: var(--band-text); letter-spacing: 0.01em; }
-.top nav { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 16px; font: 14px var(--sans); }
+.brand { margin-right: auto; font: 600 calc(17px * var(--scale)) var(--sans); text-decoration: none; color: var(--band-text); letter-spacing: 0.01em; }
+.top nav { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 16px; font: calc(14px * var(--scale)) var(--sans); }
 .top nav a { text-decoration: none; color: var(--band-muted); }
 .top nav a:hover { color: var(--band-text); }
 .narrow-only { display: none; }
@@ -243,7 +243,7 @@ button, .button { font: 15px system-ui, sans-serif; padding: 8px 14px; border-ra
 
 /* ---------- Reading settings panel, buttons, toast ---------- */
 .visually-hidden { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
-.settings-btn { display: inline-flex; align-items: center; gap: 6px; font: 13px var(--sans); color: var(--band-text); background: transparent; border: 1px solid var(--band-muted); border-radius: 999px; padding: 4px 12px; cursor: pointer; }
+.settings-btn { display: inline-flex; align-items: center; gap: 6px; font: calc(13px * var(--scale)) var(--sans); color: var(--band-text); background: transparent; border: 1px solid var(--band-muted); border-radius: 999px; padding: 4px 12px; cursor: pointer; }
 .settings-inline { font: 14px var(--sans); color: var(--accent); background: var(--surface); border-radius: 10px; padding: 8px 12px; text-align: left; }
 .settings-layer { position: fixed; inset: 0; z-index: 70; }
 .settings-backdrop { position: absolute; inset: 0; background: rgba(0,0,0,0.45); opacity: 0; transition: opacity .2s; }
@@ -313,7 +313,7 @@ td.tools, th.tools { width: 1%; padding-left: 4px; padding-right: 4px; }
 .side-surahs summary { cursor: pointer; color: var(--accent); padding: 4px 0; }
 .side-surahs .side-list { border-top: 0; }
 .side-close { position: absolute; top: 8px; right: 8px; width: 34px; height: 34px; padding: 0; font: 22px/1 var(--sans); border: 0; background: none; color: var(--muted); }
-.index-btn { display: inline-flex; align-items: center; gap: 6px; font: 14px var(--sans); padding: 5px 10px; background: transparent; color: var(--band-text); border: 1px solid var(--band-muted); }
+.index-btn { display: inline-flex; align-items: center; gap: 6px; font: calc(14px * var(--scale)) var(--sans); padding: 5px 10px; background: transparent; color: var(--band-text); border: 1px solid var(--band-muted); }
 .side-backdrop { position: fixed; inset: 0; z-index: 64; background: rgba(0,0,0,0.45); }
 @media (max-width: 1099px) {
   .side-index { position: fixed; z-index: 65; top: 0; left: 0; bottom: 0; width: min(320px, 88vw); overflow-y: auto; overscroll-behavior: contain; padding: 14px 16px 32px; border-right: 1px solid var(--line); box-shadow: 8px 0 30px rgba(0,0,0,0.2); transform: translateX(-105%); transition: transform .22s ease-out; visibility: hidden; }
@@ -338,9 +338,10 @@ td.tools, th.tools { width: 1%; padding-left: 4px; padding-right: 4px; }
 /* Phones: a compact top bar, since it stays on screen. */
 @media (max-width: 700px) {
   .top { gap: 6px 10px; padding: 8px 12px; }
-  .top:has(.index-btn) { flex-wrap: nowrap; }
-  .brand { flex: none; font-size: 15px; }
-  .top nav { flex-wrap: nowrap; gap: 12px; margin-left: auto; font-size: 13px; }
+  /* Links and buttons wrap onto a second line rather than run off a narrow screen (larger text sizes too). */
+  .top:has(.index-btn) { flex-wrap: nowrap; align-items: flex-start; }
+  .brand { flex: none; font-size: calc(15px * var(--scale)); }
+  .top nav { flex-wrap: wrap; justify-content: flex-end; gap: 6px 12px; margin-left: auto; min-width: 0; font-size: calc(13px * var(--scale)); }
   .top nav a { white-space: nowrap; }
   .wide-only { display: none; }
   .narrow-only { display: inline; }
