@@ -117,4 +117,4 @@ I found no dropped sentences, may/will errors, voice changes, reversed negations
 
 ## Later consistency fix (2026-11-18)
 
-- വേദക്കാർ was rendered "People of the Book" three times (pp. 904, 909, 912 area); parts 02–19 use "People of the Scripture". Changed to "People of the Scripture" in all three places.
+- വേദക്കാർ was rendered "People of the Book" three times; parts 02–19 use "People of the Scripture". Changed to "People of the Scripture" in all three places.
