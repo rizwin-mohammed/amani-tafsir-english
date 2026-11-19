@@ -508,7 +508,8 @@ const duaPage = (d) => `${BASE}/en/duas/${d.case}/${d.id}/`;
 // Arabic runs inside English prose (names, honorifics): brackets stay outside the run, so they are not mirrored.
 const arWord = new RegExp(`[${AR}][${AR}\\s،؛]*[${AR}]|[${AR}]`, 'g');
 const markArabic = (html) => html.replace(/>([^<]+)</g, (m, t) => `>${t.replace(arWord, (r) => `<span lang="ar" dir="rtl">${r}</span>`)}<`);
-const mdInline = (src) => markArabic(`<span>${marked.parseInline(String(src))}</span>`);
+// A lone backtick (as in "Jami` at-Tirmidhi") stops marked from seeing a link, so it is escaped first.
+const mdInline = (src) => markArabic(`<span>${marked.parseInline(String(src).replace(/`/g, '\\`'))}</span>`);
 
 function duaRefTable(list, linkBase) {
   const rows = list.map((d, i) => `<tr><td class="num">${i + 1}</td><td><a href="${linkBase(d)}#${d.id}">${esc(duaTitle(d))}</a></td><td>${esc(d.refs || '')}</td><td>${esc(d.grading || '')}</td></tr>`);
