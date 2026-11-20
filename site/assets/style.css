@@ -461,7 +461,7 @@ table.dua-refs td.num { width: 2.5em; color: var(--muted); }
 .dua-lang { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: 8px 0 18px; padding: 10px 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); font-family: var(--sans); }
 .dua-lang label { font-weight: 600; color: var(--heading); }
 .dua-lang select { font: inherit; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); color: var(--text); max-width: 100%; }
-.dua-lang-other .dua .dua-ml { display: none; }
+.dua-lang-other .dua .dua-ml, .dua-lang-other .dua .dua-ml-note { display: none; }
 main .dua .dua-tr p { text-align: left; hyphens: none; line-height: 1.8; }
 main .dua .dua-tr p[dir="rtl"] { text-align: right; font-size: 1.1em; }
 .dua-tr-missing, .dua-tr-note { color: var(--muted); font-size: 0.92em; font-style: italic; }
