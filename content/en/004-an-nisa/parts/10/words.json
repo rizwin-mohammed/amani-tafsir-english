@@ -1,0 +1,436 @@
+{
+ "words": [
+  {
+   "verse": 43,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "ഹേ വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 43,
+   "ar": "لَا تَقۡرَبُواْ",
+   "ml": "നിങ്ങൾ സമീപിക്കരുത്",
+   "en": "do not approach"
+  },
+  {
+   "verse": 43,
+   "ar": "ٱلصَّلَوٰةَ",
+   "ml": "നമസ്കാരത്തെ",
+   "en": "prayer"
+  },
+  {
+   "verse": 43,
+   "ar": "وَأَنتُمۡ",
+   "ml": "നിങ്ങൾ ആയിക്കൊണ്ട്",
+   "en": "while you are"
+  },
+  {
+   "verse": 43,
+   "ar": "سُكَٰرَىٰ",
+   "ml": "ലഹരി ബാധിച്ചവർ, മത്തുള്ളവർ",
+   "en": "those affected by intoxication, those who are drunk"
+  },
+  {
+   "verse": 43,
+   "ar": "حَتَّىٰ تَعۡلَمُواْ",
+   "ml": "നിങ്ങൾ(ക്ക്) അറിയുന്നതുവരെ",
+   "en": "until you know (until it is known to you)"
+  },
+  {
+   "verse": 43,
+   "ar": "مَا تَقُولُونَ",
+   "ml": "നിങ്ങൾ പറയുന്നത്",
+   "en": "what you say"
+  },
+  {
+   "verse": 43,
+   "ar": "وَلَا جُنُبًا",
+   "ml": "ജനാബത്തുകാരായും അരുത്",
+   "en": "nor as people in janabah"
+  },
+  {
+   "verse": 43,
+   "ar": "إِلَّا عَابِرِي",
+   "ml": "കടന്നുപോകുന്ന (വിട്ടു കടക്കുന്ന)വരായിട്ടല്ലാതെ",
+   "en": "except as those passing through (crossing over)"
+  },
+  {
+   "verse": 43,
+   "ar": "سَبِيلٍ",
+   "ml": "വഴി",
+   "en": "a way"
+  },
+  {
+   "verse": 43,
+   "ar": "حَتَّىٰ تَغۡتَسِلُواْۚ",
+   "ml": "നിങ്ങൾ കുളിക്കുന്നതുവരെ",
+   "en": "until you bathe"
+  },
+  {
+   "verse": 43,
+   "ar": "وَإِن كُنتُم",
+   "ml": "നിങ്ങൾ ആയിരുന്നാൽ, ആയെങ്കിൽ",
+   "en": "and if you are, if you have been"
+  },
+  {
+   "verse": 43,
+   "ar": "مَّرۡضَىٰٓ",
+   "ml": "രോഗികൾ",
+   "en": "sick"
+  },
+  {
+   "verse": 43,
+   "ar": "أَوۡ عَلَىٰ سَفَرٍ",
+   "ml": "അല്ലെങ്കിൽ വല്ല യാത്രയിലും",
+   "en": "or on some journey"
+  },
+  {
+   "verse": 43,
+   "ar": "أَوۡ جَآءَ",
+   "ml": "അല്ലെങ്കിൽ വന്നു(എങ്കിൽ)",
+   "en": "or (if) has come"
+  },
+  {
+   "verse": 43,
+   "ar": "أَحَدٞ",
+   "ml": "ഒരാൾ (ആരെങ്കിലും)",
+   "en": "one (anyone)"
+  },
+  {
+   "verse": 43,
+   "ar": "مِّنكُم",
+   "ml": "നിങ്ങളിൽനിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 43,
+   "ar": "مِّنَ ٱلۡغَآئِطِ",
+   "ml": "വിസർജ്ജന സ്ഥലത്തുനിന്ന്",
+   "en": "from the place of excretion"
+  },
+  {
+   "verse": 43,
+   "ar": "أَوۡ لَٰمَسۡتُمُ",
+   "ml": "അല്ലെങ്കിൽ നിങ്ങൾ സ്പർശനം നടത്തി(യെങ്കിൽ)",
+   "en": "or (if) you have made contact"
+  },
+  {
+   "verse": 43,
+   "ar": "ٱلنِّسَآءَ",
+   "ml": "സ്ത്രീകളുമായി",
+   "en": "with women"
+  },
+  {
+   "verse": 43,
+   "ar": "فَلَمۡ تَجِدُواْ",
+   "ml": "എന്നിട്ട് നിങ്ങൾ പ്രാപിച്ചില്ല, നിങ്ങൾക്ക് കിട്ടിയില്ല",
+   "en": "and then you did not obtain, you did not get"
+  },
+  {
+   "verse": 43,
+   "ar": "مَآءٗ",
+   "ml": "വെള്ളം",
+   "en": "water"
+  },
+  {
+   "verse": 43,
+   "ar": "فَتَيَمَّمُواْ",
+   "ml": "എന്നാൽ നിങ്ങൾ കരുതി(അന്വേഷിച്ചു)കൊള്ളുവിൻ",
+   "en": "then resort (seek out)"
+  },
+  {
+   "verse": 43,
+   "ar": "صَعِيدٗا",
+   "ml": "ഭൂമുഖത്തെ, മണ്ണിനെ",
+   "en": "the face of the earth, soil"
+  },
+  {
+   "verse": 43,
+   "ar": "طَيِّبٗا",
+   "ml": "നല്ലതായ, ശുദ്ധമായ",
+   "en": "that is good, that is clean"
+  },
+  {
+   "verse": 43,
+   "ar": "فَٱمۡسَحُواْ",
+   "ml": "എന്നിട്ട് നിങ്ങൾ തടവുവിൻ",
+   "en": "then wipe"
+  },
+  {
+   "verse": 43,
+   "ar": "بِوُجُوهِكُمۡ",
+   "ml": "നിങ്ങളുടെ മുഖങ്ങളെ, മുഖങ്ങളിൽ",
+   "en": "your faces, on your faces"
+  },
+  {
+   "verse": 43,
+   "ar": "وَأَيۡدِيكُمۡۗ",
+   "ml": "നിങ്ങളുടെ കൈകളെയും, കൈകളിലും",
+   "en": "and your hands, and on your hands"
+  },
+  {
+   "verse": 43,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 43,
+   "ar": "كَانَ",
+   "ml": "ആകുന്നു",
+   "en": "is"
+  },
+  {
+   "verse": 43,
+   "ar": "عَفُوًّا",
+   "ml": "വളരെ മാപ്പു ചെയ്യുന്നവൻ",
+   "en": "One who pardons much"
+  },
+  {
+   "verse": 43,
+   "ar": "غَفُورًا",
+   "ml": "വളരെ പൊറുക്കുന്നവൻ",
+   "en": "One who forgives much"
+  },
+  {
+   "verse": 44,
+   "ar": "أَلَمۡ تَرَ",
+   "ml": "നീ കണ്ടില്ലേ, നോക്കുന്നില്ലേ",
+   "en": "have you not seen, do you not look"
+  },
+  {
+   "verse": 44,
+   "ar": "إِلَى ٱلَّذِينَ",
+   "ml": "യാതൊരുവരെ, ഒരു കൂട്ടരിലേക്ക്",
+   "en": "those who, towards a group"
+  },
+  {
+   "verse": 44,
+   "ar": "أُوتُواْ",
+   "ml": "അവർക്ക് നൽകപ്പെട്ടിരിക്കുന്നു",
+   "en": "have been given"
+  },
+  {
+   "verse": 44,
+   "ar": "نَصِيبٗا",
+   "ml": "ഒരംശം, പങ്ക്",
+   "en": "a portion, a share"
+  },
+  {
+   "verse": 44,
+   "ar": "مِّنَ ٱلۡكِتَٰبِ",
+   "ml": "(വേദ)ഗ്രന്ഥത്തിൽ നിന്ന്",
+   "en": "of the (revealed) Book"
+  },
+  {
+   "verse": 44,
+   "ar": "يَشۡتَرُونَ",
+   "ml": "അവർ വാങ്ങുന്നു",
+   "en": "they buy"
+  },
+  {
+   "verse": 44,
+   "ar": "ٱلضَّلَٰلَةَ",
+   "ml": "ദുർമാർഗം, വഴികേട്, വഴിപിഴവ്",
+   "en": "misguidance, going wrong, straying from the way"
+  },
+  {
+   "verse": 44,
+   "ar": "وَيُرِيدُونَ",
+   "ml": "അവർ ഉദ്ദേശിക്കുകയും ചെയ്യുന്നു",
+   "en": "and they intend"
+  },
+  {
+   "verse": 44,
+   "ar": "أَن تَضِلُّواْ",
+   "ml": "നിങ്ങൾ പിഴച്ചുപോകുവാൻ",
+   "en": "that you should go astray"
+  },
+  {
+   "verse": 44,
+   "ar": "ٱلسَّبِيلَ",
+   "ml": "മാർഗം, വഴി",
+   "en": "the way, the path"
+  },
+  {
+   "verse": 45,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു, അല്ലാഹുവാകട്ടെ",
+   "en": "Allah, and Allah, for His part"
+  },
+  {
+   "verse": 45,
+   "ar": "أَعۡلَمُ",
+   "ml": "ഏറ്റം (നല്ലവണ്ണം) അറിയുന്നവനാണ്",
+   "en": "is One who knows most (well)"
+  },
+  {
+   "verse": 45,
+   "ar": "بِأَعۡدَآئِكُمۡۚ",
+   "ml": "നിങ്ങളുടെ ശത്രുക്കളെപ്പറ്റി",
+   "en": "about your enemies"
+  },
+  {
+   "verse": 45,
+   "ar": "وَكَفَىٰ بِٱللَّهِ",
+   "ml": "അല്ലാഹു (തന്നെ) മതി",
+   "en": "Allah (Himself) is enough"
+  },
+  {
+   "verse": 45,
+   "ar": "وَلِيّٗا",
+   "ml": "ബന്ധുവായി, മിത്രമായി, കാര്യകർത്താവായി",
+   "en": "as a relative, as a friend, as a manager of affairs"
+  },
+  {
+   "verse": 45,
+   "ar": "وَكَفَىٰ بِٱللَّهِ",
+   "ml": "അല്ലാഹു (തന്നെ) മതി",
+   "en": "Allah (Himself) is enough"
+  },
+  {
+   "verse": 45,
+   "ar": "نَصِيرٗا",
+   "ml": "സഹായകനായി,",
+   "en": "as a helper,"
+  },
+  {
+   "verse": 46,
+   "ar": "مِّنَ ٱلَّذِينَ هَادُواْ",
+   "ml": "യഹൂദരായവരിൽപ്പെട്ട(വർ)",
+   "en": "(those) of those who are Jews"
+  },
+  {
+   "verse": 46,
+   "ar": "يُحَرِّفُونَ",
+   "ml": "അവർ തെറ്റിക്കുന്നു, മാറ്റത്തിരുത്തം ചെയ്യുന്നു",
+   "en": "they distort, they alter"
+  },
+  {
+   "verse": 46,
+   "ar": "ٱلۡكَلِمَ",
+   "ml": "വാക്കുകളെ",
+   "en": "words"
+  },
+  {
+   "verse": 46,
+   "ar": "عَن مَّوَاضِعِهِۦ",
+   "ml": "അതിന്റെ സ്ഥാനങ്ങൾ വിട്ട്",
+   "en": "away from their places"
+  },
+  {
+   "verse": 46,
+   "ar": "وَيَقُولُونَ",
+   "ml": "അവർ പറയുകയും ചെയ്യുന്നു [سَمِعۡنَا മുതൽ رَٰعِنَا വരെയുള്ള വാക്കുകളുടെ അർത്ഥങ്ങൾ വ്യാഖ്യാനത്തിൽ കാണുക]",
+   "en": "and they say [see the meanings of the words from سَمِعۡنَا to رَٰعِنَا in the commentary]"
+  },
+  {
+   "verse": 46,
+   "ar": "لَيَّۢا",
+   "ml": "വളച്ചൊടിച്ചു, ചുരുട്ടി മടക്കിക്കൊണ്ട്",
+   "en": "twisting, rolling up and folding"
+  },
+  {
+   "verse": 46,
+   "ar": "بِأَلۡسِنَتِهِمۡ",
+   "ml": "അവരുടെ നാവുകളെ, നാവുകൾകൊണ്ട്",
+   "en": "their tongues, with their tongues"
+  },
+  {
+   "verse": 46,
+   "ar": "وَطَعۡنٗا",
+   "ml": "കുത്തിയും (ആക്ഷേപിച്ചും - കുത്തിപ്പറഞ്ഞും)കൊണ്ടും",
+   "en": "and stabbing (reproaching - taunting)"
+  },
+  {
+   "verse": 46,
+   "ar": "فِي ٱلدِّينِۚ",
+   "ml": "മതത്തിൽ, മതത്തെപ്പറ്റി",
+   "en": "in religion, about religion"
+  },
+  {
+   "verse": 46,
+   "ar": "وَلَوۡ أَنَّهُمۡ قَالُواْ",
+   "ml": "അവർ പറഞ്ഞിരുന്നെങ്കിൽ",
+   "en": "if they had said"
+  },
+  {
+   "verse": 46,
+   "ar": "سَمِعۡنَا",
+   "ml": "സമിഅ്നാ (ഞങ്ങൾ കേട്ടു) എന്ന്",
+   "en": "sami'na (we have heard)"
+  },
+  {
+   "verse": 46,
+   "ar": "وَأَطَعۡنَا",
+   "ml": "അത്വഅ്നാ (ഞങ്ങൾ അനുസരിച്ചു) എന്നും",
+   "en": "and ata'na (we have obeyed)"
+  },
+  {
+   "verse": 46,
+   "ar": "وَٱسۡمَعۡ",
+   "ml": "ഇസ്മഅ് (കേൾക്കണം) എന്നും",
+   "en": "and isma' (you must hear)"
+  },
+  {
+   "verse": 46,
+   "ar": "وَٱنظُرۡنَا",
+   "ml": "ഉൻള്വുർനാ (ഞങ്ങളെ നീ ഗൗനിക്കണം)എന്നും",
+   "en": "and unzurna (you must regard us)"
+  },
+  {
+   "verse": 46,
+   "ar": "لَكَانَ",
+   "ml": "അതാകുമായിരുന്നു",
+   "en": "it would have been"
+  },
+  {
+   "verse": 46,
+   "ar": "خَيۡرٗا",
+   "ml": "ഗുണം, ഉത്തമം",
+   "en": "good, best"
+  },
+  {
+   "verse": 46,
+   "ar": "لَّهُمۡ",
+   "ml": "അവർക്ക്",
+   "en": "for them"
+  },
+  {
+   "verse": 46,
+   "ar": "وَأَقۡوَمَ",
+   "ml": "കൂടുതൽ ചൊവ്വായ (നേരെയുള്ളതും)",
+   "en": "more upright (and more straight)"
+  },
+  {
+   "verse": 46,
+   "ar": "وَلَٰكِن لَّعَنَهُمُ",
+   "ml": "എങ്കിലും (പക്ഷേ) അവരെ ശപിച്ചിരിക്കുന്നു",
+   "en": "yet (but) has cursed them"
+  },
+  {
+   "verse": 46,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 46,
+   "ar": "بِكُفۡرِهِمۡ",
+   "ml": "അവരുടെ അവിശ്വാസം നിമിത്തം",
+   "en": "because of their disbelief"
+  },
+  {
+   "verse": 46,
+   "ar": "فَلَا يُؤۡمِنُونَ",
+   "ml": "അതിനാൽ അവർ വിശ്വസിക്കയില്ല",
+   "en": "therefore they will not believe"
+  },
+  {
+   "verse": 46,
+   "ar": "إِلَّا قَلِيلٗا",
+   "ml": "അല്പമല്ലാതെ",
+   "en": "except a little"
+  }
+ ]
+}
