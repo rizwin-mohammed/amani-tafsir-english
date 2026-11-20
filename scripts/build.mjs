@@ -527,6 +527,14 @@ function duaCard(d, own = false) {
   const st = DUA_ST[d.id];
   const title = duaTitle(d);
   const doubt = (h) => h.replace(/\[DOUBT:(.*?)\]/gs, '<span class="doubt" lang="en" dir="ltr" title="Not yet settled: waiting for the reviewer">[DOUBT:$1]</span>');
+  // Meanings the collection shortened with "..." (or left out) and Claude completed from the full Arabic: shown as waiting for review.
+  // d.completed (en, ml) and DUA_TR.completed[id] (other languages) map a language code to "extended" or "new".
+  const done = (code, cls = '') => {
+    const kind = (d.completed || {})[code] || ((DUA_TR.completed || {})[d.id] || {})[code];
+    if (!kind) return '';
+    const why = kind === 'new' ? 'The collection gives no text here; this meaning was translated from the full Arabic' : 'The collection gives only the start of this meaning; the rest was completed from the full Arabic';
+    return `<p class="dua-tr-note dua-completed${cls}" lang="en" dir="ltr">${why} and is waiting for review.</p>`;
+  };
   const para = (cls, lang, text) => (text ? `<p class="${cls}"${lang ? ` lang="${lang}"` : ''}${lang === 'ar' ? ' dir="rtl"' : ''}>${doubt(esc(text)).replace(/\n/g, '<br>')}</p>` : '');
   return `<article class="dua" id="${d.id}" data-anchor="${d.id}">
 ${own ? '' : `<h2><a class="dua-h-link" href="${duaPage(d)}">${esc(title)}</a></h2>`}
@@ -534,13 +542,13 @@ ${title !== d.title ? `<p class="dua-was">${esc(d.title)}</p>` : ''}
 <p class="dua-tools"><button type="button" class="dua-share" data-url="${duaPage(d)}" data-title="${esc(title)}">Share this dua</button></p>
 ${d.count ? `<p class="dua-count"><span class="visually-hidden">How many times and when: </span>${esc(d.count)}</p>` : ''}
 ${para(d.quran && d.quran.length ? 'dua-ar quran' : 'dua-ar', 'ar', d.arabic)}
-${para('dua-ml ml', 'ml', d.ml)}
-${para('dua-en', '', d.en)}
+${para('dua-ml ml', 'ml', d.ml)}${done('ml', ' dua-ml-note')}
+${para('dua-en', '', d.en)}${done('en')}
 ${DUA_TR.languages.map((l) => {
     const t = (DUA_TR.tr[d.id] || {})[l.code];
     const n = ((DUA_TR.notes || {})[d.id] || {})[l.code];
     return t
-      ? `<div class="dua-tr" data-lang="${l.code}" hidden><p lang="${l.code === 'pcm' ? 'en' : l.code}" dir="${l.dir || 'ltr'}">${doubt(esc(t))}</p>${n ? `<p class="dua-tr-note">${esc(n)}</p>` : ''}</div>`
+      ? `<div class="dua-tr" data-lang="${l.code}" hidden><p lang="${l.code === 'pcm' ? 'en' : l.code}" dir="${l.dir || 'ltr'}">${doubt(esc(t))}</p>${done(l.code)}${n ? `<p class="dua-tr-note">${esc(n)}</p>` : ''}</div>`
       : `<p class="dua-tr dua-tr-missing" data-lang="${l.code}" hidden>The collection gives no ${esc(l.name)} text for this dua.</p>`;
   }).join('\n')}
 ${d.hadith_arabic ? `<p class="dua-hadith-label">The hadith:</p>${para('dua-ar dua-hadith', 'ar', d.hadith_arabic)}` : ''}

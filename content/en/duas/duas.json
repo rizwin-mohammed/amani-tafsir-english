@@ -76,11 +76,16 @@
       "count": "1x (Morning & Evening)",
       "arabic": "أَصْبَحْنَا (أَمْسَيْنَا) عَلَى فِطْرَةِ الْإِسْلَامِ، وَعَلَى كَلِمَةِ الْإِخْلَاصِ، وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَعَلَى مِلَّةِ أَبِينَا إِبْرَاهِيمَ حَنِيفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
       "quran": [],
-      "ml": "ഇസ്‌ലാമിന്റെ പ്രകൃതിയിലും നിഷ്കളങ്ക വചനത്തിലും നമ്മുടെ നബി (ﷺ) യുടെ മതത്തിലും നമ്മുടെ പിതാവായ ഇബ്റാഹീം നബിയുടെ ചര്യയിലുമായി ഞങ്ങൾ പ്രഭാതത്തിലായിരിക്കുന്നു.",
-      "en": "We have entered the morning upon the natural religion of Islam, the word of sincere devotion, the religion of our Prophet Muhammad (ﷺ), and the faith of our father Ibrahim...",
+      "ml": "ഇസ്‌ലാമിന്റെ പ്രകൃതിയിലും നിഷ്കളങ്ക വചനത്തിലും നമ്മുടെ നബി മുഹമ്മദ് (ﷺ) യുടെ മതത്തിലും, ശുദ്ധ മനസ്കനും മുസ്‌ലിമുമായിരുന്ന, ബഹുദൈവവിശ്വാസികളിൽ പെട്ടവനല്ലാതിരുന്ന നമ്മുടെ പിതാവായ ഇബ്റാഹീം നബിയുടെ ചര്യയിലുമായി ഞങ്ങൾ പ്രഭാതത്തിലായിരിക്കുന്നു (പ്രദോഷത്തിലായിരിക്കുന്നു).",
+      "en": "We have entered the morning (evening) upon the natural religion of Islam, the word of sincere devotion, the religion of our Prophet Muhammad (ﷺ), and the faith of our father Ibrahim, who was upright, a Muslim, and was not of those who associate partners with Allah.",
       "refs": "Hisn al-Muslim 90, Musnad Ahmad 15360 / 21144",
       "grading": "Sahih per Al-Albani & Al-Arna'ut",
-      "case": "morning-evening"
+      "case": "morning-evening",
+      "completed": {
+        "en": "extended",
+        "ml": "extended"
+      },
+      "notes": "On 2026-11-20, at Rizwin's request, the meanings the collection shortened with \"...\" (or did not give) were completed from the full Arabic; they are marked as waiting for review."
     },
     {
       "id": "m6",
@@ -104,11 +109,16 @@
       "count": "4x (Morning & Evening)",
       "arabic": "اللَّهُمَّ إِنِّي أَصْبَحْتُ أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ وَمَلَائِكَتَكَ وَجَمِيعَ خَلْقِكَ، أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ وَحْدَكَ لَا شَرِيكَ لَكَ، وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُولُكَ",
       "quran": [],
-      "ml": "അല്ലാഹുവേ, ഞാൻ പ്രഭാതത്തിൽ പ്രവേശിച്ചു, നിന്റെ അർശിന്റെ വാഹകരേയും മലക്കുകളേയും സകല സൃഷ്ടികളേയും ഞാൻ സാക്ഷിയാക്കുന്നു, നീയാകുന്നു അല്ലാഹു...",
-      "en": "O Allah, I have entered the morning calling You, the bearers of Your Throne, Your angels, and all Your creation to witness that You are Allah alone without partner, and Muhammad is Your servant and Messenger.",
+      "ml": "അല്ലാഹുവേ, ഞാൻ പ്രഭാതത്തിൽ പ്രവേശിച്ചു, നിന്നെയും നിന്റെ അർശിന്റെ വാഹകരേയും മലക്കുകളേയും സകല സൃഷ്ടികളേയും ഞാൻ സാക്ഷിയാക്കുന്നു, നീയാകുന്നു അല്ലാഹു, നീയല്ലാതെ ആരാധനക്കർഹനായി മറ്റാരുമില്ല, നീ ഏകനാണ്, നിനക്ക് യാതൊരു പങ്കുകാരനുമില്ല, മുഹമ്മദ് നിന്റെ ദാസനും ദൂതനുമാണ് എന്നതിന്.",
+      "en": "O Allah, I have entered the morning calling You, the bearers of Your Throne, Your angels, and all Your creation to witness that You are Allah, there is no god but You, alone without partner, and Muhammad is Your servant and Messenger.",
       "refs": "Sunan Abi Dawud 5069, Al-Adab al-Mufrad 1201, Hisn al-Muslim 80",
       "grading": "Hasan per Ibn Baz & Ibn Hajar; Da'if per Al-Albani",
-      "case": "morning-evening"
+      "case": "morning-evening",
+      "completed": {
+        "en": "extended",
+        "ml": "extended"
+      },
+      "notes": "On 2026-11-20, at Rizwin's request, the meanings the collection shortened with \"...\" (or did not give) were completed from the full Arabic; they are marked as waiting for review."
     },
     {
       "id": "m8",
@@ -527,12 +537,16 @@
       "situation": "Comprehensive Supplication Before Leaving a Gathering",
       "arabic": "اللَّهُمَّ اقْسِمْ لَنَا مِنْ خَشْيَتِكَ مَا يَحُولُ بَيْنَنَا وَبَيْنَ مَعَاصِيكَ، وَمِنْ طَاعَتِكَ مَا تُبَلِّغُنَا بِهِ جَنَّتَكَ، وَمِنَ الْيَقِينِ مَا تُهَوِّنُ بِهِ عَلَيْنَا مُصِيبَاتِ الدُّنْيَا، وَمَتِّعْنَا بِأَسْمَاعِنَا وَأَبْصَارِنَا وَقُوَّتِنَا مَا أَحْيَيْتَنَا، وَاجْعَلْهُ الْوَارِثَ مِنَّا، وَاجْعَلْ ثَأْرَنَا عَلَى مَنْ ظَلَمَنَا، وَانْصُرْنَا عَلَى مَنْ عَادَانَا، وَلَا تَجْعَلْ مُصِيبَتَنَا فِي دِينِنَا، وَلَا تَجْعَلِ الدُّنْيَا أَكْبَرَ هَمِّنَا، وَلَا مَبْلَغَ عِلْمِنَا، وَلَا تُسَلِّطْ عَلَيْنَا مَنْ لَا يَرْحَمُنَا",
       "quran": [],
-      "ml": "അല്ലാഹുവേ! നിന്റെ ധിക്കാരങ്ങൾക്കും ഞങ്ങൾക്കുമിടയിൽ മറയായിത്തീരുന്നത്ര ഭയഭക്തിയും, സ്വർഗ്ഗത്തിൽ എത്തിക്കുന്നത്ര അനുസരണവും, ദുൻയാവിലെ വിപത്തുകളെ നിസ്സാരമാക്കിത്തരുന്നത്ര ദൃഢവിശ്വാസവും ഞങ്ങൾക്ക് നീ നൽകേണമേ...",
-      "en": "O Allah, apportion for us fear of You to stand between us and disobedience to You, obedience to You to bring us to Your Paradise, and certainty to make worldly afflictions easy for us...",
+      "ml": "അല്ലാഹുവേ! നിന്റെ ധിക്കാരങ്ങൾക്കും ഞങ്ങൾക്കുമിടയിൽ മറയായിത്തീരുന്നത്ര ഭയഭക്തിയും, സ്വർഗ്ഗത്തിൽ എത്തിക്കുന്നത്ര അനുസരണവും, ദുൻയാവിലെ വിപത്തുകളെ നിസ്സാരമാക്കിത്തരുന്നത്ര ദൃഢവിശ്വാസവും ഞങ്ങൾക്ക് നീ നൽകേണമേ. ഞങ്ങളെ നീ ജീവിപ്പിക്കുന്ന കാലമത്രയും ഞങ്ങളുടെ കേൾവികളും കാഴ്ചകളും ശക്തിയും കൊണ്ട് ഞങ്ങൾക്ക് നീ ഉപകാരം നൽകേണമേ; അതിനെ ഞങ്ങളിൽ നിന്നുള്ള അനന്തരാവകാശിയാക്കുകയും ചെയ്യേണമേ. ഞങ്ങളോട് അക്രമം ചെയ്തവരുടെ മേൽ ഞങ്ങളുടെ പ്രതികാരം നീ ആക്കേണമേ; ഞങ്ങളോട് ശത്രുത കാണിക്കുന്നവർക്കെതിരിൽ ഞങ്ങളെ നീ സഹായിക്കേണമേ. ഞങ്ങളുടെ വിപത്ത് ഞങ്ങളുടെ മതത്തിൽ നീ ആക്കരുതേ; ദുൻയാവിനെ ഞങ്ങളുടെ ഏറ്റവും വലിയ ചിന്തയോ ഞങ്ങളുടെ അറിവിന്റെ പരമാവധിയോ ആക്കരുതേ; ഞങ്ങളോട് കരുണ കാണിക്കാത്തവരെ ഞങ്ങളുടെ മേൽ നീ അധികാരപ്പെടുത്തരുതേ.",
+      "en": "O Allah, apportion for us fear of You to stand between us and disobedience to You, obedience to You to bring us to Your Paradise, and certainty to make worldly afflictions easy for us; let us enjoy our hearing, our sight and our strength as long as You keep us alive, and make it the inheritor from us; make our revenge fall upon those who wronged us, and help us against those who show enmity to us; do not make our affliction in our religion, do not make this world our greatest concern nor the limit of our knowledge, and do not give power over us to those who will not show us mercy.",
       "refs": "Jami' at-Tirmidhi 3502",
       "grading": "Hasan per At-Tirmidhi & Al-Albani",
       "case": "gatherings",
-      "notes": "The full entry's title is \"Comprehensive Supplication in a Gathering\"; the summary table says \"Before Leaving a Gathering\". The dua's content is comprehensive; filed under gatherings because of the occasion."
+      "notes": "The full entry's title is \"Comprehensive Supplication in a Gathering\"; the summary table says \"Before Leaving a Gathering\". The dua's content is comprehensive; filed under gatherings because of the occasion. On 2026-11-20, at Rizwin's request, the meanings the collection shortened with \"...\" (or did not give) were completed from the full Arabic; they are marked as waiting for review.",
+      "completed": {
+        "en": "extended",
+        "ml": "extended"
+      }
     },
     {
       "id": "s7",
@@ -542,11 +556,16 @@
       "situation": "Comprehensive Dua Taught to 'Aisha (RA)",
       "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ، وَأَعُوذُ بِكَ مِنَ الشَّرِّ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ، اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ عَبْدُكَ وَنَبِيُّكَ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا عَاذَ بِهِ عَبْدُكَ وَنَبِيُّكَ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَعُوذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَسْأَلُكَ أَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهُ لِي خَيْرًا",
       "quran": [],
-      "ml": "അല്ലാഹുവേ! എനിക്ക് അറിവുള്ളതും അറിവില്ലാത്തതുമായ ഇപ്പോഴുള്ളതും വരാനിരിക്കുന്നതുമായ എല്ലാ നന്മകളും നിന്നോട് ഞാൻ ചോദിക്കുന്നു; എല്ലാ തിന്മകളിൽ നിന്നും കാവൽ തേടുന്നു...",
-      "en": "O Allah, I ask You for all good, immediate and future, known and unknown, and seek refuge from all evil...",
+      "ml": "അല്ലാഹുവേ! എനിക്ക് അറിവുള്ളതും അറിവില്ലാത്തതുമായ ഇപ്പോഴുള്ളതും വരാനിരിക്കുന്നതുമായ എല്ലാ നന്മകളും നിന്നോട് ഞാൻ ചോദിക്കുന്നു; എനിക്ക് അറിവുള്ളതും അറിവില്ലാത്തതുമായ ഇപ്പോഴുള്ളതും വരാനിരിക്കുന്നതുമായ എല്ലാ തിന്മകളിൽ നിന്നും കാവൽ തേടുന്നു. അല്ലാഹുവേ! നിന്റെ ദാസനും നിന്റെ നബിയും നിന്നോട് ചോദിച്ച നന്മ ഞാൻ നിന്നോട് ചോദിക്കുന്നു; നിന്റെ ദാസനും നിന്റെ നബിയും കാവൽ തേടിയ തിന്മയിൽ നിന്ന് ഞാൻ നിന്നോട് കാവൽ തേടുന്നു. അല്ലാഹുവേ! സ്വർഗ്ഗവും അതിലേക്ക് അടുപ്പിക്കുന്ന വാക്കും പ്രവൃത്തിയും ഞാൻ നിന്നോട് ചോദിക്കുന്നു; നരകത്തിൽ നിന്നും അതിലേക്ക് അടുപ്പിക്കുന്ന വാക്കിൽ നിന്നും പ്രവൃത്തിയിൽ നിന്നും ഞാൻ നിന്നോട് കാവൽ തേടുന്നു. നീ എനിക്ക് വിധിച്ച എല്ലാ വിധികളും എനിക്ക് നന്മയാക്കിത്തരണമെന്നും ഞാൻ നിന്നോട് ചോദിക്കുന്നു.",
+      "en": "O Allah, I ask You for all good, immediate and future, known and unknown, and seek refuge from all evil, immediate and future, known and unknown. O Allah, I ask You for the good of what Your servant and Prophet asked You for, and I seek refuge in You from the evil of what Your servant and Prophet sought refuge from. O Allah, I ask You for Paradise and whatever word or deed brings one near to it, and I seek refuge in You from the Fire and whatever word or deed brings one near to it. And I ask You to make every decree You have decreed for me good.",
       "refs": "Sunan Ibn Majah 3846, Al-Adab al-Mufrad 639, Musnad Ahmad 25180",
       "grading": "Sahih per Al-Albani in as-Sahihah 1542",
-      "case": "comprehensive"
+      "case": "comprehensive",
+      "completed": {
+        "en": "extended",
+        "ml": "extended"
+      },
+      "notes": "On 2026-11-20, at Rizwin's request, the meanings the collection shortened with \"...\" (or did not give) were completed from the full Arabic; they are marked as waiting for review. The existing Chinese and Bengali render عَاجِلِهِ وَآجِلِهِ as \"this world and the Hereafter\" (a recognised gloss); the completion keeps that rendering for the refuge clause too, where other languages say \"now and later\"."
     },
     {
       "id": "s8",
@@ -653,10 +672,14 @@
       "arabic": "اللَّهُمَّ أَصْلِحْ لِي دِينِي الَّذِي هُوَ عِصْمَةُ أَمْرِي، وَأَصْلِحْ لِي دُنْيَايَ الَّتِي فِيهَا مَعَاشِي، وَأَصْلِحْ لِي آخِرَتِي الَّتِي فِيهَا مَعَادِي، وَاجْعَلِ الْحَيَاةَ زِيَادَةً لِي فِي كُلِّ خَيْرٍ، وَاجْعَلِ الْمَوْتَ رَاحَةً لِي مِنْ كُلِّ شَرٍّ",
       "quran": [],
       "ml": "അല്ലാഹുവേ! എന്റെ കാര്യങ്ങളുടെയെല്ലാം സംരക്ഷണകവചമായ എന്റെ മതത്തെയും, എന്റെ ജീവിതോപാധിയുള്ള ഭൗതിക ലോകത്തെയും, എന്റെ മടക്കസ്ഥാനമായ പരലോകത്തെയും എനിക്ക് നീ നന്നാക്കിത്തരേണമേ. ജീവിതം എല്ലാ നന്മകളിലുമുള്ള വർദ്ധനവാക്കുകയും മരണം എല്ലാ തിന്മകളിൽ നിന്നുമുള്ള ആശ്വാസമാക്കുകയും ചെയ്യേണമേ.",
-      "en": "O Allah, set right for me my religion, which is the safeguard of my affairs; set right for me my worldly life, wherein is my livelihood; and set right for me my Hereafter, to which is my return...",
+      "en": "O Allah, set right for me my religion, which is the safeguard of my affairs; set right for me my worldly life, wherein is my livelihood; and set right for me my Hereafter, to which is my return; make life for me an increase in every good, and make death for me a relief from every evil.",
       "refs": "Sahih Muslim 2720, Riyad as-Salihin 1472",
       "grading": "Sahih in Sahih Muslim 2720",
-      "case": "comprehensive"
+      "case": "comprehensive",
+      "completed": {
+        "en": "extended"
+      },
+      "notes": "On 2026-11-20, at Rizwin's request, the meanings the collection shortened with \"...\" (or did not give) were completed from the full Arabic; they are marked as waiting for review."
     },
     {
       "id": "s15",
@@ -765,11 +788,16 @@
       "situation": "Supplication of Istikharah (Seeking Allah's Guidance in Decisions)",
       "arabic": "اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلَا أَقْدِرُ، وَتَعْلَمُ وَلَا أَعْلَمُ، وَأَنْتَ عَلَّامُ الْغُيُوبِ، اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ، وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ، وَاقْدُرْ لِيَ الْخَيْرَ حَيْثُ كَانَ، ثُمَّ أَرْضِنِي بِهِ",
       "quran": [],
-      "ml": "അല്ലാഹുവേ! നിന്റെ അറിവ് മുൻനിർത്തി നിന്നോട് ഞാൻ നന്മ തിരഞ്ഞെടുത്തു തരാൻ തേടുന്നു; നിന്റെ കഴിവ് മുൻനിർത്തി പ്രാപ്തി തേടുന്നു...",
-      "en": "O Allah! I seek guidance from Your Knowledge, and power from Your Might, and I ask for Your great bounty...",
+      "ml": "അല്ലാഹുവേ! നിന്റെ അറിവ് മുൻനിർത്തി നിന്നോട് ഞാൻ നന്മ തിരഞ്ഞെടുത്തു തരാൻ തേടുന്നു; നിന്റെ കഴിവ് മുൻനിർത്തി പ്രാപ്തി തേടുന്നു; നിന്റെ മഹത്തായ ഔദാര്യത്തിൽ നിന്ന് ഞാൻ നിന്നോട് ചോദിക്കുന്നു. കാരണം നീ കഴിവുള്ളവനാണ്, ഞാൻ കഴിവുള്ളവനല്ല; നീ അറിയുന്നു, ഞാൻ അറിയുന്നില്ല; നീ അദൃശ്യകാര്യങ്ങൾ നന്നായി അറിയുന്നവനാണ്. അല്ലാഹുവേ! ഈ കാര്യം എന്റെ മതത്തിലും എന്റെ ജീവിതോപാധിയിലും എന്റെ കാര്യത്തിന്റെ പരിണതിയിലും എനിക്ക് നന്മയാണെന്ന് നീ അറിയുന്നുവെങ്കിൽ അത് എനിക്ക് നീ വിധിക്കുകയും എളുപ്പമാക്കിത്തരികയും പിന്നെ അതിൽ എനിക്ക് നീ ബറകത്ത് ചൊരിയുകയും ചെയ്യേണമേ. ഈ കാര്യം എന്റെ മതത്തിലും എന്റെ ജീവിതോപാധിയിലും എന്റെ കാര്യത്തിന്റെ പരിണതിയിലും എനിക്ക് തിന്മയാണെന്ന് നീ അറിയുന്നുവെങ്കിൽ അതിനെ എന്നിൽ നിന്നും എന്നെ അതിൽ നിന്നും നീ തിരിച്ചുകളയേണമേ; നന്മ എവിടെയാണെങ്കിലും അത് എനിക്ക് നീ വിധിക്കുകയും പിന്നെ അതിൽ എന്നെ നീ തൃപ്തനാക്കുകയും ചെയ്യേണമേ.",
+      "en": "O Allah! I seek guidance from Your Knowledge, and power from Your Might, and I ask for Your great bounty, for You are able and I am not, and You know and I do not, and You are the Knower of the unseen. O Allah! If You know that this matter is good for me in my religion, my livelihood and the outcome of my affairs, then decree it for me, make it easy for me, and then bless me in it. And if You know that this matter is bad for me in my religion, my livelihood and the outcome of my affairs, then turn it away from me and turn me away from it, and decree for me the good wherever it may be, and then make me pleased with it.",
       "refs": "Sahih al-Bukhari 1166, 6382, 7390, Hisn al-Muslim 74",
       "grading": "Sahih",
-      "case": "occasions"
+      "case": "occasions",
+      "completed": {
+        "en": "extended",
+        "ml": "extended"
+      },
+      "notes": "On 2026-11-20, at Rizwin's request, the meanings the collection shortened with \"...\" (or did not give) were completed from the full Arabic; they are marked as waiting for review."
     },
     {
       "id": "s22",
@@ -874,12 +902,16 @@
       "count": "3x",
       "arabic": "اللَّهُ أَكْبَرُ (3x)، ﴿سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ * وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ﴾، اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيفَةُ فِي الْأَهْلِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ",
       "quran": [],
-      "ml": "ഇതിനെ നമുക്ക് കീഴ്പ്പെടുത്തിത്തന്ന അല്ലാഹു എത്രയോ പരിശുദ്ധൻ... അല്ലാഹുവേ! ഞങ്ങളുടെ ഈ യാത്രയിൽ നന്മയും തഖ്‌വയും നീ തൃപ്തിപ്പെടുന്ന കർമ്മങ്ങളും ചോദിക്കുന്നു...",
-      "en": "Glory is to Him Who has subjected this to us... O Allah, we ask You on this journey for righteousness and piety...",
+      "ml": "അല്ലാഹു ഏറ്റവും വലിയവനാണ് (3x). ഇതിനെ നമുക്ക് കീഴ്പ്പെടുത്തിത്തന്ന അല്ലാഹു എത്രയോ പരിശുദ്ധൻ; ഞങ്ങൾ (സ്വന്തം നിലക്ക്) ഇതിനെ ഇണക്കുവാൻ കഴിയുന്നവരായിരുന്നില്ല; നിശ്ചയമായും ഞങ്ങൾ, ഞങ്ങളുടെ റബ്ബിങ്കലേക്ക് തിരിച്ചെത്തുന്നവരുമാണ്. അല്ലാഹുവേ! ഞങ്ങളുടെ ഈ യാത്രയിൽ നന്മയും തഖ്‌വയും നീ തൃപ്തിപ്പെടുന്ന കർമ്മങ്ങളും ചോദിക്കുന്നു. അല്ലാഹുവേ! ഞങ്ങളുടെ ഈ യാത്ര ഞങ്ങൾക്ക് നീ എളുപ്പമാക്കിത്തരികയും അതിന്റെ ദൂരം ഞങ്ങൾക്ക് ചുരുക്കിത്തരികയും ചെയ്യേണമേ. അല്ലാഹുവേ! യാത്രയിലെ സഹചാരിയും കുടുംബത്തിലെ പ്രതിനിധിയും നീയാകുന്നു. അല്ലാഹുവേ! യാത്രയുടെ ക്ലേശത്തിൽ നിന്നും, ദുഃഖകരമായ കാഴ്ചയിൽ നിന്നും, സമ്പത്തിലും കുടുംബത്തിലുമുള്ള മോശമായ തിരിച്ചുവരവിൽ നിന്നും ഞാൻ നിന്നോട് കാവൽ തേടുന്നു.",
+      "en": "Allah is the Greatest (3x). Glory is to Him Who has subjected this to us, and we could not have done so ourselves, and indeed to our Lord we shall return. O Allah, we ask You on this journey for righteousness and piety, and for deeds that please You. O Allah, make this journey of ours easy for us and fold up its distance for us. O Allah, You are the Companion on the journey and the One left in charge of the family. O Allah, I seek refuge in You from the hardships of travel, from a distressing sight, and from an evil return in property and family.",
       "refs": "Sahih Muslim 1342, Hisn al-Muslim 207",
       "grading": "Sahih",
       "case": "daily-life",
-      "notes": "The bracketed part ﴿…﴾ is Quran 43:13–14, but the entry gives no Quran reference, so it is copied as the document shows it, not from quran-uthmani.json. The count (3x) for اللَّهُ أَكْبَرُ is inside the Arabic line and kept there. The PDF is garbled at رَبِّنَا; Rizwin confirmed on 2026-11-18 that the dua reads رَبِّنَا (Quran 43:14), so the doubt was removed."
+      "notes": "The bracketed part ﴿…﴾ is Quran 43:13–14, but the entry gives no Quran reference, so it is copied as the document shows it, not from quran-uthmani.json. The count (3x) for اللَّهُ أَكْبَرُ is inside the Arabic line and kept there. The PDF is garbled at رَبِّنَا; Rizwin confirmed on 2026-11-18 that the dua reads رَبِّنَا (Quran 43:14), so the doubt was removed. On 2026-11-20, at Rizwin's request, the meanings the collection shortened with \"...\" (or did not give) were completed from the full Arabic; they are marked as waiting for review. The Malayalam of Quran 43:13-14 inside it is Amani Moulavi's own wording of those verses (Az-Zukhruf, PDF page 6).",
+      "completed": {
+        "en": "extended",
+        "ml": "extended"
+      }
     },
     {
       "id": "s29",
