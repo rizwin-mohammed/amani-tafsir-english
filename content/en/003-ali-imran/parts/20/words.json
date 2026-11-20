@@ -1,0 +1,742 @@
+{
+ "words": [
+  {
+   "verse": 181,
+   "ar": "لَّقَدۡ سَمِعَ",
+   "ml": "തീർച്ചയായും കേട്ടിട്ടുണ്ട്",
+   "en": "has certainly heard"
+  },
+  {
+   "verse": 181,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 181,
+   "ar": "قَوۡلَ ٱلَّذِينَ قَالُوٓاْ",
+   "ml": "പറഞ്ഞവരുടെ വാക്ക്",
+   "en": "the word of those who said"
+  },
+  {
+   "verse": 181,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 181,
+   "ar": "فَقِيرٞ",
+   "ml": "ദരിദ്രനാണ്",
+   "en": "is poor"
+  },
+  {
+   "verse": 181,
+   "ar": "وَنَحۡنُ",
+   "ml": "നാം, നാമാകട്ടെ",
+   "en": "we, and we for our part"
+  },
+  {
+   "verse": 181,
+   "ar": "أَغۡنِيَآءُ",
+   "ml": "ധനികരുമാണ്",
+   "en": "are rich ones"
+  },
+  {
+   "verse": 181,
+   "ar": "سَنَكۡتُبُ",
+   "ml": "നാം എഴുതിക്കൊള്ളാം",
+   "en": "We will write"
+  },
+  {
+   "verse": 181,
+   "ar": "مَا قَالُواْ",
+   "ml": "അവർ പറഞ്ഞത്",
+   "en": "what they said"
+  },
+  {
+   "verse": 181,
+   "ar": "وَقَتۡلَهُمُ",
+   "ml": "അവർ കൊന്നതും",
+   "en": "and their killing"
+  },
+  {
+   "verse": 181,
+   "ar": "ٱلۡأَنۢبِيَآءَ",
+   "ml": "പ്രവാചകൻമാരെ",
+   "en": "the prophets"
+  },
+  {
+   "verse": 181,
+   "ar": "بِغَيۡرِ حَقّٖ",
+   "ml": "ഒരു ന്യായവും (കാര്യവും- അർഹതയും) കൂടാതെ",
+   "en": "without any justification (cause- entitlement)"
+  },
+  {
+   "verse": 181,
+   "ar": "وَنَقُولُ",
+   "ml": "നാം പറയുകയും ചെയ്യും",
+   "en": "and We will say"
+  },
+  {
+   "verse": 181,
+   "ar": "ذُوقُواْ",
+   "ml": "നിങ്ങൾ ആസ്വദിക്കുവിൻ",
+   "en": "taste"
+  },
+  {
+   "verse": 181,
+   "ar": "عَذَابَ ٱلۡحَرِيقِ",
+   "ml": "കത്തി എരിയുന്ന ശിക്ഷ",
+   "en": "the punishment that burns and blazes"
+  },
+  {
+   "verse": 182,
+   "ar": "ذَٰلِكَ",
+   "ml": "അത്",
+   "en": "that"
+  },
+  {
+   "verse": 182,
+   "ar": "بِمَا قَدَّمَتۡ",
+   "ml": "മുൻ ചെയ്തുവെച്ചത് നിമിത്തമാണ്",
+   "en": "is on account of what have done beforehand"
+  },
+  {
+   "verse": 182,
+   "ar": "أَيۡدِيكُمۡ",
+   "ml": "നിങ്ങളുടെ കരങ്ങൾ",
+   "en": "your hands"
+  },
+  {
+   "verse": 182,
+   "ar": "وَأَنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു (ആകുന്നു) എന്നുള്ളതും",
+   "en": "and that surely Allah (is)"
+  },
+  {
+   "verse": 182,
+   "ar": "لَيۡسَ",
+   "ml": "അല്ല",
+   "en": "not"
+  },
+  {
+   "verse": 182,
+   "ar": "بِظَلَّامٖ",
+   "ml": "അനീതി ചെയ്യുന്നവനൊന്നും",
+   "en": "one at all who does injustice"
+  },
+  {
+   "verse": 182,
+   "ar": "لِّلۡعَبِيدِ",
+   "ml": "അടിമകളോട്",
+   "en": "to the slaves"
+  },
+  {
+   "verse": 183,
+   "ar": "ٱلَّذِينَ قَالُوٓاْ",
+   "ml": "പറഞ്ഞവരാണ്",
+   "en": "are those who said"
+  },
+  {
+   "verse": 183,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 183,
+   "ar": "عَهِدَ إِلَيۡنَآ",
+   "ml": "ഞങ്ങൾക്ക് ആജ്ഞ നൽകിയിരിക്കുന്നു",
+   "en": "has given us the command"
+  },
+  {
+   "verse": 183,
+   "ar": "أَلَّا نُؤۡمِنَ",
+   "ml": "ഞങ്ങൾ വിശ്വസിക്കരുതെന്ന്, വിശ്വസിക്കാതിരിക്കുവാൻ",
+   "en": "that we must not believe, so that we do not believe"
+  },
+  {
+   "verse": 183,
+   "ar": "لِرَسُولٍ",
+   "ml": "ഒരു റസൂലിനേയും",
+   "en": "any Rasul"
+  },
+  {
+   "verse": 183,
+   "ar": "حَتَّىٰ يَأۡتِيَنَا",
+   "ml": "അദ്ദേഹം ഞങ്ങൾക്ക് (ഞങ്ങളിൽ) വരുന്നതുവരെ",
+   "en": "until he comes to us (among us)"
+  },
+  {
+   "verse": 183,
+   "ar": "بِقُرۡبَانٖ",
+   "ml": "ഒരു ബലി കർമവുമായി, യാഗകർമവും കൊണ്ട്",
+   "en": "with a rite of sacrifice, with a rite of offering"
+  },
+  {
+   "verse": 183,
+   "ar": "تَأۡكُلُهُ",
+   "ml": "അതിനെ തിന്നും",
+   "en": "will eat it"
+  },
+  {
+   "verse": 183,
+   "ar": "ٱلنَّارُ",
+   "ml": "അഗ്നി",
+   "en": "fire"
+  },
+  {
+   "verse": 183,
+   "ar": "قُلۡ",
+   "ml": "നീ പറയുക",
+   "en": "you say"
+  },
+  {
+   "verse": 183,
+   "ar": "قَدۡ جَآءَكُمۡ",
+   "ml": "നിങ്ങൾക്ക് വന്നിട്ടുണ്ട്",
+   "en": "have come to you"
+  },
+  {
+   "verse": 183,
+   "ar": "رُسُلٞ",
+   "ml": "പല റസൂലുകൾ",
+   "en": "many Rasuls"
+  },
+  {
+   "verse": 183,
+   "ar": "مِّن قَبۡلِي",
+   "ml": "എന്റെ മുമ്പ്",
+   "en": "before me"
+  },
+  {
+   "verse": 183,
+   "ar": "بِٱلۡبَيِّنَٰتِ",
+   "ml": "തെളിവുകളുമായി",
+   "en": "with proofs"
+  },
+  {
+   "verse": 183,
+   "ar": "وَبِٱلَّذِي قُلۡتُمۡ",
+   "ml": "നിങ്ങൾ പറഞ്ഞത് സഹിതവും",
+   "en": "and with what you said"
+  },
+  {
+   "verse": 183,
+   "ar": "فَلِمَ",
+   "ml": "എന്നാൽ എന്തിന്",
+   "en": "then why"
+  },
+  {
+   "verse": 183,
+   "ar": "قَتَلۡتُمُوهُمۡ",
+   "ml": "നിങ്ങളവരെ കൊന്നു",
+   "en": "you killed them"
+  },
+  {
+   "verse": 183,
+   "ar": "إِن كُنتُمۡ",
+   "ml": "നിങ്ങളാണെങ്കിൽ",
+   "en": "if you are"
+  },
+  {
+   "verse": 183,
+   "ar": "صَٰدِقِينَ",
+   "ml": "സത്യവാൻമാർ",
+   "en": "truthful"
+  },
+  {
+   "verse": 184,
+   "ar": "فَإِن كَذَّبُوكَ",
+   "ml": "എനി അവർ നിന്നെ വ്യാജമാക്കുന്നപക്ഷം",
+   "en": "now in case they make you out to be false"
+  },
+  {
+   "verse": 184,
+   "ar": "فَقَدۡ كُذِّبَ",
+   "ml": "എന്നാൽ (കാരണം) വ്യാജമാക്കപ്പെട്ടിട്ടുണ്ട്",
+   "en": "then (because) have been made out to be false"
+  },
+  {
+   "verse": 184,
+   "ar": "رُسُلٞ",
+   "ml": "പല റസൂലുകൾ",
+   "en": "many Rasuls"
+  },
+  {
+   "verse": 184,
+   "ar": "مِّن قَبۡلِكَ",
+   "ml": "നിന്റെ മുമ്പ്",
+   "en": "before you"
+  },
+  {
+   "verse": 184,
+   "ar": "جَآءُو",
+   "ml": "അവർ വന്നിരിക്കുന്നു, വന്ന",
+   "en": "they have come, who came"
+  },
+  {
+   "verse": 184,
+   "ar": "بِٱلۡبَيِّنَٰتِ",
+   "ml": "(വ്യക്തമായ) തെളിവുകൾ കൊണ്ട് (സഹിതം)",
+   "en": "with (clear) proofs (along with)"
+  },
+  {
+   "verse": 184,
+   "ar": "وَٱلزُّبُرِ",
+   "ml": "ഏടുകളും",
+   "en": "and pages"
+  },
+  {
+   "verse": 184,
+   "ar": "وَٱلۡكِتَٰبِ",
+   "ml": "ഗ്രന്ഥവും, വേദപുസ്തകവും",
+   "en": "and the book, the scripture-book"
+  },
+  {
+   "verse": 184,
+   "ar": "ٱلۡمُنِيرِ",
+   "ml": "പ്രകാശം (വെളിച്ചം) നൽകുന്നതായ",
+   "en": "that gives brightness (light)"
+  },
+  {
+   "verse": 185,
+   "ar": "كُلُّ نَفۡسٖ",
+   "ml": "എല്ലാ ദേഹവും, ആളും",
+   "en": "every self, person"
+  },
+  {
+   "verse": 185,
+   "ar": "ذَآئِقَةُ",
+   "ml": "രുചി നോക്കുന്നതാണ്",
+   "en": "is one that tastes"
+  },
+  {
+   "verse": 185,
+   "ar": "ٱلۡمَوۡتِ",
+   "ml": "മരണത്തെ",
+   "en": "death"
+  },
+  {
+   "verse": 185,
+   "ar": "وَإِنَّمَا تُوَفَّوۡنَ",
+   "ml": "നിങ്ങൾക്ക് നിറവേറ്റി (പൂർത്തിയാക്കി) തരപ്പെടുകയുള്ളൂ",
+   "en": "will only be paid to you in full (completed)"
+  },
+  {
+   "verse": 185,
+   "ar": "أُجُورَكُمۡ",
+   "ml": "നിങ്ങളുടെ പ്രതിഫലങ്ങൾ",
+   "en": "your rewards"
+  },
+  {
+   "verse": 185,
+   "ar": "يَوۡمَ ٱلۡقِيَٰمَةِ",
+   "ml": "ക്വിയാമത്തുനാളിൽ (മാത്രം)",
+   "en": "on the Day of Qiyamah (only)"
+  },
+  {
+   "verse": 185,
+   "ar": "فَمَن",
+   "ml": "അപ്പോൾ ആർ",
+   "en": "then whoever"
+  },
+  {
+   "verse": 185,
+   "ar": "زُحۡزِحَ",
+   "ml": "അവൻ അകറ്റപ്പെട്ടു",
+   "en": "he was kept away"
+  },
+  {
+   "verse": 185,
+   "ar": "عَنِ ٱلنَّارِ",
+   "ml": "നരകത്തിൽ നിന്ന്",
+   "en": "from Hell"
+  },
+  {
+   "verse": 185,
+   "ar": "وَأُدۡخِلَ",
+   "ml": "അവൻ പ്രവേശിപ്പിക്കപ്പെടുകയും ചെയ്തു",
+   "en": "and he was made to enter"
+  },
+  {
+   "verse": 185,
+   "ar": "ٱلۡجَنَّةَ",
+   "ml": "സ്വർഗത്തിൽ",
+   "en": "into Paradise"
+  },
+  {
+   "verse": 185,
+   "ar": "فَقَدۡ فَازَ",
+   "ml": "എന്നാൽ തീർച്ചയായും അവർ ഭാഗ്യം പ്രാപിച്ചു",
+   "en": "then certainly they have attained good fortune *[TN: the table prints അവർ (\"they\"); the verse panel has അവൻ (\"he\").]*"
+  },
+  {
+   "verse": 185,
+   "ar": "وَمَا ٱلۡحَيَوٰةُ",
+   "ml": "ജീവിതമല്ല",
+   "en": "the life is not"
+  },
+  {
+   "verse": 185,
+   "ar": "ٱلدُّنۡيَآ",
+   "ml": "ഐഹിക",
+   "en": "worldly"
+  },
+  {
+   "verse": 185,
+   "ar": "إِلَّا مَتَٰعُ",
+   "ml": "വിഭവം (സാമഗ്രികൾ) അല്ലാതെ",
+   "en": "but a resource (goods)"
+  },
+  {
+   "verse": 185,
+   "ar": "ٱلۡغُرُورِ",
+   "ml": "വഞ്ചനയുടെ, കൃത്രിമത്തിന്റെ",
+   "en": "of deception, of artifice"
+  },
+  {
+   "verse": 186,
+   "ar": "لَتُبۡلَوُنَّ",
+   "ml": "നിശ്ചയമായും നിങ്ങൾ പരീക്ഷിക്കപ്പെടും",
+   "en": "surely you will be tried"
+  },
+  {
+   "verse": 186,
+   "ar": "فِيٓ أَمۡوَٰلِكُمۡ",
+   "ml": "നിങ്ങളുടെ സ്വത്തുകളിൽ",
+   "en": "in your properties"
+  },
+  {
+   "verse": 186,
+   "ar": "وَأَنفُسِكُمۡ",
+   "ml": "നിങ്ങളുടെ ദേഹ(സ്വന്ത)ങ്ങളിലും",
+   "en": "and in your selves (own selves)"
+  },
+  {
+   "verse": 186,
+   "ar": "وَلَتَسۡمَعُنَّ",
+   "ml": "നിങ്ങൾ കേൾക്കുകയും ചെയ്യും",
+   "en": "and you will hear"
+  },
+  {
+   "verse": 186,
+   "ar": "مِنَ ٱلَّذِينَ",
+   "ml": "യാതൊരുകൂട്ടരിൽ നിന്ന്",
+   "en": "from those people who"
+  },
+  {
+   "verse": 186,
+   "ar": "أُوتُواْ ٱلۡكِتَٰبَ",
+   "ml": "വേദഗ്രന്ഥം നൽകപ്പെട്ട .",
+   "en": "were given the scripture ."
+  },
+  {
+   "verse": 186,
+   "ar": "مِن قَبۡلِكُمۡ",
+   "ml": "നിങ്ങളുടെ മുമ്പ്",
+   "en": "before you"
+  },
+  {
+   "verse": 186,
+   "ar": "وَمِنَ ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരിൽ നിന്ന്",
+   "en": "and from those people who"
+  },
+  {
+   "verse": 186,
+   "ar": "أَشۡرَكُوٓاْ",
+   "ml": "അവർ ബഹുദൈവ വിശ്വാസം സ്വീകരിച്ച",
+   "en": "adopted belief in many gods"
+  },
+  {
+   "verse": 186,
+   "ar": "أَذٗى",
+   "ml": "പീഡനം, സ്വൈരക്കേട്, ഉപദ്രവം",
+   "en": "persecution, disturbance, harm"
+  },
+  {
+   "verse": 186,
+   "ar": "كَثِيرٗا",
+   "ml": "വളരെ, ധാരാളം",
+   "en": "very much, plenty"
+  },
+  {
+   "verse": 186,
+   "ar": "وَإِن تَصۡبِرُواْ",
+   "ml": "നിങ്ങൾ ക്ഷമിക്കുന്ന പക്ഷം",
+   "en": "in case you are patient"
+  },
+  {
+   "verse": 186,
+   "ar": "وَتَتَّقُواْ",
+   "ml": "നിങ്ങൾ സൂക്ഷിക്കുകയും",
+   "en": "and you are on guard"
+  },
+  {
+   "verse": 186,
+   "ar": "فَإِنَّ ذَٰلِكَ",
+   "ml": "എന്നാൽ നിശ്ചയമായും അത്",
+   "en": "then surely that"
+  },
+  {
+   "verse": 186,
+   "ar": "مِنۡ عَزۡمِ ٱلۡأُمُورِ",
+   "ml": "ദൃഢ (ഉറച്ച- ധീര- ഒഴിച്ചുകൂടാത്ത) കാര്യങ്ങളിൽ പെട്ടതാണ്",
+   "en": "is among the firm (resolute- courageous- indispensable) matters"
+  },
+  {
+   "verse": 187,
+   "ar": "وَإِذۡ أَخَذَ",
+   "ml": "വാങ്ങിയ സന്ദർഭം",
+   "en": "the occasion when took"
+  },
+  {
+   "verse": 187,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 187,
+   "ar": "مِيثَٰقَ ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരുടെ ഉറപ്പ് (കരാറ്)",
+   "en": "the assurance (pact) of those people who"
+  },
+  {
+   "verse": 187,
+   "ar": "أُوتُواْ ٱلۡكِتَٰبَ",
+   "ml": "വേദഗ്രന്ഥം നൽകപ്പെട്ട",
+   "en": "were given the scripture"
+  },
+  {
+   "verse": 187,
+   "ar": "لَتُبَيِّنُنَّهُۥ",
+   "ml": "തീർച്ചയായും നിങ്ങളതിനെ വിവരിച്ചു കൊടുക്കും",
+   "en": "surely you will explain it"
+  },
+  {
+   "verse": 187,
+   "ar": "لِلنَّاسِ",
+   "ml": "ജനങ്ങൾക്ക്",
+   "en": "to the people"
+  },
+  {
+   "verse": 187,
+   "ar": "وَلَا تَكۡتُمُونَهُۥ",
+   "ml": "നിങ്ങളതിനെ മറച്ചുവെക്കാതെയുമിരിക്കും",
+   "en": "and you will not hide it"
+  },
+  {
+   "verse": 187,
+   "ar": "فَنَبَذُوهُ",
+   "ml": "എന്നിട്ട് അവരതിനെ ഇട്ടു, എറിഞ്ഞു",
+   "en": "then they threw it, flung it"
+  },
+  {
+   "verse": 187,
+   "ar": "وَرَآءَ ظُهُورِهِمۡ",
+   "ml": "അവരുടെ മുതുകുകളുടെ പിന്നിൽ, പിൻപുറത്തേക്ക്",
+   "en": "behind their backs, to the back side"
+  },
+  {
+   "verse": 187,
+   "ar": "وَٱشۡتَرَوۡاْ",
+   "ml": "അവർ വാങ്ങുകയും ചെയ്തു",
+   "en": "and they bought"
+  },
+  {
+   "verse": 187,
+   "ar": "بِهِۦ",
+   "ml": "അതിന് (പകരം)",
+   "en": "(in exchange) for it"
+  },
+  {
+   "verse": 187,
+   "ar": "ثَمَنٗا",
+   "ml": "വില",
+   "en": "a price"
+  },
+  {
+   "verse": 187,
+   "ar": "قَلِيلٗا",
+   "ml": "തുച്ഛമായ",
+   "en": "paltry"
+  },
+  {
+   "verse": 187,
+   "ar": "فَبِئۡسَ",
+   "ml": "അപ്പോൾ, എത്രയോ ചീത്ത",
+   "en": "then, how very bad"
+  },
+  {
+   "verse": 187,
+   "ar": "مَا يَشۡتَرُونَ",
+   "ml": "അവർ വാങ്ങിക്കൊണ്ടിരുന്നത്.",
+   "en": "is what they kept buying."
+  },
+  {
+   "verse": 188,
+   "ar": "لَا تَحۡسَبَنَّ",
+   "ml": "തീർച്ചയായും നീ വിചാരിക്കേണ്ട",
+   "en": "you need surely not think"
+  },
+  {
+   "verse": 188,
+   "ar": "ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരെ",
+   "en": "those people who"
+  },
+  {
+   "verse": 188,
+   "ar": "يَفۡرَحُونَ",
+   "ml": "അവർ സന്തോഷം കൊള്ളും, ആഹ്ളാദിക്കുന്നു",
+   "en": "they will rejoice, they are delighted"
+  },
+  {
+   "verse": 188,
+   "ar": "بِمَآ أَتَواْ",
+   "ml": "അവർ കൊണ്ടുവന്ന (ചെയ്ത- കാട്ടിയ)തിനെപ്പറ്റി",
+   "en": "about what they brought (did- showed)"
+  },
+  {
+   "verse": 188,
+   "ar": "وَّيُحِبُّونَ",
+   "ml": "അവർ ഇഷ്ടപ്പെടുകയും ചെയ്യുന്നു",
+   "en": "and they love"
+  },
+  {
+   "verse": 188,
+   "ar": "أَن يُحۡمَدُواْ",
+   "ml": "അവർ സ്തുതിക്കപ്പെടുവാൻ",
+   "en": "that they be praised"
+  },
+  {
+   "verse": 188,
+   "ar": "بِمَا لَمۡ يَفۡعَلُواْ",
+   "ml": "അവർ ചെയ്യാത്തതിനെപ്പറ്റി",
+   "en": "about what they did not do"
+  },
+  {
+   "verse": 188,
+   "ar": "فَلَا تَحۡسَبَنَّهُم",
+   "ml": "എന്നാൽ (അതായത്) നീ വിചാരിക്കേണ്ട",
+   "en": "then (that is) you need not think"
+  },
+  {
+   "verse": 188,
+   "ar": "بِمَفَازَةٖ",
+   "ml": "ഭാഗ്യത്തിലാണെന്ന്, രക്ഷയിലാണെന്ന്",
+   "en": "that they are in good fortune, that they are in safety"
+  },
+  {
+   "verse": 188,
+   "ar": "مِّنَ ٱلۡعَذَابِ",
+   "ml": "ശിക്ഷയിൽ നിന്ന്",
+   "en": "from the punishment"
+  },
+  {
+   "verse": 188,
+   "ar": "وَلَهُمۡ",
+   "ml": "അവർക്കുണ്ടുതാനും",
+   "en": "and for them there is, moreover"
+  },
+  {
+   "verse": 188,
+   "ar": "عَذَابٌ أَلِيمٞ",
+   "ml": "വേദനയേറിയ ശിക്ഷ",
+   "en": "a painful punishment"
+  },
+  {
+   "verse": 189,
+   "ar": "وَلِلَّهِ",
+   "ml": "അല്ലാഹുവിനാണ്",
+   "en": "to Allah belongs"
+  },
+  {
+   "verse": 189,
+   "ar": "مُلۡكُ",
+   "ml": "രാജാധിപത്യം",
+   "en": "the sovereign dominion"
+  },
+  {
+   "verse": 189,
+   "ar": "ٱلسَّمَٰوَٰتِ",
+   "ml": "ആകാശങ്ങളുടെ",
+   "en": "of the heavens"
+  },
+  {
+   "verse": 189,
+   "ar": "وَٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയുടെയും",
+   "en": "and of the earth"
+  },
+  {
+   "verse": 189,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹുവാകട്ടെ",
+   "en": "Allah, for His part"
+  },
+  {
+   "verse": 189,
+   "ar": "عَلَىٰ كُلِّ شَيۡءٖ",
+   "ml": "എല്ലാ കാര്യത്തിനും",
+   "en": "of every matter"
+  },
+  {
+   "verse": 189,
+   "ar": "قَدِيرٌ",
+   "ml": "കഴിവുള്ളവനാകുന്നു",
+   "en": "is capable"
+  },
+  {
+   "verse": 190,
+   "ar": "إِنَّ فِي خَلۡقِ",
+   "ml": "നിശ്ചയമായും സൃഷ്ടിപ്പിലുണ്ട്",
+   "en": "surely in the creation there are"
+  },
+  {
+   "verse": 190,
+   "ar": "ٱلسَّمَٰوَٰتِ",
+   "ml": "ആകാശങ്ങളുടെ",
+   "en": "of the heavens"
+  },
+  {
+   "verse": 190,
+   "ar": "وَٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയുടെയും",
+   "en": "and of the earth"
+  },
+  {
+   "verse": 190,
+   "ar": "وَٱخۡتِلَٰفِ",
+   "ml": "വ്യത്യാസത്തിലും, വ്യത്യാസപ്പെടുന്നതിലും",
+   "en": "and in the difference, in the differing"
+  },
+  {
+   "verse": 190,
+   "ar": "ٱلَّيۡلِ",
+   "ml": "രാത്രിയുടെ, രാത്രി",
+   "en": "of the night, the night"
+  },
+  {
+   "verse": 190,
+   "ar": "وَٱلنَّهَارِ",
+   "ml": "പകലിന്റെയും, പകലും",
+   "en": "and of the day, and the day"
+  },
+  {
+   "verse": 190,
+   "ar": "لَأٓيَٰتٖ",
+   "ml": "പല ദൃഷ്ടാന്തങ്ങൾ",
+   "en": "many signs"
+  },
+  {
+   "verse": 190,
+   "ar": "لِّأُوْلِي ٱلۡأَلۡبَٰبِ",
+   "ml": "ബുദ്ധിമാൻമാർക്ക്, സൽബുദ്ധിയുള്ളവർക്ക്",
+   "en": "for men of reason, for those who have good reason"
+  }
+ ]
+}
