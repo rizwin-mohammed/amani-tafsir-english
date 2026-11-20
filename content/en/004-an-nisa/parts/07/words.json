@@ -1,0 +1,718 @@
+{
+ "words": [
+  {
+   "verse": 25,
+   "ar": "وَمَن",
+   "ml": "വല്ലവരും, ആർ",
+   "en": "whoever, who"
+  },
+  {
+   "verse": 25,
+   "ar": "لَّمۡ يَسۡتَطِعۡ",
+   "ml": "അവനു സാദ്ധ്യമായില്ല (എങ്കിൽ)",
+   "en": "it was not possible for him (if)"
+  },
+  {
+   "verse": 25,
+   "ar": "مِنكُمۡ",
+   "ml": "നിങ്ങളിൽ നിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 25,
+   "ar": "طَوۡلًا",
+   "ml": "ശേഷിക്കു, ശേഷിയാൽ, പ്രാപ്തിയാൽ (ധനത്താൽ)",
+   "en": "for means, by means, by capacity (by wealth)"
+  },
+  {
+   "verse": 25,
+   "ar": "أَن يَنكِحَ",
+   "ml": "അവൻ വിവാഹം കഴിക്കുവാൻ",
+   "en": "that he marry"
+  },
+  {
+   "verse": 25,
+   "ar": "ٱلۡمُحۡصَنَٰتِ",
+   "ml": "ചാരിത്ര്യവതികളെ (സ്വതന്ത്രകളെ)",
+   "en": "chaste women (free women)"
+  },
+  {
+   "verse": 25,
+   "ar": "ٱلۡمُؤۡمِنَٰتِ",
+   "ml": "സത്യവിശ്വാസിനികളായ",
+   "en": "who are believing women"
+  },
+  {
+   "verse": 25,
+   "ar": "فَمِن مَّا مَلَكَتۡ",
+   "ml": "എന്നാൽ (അപ്പോൾ) ഉടമപ്പെടുത്തിയവരിൽനിന്ന്",
+   "en": "then (at that) from among those whom … have owned"
+  },
+  {
+   "verse": 25,
+   "ar": "أَيۡمَٰنُكُم",
+   "ml": "നിങ്ങളുടെ വലംകൈകൾ",
+   "en": "your right hands"
+  },
+  {
+   "verse": 25,
+   "ar": "مِّن فَتَيَٰتِكُمُ",
+   "ml": "നിങ്ങളുടെ വാലിയക്കാരി(ദാസി)കളിൽനിന്ന്",
+   "en": "from among your servant-girls (maidservants)"
+  },
+  {
+   "verse": 25,
+   "ar": "ٱلۡمُؤۡمِنَٰتِۚ",
+   "ml": "സത്യവിശ്വാസിനികളായ",
+   "en": "who are believing women"
+  },
+  {
+   "verse": 25,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹുവാകട്ടെ",
+   "en": "and Allah, for His part"
+  },
+  {
+   "verse": 25,
+   "ar": "أَعۡلَمُ",
+   "ml": "ഏറ്റവും (നല്ലവണ്ണം) അറിയുന്നവനാണ്",
+   "en": "is the One who knows best (most well)"
+  },
+  {
+   "verse": 25,
+   "ar": "بِإِيمَٰنِكُمۚ",
+   "ml": "നിങ്ങളുടെ വിശ്വാസത്തെപ്പറ്റി",
+   "en": "about your faith"
+  },
+  {
+   "verse": 25,
+   "ar": "بَعۡضُكُم",
+   "ml": "നിങ്ങളിൽ ചിലർ",
+   "en": "some of you"
+  },
+  {
+   "verse": 25,
+   "ar": "مِّنۢ بَعۡضٖۚ",
+   "ml": "ചിലരിൽ നിന്നാണ്, ചിലരിൽ പെട്ടവരാണ്",
+   "en": "are from some others, are of some others"
+  },
+  {
+   "verse": 25,
+   "ar": "فَٱنكِحُوهُنَّ",
+   "ml": "ആകയാൽ(അപ്പോൾ) അവരെ നിങ്ങൾ വിവാഹം കഴിക്കുവിൻ",
+   "en": "therefore (then) marry them"
+  },
+  {
+   "verse": 25,
+   "ar": "بِإِذۡنِ",
+   "ml": "സമ്മത പ്രകാരം, അനുവാദത്തോടെ",
+   "en": "according to the consent, with the permission"
+  },
+  {
+   "verse": 25,
+   "ar": "أَهۡلِهِنَّ",
+   "ml": "അവരുടെ ആൾക്കാരുടെ, വീട്ടുകാരുടെ",
+   "en": "of their people, of their household"
+  },
+  {
+   "verse": 25,
+   "ar": "وَءَاتُوهُنَّ",
+   "ml": "അവർക്കു നിങ്ങൾ നൽകുകയും ചെയ്യുവിൻ",
+   "en": "and give them"
+  },
+  {
+   "verse": 25,
+   "ar": "أُجُورَهُنَّ",
+   "ml": "അവരുടെ പ്രതിഫലങ്ങൾ",
+   "en": "their rewards"
+  },
+  {
+   "verse": 25,
+   "ar": "بِٱلۡمَعۡرُوفِ",
+   "ml": "മര്യാദ(സദാചാര) പ്രകാരം",
+   "en": "according to propriety (of good conduct)"
+  },
+  {
+   "verse": 25,
+   "ar": "مُحۡصَنَٰتٍ",
+   "ml": "ചാരിത്ര്യശുദ്ധകളായ നിലയിൽ",
+   "en": "as women pure of chastity"
+  },
+  {
+   "verse": 25,
+   "ar": "غَيۡرَ مُسَٰفِحَٰتٖ",
+   "ml": "വേശ്യാവൃത്തരല്ലാത്ത",
+   "en": "who are not those who practise harlotry"
+  },
+  {
+   "verse": 25,
+   "ar": "وَلَا مُتَّخِذَٰتِ",
+   "ml": "ഉണ്ടാക്കാത്തവരെ, സ്വീകരിക്കുന്നവരുമല്ലാത്ത",
+   "en": "not making (lit. \"those not making\"), who are also not taking *[DOUBT: the print has \"ഉണ്ടാക്കാത്തവരെ\" (clear on a 300 dpi crop), whose -വരെ ending is an object form (\"those who do not make\" as the object), which does not fit the construction; it may be a slip for ഉണ്ടാക്കാത്ത (\"not making\"). Options: \"not making\" / \"those who do not make\".]*"
+  },
+  {
+   "verse": 25,
+   "ar": "أَخۡدَانٖۚ",
+   "ml": "(സ്വകാര്യ) വേഴ്ചക്കാരെ, (രഹസ്യ) തോഴൻമാരെ (ജാരൻമാരെ)",
+   "en": "(private) partners in liaison, (secret) companions (paramours)"
+  },
+  {
+   "verse": 25,
+   "ar": "فَإِذَآ أُحۡصِنَّ",
+   "ml": "അങ്ങനെ (എനി - എന്നാൽ) അവർക്കു ചാരിത്ര്യ സംരക്ഷണം ലഭിച്ചാൽ",
+   "en": "thus (then - so) when they have received the protection of chastity"
+  },
+  {
+   "verse": 25,
+   "ar": "فَإِنۡ أَتَيۡنَ",
+   "ml": "എന്നിട്ടു അവർ വന്നുവെങ്കിൽ (ചെയ്താൽ)",
+   "en": "and then if they came (if they did)"
+  },
+  {
+   "verse": 25,
+   "ar": "بِفَٰحِشَةٖ",
+   "ml": "വല്ല നീചവൃത്തിയും കൊണ്ട്",
+   "en": "with any vile conduct"
+  },
+  {
+   "verse": 25,
+   "ar": "فَعَلَيۡهِنَّ",
+   "ml": "എന്നാലവരുടെ മേലുണ്ടായിരിക്കും",
+   "en": "then upon them there will be"
+  },
+  {
+   "verse": 25,
+   "ar": "نِصۡفُ مَا",
+   "ml": "യാതൊന്നിന്റെ പകുതി",
+   "en": "half of that which"
+  },
+  {
+   "verse": 25,
+   "ar": "عَلَى ٱلۡمُحۡصَنَٰتِ",
+   "ml": "ചാരിത്ര്യശുദ്ധി ലഭിച്ചവരുടെമേലുള്ള",
+   "en": "is upon those who have received purity of chastity"
+  },
+  {
+   "verse": 25,
+   "ar": "مِنَ ٱلۡعَذَابِۚ",
+   "ml": "ശിക്ഷയിൽനിന്ന്",
+   "en": "of the punishment"
+  },
+  {
+   "verse": 25,
+   "ar": "ذَٰلِكَ",
+   "ml": "അത്",
+   "en": "that"
+  },
+  {
+   "verse": 25,
+   "ar": "لِمَنۡ خَشِيَ",
+   "ml": "ഭയപ്പെട്ട(പേടിച്ച)വർക്കാണ്",
+   "en": "is for those who feared (were afraid of)"
+  },
+  {
+   "verse": 25,
+   "ar": "ٱلۡعَنَتَ",
+   "ml": "അസഹ്യത, കാഠിന്യത",
+   "en": "unbearableness, severity"
+  },
+  {
+   "verse": 25,
+   "ar": "مِنكُمۡۚ",
+   "ml": "നിങ്ങളിൽനിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 25,
+   "ar": "وَأَن تَصۡبِرُواْ",
+   "ml": "നിങ്ങൾ ക്ഷമിക്കുന്നതാവട്ടെ",
+   "en": "and that you be patient, for its part"
+  },
+  {
+   "verse": 25,
+   "ar": "خَيۡرٞ لَّكُمۡۗ",
+   "ml": "നിങ്ങൾക്ക് ഉത്തമമാണ്",
+   "en": "is excellent for you"
+  },
+  {
+   "verse": 25,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "and Allah"
+  },
+  {
+   "verse": 25,
+   "ar": "غَفُورٞ",
+   "ml": "വളരെ പൊറുക്കുന്നവനാണ്",
+   "en": "is the One who greatly forgives"
+  },
+  {
+   "verse": 25,
+   "ar": "رَّحِيمٞ",
+   "ml": "കരുണാനിധിയാണ്.",
+   "en": "is the Ever-Merciful."
+  },
+  {
+   "verse": 26,
+   "ar": "يُرِيدُ ٱللَّهُ",
+   "ml": "അല്ലാഹു ഉദ്ദേശിക്കുന്നു",
+   "en": "Allah intends"
+  },
+  {
+   "verse": 26,
+   "ar": "لِيُبَيِّنَ لَكُمۡ",
+   "ml": "നിങ്ങൾക്കവൻ വിവരിച്ചു തരുവാൻ",
+   "en": "that He may explain to you"
+  },
+  {
+   "verse": 26,
+   "ar": "وَيَهۡدِيَكُمۡ",
+   "ml": "നിങ്ങൾക്കു കാട്ടി (മാർഗദർശനം) തരുവാനും",
+   "en": "and to show you (to give guidance)"
+  },
+  {
+   "verse": 26,
+   "ar": "سُنَنَ ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരുടെ ചര്യ(നടപടി) കളെ",
+   "en": "the practices (ways of conduct) of those who"
+  },
+  {
+   "verse": 26,
+   "ar": "مِن قَبۡلِكُمۡ",
+   "ml": "നിങ്ങളുടെ മുമ്പുള്ള",
+   "en": "who are before you"
+  },
+  {
+   "verse": 26,
+   "ar": "وَيَتُوبَ",
+   "ml": "പശ്ചാത്താപം സ്വീകരിക്കുവാനും",
+   "en": "and to accept repentance"
+  },
+  {
+   "verse": 26,
+   "ar": "عَلَيۡكُمۡۗ",
+   "ml": "നിങ്ങളുടെ",
+   "en": "your"
+  },
+  {
+   "verse": 26,
+   "ar": "وَٱللَّهُ عَلِيمٌ",
+   "ml": "അല്ലാഹു സർവ്വജ്ഞനാണ്",
+   "en": "Allah is All-Knowing"
+  },
+  {
+   "verse": 26,
+   "ar": "حَكِيمٞ",
+   "ml": "അഗാധജ്ഞനാണ്",
+   "en": "is Profoundly Knowing"
+  },
+  {
+   "verse": 27,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹുവാകട്ടെ",
+   "en": "and Allah, for His part"
+  },
+  {
+   "verse": 27,
+   "ar": "يُرِيدُ",
+   "ml": "അവൻ ഉദ്ദേശിക്കുന്നു",
+   "en": "He intends"
+  },
+  {
+   "verse": 27,
+   "ar": "أَن يَتُوبَ",
+   "ml": "മടക്കം (പശ്ചാത്താപം) സ്വീകരിക്കുവാൻ",
+   "en": "to accept the turning back (repentance)"
+  },
+  {
+   "verse": 27,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങളുടെ",
+   "en": "your"
+  },
+  {
+   "verse": 27,
+   "ar": "وَيُرِيدُ",
+   "ml": "ഉദ്ദേശിക്കുകയും ചെയ്യുന്നു",
+   "en": "and … also intend"
+  },
+  {
+   "verse": 27,
+   "ar": "ٱلَّذِينَ يَتَّبِعُونَ",
+   "ml": "പിൻപറ്റിവരുന്നവർ",
+   "en": "those who keep following"
+  },
+  {
+   "verse": 27,
+   "ar": "ٱلشَّهَوَٰتِ",
+   "ml": "ഇച്ഛകളെ",
+   "en": "desires"
+  },
+  {
+   "verse": 27,
+   "ar": "أَن تَمِيلُواْ",
+   "ml": "നിങ്ങൾ തെറ്റി(ചരിഞ്ഞു - മറിഞ്ഞു) പോകുവാൻ",
+   "en": "that you go astray (lean - turn over)"
+  },
+  {
+   "verse": 27,
+   "ar": "مَيۡلًا",
+   "ml": "തെറ്റൽ, മറിയൽ",
+   "en": "a going astray, a turning over"
+  },
+  {
+   "verse": 27,
+   "ar": "عَظِيمٗا",
+   "ml": "വമ്പിച്ചതായ",
+   "en": "that is huge"
+  },
+  {
+   "verse": 28,
+   "ar": "يُرِيدُ ٱللَّهُ",
+   "ml": "അല്ലാഹു ഉദ്ദേശിക്കുന്നു",
+   "en": "Allah intends"
+  },
+  {
+   "verse": 28,
+   "ar": "أَن يُخَفِّفَ",
+   "ml": "ലഘുവാക്കിത്തരുവാൻ",
+   "en": "to make things light"
+  },
+  {
+   "verse": 28,
+   "ar": "عَنكُمۡۚ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "for you"
+  },
+  {
+   "verse": 28,
+   "ar": "وَخُلِقَ",
+   "ml": "സൃഷ്ടിക്കപ്പെട്ടിരിക്കുന്നു",
+   "en": "and … has been created"
+  },
+  {
+   "verse": 28,
+   "ar": "ٱلۡإِنسَٰنُ",
+   "ml": "മനുഷ്യൻ",
+   "en": "man"
+  },
+  {
+   "verse": 28,
+   "ar": "ضَعِيفٗا",
+   "ml": "ബലഹീനനായി",
+   "en": "as weak"
+  },
+  {
+   "verse": 29,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "ഹേ, വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 29,
+   "ar": "لَا تَأۡكُلُوٓاْ",
+   "ml": "നിങ്ങൾ തിന്നരുത്",
+   "en": "do not eat"
+  },
+  {
+   "verse": 29,
+   "ar": "أَمۡوَٰلَكُم",
+   "ml": "നിങ്ങളുടെ സ്വത്തുക്കൾ",
+   "en": "your properties"
+  },
+  {
+   "verse": 29,
+   "ar": "بَيۡنَكُم",
+   "ml": "നിങ്ങൾക്കിടയിൽ, നിങ്ങൾ തമ്മിൽ",
+   "en": "among you, between one another"
+  },
+  {
+   "verse": 29,
+   "ar": "بِٱلۡبَٰطِلِ",
+   "ml": "അന്യായമായി, ന്യായമല്ലാത്ത വഴിക്ക്",
+   "en": "wrongfully, by a way that is not right"
+  },
+  {
+   "verse": 29,
+   "ar": "إِلَّآ أَن تَكُونَ",
+   "ml": "അത് ആയാലൊഴികെ",
+   "en": "except if it is"
+  },
+  {
+   "verse": 29,
+   "ar": "تِجَٰرَةً",
+   "ml": "കച്ചവടം, വല്ല കച്ചവടവും",
+   "en": "trade, some trade"
+  },
+  {
+   "verse": 29,
+   "ar": "عَن تَرَاضٖ",
+   "ml": "അന്യോന്യം തൃപ്തിയോടെ",
+   "en": "with mutual consent"
+  },
+  {
+   "verse": 29,
+   "ar": "مِّنكُمۡۚ",
+   "ml": "നിങ്ങളിൽനിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 29,
+   "ar": "وَلَا تَقۡتُلُوٓاْ",
+   "ml": "നിങ്ങൾ കൊല്ലുക (വധിക്കുക)യും ചെയ്യരുത്",
+   "en": "and do not kill (slay) either"
+  },
+  {
+   "verse": 29,
+   "ar": "أَنفُسَكُمۡۚ",
+   "ml": "നിങ്ങളുടെ സ്വന്തങ്ങളെ, ദേഹങ്ങളെ (നിങ്ങളെത്തന്നെ)",
+   "en": "your own selves, your bodies (yourselves)"
+  },
+  {
+   "verse": 29,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 29,
+   "ar": "كَانَ",
+   "ml": "ആകുന്നു",
+   "en": "is"
+  },
+  {
+   "verse": 29,
+   "ar": "بِكُمۡ رَحِيمٗا",
+   "ml": "നിങ്ങളെപ്പറ്റി കരുണ(കൃപ)യുള്ളവൻ",
+   "en": "merciful (kind) concerning you"
+  },
+  {
+   "verse": 30,
+   "ar": "وَمَن يَفۡعَلۡ",
+   "ml": "ആരെങ്കിലും ചെയ്യുന്നപക്ഷം",
+   "en": "in case anyone does"
+  },
+  {
+   "verse": 30,
+   "ar": "ذَٰلِكَ",
+   "ml": "അത് (അങ്ങനെ)",
+   "en": "that (so)"
+  },
+  {
+   "verse": 30,
+   "ar": "عُدۡوَٰنٗا",
+   "ml": "അതിക്രമമായി, ക്രമം തെറ്റലായിട്ട്",
+   "en": "by way of transgression, as a going beyond order"
+  },
+  {
+   "verse": 30,
+   "ar": "وَظُلۡمٗا",
+   "ml": "അക്രമമായും",
+   "en": "and by way of wrong"
+  },
+  {
+   "verse": 30,
+   "ar": "فَسَوۡفَ",
+   "ml": "എന്നാൽ വഴിയെ",
+   "en": "then in due course"
+  },
+  {
+   "verse": 30,
+   "ar": "نُصۡلِيهِ",
+   "ml": "അവനെ നാം കടത്തി എരിയിക്കും",
+   "en": "We will make him enter and burn him"
+  },
+  {
+   "verse": 30,
+   "ar": "نَارٗاۚ",
+   "ml": "തീയിൽ, അഗ്നിയിൽ",
+   "en": "into fire, into the Fire"
+  },
+  {
+   "verse": 30,
+   "ar": "وَكَانَ ذَٰلِكَ",
+   "ml": "അതാകുന്നു, ആയിരിക്കുന്നു",
+   "en": "and that is, has been"
+  },
+  {
+   "verse": 30,
+   "ar": "عَلَى ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ മേൽ",
+   "en": "upon Allah"
+  },
+  {
+   "verse": 30,
+   "ar": "يَسِيرًا",
+   "ml": "ഒരു നിസ്സാരമായത്, എളുപ്പമുള്ളത്.",
+   "en": "a trivial thing, an easy thing."
+  },
+  {
+   "verse": 31,
+   "ar": "إِن تَجۡتَنِبُواْ",
+   "ml": "നിങ്ങൾ വിട്ടകലുന്ന (വർജ്ജിക്കുന്ന)പക്ഷം",
+   "en": "in case you keep away (avoid)"
+  },
+  {
+   "verse": 31,
+   "ar": "كَبَآئِرَ",
+   "ml": "വൻ കാര്യങ്ങളെ (വൻ കുറ്റങ്ങളെ)",
+   "en": "the great things (the great offences)"
+  },
+  {
+   "verse": 31,
+   "ar": "مَا تُنۡهَوۡنَ",
+   "ml": "നിങ്ങളോടു വിരോധിക്കപ്പെടുന്നതിലെ",
+   "en": "of what you are forbidden"
+  },
+  {
+   "verse": 31,
+   "ar": "عَنۡهُ",
+   "ml": "അതിനെപ്പറ്റി",
+   "en": "concerning it"
+  },
+  {
+   "verse": 31,
+   "ar": "نُكَفِّرۡ عَنكُمۡ",
+   "ml": "നിങ്ങൾക്ക് (നിങ്ങളിൽ നിന്ന്) നാം മൂടിവെക്കും, മറച്ചുകളയും",
+   "en": "We will cover up for you (from you), will conceal"
+  },
+  {
+   "verse": 31,
+   "ar": "سَيِّـَٔاتِكُمۡ",
+   "ml": "നിങ്ങളുടെ തിന്മകൾ, ദോഷങ്ങൾ",
+   "en": "your evil deeds, your faults"
+  },
+  {
+   "verse": 31,
+   "ar": "وَنُدۡخِلۡكُم",
+   "ml": "നിങ്ങളെ നാം പ്രവേശിപ്പിക്കുകയും ചെയ്യും",
+   "en": "and We will make you enter"
+  },
+  {
+   "verse": 31,
+   "ar": "مُّدۡخَلٗا",
+   "ml": "ഒരു പ്രവേശന സ്ഥാനത്ത്, ഒരു പ്രവേശിപ്പിക്കൽ",
+   "en": "into a place of entry, a making to enter"
+  },
+  {
+   "verse": 31,
+   "ar": "كَرِيمٗا",
+   "ml": "മാന്യമായ, ഉദാരമായ",
+   "en": "that is honourable, noble"
+  },
+  {
+   "verse": 32,
+   "ar": "وَلَا تَتَمَنَّوۡاْ",
+   "ml": "നിങ്ങൾ കൊതിക്കരുത്, വ്യാമോഹിക്കരുത്",
+   "en": "do not covet, do not crave"
+  },
+  {
+   "verse": 32,
+   "ar": "مَا فَضَّلَ",
+   "ml": "ശ്രേഷ്ഠമാക്കിയതിനെ, അനുഗ്രഹം (ഔദാര്യം) നൽകിയതിന്",
+   "en": "that by which … made excellent, that by which … gave favour (generosity)"
+  },
+  {
+   "verse": 32,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 32,
+   "ar": "بِهِۦ",
+   "ml": "അത് മുഖേന, അതിനെ",
+   "en": "by means of it, it"
+  },
+  {
+   "verse": 32,
+   "ar": "بَعۡضَكُمۡ",
+   "ml": "നിങ്ങളിൽ ചിലർക്ക്, ചിലരെ",
+   "en": "to some of you, some"
+  },
+  {
+   "verse": 32,
+   "ar": "عَلَىٰ بَعۡضٖۚ",
+   "ml": "ചിലരെക്കാൾ",
+   "en": "over some others"
+  },
+  {
+   "verse": 32,
+   "ar": "لِّلرِّجَالِ",
+   "ml": "പുരുഷന്മാർക്കുണ്ട്",
+   "en": "for men there is"
+  },
+  {
+   "verse": 32,
+   "ar": "نَصِيبٞ",
+   "ml": "ഓഹരി, പങ്ക്",
+   "en": "a share, a portion"
+  },
+  {
+   "verse": 32,
+   "ar": "مِّمَّا ٱكۡتَسَبُواْۖ",
+   "ml": "അവർ സമ്പാദിച്ചു (ചെയ്തു)ണ്ടാക്കിയതിൽനിന്ന്",
+   "en": "from what they have earned (done)"
+  },
+  {
+   "verse": 32,
+   "ar": "وَلِلنِّسَآءِ",
+   "ml": "സ്ത്രീകൾക്കുമുണ്ട്",
+   "en": "and for women too there is"
+  },
+  {
+   "verse": 32,
+   "ar": "نَصِيبٞ",
+   "ml": "ഓഹരി, പങ്ക്",
+   "en": "a share, a portion"
+  },
+  {
+   "verse": 32,
+   "ar": "مِّمَّا ٱكۡتَسَبۡنَۚ",
+   "ml": "അവർ ചെയ്തു(സമ്പാദിച്ചു)ണ്ടാക്കിയതിൽ നിന്ന്",
+   "en": "from what they have done (earned)"
+  },
+  {
+   "verse": 32,
+   "ar": "وَسۡـَٔلُواْ",
+   "ml": "ചോദിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and ask"
+  },
+  {
+   "verse": 32,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനോട്",
+   "en": "Allah"
+  },
+  {
+   "verse": 32,
+   "ar": "مِن فَضۡلِهِۦٓۚ",
+   "ml": "അവന്റെ അനുഗ്രഹ(ഔദാര്യ)ത്തിൽനിന്ന്, ദയയിൽനിന്ന്",
+   "en": "from His favour (generosity), from His kindness"
+  },
+  {
+   "verse": 32,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 32,
+   "ar": "كَانَ",
+   "ml": "ആകുന്നു, ആയിരിക്കുന്നു",
+   "en": "is, has been"
+  },
+  {
+   "verse": 32,
+   "ar": "بِكُلِّ شَيۡءٍ",
+   "ml": "എല്ലാകാര്യത്തെ (വസ്തുവെ)ക്കുറിച്ചും",
+   "en": "about every matter (thing)"
+  },
+  {
+   "verse": 32,
+   "ar": "عَلِيمٗا",
+   "ml": "അറിയുന്നവൻ.",
+   "en": "the One who knows."
+  }
+ ]
+}
