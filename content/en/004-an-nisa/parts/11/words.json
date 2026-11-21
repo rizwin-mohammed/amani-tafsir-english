@@ -1,0 +1,796 @@
+{
+ "words": [
+  {
+   "verse": 47,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ",
+   "ml": "ഹേ യാതൊരു കൂട്ടരേ",
+   "en": "O those who"
+  },
+  {
+   "verse": 47,
+   "ar": "أُوتُواْ ٱلۡكِتَٰبَ",
+   "ml": "ഗ്രന്ഥം നൽകപ്പെട്ട",
+   "en": "have been given the book"
+  },
+  {
+   "verse": 47,
+   "ar": "ءَامِنُواْ",
+   "ml": "നിങ്ങൾ വിശ്വസിക്കുവിൻ",
+   "en": "believe"
+  },
+  {
+   "verse": 47,
+   "ar": "بِمَا نَزَّلۡنَا",
+   "ml": "നാം അവതരിപ്പിച്ചതിൽ",
+   "en": "in what We have sent down"
+  },
+  {
+   "verse": 47,
+   "ar": "مُصَدِّقٗا",
+   "ml": "സത്യമാക്കി (സ്ഥാപിച്ചു) കൊണ്ട്",
+   "en": "confirming as true (establishing)"
+  },
+  {
+   "verse": 47,
+   "ar": "لِّمَا مَعَكُم",
+   "ml": "നിങ്ങളുടെ കൂടെ (കൈവശം) ഉള്ളതിനെ",
+   "en": "what is with you (in your possession)"
+  },
+  {
+   "verse": 47,
+   "ar": "مِّن قَبۡلِ",
+   "ml": "മുമ്പായി",
+   "en": "before"
+  },
+  {
+   "verse": 47,
+   "ar": "أَن نَّطۡمِسَ",
+   "ml": "നാം തുടച്ചു കളയുന്ന (നീക്കുന്ന)തിന്",
+   "en": "Our wiping out (removing)"
+  },
+  {
+   "verse": 47,
+   "ar": "وُجُوهٗا",
+   "ml": "ചില മുഖങ്ങളെ",
+   "en": "some faces"
+  },
+  {
+   "verse": 47,
+   "ar": "فَنَرُدَّهَا",
+   "ml": "എന്നിട്ട് അവയെ നാം ആക്കുന്ന (മടക്കുന്ന - തള്ളിക്കളയുന്ന)തിന്",
+   "en": "and then Our making (turning back - thrusting away) them"
+  },
+  {
+   "verse": 47,
+   "ar": "عَلَىٰٓ أَدۡبَارِهَآ",
+   "ml": "അവയുടെ പിൻവശങ്ങളിൽ, പിന്നിൽ",
+   "en": "onto their back sides, behind"
+  },
+  {
+   "verse": 47,
+   "ar": "أَوۡ نَلۡعَنَهُمۡ",
+   "ml": "അല്ലെങ്കിൽ നാമവരെ ശപിക്കുന്നതിന്",
+   "en": "or Our cursing them"
+  },
+  {
+   "verse": 47,
+   "ar": "كَمَا لَعَنَّآ",
+   "ml": "നാം ശപിച്ചതു പോലെ",
+   "en": "as We cursed"
+  },
+  {
+   "verse": 47,
+   "ar": "أَصۡحَٰبَ ٱلسَّبۡتِۚ",
+   "ml": "ശബ്ബത്തിന്റെ ആൾക്കാരെ",
+   "en": "the people of the shabbat"
+  },
+  {
+   "verse": 47,
+   "ar": "وَكَانَ",
+   "ml": "ആകുന്നു",
+   "en": "is"
+  },
+  {
+   "verse": 47,
+   "ar": "أَمۡرُ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ കല്പന",
+   "en": "the command of Allah"
+  },
+  {
+   "verse": 47,
+   "ar": "مَفۡعُولًا",
+   "ml": "ചെയ്യപ്പെടുന്നത് പ്രവർത്തനത്തിൽ വരുന്നത്",
+   "en": "a thing that is done a thing that comes into effect"
+  },
+  {
+   "verse": 48,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 48,
+   "ar": "لَا يَغۡفِرُ",
+   "ml": "പൊറുക്കുകയില്ല",
+   "en": "will not forgive"
+  },
+  {
+   "verse": 48,
+   "ar": "أَن يُشۡرَكَ",
+   "ml": "ശിർക്കു ചെയ്യപ്പെടുന്നത്, പങ്കു ചേർക്കപ്പെടുന്നത്",
+   "en": "shirk being committed, partners being associated"
+  },
+  {
+   "verse": 48,
+   "ar": "بِهِۦ",
+   "ml": "അവനോട്, അവനിൽ",
+   "en": "with Him, in Him"
+  },
+  {
+   "verse": 48,
+   "ar": "وَيَغۡفِرُ",
+   "ml": "അവൻ പൊറുക്കുകയും ചെയ്യും",
+   "en": "and He will forgive"
+  },
+  {
+   "verse": 48,
+   "ar": "مَا دُونَ",
+   "ml": "താഴെയുള്ളത്, പുറമെയുള്ളത്",
+   "en": "what is below, what is besides"
+  },
+  {
+   "verse": 48,
+   "ar": "ذَٰلِكَ",
+   "ml": "അതിന്റെ",
+   "en": "that"
+  },
+  {
+   "verse": 48,
+   "ar": "لِمَن يَشَآءُۚ",
+   "ml": "അവൻ ഉദ്ദേശിക്കുന്നവർക്ക്",
+   "en": "to those whom He wills"
+  },
+  {
+   "verse": 48,
+   "ar": "وَمَن يُشۡرِكۡ",
+   "ml": "ആരെങ്കിലും പങ്കു ചേർക്കുന്നതായാൽ",
+   "en": "if anyone associates partners"
+  },
+  {
+   "verse": 48,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവോട്",
+   "en": "with Allah"
+  },
+  {
+   "verse": 48,
+   "ar": "فَقَدِ ٱفۡتَرَىٰٓ",
+   "ml": "തീർച്ചയായും അവൻ കെട്ടിയുണ്ടാക്കി, ചമച്ചുണ്ടാക്കി",
+   "en": "he has certainly fabricated, has concocted"
+  },
+  {
+   "verse": 48,
+   "ar": "إِثۡمًا",
+   "ml": "പാപം, കുറ്റം",
+   "en": "sin, offence"
+  },
+  {
+   "verse": 48,
+   "ar": "عَظِيمًا",
+   "ml": "വമ്പിച്ചതായ",
+   "en": "that is huge"
+  },
+  {
+   "verse": 49,
+   "ar": "أَلَمۡ تَرَ",
+   "ml": "നീ കണ്ടില്ലേ, നോക്കുന്നില്ലേ",
+   "en": "have you not seen, are you not looking"
+  },
+  {
+   "verse": 49,
+   "ar": "إِلَى ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരെ, കൂട്ടരിലേക്ക്",
+   "en": "those who, towards the people"
+  },
+  {
+   "verse": 49,
+   "ar": "يُزَكُّونَ",
+   "ml": "പരിശുദ്ധപ്പെടുത്തുന്ന",
+   "en": "who purify"
+  },
+  {
+   "verse": 49,
+   "ar": "أَنفُسَهُمۚ",
+   "ml": "തങ്ങളുടെ ദേഹങ്ങളെ, സ്വന്തങ്ങളെ (സ്വയം)",
+   "en": "their selves, their own selves (themselves)"
+  },
+  {
+   "verse": 49,
+   "ar": "بَلِ ٱللَّهُ",
+   "ml": "എങ്കിലും (പക്ഷേ) അല്ലാഹു",
+   "en": "yet (but) Allah"
+  },
+  {
+   "verse": 49,
+   "ar": "يُزَكِّي",
+   "ml": "പരിശുദ്ധപ്പെടുത്തുന്നു",
+   "en": "purifies"
+  },
+  {
+   "verse": 49,
+   "ar": "مَن يَشَآءُ",
+   "ml": "അവൻ ഉദ്ദേശിക്കുന്നവരെ",
+   "en": "those whom He wills"
+  },
+  {
+   "verse": 49,
+   "ar": "وَلَا يُظۡلَمُونَ",
+   "ml": "അവർ അക്രമിക്കപ്പെടുകയില്ല., അനീതി കാണിക്കപ്പെടുകയില്ല",
+   "en": "they will not be wronged., they will not be shown injustice"
+  },
+  {
+   "verse": 49,
+   "ar": "فَتِيلًا",
+   "ml": "തരിമ്പിട, ഒരു ആരളവും",
+   "en": "a whit's measure, even a fibre's measure"
+  },
+  {
+   "verse": 50,
+   "ar": "ٱنظُرۡ",
+   "ml": "നോക്കുക",
+   "en": "look"
+  },
+  {
+   "verse": 50,
+   "ar": "كَيۡفَ",
+   "ml": "എങ്ങിനെയാണ്",
+   "en": "how is it"
+  },
+  {
+   "verse": 50,
+   "ar": "يَفۡتَرُونَ",
+   "ml": "അവർ കെട്ടിച്ചമക്കുന്നു",
+   "en": "they fabricate"
+  },
+  {
+   "verse": 50,
+   "ar": "عَلَى ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ മേൽ, അല്ലാഹുവിനെപ്പറ്റി",
+   "en": "against Allah, about Allah"
+  },
+  {
+   "verse": 50,
+   "ar": "ٱلۡكَذِبَۖ",
+   "ml": "വ്യാജം",
+   "en": "lies"
+  },
+  {
+   "verse": 50,
+   "ar": "وَكَفَىٰ بِهِۦٓ",
+   "ml": "അതു(തന്നെ)മതി",
+   "en": "it (itself) is enough"
+  },
+  {
+   "verse": 50,
+   "ar": "إِثۡمٗا",
+   "ml": "കുറ്റമായിട്ട്, കുറ്റം",
+   "en": "as an offence, offence"
+  },
+  {
+   "verse": 50,
+   "ar": "مُّبِينًا",
+   "ml": "സ്പഷ്ടമായ, വ്യക്തമായ.",
+   "en": "manifest, clear."
+  },
+  {
+   "verse": 51,
+   "ar": "أَلَمۡ تَرَ",
+   "ml": "നീ കണ്ടില്ലേ, നോക്കുന്നില്ലേ",
+   "en": "have you not seen, are you not looking"
+  },
+  {
+   "verse": 51,
+   "ar": "إِلَى ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരിലേക്ക്",
+   "en": "towards those who"
+  },
+  {
+   "verse": 51,
+   "ar": "أُوتُواْ",
+   "ml": "അവർക്ക് കൊടുക്കപ്പെട്ടു",
+   "en": "were given to them"
+  },
+  {
+   "verse": 51,
+   "ar": "نَصِيبٗا",
+   "ml": "ഒരംശം, പങ്ക്",
+   "en": "a portion, a share"
+  },
+  {
+   "verse": 51,
+   "ar": "مِّنَ ٱلۡكِتَٰبِ",
+   "ml": "ഗ്രന്ഥത്തിൽനിന്ന്",
+   "en": "of the book"
+  },
+  {
+   "verse": 51,
+   "ar": "يُؤۡمِنُونَ",
+   "ml": "അവർ വിശ്വസിക്കുന്നു",
+   "en": "they believe"
+  },
+  {
+   "verse": 51,
+   "ar": "بِٱلۡجِبۡتِ",
+   "ml": "ജിബ്ത്തിൽ (ക്ഷുദ്രമായതിൽ)",
+   "en": "in Jibt (in what is vile)"
+  },
+  {
+   "verse": 51,
+   "ar": "وَٱلطَّـٰغُوتِ",
+   "ml": "ത്വാഗൂത്തിലും (ദുർമൂർത്തിയിലും)",
+   "en": "and in Taghut (and in the evil deity)"
+  },
+  {
+   "verse": 51,
+   "ar": "وَيَقُولُونَ",
+   "ml": "അവർ പറയുകയും ചെയ്യുന്നു",
+   "en": "and they say"
+  },
+  {
+   "verse": 51,
+   "ar": "لِلَّذِينَ كَفَرُواْ",
+   "ml": "അവിശ്വസിച്ചവരെക്കുറിച്ച്",
+   "en": "about those who have disbelieved"
+  },
+  {
+   "verse": 51,
+   "ar": "هَـٰٓؤُلَآءِ",
+   "ml": "ഇക്കൂട്ടർ",
+   "en": "these people"
+  },
+  {
+   "verse": 51,
+   "ar": "أَهۡدَىٰ",
+   "ml": "അധികം നേർമാർഗികളാണ്, നേരായുള്ളവരാണ്",
+   "en": "are more rightly guided, are ones who are more straight"
+  },
+  {
+   "verse": 51,
+   "ar": "مِنَ ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരെക്കാൾ",
+   "en": "than those who have believed"
+  },
+  {
+   "verse": 51,
+   "ar": "سَبِيلًا",
+   "ml": "വഴി, മാർഗത്താൽ",
+   "en": "way, by path"
+  },
+  {
+   "verse": 52,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those people"
+  },
+  {
+   "verse": 52,
+   "ar": "ٱلَّذِينَ",
+   "ml": "യാതൊരുവരത്രെ",
+   "en": "are indeed those who"
+  },
+  {
+   "verse": 52,
+   "ar": "لَعَنَهُمُ",
+   "ml": "അവരെ ശപിച്ചിരിക്കുന്നു",
+   "en": "has cursed them"
+  },
+  {
+   "verse": 52,
+   "ar": "ٱللَّهُۖ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 52,
+   "ar": "وَمَن",
+   "ml": "ആരെ(യെങ്കിലും)",
+   "en": "whom(ever)"
+  },
+  {
+   "verse": 52,
+   "ar": "يَلۡعَنِ ٱللَّهُ",
+   "ml": "അല്ലാഹു ശപിക്കുന്ന(തായാൽ)",
+   "en": "(if) Allah curses"
+  },
+  {
+   "verse": 52,
+   "ar": "فَلَن تَجِدَ",
+   "ml": "എന്നാൽ നീ കണ്ടെത്തുന്നതേയല്ല",
+   "en": "then you will never find"
+  },
+  {
+   "verse": 52,
+   "ar": "لَهُۥ",
+   "ml": "അവന്",
+   "en": "for him"
+  },
+  {
+   "verse": 52,
+   "ar": "نَصِيرًا",
+   "ml": "ഒരു സഹായകനെ(യും)",
+   "en": "(any) helper"
+  },
+  {
+   "verse": 53,
+   "ar": "أَمۡ",
+   "ml": "അതോ, അതല്ല, അഥവാ",
+   "en": "or is it, or else, or"
+  },
+  {
+   "verse": 53,
+   "ar": "لَهُمۡ",
+   "ml": "അവർക്കു(ണ്ടോ)",
+   "en": "for them (is there)"
+  },
+  {
+   "verse": 53,
+   "ar": "نَصِيبٞ",
+   "ml": "വല്ല അംശവും, പങ്ക്",
+   "en": "any portion, share"
+  },
+  {
+   "verse": 53,
+   "ar": "مِّنَ ٱلۡمُلۡكِ",
+   "ml": "രാജത്വ(രാജാധിപത്യം)ത്തിൽ നിന്നു(ള്ള)",
+   "en": "(that is) from kingship (sovereign dominion)"
+  },
+  {
+   "verse": 53,
+   "ar": "فَإِذٗا",
+   "ml": "എന്നാലപ്പോൾ",
+   "en": "but then"
+  },
+  {
+   "verse": 53,
+   "ar": "لَّا يُؤۡتُونَ",
+   "ml": "അവർ നൽകുകയില്ല",
+   "en": "they will not give"
+  },
+  {
+   "verse": 53,
+   "ar": "ٱلنَّاسَ",
+   "ml": "മനുഷ്യർക്ക്",
+   "en": "to people"
+  },
+  {
+   "verse": 53,
+   "ar": "نَقِيرًا",
+   "ml": "ഒരു നക്വീറും, കുത്തും (അണുവോളം, ഒട്ടും) [49-ാം വചനത്തിന്റെ വിവരണം നോക്കുക]",
+   "en": "even a naqir, a dot (an atom's measure, at all) [see the explanation of the 49th verse]"
+  },
+  {
+   "verse": 54,
+   "ar": "أَمۡ يَحۡسُدُونَ",
+   "ml": "അതല്ല അവർ അസൂയപ്പെടുന്നുവോ",
+   "en": "or else, are they jealous"
+  },
+  {
+   "verse": 54,
+   "ar": "ٱلنَّاسَ",
+   "ml": "മനുഷ്യരോട്",
+   "en": "towards people"
+  },
+  {
+   "verse": 54,
+   "ar": "عَلَىٰ مَآ",
+   "ml": "യാതൊന്നിനെപ്പറ്റി",
+   "en": "about that which"
+  },
+  {
+   "verse": 54,
+   "ar": "ءَاتَىٰهُمُ ٱللَّهُ",
+   "ml": "അല്ലാഹു അവർക്ക് നൽകിയ",
+   "en": "Allah has given them"
+  },
+  {
+   "verse": 54,
+   "ar": "مِن فَضۡلِهِۦۖ",
+   "ml": "അവന്റെ അനുഗ്രഹത്തിൽ (ദയവിൽ) നിന്ന്",
+   "en": "out of His favour (kindness)"
+  },
+  {
+   "verse": 54,
+   "ar": "فَقَدۡ ءَاتَيۡنَآ",
+   "ml": "എന്നാൽ നാം നൽകിയിട്ടുണ്ട്",
+   "en": "but We have given"
+  },
+  {
+   "verse": 54,
+   "ar": "ءَالَ إِبۡرَٰهِيمَ",
+   "ml": "ഇബ്റാഹീമിന്റെ കുടുംബത്തിന്ന്, കൂട്ടർക്ക്",
+   "en": "to the family of Ibrahim, to the people"
+  },
+  {
+   "verse": 54,
+   "ar": "ٱلۡكِتَٰبَ",
+   "ml": "(വേദ)ഗ്രന്ഥം",
+   "en": "the (scriptural) book"
+  },
+  {
+   "verse": 54,
+   "ar": "وَٱلۡحِكۡمَةَ",
+   "ml": "വിജ്ഞാനവും, തത്വജ്ഞാനവും",
+   "en": "and wisdom, and philosophy"
+  },
+  {
+   "verse": 54,
+   "ar": "وَءَاتَيۡنَٰهُم",
+   "ml": "അവർക്ക് നാം നൽകുകയും ചെയ്തു",
+   "en": "and We gave them"
+  },
+  {
+   "verse": 54,
+   "ar": "مُّلۡكًا",
+   "ml": "രാജത്വം, രാജാധികാരം",
+   "en": "kingship, royal authority"
+  },
+  {
+   "verse": 54,
+   "ar": "عَظِيمٗا",
+   "ml": "വമ്പിച്ച",
+   "en": "huge"
+  },
+  {
+   "verse": 55,
+   "ar": "فَمِنۡهُم",
+   "ml": "എന്നിട്ട് അവരിലുണ്ട്, അവരിൽ നിന്ന് (ചിലർ)",
+   "en": "then among them there are, of them (some)"
+  },
+  {
+   "verse": 55,
+   "ar": "مَّنۡ ءَامَنَ",
+   "ml": "വിശ്വസിച്ചവർ (ഉണ്ട്)",
+   "en": "those who believed (there are)"
+  },
+  {
+   "verse": 55,
+   "ar": "بِهِۦ",
+   "ml": "അതിൽ",
+   "en": "in it"
+  },
+  {
+   "verse": 55,
+   "ar": "وَمِنۡهُم",
+   "ml": "അവരിലുണ്ട് (ചിലർ)",
+   "en": "and among them there are (some)"
+  },
+  {
+   "verse": 55,
+   "ar": "مَّن صَدَّ",
+   "ml": "തിരിഞ്ഞു കളഞ്ഞവർ",
+   "en": "those who turned away"
+  },
+  {
+   "verse": 55,
+   "ar": "عَنۡهُۚ",
+   "ml": "അതിനെ വിട്ട്",
+   "en": "from it"
+  },
+  {
+   "verse": 55,
+   "ar": "وَكَفَىٰ",
+   "ml": "മതി",
+   "en": "enough"
+  },
+  {
+   "verse": 55,
+   "ar": "بِجَهَنَّمَ",
+   "ml": "ജഹന്നം(തന്നെ)",
+   "en": "Jahannam (itself)"
+  },
+  {
+   "verse": 55,
+   "ar": "سَعِيرًا",
+   "ml": "കത്തിജ്വലിക്കുന്ന അഗ്നിയായി",
+   "en": "as a blazing fire"
+  },
+  {
+   "verse": 56,
+   "ar": "إِنَّ ٱلَّذِينَ كَفَرُواْ",
+   "ml": "നിശ്ചയമായും അവിശ്വസിച്ചവർ",
+   "en": "surely those who have disbelieved"
+  },
+  {
+   "verse": 56,
+   "ar": "بِـَٔايَٰتِنَا",
+   "ml": "നമ്മുടെ ആയത്തുകളിൽ",
+   "en": "in Our ayahs"
+  },
+  {
+   "verse": 56,
+   "ar": "سَوۡفَ",
+   "ml": "വഴിയെ, പിറകെ",
+   "en": "in due course, later"
+  },
+  {
+   "verse": 56,
+   "ar": "نُصۡلِيهِمۡ",
+   "ml": "നാമവരെ കടത്തി എരിയിക്കും",
+   "en": "We will make them enter and burn"
+  },
+  {
+   "verse": 56,
+   "ar": "نَارٗا",
+   "ml": "അഗ്നിയിൽ",
+   "en": "in the Fire"
+  },
+  {
+   "verse": 56,
+   "ar": "كُلَّمَا نَضِجَتۡ",
+   "ml": "വെന്തു പോകുമ്പോഴെല്ലാം (പാകമാകു - പഴുക്കു-മ്പോഴൊക്കെ)",
+   "en": "whenever are burnt through (become done - ripen)"
+  },
+  {
+   "verse": 56,
+   "ar": "جُلُودُهُم",
+   "ml": "അവരുടെ തൊലികൾ",
+   "en": "their skins"
+  },
+  {
+   "verse": 56,
+   "ar": "بَدَّلۡنَٰهُمۡ",
+   "ml": "അവർക്ക് നാം പകരമാക്കും",
+   "en": "We will give them in exchange"
+  },
+  {
+   "verse": 56,
+   "ar": "جُلُودًا",
+   "ml": "തൊലികളെ",
+   "en": "skins"
+  },
+  {
+   "verse": 56,
+   "ar": "غَيۡرَهَا",
+   "ml": "അവയല്ലാത്ത",
+   "en": "other than those"
+  },
+  {
+   "verse": 56,
+   "ar": "لِيَذُوقُواْ",
+   "ml": "അവർ രുചി നോക്കുവാൻവേണ്ടി",
+   "en": "so that they may taste"
+  },
+  {
+   "verse": 56,
+   "ar": "ٱلۡعَذَابَۗ",
+   "ml": "ശിക്ഷയെ",
+   "en": "the punishment"
+  },
+  {
+   "verse": 56,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 56,
+   "ar": "كَانَ",
+   "ml": "ആകുന്നു, ആയിരിക്കുന്നു",
+   "en": "is, has been"
+  },
+  {
+   "verse": 56,
+   "ar": "عَزِيزًا",
+   "ml": "പ്രതാപശാലി",
+   "en": "the Majestic"
+  },
+  {
+   "verse": 56,
+   "ar": "حَكِيمٗا",
+   "ml": "അഗാധജ്ഞൻ, യുക്തിജ്ഞാനി",
+   "en": "the Profoundly Knowing, the Sagacious"
+  },
+  {
+   "verse": 57,
+   "ar": "وَٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരാകട്ടെ",
+   "en": "and those who have believed, for their part"
+  },
+  {
+   "verse": 57,
+   "ar": "وَعَمِلُواْ",
+   "ml": "അവർ പ്രവർത്തിക്കുകയും ചെയ്ത",
+   "en": "and who have done"
+  },
+  {
+   "verse": 57,
+   "ar": "ٱلصَّـٰلِحَٰتِ",
+   "ml": "സൽക്കർമങ്ങൾ",
+   "en": "good deeds"
+  },
+  {
+   "verse": 57,
+   "ar": "سَنُدۡخِلُهُمۡ",
+   "ml": "വഴിയെ നാം അവരെ പ്രവേശിപ്പിക്കും",
+   "en": "We will in due course make them enter"
+  },
+  {
+   "verse": 57,
+   "ar": "جَنَّـٰتٖ",
+   "ml": "സ്വർഗങ്ങളിൽ, തോപ്പുകളിൽ",
+   "en": "into Paradises, into gardens"
+  },
+  {
+   "verse": 57,
+   "ar": "تَجۡرِي",
+   "ml": "ഒഴുകുന്ന",
+   "en": "that flow"
+  },
+  {
+   "verse": 57,
+   "ar": "مِن تَحۡتِهَا",
+   "ml": "അതിന്റെ അടിയിലൂടെ",
+   "en": "through its underside"
+  },
+  {
+   "verse": 57,
+   "ar": "ٱلۡأَنۡهَٰرُ",
+   "ml": "അരുവികൾ, നദികൾ",
+   "en": "streams, rivers"
+  },
+  {
+   "verse": 57,
+   "ar": "خَٰلِدِينَ",
+   "ml": "നിത്യവാസികളായിട്ട്",
+   "en": "as permanent dwellers"
+  },
+  {
+   "verse": 57,
+   "ar": "فِيهَآ",
+   "ml": "അവയിൽ",
+   "en": "in them"
+  },
+  {
+   "verse": 57,
+   "ar": "أَبَدٗاۖ",
+   "ml": "എന്നെന്നും",
+   "en": "for ever and ever"
+  },
+  {
+   "verse": 57,
+   "ar": "لَّهُمۡ فِيهَآ",
+   "ml": "അവിടത്തിൽ അവർക്കുണ്ട്",
+   "en": "there, for them there are"
+  },
+  {
+   "verse": 57,
+   "ar": "أَزۡوَٰجٞ",
+   "ml": "ഇണകൾ",
+   "en": "mates"
+  },
+  {
+   "verse": 57,
+   "ar": "مُّطَهَّرَةٞۖ",
+   "ml": "ശുദ്ധിയാക്കപ്പെട്ട, പരിശുദ്ധകളായ",
+   "en": "purified, who are pure"
+  },
+  {
+   "verse": 57,
+   "ar": "وَنُدۡخِلُهُمۡ",
+   "ml": "നാമവരെ പ്രവേശിപ്പിക്കുകയും ചെയ്യും",
+   "en": "and We will make them enter"
+  },
+  {
+   "verse": 57,
+   "ar": "ظِلّٗا",
+   "ml": "നിഴലിൽ, തണലിൽ",
+   "en": "into a shadow, into a shade"
+  },
+  {
+   "verse": 57,
+   "ar": "ظَلِيلًا",
+   "ml": "തണലേകുന്ന (നിബിഡമായ - നിത്യം തിങ്ങിയ തണലുള്ള)",
+   "en": "that gives shade (dense - having perpetually thick shade)"
+  }
+ ]
+}
