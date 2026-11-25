@@ -1,0 +1,700 @@
+{
+ "words": [
+  {
+   "verse": 94,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ",
+   "ml": "ഹേ വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 94,
+   "ar": "إِذَا ضَرَبۡتُمۡ",
+   "ml": "നിങ്ങൾ യാത്രപോയാൽ",
+   "en": "if you go on a journey"
+  },
+  {
+   "verse": 94,
+   "ar": "فِي سَبِيلِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ മാർഗത്തിൽ",
+   "en": "in the way of Allah"
+  },
+  {
+   "verse": 94,
+   "ar": "فَتَبَيَّنُواْ",
+   "ml": "നിങ്ങൾ വ്യക്തത തേടുവിൻ, വ്യക്തമായി മനസ്സിലാക്കുവിൻ",
+   "en": "seek clarity, understand clearly"
+  },
+  {
+   "verse": 94,
+   "ar": "وَلَا تَقُولُواْ",
+   "ml": "നിങ്ങൾ പറയുകയും അരുത്",
+   "en": "and do not say"
+  },
+  {
+   "verse": 94,
+   "ar": "لِمَنۡ أَلۡقَىٰٓ",
+   "ml": "ഇട്ടുതന്ന(പ്രകടിപ്പിച്ച)വനോട്",
+   "en": "to one who has cast(displayed)"
+  },
+  {
+   "verse": 94,
+   "ar": "إِلَيۡكُمُ",
+   "ml": "നിങ്ങളിലേക്ക്, നിങ്ങളോട്",
+   "en": "to you, towards you"
+  },
+  {
+   "verse": 94,
+   "ar": "ٱلسَّلَٰمَ",
+   "ml": "സലാമിനെ, സമാധാനം",
+   "en": "salam, peace"
+  },
+  {
+   "verse": 94,
+   "ar": "لَسۡتَ",
+   "ml": "നീ അല്ല(എന്ന്)",
+   "en": "you are not(thus)"
+  },
+  {
+   "verse": 94,
+   "ar": "مُؤۡمِنٗا",
+   "ml": "സത്യവിശ്വാസി",
+   "en": "a true believer"
+  },
+  {
+   "verse": 94,
+   "ar": "تَبۡتَغُونَ",
+   "ml": "നിങ്ങൾ തേടിക്കൊണ്ട്",
+   "en": "you seeking"
+  },
+  {
+   "verse": 94,
+   "ar": "عَرَضَ",
+   "ml": "വിഭവം, സാമഗ്രികൾ, ഉപകരണം",
+   "en": "goods, materials, means"
+  },
+  {
+   "verse": 94,
+   "ar": "ٱلۡحَيَوٰةِ ٱلدُّنۡيَا",
+   "ml": "ഐഹിക(ഇഹത്തിലെ) ജീവിതത്തിന്റെ",
+   "en": "of the worldly(in this world) life"
+  },
+  {
+   "verse": 94,
+   "ar": "فَعِندَ ٱللَّهِ",
+   "ml": "എന്നാൽ അല്ലാഹുവിന്റെ അടുക്കലുണ്ട്",
+   "en": "but with Allah there are"
+  },
+  {
+   "verse": 94,
+   "ar": "مَغَانِمُ",
+   "ml": "ഗനീമത്തുകൾ, യുദ്ധമുതലുകൾ, ഭാഗ്യത്തിൽ ലഭിക്കുന്നവ",
+   "en": "ghanimahs, spoils of war, things obtained by good fortune"
+  },
+  {
+   "verse": 94,
+   "ar": "كَثِيرَةٞ",
+   "ml": "വളരെ, അധികം",
+   "en": "many, much"
+  },
+  {
+   "verse": 94,
+   "ar": "كَذَٰلِكَ",
+   "ml": "അപ്രകാരം, അതുപോലെ (തന്നെ)",
+   "en": "so, like that (indeed)"
+  },
+  {
+   "verse": 94,
+   "ar": "كُنتُم",
+   "ml": "നിങ്ങൾ ആയിരുന്നു",
+   "en": "you were"
+  },
+  {
+   "verse": 94,
+   "ar": "مِّن قَبۡلُ",
+   "ml": "മുമ്പ്",
+   "en": "formerly"
+  },
+  {
+   "verse": 94,
+   "ar": "فَمَنَّ ٱللَّهُ",
+   "ml": "എന്നിട്ട് അല്ലാഹു ദാക്ഷിണ്യം (നന്മ - ഗുണം) ചെയ്തിരിക്കുന്നു",
+   "en": "then Allah has done graciousness (good - benefit)"
+  },
+  {
+   "verse": 94,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങളുടെ മേൽ",
+   "en": "on you"
+  },
+  {
+   "verse": 94,
+   "ar": "فَتَبَيَّنُواْ",
+   "ml": "അതിനാൽ നിങ്ങൾ വ്യക്തമായി മനസ്സിലാക്കുവിൻ",
+   "en": "therefore understand clearly"
+  },
+  {
+   "verse": 94,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 94,
+   "ar": "كَانَ",
+   "ml": "ആകുന്നു",
+   "en": "is"
+  },
+  {
+   "verse": 94,
+   "ar": "بِمَا تَعۡمَلُونَ",
+   "ml": "നിങ്ങൾ പ്രവർത്തിക്കുന്നതിനെപ്പറ്റി",
+   "en": "about what you do"
+  },
+  {
+   "verse": 94,
+   "ar": "خَبِيرٗا",
+   "ml": "സൂക്ഷ്മജ്ഞാനി",
+   "en": "One of minute knowledge"
+  },
+  {
+   "verse": 95,
+   "ar": "لَّا يَسۡتَوِي",
+   "ml": "സമമാകുക (ഒപ്പമാകുക)യില്ല",
+   "en": "will not be equal (be alike)"
+  },
+  {
+   "verse": 95,
+   "ar": "ٱلۡقَٰعِدُونَ",
+   "ml": "(അടങ്ങി - മുടങ്ങി) ഇരിക്കുന്നവർ, ഇരുപ്പിലായവർ",
+   "en": "those who sit (still - held back), those who are in sitting"
+  },
+  {
+   "verse": 95,
+   "ar": "مِنَ ٱلۡمُؤۡمِنِينَ",
+   "ml": "സത്യവിശ്വാസികളിൽ നിന്ന്",
+   "en": "among the true believers"
+  },
+  {
+   "verse": 95,
+   "ar": "غَيۡرُ",
+   "ml": "അല്ലാതെ, ഒഴികെയുള്ള",
+   "en": "other than, excepting"
+  },
+  {
+   "verse": 95,
+   "ar": "أُوْلِي ٱلضَّرَرِ",
+   "ml": "ബുദ്ധിമുട്ട്(വിഷമം)ഉള്ളവർ",
+   "en": "those who have hardship(difficulty)"
+  },
+  {
+   "verse": 95,
+   "ar": "وَٱلۡمُجَٰهِدُونَ",
+   "ml": "സമരം ചെയ്യുന്നവരും",
+   "en": "and those who struggle"
+  },
+  {
+   "verse": 95,
+   "ar": "فِي سَبِيلِ",
+   "ml": "മാർഗത്തിൽ",
+   "en": "in the way"
+  },
+  {
+   "verse": 95,
+   "ar": "ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ",
+   "en": "of Allah"
+  },
+  {
+   "verse": 95,
+   "ar": "بِأَمۡوَٰلِهِمۡ",
+   "ml": "തങ്ങളുടെ സ്വത്തുക്കൾകൊണ്ട്",
+   "en": "with their wealth"
+  },
+  {
+   "verse": 95,
+   "ar": "وَأَنفُسِهِمۡ",
+   "ml": "തങ്ങളുടെ സ്വന്തങ്ങളെ (ദേഹങ്ങളെ) കൊണ്ടും",
+   "en": "and with their own selves (persons)"
+  },
+  {
+   "verse": 95,
+   "ar": "فَضَّلَ ٱللَّهُ",
+   "ml": "അല്ലാഹു ശ്രേഷ്ഠരാക്കിയിരിക്കുന്നു",
+   "en": "Allah has made superior"
+  },
+  {
+   "verse": 95,
+   "ar": "ٱلۡمُجَٰهِدِينَ",
+   "ml": "സമരം ചെയ്യുന്നവരെ",
+   "en": "those who struggle"
+  },
+  {
+   "verse": 95,
+   "ar": "بِأَمۡوَٰلِهِمۡ",
+   "ml": "തങ്ങളുടെ സ്വത്തുക്കൾ കൊണ്ട്",
+   "en": "with their wealth"
+  },
+  {
+   "verse": 95,
+   "ar": "وَأَنفُسِهِمۡ",
+   "ml": "തങ്ങളുടെ ദേഹങ്ങളും",
+   "en": "and their selves"
+  },
+  {
+   "verse": 95,
+   "ar": "عَلَى ٱلۡقَٰعِدِينَ",
+   "ml": "(അടങ്ങി) ഇരിക്കുന്ന (ഇരുപ്പിലായ)വരെക്കാൾ",
+   "en": "than those who sit (still) (who are in sitting)"
+  },
+  {
+   "verse": 95,
+   "ar": "دَرَجَةٗ",
+   "ml": "പദവിയാൽ, പദവിയിൽ",
+   "en": "by rank, in rank"
+  },
+  {
+   "verse": 95,
+   "ar": "وَكُلّٗا",
+   "ml": "എല്ലാവരോടും",
+   "en": "to all"
+  },
+  {
+   "verse": 95,
+   "ar": "وَعَدَ ٱللَّهُ",
+   "ml": "അല്ലാഹു വാഗ്ദാനം ചെയ്തിരിക്കുന്നു",
+   "en": "Allah has promised"
+  },
+  {
+   "verse": 95,
+   "ar": "ٱلۡحُسۡنَىٰ",
+   "ml": "ഏറ്റവും നല്ലത്",
+   "en": "the very best"
+  },
+  {
+   "verse": 95,
+   "ar": "وَفَضَّلَ ٱللَّهُ",
+   "ml": "അല്ലാഹു ശ്രേഷ്ഠരാക്കുകയും ചെയ്തിരിക്കുന്നു",
+   "en": "Allah has also made superior"
+  },
+  {
+   "verse": 95,
+   "ar": "ٱلۡمُجَٰهِدِينَ",
+   "ml": "സമരം ചെയ്യുന്നവരെ",
+   "en": "those who struggle"
+  },
+  {
+   "verse": 95,
+   "ar": "عَلَى ٱلۡقَٰعِدِينَ",
+   "ml": "(അടങ്ങി) ഇരിക്കുന്നവരെക്കാൾ",
+   "en": "than those who sit (still)"
+  },
+  {
+   "verse": 95,
+   "ar": "أَجۡرًا",
+   "ml": "പ്രതിഫലത്തിൽ, കൂലിയാൽ",
+   "en": "in recompense, by wage"
+  },
+  {
+   "verse": 95,
+   "ar": "عَظِيمٗا",
+   "ml": "വമ്പിച്ച",
+   "en": "great"
+  },
+  {
+   "verse": 96,
+   "ar": "دَرَجَٰتٖ",
+   "ml": "അതായത് പല പദവികൾ",
+   "en": "that is, many ranks"
+  },
+  {
+   "verse": 96,
+   "ar": "مِّنۡهُ",
+   "ml": "അവങ്കൽനിന്നുള്ള",
+   "en": "that are from Him"
+  },
+  {
+   "verse": 96,
+   "ar": "وَمَغۡفِرَةٗ",
+   "ml": "പാപമോചനവും, പൊറുതിയും",
+   "en": "and forgiveness of sins, and pardon"
+  },
+  {
+   "verse": 96,
+   "ar": "وَرَحۡمَةٗ",
+   "ml": "കാരുണ്യവും",
+   "en": "and mercy"
+  },
+  {
+   "verse": 96,
+   "ar": "وَكَانَ ٱللَّهُ",
+   "ml": "അല്ലാഹു ആകുന്നുതാനും",
+   "en": "Allah is, moreover"
+  },
+  {
+   "verse": 96,
+   "ar": "غَفُورٗا",
+   "ml": "വളരെ പൊറുക്കുന്നവൻ",
+   "en": "One who forgives much"
+  },
+  {
+   "verse": 96,
+   "ar": "رَّحِيمًا",
+   "ml": "കരുണാനിധി",
+   "en": "the Ever-Merciful"
+  },
+  {
+   "verse": 97,
+   "ar": "إِنَّ ٱلَّذِينَ",
+   "ml": "നിശ്ചയമായും യാതൊരു കൂട്ടർ",
+   "en": "surely those whom"
+  },
+  {
+   "verse": 97,
+   "ar": "تَوَفَّىٰهُمُ",
+   "ml": "അവരെ (പൂർണമായി) പിടിച്ചെടുക്കും",
+   "en": "will take them (in full)"
+  },
+  {
+   "verse": 97,
+   "ar": "ٱلۡمَلَـٰٓئِكَةُ",
+   "ml": "മലക്കുകൾ",
+   "en": "the angels"
+  },
+  {
+   "verse": 97,
+   "ar": "ظَالِمِيٓ",
+   "ml": "അക്രമം ചെയ്യുന്നവരായ സ്ഥിതിയിൽ",
+   "en": "in the state of being ones who do wrong"
+  },
+  {
+   "verse": 97,
+   "ar": "أَنفُسِهِمۡ",
+   "ml": "തങ്ങളുടെ ആത്മാക്കളോട്, തങ്ങളോട് തന്നെ",
+   "en": "to their own souls, to themselves"
+  },
+  {
+   "verse": 97,
+   "ar": "قَالُواْ",
+   "ml": "അവർ പറയും",
+   "en": "they will say"
+  },
+  {
+   "verse": 97,
+   "ar": "فِيمَ",
+   "ml": "എന്തിൽ",
+   "en": "in what"
+  },
+  {
+   "verse": 97,
+   "ar": "كُنتُمۡ",
+   "ml": "നിങ്ങളായിരുന്നു",
+   "en": "were you"
+  },
+  {
+   "verse": 97,
+   "ar": "قَالُواْ كُنَّا",
+   "ml": "അവർ പറയും ഞങ്ങളായിരുന്നു",
+   "en": "they will say, we were"
+  },
+  {
+   "verse": 97,
+   "ar": "مُسۡتَضۡعَفِينَ",
+   "ml": "ബലഹീനരാക്കപ്പെട്ടവർ, ദുർബ്ബലർ",
+   "en": "ones made feeble, weak ones"
+  },
+  {
+   "verse": 97,
+   "ar": "فِي ٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയിൽ",
+   "en": "in the earth"
+  },
+  {
+   "verse": 97,
+   "ar": "قَالُوٓاْ",
+   "ml": "അവർ പറയും",
+   "en": "they will say"
+  },
+  {
+   "verse": 97,
+   "ar": "أَلَمۡ تَكُنۡ",
+   "ml": "ആയിരുന്നില്ലേ",
+   "en": "was not"
+  },
+  {
+   "verse": 97,
+   "ar": "أَرۡضُ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ ഭൂമി",
+   "en": "the earth of Allah"
+  },
+  {
+   "verse": 97,
+   "ar": "وَٰسِعَةٗ",
+   "ml": "വിശാലമായത്",
+   "en": "wide"
+  },
+  {
+   "verse": 97,
+   "ar": "فَتُهَاجِرُواْ",
+   "ml": "അപ്പോൾ നിങ്ങൾ (ക്കു) ഹിജ്റഃപോകാമായിരുന്നു",
+   "en": "then you could have gone in hijrah"
+  },
+  {
+   "verse": 97,
+   "ar": "فِيهَا",
+   "ml": "അതിൽ",
+   "en": "in it"
+  },
+  {
+   "verse": 97,
+   "ar": "فَأُوْلَـٰٓئِكَ",
+   "ml": "എന്നാൽ അക്കൂട്ടർ",
+   "en": "then those people"
+  },
+  {
+   "verse": 97,
+   "ar": "مَأۡوَىٰهُمۡ",
+   "ml": "അവരുടെ സങ്കേതം, ചെന്നെത്തുന്ന സ്ഥലം",
+   "en": "their resort, the place they reach"
+  },
+  {
+   "verse": 97,
+   "ar": "جَهَنَّمُۖ",
+   "ml": "നരകമാണ്",
+   "en": "is Hell"
+  },
+  {
+   "verse": 97,
+   "ar": "وَسَآءَتۡ",
+   "ml": "അത് വളരെ (എത്രയോ) മോശപ്പെട്ടതുമാകുന്നു",
+   "en": "and it is very (how) bad"
+  },
+  {
+   "verse": 97,
+   "ar": "مَصِيرًا",
+   "ml": "",
+   "en": "*[TN: no gloss is printed for this word in the table; the verse panel renders it പര്യവസാനം \"final end\".]*"
+  },
+  {
+   "verse": 98,
+   "ar": "إِلَّا ٱلۡمُسۡتَضۡعَفِينَ",
+   "ml": "ദുർബ്ബലരൊഴികെ, ബലഹീനരാക്കപ്പെട്ടവരല്ലാതെ",
+   "en": "except the weak ones, other than those made feeble"
+  },
+  {
+   "verse": 98,
+   "ar": "مِنَ ٱلرِّجَالِ",
+   "ml": "പുരുഷന്മാരാകുന്ന, പുരുഷന്മാരിൽ നിന്ന്",
+   "en": "who are men, from among the men"
+  },
+  {
+   "verse": 98,
+   "ar": "وَٱلنِّسَآءِ",
+   "ml": "സ്ത്രീകളും",
+   "en": "and women"
+  },
+  {
+   "verse": 98,
+   "ar": "وَٱلۡوِلۡدَٰنِ",
+   "ml": "കുട്ടികളും",
+   "en": "and children"
+  },
+  {
+   "verse": 98,
+   "ar": "لَا يَسۡتَطِيعُونَ",
+   "ml": "അവർക്ക് സാധിക്കുകയില്ല, സാധിക്കാത്ത വിധത്തിൽ",
+   "en": "they will not be able, in such a way that they are not able"
+  },
+  {
+   "verse": 98,
+   "ar": "حِيلَةٗ",
+   "ml": "ഒരു ഉപായത്തിനും, വല്ല കൗശലത്തിനും",
+   "en": "for any device, for some contrivance"
+  },
+  {
+   "verse": 98,
+   "ar": "وَلَا يَهۡتَدُونَ",
+   "ml": "അവർ വഴികാണുകയുമില്ല (കണ്ടെത്തുകയുമില്ല)",
+   "en": "and they will not see the way (will not find)"
+  },
+  {
+   "verse": 98,
+   "ar": "سَبِيلٗا",
+   "ml": "ഒരു മാർഗവും, വഴിയും",
+   "en": "any way, path"
+  },
+  {
+   "verse": 99,
+   "ar": "فَأُوْلَـٰٓئِكَ",
+   "ml": "എന്നാൽ അക്കൂട്ടർ",
+   "en": "then those people"
+  },
+  {
+   "verse": 99,
+   "ar": "عَسَى ٱللَّهُ",
+   "ml": "അല്ലാഹു ആയേക്കാം",
+   "en": "Allah may be"
+  },
+  {
+   "verse": 99,
+   "ar": "أَن يَعۡفُوَ",
+   "ml": "അവൻ മാപ്പ് നൽകുവാൻ",
+   "en": "to give pardon"
+  },
+  {
+   "verse": 99,
+   "ar": "عَنۡهُمۡ",
+   "ml": "അവർക്ക്",
+   "en": "to them"
+  },
+  {
+   "verse": 99,
+   "ar": "وَكَانَ ٱللَّهُ",
+   "ml": "അല്ലാഹു ആകുന്നുതാനും",
+   "en": "Allah is, moreover"
+  },
+  {
+   "verse": 99,
+   "ar": "عَفُوًّا",
+   "ml": "വളരെ മാപ്പ് ചെയ്യുന്നവൻ",
+   "en": "One who pardons much"
+  },
+  {
+   "verse": 99,
+   "ar": "غَفُورٗا",
+   "ml": "വളരെ പൊറുക്കുന്നവൻ",
+   "en": "One who forgives much"
+  },
+  {
+   "verse": 100,
+   "ar": "وَمَن يُهَاجِرۡ",
+   "ml": "വല്ലവരും ഹിജ്റഃ പോകുന്നപക്ഷം",
+   "en": "in case anyone goes in hijrah"
+  },
+  {
+   "verse": 100,
+   "ar": "فِي سَبِيلِ",
+   "ml": "മാർഗത്തിൽ",
+   "en": "in the way"
+  },
+  {
+   "verse": 100,
+   "ar": "ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ",
+   "en": "of Allah"
+  },
+  {
+   "verse": 100,
+   "ar": "يَجِدۡ",
+   "ml": "അവൻ കണ്ടെത്തും, എത്തിക്കും, അവനുകിട്ടും",
+   "en": "he will find, will bring *[DOUBT: എത്തിക്കും is printed (literally \"will bring, will cause to reach\"); it may stand for എത്തും \"will reach\"; rendered as printed.]*, he will get"
+  },
+  {
+   "verse": 100,
+   "ar": "فِي ٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയിൽ",
+   "en": "in the earth"
+  },
+  {
+   "verse": 100,
+   "ar": "مُرَٰغَمٗا",
+   "ml": "ആശ്രയം, ആശ്രയ സ്ഥാനം, വിശാല സ്ഥാനം, വിഹാര സ്ഥാനം",
+   "en": "refuge, place of refuge, spacious place, place to roam"
+  },
+  {
+   "verse": 100,
+   "ar": "كَثِيرٗا",
+   "ml": "വളരെ, ധാരാളം",
+   "en": "much, plenty"
+  },
+  {
+   "verse": 100,
+   "ar": "وَسَعَةٗ",
+   "ml": "വിശാലതയും",
+   "en": "and spaciousness"
+  },
+  {
+   "verse": 100,
+   "ar": "وَمَن يَخۡرُجۡ",
+   "ml": "ആരെങ്കിലും പുറപ്പെടുന്നതായാൽ",
+   "en": "if anyone sets out"
+  },
+  {
+   "verse": 100,
+   "ar": "مِنۢ بَيۡتِهِۦ",
+   "ml": "തന്റെ വീട്ടിൽനിന്ന്",
+   "en": "from his house"
+  },
+  {
+   "verse": 100,
+   "ar": "مُهَاجِرًا",
+   "ml": "ഹിജ്റഃ പോകുന്നവനായിട്ട്",
+   "en": "as one going in hijrah"
+  },
+  {
+   "verse": 100,
+   "ar": "إِلَى ٱللَّهِ",
+   "ml": "അല്ലാഹുവിങ്കലേക്ക്",
+   "en": "to Allah"
+  },
+  {
+   "verse": 100,
+   "ar": "وَرَسُولِهِۦ",
+   "ml": "അവന്റെ റസൂലിലേക്കും",
+   "en": "and to His Rasul"
+  },
+  {
+   "verse": 100,
+   "ar": "ثُمَّ",
+   "ml": "പിന്നീട്, പിന്നെ",
+   "en": "afterwards, then"
+  },
+  {
+   "verse": 100,
+   "ar": "يُدۡرِكۡهُ",
+   "ml": "അവന് പിടിപെടുക (കണ്ടെത്തുക)യും",
+   "en": "and overtakes (finds) him"
+  },
+  {
+   "verse": 100,
+   "ar": "ٱلۡمَوۡتُ",
+   "ml": "മരണം",
+   "en": "death"
+  },
+  {
+   "verse": 100,
+   "ar": "فَقَدۡ وَقَعَ",
+   "ml": "എന്നാൽ തീർച്ചയായും സംഭവിച്ചു, ഉണ്ടായി (സ്ഥിരപ്പെട്ടു)",
+   "en": "then certainly has fallen, has come about (has become established)"
+  },
+  {
+   "verse": 100,
+   "ar": "أَجۡرُهُۥ",
+   "ml": "അവന്റെ പ്രതിഫലം",
+   "en": "his recompense"
+  },
+  {
+   "verse": 100,
+   "ar": "عَلَى ٱللَّهِۗ",
+   "ml": "അല്ലാഹുവിന്റെ മേൽ",
+   "en": "upon Allah"
+  },
+  {
+   "verse": 100,
+   "ar": "وَكَانَ ٱللَّهُ",
+   "ml": "അല്ലാഹു ആകുന്നുതാനും",
+   "en": "Allah is, moreover"
+  },
+  {
+   "verse": 100,
+   "ar": "غَفُورٗا",
+   "ml": "വളരെ പൊറുക്കുന്നവൻ",
+   "en": "One who forgives much"
+  },
+  {
+   "verse": 100,
+   "ar": "رَّحِيمٗا",
+   "ml": "കരുണാനിധി",
+   "en": "the Ever-Merciful"
+  }
+ ]
+}
