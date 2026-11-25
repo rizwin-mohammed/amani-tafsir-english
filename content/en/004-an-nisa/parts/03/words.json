@@ -1,0 +1,550 @@
+{
+ "words": [
+  {
+   "verse": 5,
+   "ar": "وَلَا تُؤۡتُواْ",
+   "ml": "നിങ്ങൾ കൊടുക്കുകയും ചെയ്യരുത്",
+   "en": "and do not give"
+  },
+  {
+   "verse": 5,
+   "ar": "ٱلسُّفَهَآءَ",
+   "ml": "ഭോഷന്മാർക്ക്",
+   "en": "to the fools"
+  },
+  {
+   "verse": 5,
+   "ar": "أَمۡوَٰلَكُمُ",
+   "ml": "നിങ്ങളുടെ സ്വത്തുക്കൾ",
+   "en": "your properties"
+  },
+  {
+   "verse": 5,
+   "ar": "ٱلَّتِي جَعَلَ",
+   "ml": "ആക്കിയിട്ടുള്ളതായ",
+   "en": "which has made"
+  },
+  {
+   "verse": 5,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 5,
+   "ar": "لَكُمۡ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "for you"
+  },
+  {
+   "verse": 5,
+   "ar": "قِيَٰمٗا",
+   "ml": "ഒരു നിലനിൽപ് (നിൽക്കുവാനുള്ള ഒരു താങ്ങ്)",
+   "en": "a mainstay (a support to stand)"
+  },
+  {
+   "verse": 5,
+   "ar": "وَٱرۡزُقُوهُمۡ",
+   "ml": "അവർക്കു നിങ്ങൾ ഉപജീവനം (ആഹാരം) നൽകുകയും ചെയ്യുവിൻ",
+   "en": "and provide them livelihood (food)"
+  },
+  {
+   "verse": 5,
+   "ar": "فِيهَا",
+   "ml": "അതിലൂടെ (അതുവഴി - അതിൽനിന്ന്)",
+   "en": "through it (by way of it - from it)"
+  },
+  {
+   "verse": 5,
+   "ar": "وَٱكۡسُوهُمۡ",
+   "ml": "അവർക്കു വസ്ത്രവും നൽകുവിൻ, ഉടുക്കാനും കൊടുക്കുക",
+   "en": "and give them clothing too, give them also to wear"
+  },
+  {
+   "verse": 5,
+   "ar": "وَقُولُواْ",
+   "ml": "നിങ്ങൾ പറയുകയും ചെയ്യുക",
+   "en": "and say"
+  },
+  {
+   "verse": 5,
+   "ar": "لَهُمۡ",
+   "ml": "അവരോട്",
+   "en": "to them"
+  },
+  {
+   "verse": 5,
+   "ar": "قَوۡلٗا",
+   "ml": "വാക്ക്",
+   "en": "a word"
+  },
+  {
+   "verse": 5,
+   "ar": "مَّعۡرُوفٗا",
+   "ml": "മര്യാദപ്പെട്ട, സദാചാരപരമായ",
+   "en": "proper, of good custom"
+  },
+  {
+   "verse": 6,
+   "ar": "وَٱبۡتَلُواْ",
+   "ml": "നിങ്ങൾ പരീക്ഷിക്കുകയും ചെയ്യുക",
+   "en": "and test"
+  },
+  {
+   "verse": 6,
+   "ar": "ٱلۡيَتَٰمَىٰ",
+   "ml": "അനാഥകളെ",
+   "en": "the orphans"
+  },
+  {
+   "verse": 6,
+   "ar": "حَتَّىٰٓ",
+   "ml": "അങ്ങനെ, വരേക്ക്",
+   "en": "so, until"
+  },
+  {
+   "verse": 6,
+   "ar": "إِذَا بَلَغُواْ",
+   "ml": "അവർ എത്തിയാൽ, പ്രാപിച്ചാൽ",
+   "en": "when they reach, when they attain"
+  },
+  {
+   "verse": 6,
+   "ar": "ٱلنِّكَاحَ",
+   "ml": "വിവാഹത്തിങ്കൽ",
+   "en": "marriage"
+  },
+  {
+   "verse": 6,
+   "ar": "فَإِنۡ ءَانَسۡتُم",
+   "ml": "എന്നിട്ടു നിങ്ങൾ കണ്ടറിഞ്ഞെ (കണ്ടുതൃപ്തിപ്പെട്ടെ)ങ്കിൽ",
+   "en": "then if you perceive (see and are satisfied)"
+  },
+  {
+   "verse": 6,
+   "ar": "مِّنۡهُمۡ",
+   "ml": "അവരിൽനിന്ന്",
+   "en": "from them"
+  },
+  {
+   "verse": 6,
+   "ar": "رُشۡدٗا",
+   "ml": "തന്റേടം, നേർവഴി, കാര്യബോധം",
+   "en": "firmness of mind, right way, sense of affairs"
+  },
+  {
+   "verse": 6,
+   "ar": "فَٱدۡفَعُوٓاْ",
+   "ml": "അപ്പോൾ നിങ്ങൾ കൊടുക്കുവിൻ, നീക്കിക്കൊടുക്കണം",
+   "en": "then give, must hand over"
+  },
+  {
+   "verse": 6,
+   "ar": "إِلَيۡهِمۡ",
+   "ml": "അവർക്ക്, അവരിലേക്ക്",
+   "en": "to them, towards them"
+  },
+  {
+   "verse": 6,
+   "ar": "أَمۡوَٰلَهُمۡ",
+   "ml": "അവരുടെ സ്വത്തുക്കൾ",
+   "en": "their properties"
+  },
+  {
+   "verse": 6,
+   "ar": "وَلَا تَأۡكُلُوهَآ",
+   "ml": "അത്(അവ) നിങ്ങൾ തിന്നുകയും അരുത്",
+   "en": "and do not eat it (them)"
+  },
+  {
+   "verse": 6,
+   "ar": "إِسۡرَافٗا",
+   "ml": "അതിരുകവിച്ചലായിട്ട്",
+   "en": "as exceeding of bounds"
+  },
+  {
+   "verse": 6,
+   "ar": "وَبِدَارًا",
+   "ml": "ധൃതിപ്പെട്ടും",
+   "en": "and in haste"
+  },
+  {
+   "verse": 6,
+   "ar": "أَن يَكۡبَرُواْ",
+   "ml": "അവർ വലുതാകുന്നതിനു(വലുതാകുമെന്നതിനാൽ)",
+   "en": "for their growing up (because they will grow up)"
+  },
+  {
+   "verse": 6,
+   "ar": "وَمَن كَانَ",
+   "ml": "ആരെങ്കിലും ആയിരുന്നാൽ",
+   "en": "and whoever is"
+  },
+  {
+   "verse": 6,
+   "ar": "غَنِيّٗا",
+   "ml": "ധനികൻ",
+   "en": "rich"
+  },
+  {
+   "verse": 6,
+   "ar": "فَلۡيَسۡتَعۡفِفۡ",
+   "ml": "അവൻ മാന്യത പാലിക്കട്ടെ",
+   "en": "let him keep decency"
+  },
+  {
+   "verse": 6,
+   "ar": "وَمَن كَانَ",
+   "ml": "ആരെങ്കിലും ആയിരുന്നാൽ",
+   "en": "and whoever is"
+  },
+  {
+   "verse": 6,
+   "ar": "فَقِيرٗا",
+   "ml": "ദരിദ്രൻ, ആവശ്യക്കാരൻ",
+   "en": "poor, needy"
+  },
+  {
+   "verse": 6,
+   "ar": "فَلۡيَأۡكُلۡ",
+   "ml": "എന്നാലവൻ തിന്നുകൊള്ളട്ടെ",
+   "en": "then let him eat"
+  },
+  {
+   "verse": 6,
+   "ar": "بِٱلۡمَعۡرُوفِ",
+   "ml": "മര്യാദ (സദാചാരം - പതിവ്) അനുസരിച്ച്",
+   "en": "in accordance with propriety (good custom - usage)"
+  },
+  {
+   "verse": 6,
+   "ar": "فَإِذَا دَفَعۡتُمۡ",
+   "ml": "എന്നാൽ നിങ്ങൾ കൊടുത്താൽ(ഏൽപിച്ചാൽ)",
+   "en": "then when you give (entrust)"
+  },
+  {
+   "verse": 6,
+   "ar": "إِلَيۡهِمۡ",
+   "ml": "അവർക്ക്",
+   "en": "to them"
+  },
+  {
+   "verse": 6,
+   "ar": "أَمۡوَٰلَهُمۡ",
+   "ml": "അവരുടെ സ്വത്തുക്കൾ",
+   "en": "their properties"
+  },
+  {
+   "verse": 6,
+   "ar": "فَأَشۡهِدُواْ",
+   "ml": "അപ്പോൾ നിങ്ങൾ സാക്ഷ്യപ്പെടുത്തുവിൻ",
+   "en": "then take witnesses"
+  },
+  {
+   "verse": 6,
+   "ar": "عَلَيۡهِمۡ",
+   "ml": "അവരുടെമേൽ",
+   "en": "over them"
+  },
+  {
+   "verse": 6,
+   "ar": "وَكَفَىٰ",
+   "ml": "മതി, മതി താനും",
+   "en": "suffices, suffices moreover"
+  },
+  {
+   "verse": 6,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹു(തന്നെ)",
+   "en": "Allah (Himself)"
+  },
+  {
+   "verse": 6,
+   "ar": "حَسِيبٗا",
+   "ml": "കണക്കുനോക്കുന്നവനായിട്ട്.",
+   "en": "as one who checks the account."
+  },
+  {
+   "verse": 7,
+   "ar": "لِّلرِّجَالِ",
+   "ml": "പുരുഷന്മാർക്കുണ്ട്",
+   "en": "for men there is"
+  },
+  {
+   "verse": 7,
+   "ar": "نَصِيبٞ",
+   "ml": "ഓഹരി, വിഹിതം, പങ്ക്",
+   "en": "a share, a portion, a part"
+  },
+  {
+   "verse": 7,
+   "ar": "مِّمَّا تَرَكَ",
+   "ml": "വിട്ടുപോയ (ഉപേക്ഷിച്ച) തിൽനിന്ന്",
+   "en": "from what have left (forsaken)"
+  },
+  {
+   "verse": 7,
+   "ar": "ٱلۡوَٰلِدَانِ",
+   "ml": "മാതാപിതാക്കൾ",
+   "en": "the parents"
+  },
+  {
+   "verse": 7,
+   "ar": "وَٱلۡأَقۡرَبُونَ",
+   "ml": "അടുത്ത കുടുംബങ്ങളും",
+   "en": "and the near relatives"
+  },
+  {
+   "verse": 7,
+   "ar": "وَلِلنِّسَآءِ",
+   "ml": "സ്ത്രീകൾക്കുമുണ്ട്",
+   "en": "and for women too there is"
+  },
+  {
+   "verse": 7,
+   "ar": "نَصِيبٞ",
+   "ml": "ഓഹരി",
+   "en": "a share"
+  },
+  {
+   "verse": 7,
+   "ar": "مِّمَّا تَرَكَ",
+   "ml": "വിട്ടുപോയതിൽ നിന്ന്",
+   "en": "from what have left"
+  },
+  {
+   "verse": 7,
+   "ar": "ٱلۡوَٰلِدَانِ",
+   "ml": "മാതാപിതാക്കൾ",
+   "en": "the parents"
+  },
+  {
+   "verse": 7,
+   "ar": "وَٱلۡأَقۡرَبُونَ",
+   "ml": "അടുത്ത കുടുംബങ്ങളും",
+   "en": "and the near relatives"
+  },
+  {
+   "verse": 7,
+   "ar": "مِمَّا قَلَّ",
+   "ml": "കുറഞ്ഞതിൽനിന്ന്",
+   "en": "from what is little"
+  },
+  {
+   "verse": 7,
+   "ar": "مِنۡهُ",
+   "ml": "അതിൽ നിന്ന്",
+   "en": "of it"
+  },
+  {
+   "verse": 7,
+   "ar": "أَوۡ كَثُرَ",
+   "ml": "അല്ലെങ്കിൽ അധികരിച്ച(തിൽ നിന്ന്)",
+   "en": "or (from what) is much"
+  },
+  {
+   "verse": 7,
+   "ar": "نَصِيبٗا",
+   "ml": "ഓഹരി, ഓഹരിയായിട്ട്",
+   "en": "a share, as a share"
+  },
+  {
+   "verse": 7,
+   "ar": "مَّفۡرُوضٗا",
+   "ml": "നിർണയം (നിശ്ചയം-നിർബ്ബന്ധം) ചെയ്യപ്പെട്ട.",
+   "en": "fixed (determined - made obligatory)."
+  },
+  {
+   "verse": 8,
+   "ar": "وَإِذَا حَضَرَ",
+   "ml": "ഹാജരായാൽ, സന്നിഹിതരായാൽ",
+   "en": "and when are present, when are in attendance"
+  },
+  {
+   "verse": 8,
+   "ar": "ٱلۡقِسۡمَةَ",
+   "ml": "ഭാഗത്തിങ്കൽ, ഭാഗിക്കുന്നേടത്ത്, ഓഹരിക്കൽ",
+   "en": "at the division, at the place of dividing, at the sharing out"
+  },
+  {
+   "verse": 8,
+   "ar": "أُوْلُواْ ٱلۡقُرۡبَىٰ",
+   "ml": "കുടുംബക്കാർ, കുടുംബബന്ധമുള്ളവർ",
+   "en": "kinsfolk, those who have family ties"
+  },
+  {
+   "verse": 8,
+   "ar": "وَٱلۡيَتَٰمَىٰ",
+   "ml": "അനാഥകളും",
+   "en": "and the orphans"
+  },
+  {
+   "verse": 8,
+   "ar": "وَٱلۡمَسَٰكِينُ",
+   "ml": "സാധുക്കളും, പാവങ്ങളും",
+   "en": "and the poor, and the needy"
+  },
+  {
+   "verse": 8,
+   "ar": "فَٱرۡزُقُوهُم",
+   "ml": "എന്നാലവർക്ക് നിങ്ങൾ കൊടുക്കുവിൻ",
+   "en": "then give them"
+  },
+  {
+   "verse": 8,
+   "ar": "مِّنۡهُ",
+   "ml": "അതിൽനിന്ന്",
+   "en": "from it"
+  },
+  {
+   "verse": 8,
+   "ar": "وَقُولُواْ",
+   "ml": "നിങ്ങൾ പറയുകയും ചെയ്യുവിൻ",
+   "en": "and say"
+  },
+  {
+   "verse": 8,
+   "ar": "لَهُمۡ",
+   "ml": "അവരോട്",
+   "en": "to them"
+  },
+  {
+   "verse": 8,
+   "ar": "قَوۡلٗا",
+   "ml": "വാക്ക്",
+   "en": "a word"
+  },
+  {
+   "verse": 8,
+   "ar": "مَّعۡرُوفٗا",
+   "ml": "മര്യാദപ്പെട്ട (നല്ല)",
+   "en": "proper (good)"
+  },
+  {
+   "verse": 9,
+   "ar": "وَلۡيَخۡشَ",
+   "ml": "പേടിച്ചുംകൊള്ളട്ടെ",
+   "en": "and let fear"
+  },
+  {
+   "verse": 9,
+   "ar": "ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടർ",
+   "en": "those who"
+  },
+  {
+   "verse": 9,
+   "ar": "لَوۡ تَرَكُواْ",
+   "ml": "തങ്ങൾ വിട്ടുപോയിരുന്നാൽ",
+   "en": "if they had left behind"
+  },
+  {
+   "verse": 9,
+   "ar": "مِنۡ خَلۡفِهِمۡ",
+   "ml": "തങ്ങളുടെ പിന്നിൽ, പിന്നാലെ",
+   "en": "behind them, after them"
+  },
+  {
+   "verse": 9,
+   "ar": "ذُرِّيَّةٗ",
+   "ml": "സന്താനങ്ങളെ",
+   "en": "offspring"
+  },
+  {
+   "verse": 9,
+   "ar": "ضِعَٰفًا",
+   "ml": "ദുർബ്ബലരായ, ബലഹീനരായ",
+   "en": "weak, feeble"
+  },
+  {
+   "verse": 9,
+   "ar": "خَافُواْ",
+   "ml": "അവർ ഭയപ്പെടും (ഭയം തോന്നും)",
+   "en": "they would be afraid (fear would be felt)"
+  },
+  {
+   "verse": 9,
+   "ar": "عَلَيۡهِمۡ",
+   "ml": "അവരെപ്പറ്റി",
+   "en": "about them"
+  },
+  {
+   "verse": 9,
+   "ar": "فَلۡيَتَّقُواْ ٱللَّهَ",
+   "ml": "അപ്പോൾ(അതിനാൽ) അവർ അല്ലാഹുവിനെ സൂക്ഷിക്കട്ടെ",
+   "en": "then (therefore) let them guard against Allah"
+  },
+  {
+   "verse": 9,
+   "ar": "وَلۡيَقُولُواْ",
+   "ml": "അവർ പറയുകയും ചെയ്യട്ടെ",
+   "en": "and let them say"
+  },
+  {
+   "verse": 9,
+   "ar": "قَوۡلٗا سَدِيدًا",
+   "ml": "ചൊവ്വായ വാക്ക്",
+   "en": "a straight word"
+  },
+  {
+   "verse": 10,
+   "ar": "إِنَّ ٱلَّذِينَ",
+   "ml": "നിശ്ചയമായും യാതൊരു കൂട്ടർ",
+   "en": "surely, those who"
+  },
+  {
+   "verse": 10,
+   "ar": "يَأۡكُلُونَ",
+   "ml": "അവർതിന്നും",
+   "en": "they eat"
+  },
+  {
+   "verse": 10,
+   "ar": "أَمۡوَٰلَ",
+   "ml": "സ്വത്തുക്കളെ",
+   "en": "the properties"
+  },
+  {
+   "verse": 10,
+   "ar": "ٱلۡيَتَٰمَىٰ",
+   "ml": "അനാഥകളുടെ",
+   "en": "of the orphans"
+  },
+  {
+   "verse": 10,
+   "ar": "ظُلۡمًا",
+   "ml": "അക്രമമായി",
+   "en": "as wrongdoing"
+  },
+  {
+   "verse": 10,
+   "ar": "إِنَّمَا يَأۡكُلُونَ",
+   "ml": "അവർ തിന്നുക മാത്രം ചെയ്യുന്നു, തീർച്ചയായും തിന്നുന്നു",
+   "en": "they only eat, they surely eat"
+  },
+  {
+   "verse": 10,
+   "ar": "فِي بُطُونِهِمۡ",
+   "ml": "അവരുടെ വയറുകളിൽ (നിറയെ)",
+   "en": "in their bellies (to the full)"
+  },
+  {
+   "verse": 10,
+   "ar": "نَارٗا",
+   "ml": "അഗ്നി, അഗ്നിമാത്രം",
+   "en": "fire, fire only"
+  },
+  {
+   "verse": 10,
+   "ar": "وَسَيَصۡلَوۡنَ",
+   "ml": "വഴിയെ അവർ കടന്നെരിയുകയും ചെയ്യും",
+   "en": "and they will in due course enter and burn"
+  },
+  {
+   "verse": 10,
+   "ar": "سَعِيرٗا",
+   "ml": "കത്തിജ്ജ്വലിക്കുന്ന നരകത്തിൽ",
+   "en": "in the blazing Hell"
+  }
+ ]
+}
