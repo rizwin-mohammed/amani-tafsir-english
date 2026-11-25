@@ -1,0 +1,466 @@
+{
+ "words": [
+  {
+   "verse": 22,
+   "ar": "وَلَا تَنكِحُواْ",
+   "ml": "നിങ്ങൾ വിവാഹം ചെയ്യരുത്",
+   "en": "do not marry"
+  },
+  {
+   "verse": 22,
+   "ar": "مَا نَكَحَ",
+   "ml": "വിവാഹം ചെയ്തത് (ചെയ്തവരെ)",
+   "en": "what … married (those who … married)"
+  },
+  {
+   "verse": 22,
+   "ar": "ءَابَآؤُكُم",
+   "ml": "നിങ്ങളുടെ പിതാക്കൾ",
+   "en": "your fathers"
+  },
+  {
+   "verse": 22,
+   "ar": "مِّنَ ٱلنِّسَآءِ",
+   "ml": "സ്ത്രീകളിൽനിന്ന്",
+   "en": "from among women"
+  },
+  {
+   "verse": 22,
+   "ar": "إِلَّا مَا",
+   "ml": "യാതൊന്നൊഴികെ",
+   "en": "except what"
+  },
+  {
+   "verse": 22,
+   "ar": "قَدۡ سَلَفَ",
+   "ml": "അത് മുൻ കഴിഞ്ഞുപോയി",
+   "en": "it has passed before"
+  },
+  {
+   "verse": 22,
+   "ar": "إِنَّهُۥ كَانَ",
+   "ml": "നിശ്ചയമായും അതാകുന്നു",
+   "en": "surely it is"
+  },
+  {
+   "verse": 22,
+   "ar": "فَٰحِشَةٗ",
+   "ml": "നീചവൃത്തി",
+   "en": "vile conduct"
+  },
+  {
+   "verse": 22,
+   "ar": "وَمَقۡتٗا",
+   "ml": "വെറുക്കപ്പെട്ടതും (വെറുപ്പായതും)",
+   "en": "and hated (and a hateful thing)"
+  },
+  {
+   "verse": 22,
+   "ar": "وَسَآءَ",
+   "ml": "അത് വളരെ മോശപ്പെട്ട(ചീത്തയായ)തുമാണ്",
+   "en": "and it is very bad (evil)"
+  },
+  {
+   "verse": 22,
+   "ar": "سَبِيلًا",
+   "ml": "മാർഗം, വഴി",
+   "en": "a way, a path"
+  },
+  {
+   "verse": 23,
+   "ar": "حُرِّمَتۡ",
+   "ml": "ഹറാമാക്ക (നിഷിദ്ധമാക്ക)പ്പെട്ടിരിക്കുന്നു",
+   "en": "has been made haram (forbidden)"
+  },
+  {
+   "verse": 23,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങൾക്ക്, നിങ്ങളുടെ മേൽ",
+   "en": "for you, upon you"
+  },
+  {
+   "verse": 23,
+   "ar": "أُمَّهَٰتُكُمۡ",
+   "ml": "നിങ്ങളുടെ ഉമ്മമാർ, മാതാക്കൾ",
+   "en": "your mothers, mothers"
+  },
+  {
+   "verse": 23,
+   "ar": "وَبَنَاتُكُمۡ",
+   "ml": "നിങ്ങളുടെ പുത്രിമാരും, പെൺമക്കളും",
+   "en": "and your daughters, and female children"
+  },
+  {
+   "verse": 23,
+   "ar": "وَأَخَوَٰتُكُمۡ",
+   "ml": "നിങ്ങളുടെ സഹോദരികളും",
+   "en": "and your sisters"
+  },
+  {
+   "verse": 23,
+   "ar": "وَعَمَّـٰتُكُمۡ",
+   "ml": "നിങ്ങളുടെ അമ്മായി (പിതൃസഹോദരി)കളും",
+   "en": "and your aunts (father's sisters)"
+  },
+  {
+   "verse": 23,
+   "ar": "وَخَٰلَٰتُكُمۡ",
+   "ml": "നിങ്ങളുടെ ഇളയമ്മ - മൂത്തമ്മ (മാതൃസഹോദരി)കളും",
+   "en": "and your younger aunts - elder aunts (mother's sisters)"
+  },
+  {
+   "verse": 23,
+   "ar": "وَبَنَاتُ ٱلۡأَخِ",
+   "ml": "സഹോദരന്റെ പുത്രികളും",
+   "en": "and the daughters of the brother"
+  },
+  {
+   "verse": 23,
+   "ar": "وَبَنَاتُ ٱلۡأُخۡتِ",
+   "ml": "സഹോദരിയുടെ പുത്രികളും",
+   "en": "and the daughters of the sister"
+  },
+  {
+   "verse": 23,
+   "ar": "وَأُمَّهَٰتُكُمُ",
+   "ml": "നിങ്ങളുടെ ഉമ്മമാരും, മാതാക്കളും",
+   "en": "and your mothers, and mothers"
+  },
+  {
+   "verse": 23,
+   "ar": "ٱلَّـٰتِيٓ أَرۡضَعۡنَكُمۡ",
+   "ml": "നിങ്ങൾക്ക് മുല(പ്പാൽ) തന്നവരായ",
+   "en": "who have given you the breast (milk)"
+  },
+  {
+   "verse": 23,
+   "ar": "وَأَخَوَٰتُكُم",
+   "ml": "നിങ്ങളുടെ സഹോദരികളും",
+   "en": "and your sisters"
+  },
+  {
+   "verse": 23,
+   "ar": "مِّنَ ٱلرَّضَٰعَةِ",
+   "ml": "മുലകുടി ബന്ധത്തിലുള്ള",
+   "en": "who are in the suckling relationship"
+  },
+  {
+   "verse": 23,
+   "ar": "وَأُمَّهَٰتُ نِسَآئِكُمۡ",
+   "ml": "നിങ്ങളുടെ സ്ത്രീകളു(ഭാര്യമാരു)ടെ ഉമ്മമാരും",
+   "en": "and the mothers of your women (wives)"
+  },
+  {
+   "verse": 23,
+   "ar": "وَرَبَـٰٓئِبُكُمُ",
+   "ml": "നിങ്ങളുടെ വളർത്തു(പോറ്റു)പുത്രികളും",
+   "en": "and your reared (nurtured) daughters"
+  },
+  {
+   "verse": 23,
+   "ar": "ٱلَّـٰتِي فِي حُجُورِكُم",
+   "ml": "നിങ്ങളുടെ സംരക്ഷണത്തിലുള്ളവരായ",
+   "en": "who are under your protection"
+  },
+  {
+   "verse": 23,
+   "ar": "مِّن نِّسَآئِكُمُ",
+   "ml": "നിങ്ങളുടെ സ്ത്രീ (ഭാര്യ)കളിൽനിന്ന്",
+   "en": "from your women (wives)"
+  },
+  {
+   "verse": 23,
+   "ar": "ٱلَّـٰتِيٓ",
+   "ml": "യാതൊരുവരായ",
+   "en": "those who"
+  },
+  {
+   "verse": 23,
+   "ar": "دَخَلۡتُم بِهِنَّ",
+   "ml": "നിങ്ങൾ അവരിൽ പ്രവേശനം ചെയ്തിരിക്കുന്നു(സംയോഗം നടന്നു)",
+   "en": "you have made entry with them (union has taken place)"
+  },
+  {
+   "verse": 23,
+   "ar": "فَإِن لَّمۡ تَكُونُواْ",
+   "ml": "എനി നിങ്ങളായിട്ടില്ലെങ്കിൽ, ഉണ്ടായിട്ടില്ലെങ്കിൽ",
+   "en": "then if you have not been, if it has not happened"
+  },
+  {
+   "verse": 23,
+   "ar": "دَخَلۡتُم بِهِنَّ",
+   "ml": "അവരിൽ പ്രവേശിച്ചിരിക്കുക (സംയോഗം നടത്തുക)",
+   "en": "to have made entry with them (to have had union)"
+  },
+  {
+   "verse": 23,
+   "ar": "فَلَا جُنَاحَ",
+   "ml": "എന്നാൽ തെറ്റില്ല, കുറ്റമില്ല",
+   "en": "then there is no wrong, there is no fault"
+  },
+  {
+   "verse": 23,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങളുടെ മേൽ",
+   "en": "upon you"
+  },
+  {
+   "verse": 23,
+   "ar": "وَحَلَـٰٓئِلُ",
+   "ml": "അനുവദനീയമായ സ്ത്രീ (സഹധർമിണി - പത്നി)കളും",
+   "en": "and the permitted women (consorts - spouses)"
+  },
+  {
+   "verse": 23,
+   "ar": "أَبۡنَآئِكُمُ",
+   "ml": "നിങ്ങളുടെ പുത്രന്മാരുടെ",
+   "en": "of your sons"
+  },
+  {
+   "verse": 23,
+   "ar": "ٱلَّذِينَ",
+   "ml": "യാതൊരുവരായ",
+   "en": "those who"
+  },
+  {
+   "verse": 23,
+   "ar": "مِنۡ أَصۡلَٰبِكُمۡ",
+   "ml": "നിങ്ങളുടെ മുതുകെല്ലുകളിൽനിന്നുള്ള (നിങ്ങളുടെ സ്വന്തം)",
+   "en": "who are from your backbones (your own)"
+  },
+  {
+   "verse": 23,
+   "ar": "وَأَن تَجۡمَعُواْ",
+   "ml": "നിങ്ങൾ ഒരുമിച്ചു കൂട്ടുന്നതും",
+   "en": "and your bringing together"
+  },
+  {
+   "verse": 23,
+   "ar": "بَيۡنَ ٱلۡأُخۡتَيۡنِ",
+   "ml": "രണ്ട് സഹോദരികൾക്കിടയിൽ",
+   "en": "between two sisters"
+  },
+  {
+   "verse": 23,
+   "ar": "إِلَّا مَا",
+   "ml": "യാതൊന്നൊഴികെ",
+   "en": "except what"
+  },
+  {
+   "verse": 23,
+   "ar": "قَدۡ سَلَفَ",
+   "ml": "മുൻകഴിഞ്ഞു പോയിട്ടുള്ള",
+   "en": "that has passed before"
+  },
+  {
+   "verse": 23,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 23,
+   "ar": "كَانَ غَفُورٗا",
+   "ml": "വളരെ പൊറുക്കുന്നവനാകുന്നു",
+   "en": "is One who greatly forgives"
+  },
+  {
+   "verse": 23,
+   "ar": "رَّحِيمٗا",
+   "ml": "കരുണാനിധി",
+   "en": "the Ever-Merciful"
+  },
+  {
+   "verse": 24,
+   "ar": "وَٱلۡمُحۡصَنَٰتُ",
+   "ml": "പാതിവ്രത്യം സിദ്ധിച്ച (പതിവ്രതകളായ)വരും",
+   "en": "and those who have attained wifely chastity (who are chaste wives)"
+  },
+  {
+   "verse": 24,
+   "ar": "مِنَ ٱلنِّسَآءِ",
+   "ml": "സ്ത്രീകളിൽനിന്ന്",
+   "en": "from among women"
+  },
+  {
+   "verse": 24,
+   "ar": "إِلَّا مَا",
+   "ml": "യാതൊന്നു (യാതൊരുവർ) ഒഴികെ",
+   "en": "except what (those whom)"
+  },
+  {
+   "verse": 24,
+   "ar": "مَلَكَتۡ",
+   "ml": "ഉടമപ്പെടുത്തിയ, അധീനമാക്കിയ",
+   "en": "have owned, have brought under control"
+  },
+  {
+   "verse": 24,
+   "ar": "أَيۡمَٰنُكُمۡ",
+   "ml": "നിങ്ങളുടെ വലങ്കൈകൾ",
+   "en": "your right hands"
+  },
+  {
+   "verse": 24,
+   "ar": "كِتَٰبَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ നിയമം, നിശ്ചയം, നിർബ്ബന്ധം, രേഖപ്പെടുത്തൽ",
+   "en": "the law, decision, compulsion, recording of Allah"
+  },
+  {
+   "verse": 24,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങളുടെ മേൽ",
+   "en": "upon you"
+  },
+  {
+   "verse": 24,
+   "ar": "وَأُحِلَّ",
+   "ml": "അനുവദനീയമാക്കപ്പെടുകയും ചെയ്തിരിക്കുന്നു",
+   "en": "and has been made permissible"
+  },
+  {
+   "verse": 24,
+   "ar": "لَكُم",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "for you"
+  },
+  {
+   "verse": 24,
+   "ar": "مَّا وَرَآءَ",
+   "ml": "അപ്പുറമുള്ളത്",
+   "en": "what is beyond"
+  },
+  {
+   "verse": 24,
+   "ar": "ذَٰلِكُمۡ",
+   "ml": "അതിന്റെ",
+   "en": "of that"
+  },
+  {
+   "verse": 24,
+   "ar": "أَن تَبۡتَغُواْ",
+   "ml": "നിങ്ങൾ തേടിയെടുക്കുവാൻ",
+   "en": "that you seek out and take"
+  },
+  {
+   "verse": 24,
+   "ar": "بِأَمۡوَٰلِكُم",
+   "ml": "നിങ്ങളുടെ സ്വത്തുക്കൾ(ധനം) കൊണ്ട്",
+   "en": "by your properties (wealth)"
+  },
+  {
+   "verse": 24,
+   "ar": "مُّحۡصِنِينَ",
+   "ml": "ചാരിത്ര്യം സൂക്ഷിക്കുന്ന (ചാരിത്ര്യശുദ്ധിയുള്ള)വരായി",
+   "en": "as those who guard chastity (who have purity of chastity)"
+  },
+  {
+   "verse": 24,
+   "ar": "غَيۡرَ مُسَٰفِحِينَ",
+   "ml": "വിടുവൃത്തി ചെയ്യുന്നവരല്ലാതെ",
+   "en": "not as those who do debauchery"
+  },
+  {
+   "verse": 24,
+   "ar": "فَمَا",
+   "ml": "അങ്ങനെ (എന്നാൽ) യാതൊന്ന് (യാതൊരുവർ)",
+   "en": "thus (then) whatever (whoever)"
+  },
+  {
+   "verse": 24,
+   "ar": "ٱسۡتَمۡتَعۡتُم",
+   "ml": "നിങ്ങൾ ഉപയോഗമെടുത്തു, അനുഭവിച്ചു, സുഖമെടുത്തു",
+   "en": "you have taken benefit, enjoyed, taken pleasure"
+  },
+  {
+   "verse": 24,
+   "ar": "بِهِۦ",
+   "ml": "അതിനെ (അവരെ)",
+   "en": "it (them)"
+  },
+  {
+   "verse": 24,
+   "ar": "مِنۡهُنَّ",
+   "ml": "അവരിൽനിന്ന്",
+   "en": "from among them"
+  },
+  {
+   "verse": 24,
+   "ar": "فَـَٔاتُوهُنَّ",
+   "ml": "എന്നാലവർക്ക് നിങ്ങൾ കൊടുക്കുവിൻ",
+   "en": "then give them"
+  },
+  {
+   "verse": 24,
+   "ar": "أُجُورَهُنَّ",
+   "ml": "അവരുടെ പ്രതിഫലങ്ങൾ",
+   "en": "their rewards"
+  },
+  {
+   "verse": 24,
+   "ar": "فَرِيضَةٗ",
+   "ml": "നിശ്ചിത ബാദ്ധ്യതയായി നിർബ്ബന്ധകടമായി",
+   "en": "as a fixed obligation, as a compulsory duty"
+  },
+  {
+   "verse": 24,
+   "ar": "وَلَا جُنَاحَ",
+   "ml": "തെറ്റുമില്ല, തെറ്റില്ലതാനും",
+   "en": "and no wrong either, and there is no wrong"
+  },
+  {
+   "verse": 24,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങളുടെമേൽ",
+   "en": "upon you"
+  },
+  {
+   "verse": 24,
+   "ar": "فِيمَا",
+   "ml": "യാതൊന്നിൽ",
+   "en": "in whatever"
+  },
+  {
+   "verse": 24,
+   "ar": "تَرَٰضَيۡتُم",
+   "ml": "നിങ്ങൾ അന്യോന്യം തൃപ്തിപ്പെട്ടു",
+   "en": "you have mutually agreed"
+  },
+  {
+   "verse": 24,
+   "ar": "بِهِۦ",
+   "ml": "അതുകൊണ്ട്, അതിനെ",
+   "en": "with it, it"
+  },
+  {
+   "verse": 24,
+   "ar": "مِنۢ بَعۡدِ",
+   "ml": "ശേഷം, പിന്നീട്",
+   "en": "after, afterwards"
+  },
+  {
+   "verse": 24,
+   "ar": "ٱلۡفَرِيضَةِ",
+   "ml": "(ബാധ്യത) നിശ്ചയത്തിന്നു, നിർണയത്തിന്റെ",
+   "en": "to the fixing (of the obligation), of the determination"
+  },
+  {
+   "verse": 24,
+   "ar": "إِنَّ ٱللَّهَ كَانَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു ആകുന്നു",
+   "en": "surely Allah is"
+  },
+  {
+   "verse": 24,
+   "ar": "عَلِيمًا",
+   "ml": "സർവ്വജ്ഞൻ",
+   "en": "All-Knowing"
+  },
+  {
+   "verse": 24,
+   "ar": "حَكِيمٗا",
+   "ml": "അഗാധജ്ഞൻ",
+   "en": "Profoundly Knowing"
+  }
+ ]
+}

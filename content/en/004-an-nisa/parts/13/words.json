@@ -1,0 +1,484 @@
+{
+ "words": [
+  {
+   "verse": 60,
+   "ar": "أَلَمۡ تَرَ",
+   "ml": "നീ കണ്ടില്ലേ, നോക്കുന്നില്ലേ",
+   "en": "have you not seen, are you not looking"
+  },
+  {
+   "verse": 60,
+   "ar": "إِلَى ٱلَّذِينَ",
+   "ml": "യാതൊരുകൂട്ടരെ, ഒരു കൂട്ടരിലേക്ക്",
+   "en": "those who, towards a group"
+  },
+  {
+   "verse": 60,
+   "ar": "يَزۡعُمُونَ",
+   "ml": "അവർ ജൽപിക്കുന്നു, (വൃഥാ) പറയുന്നു, ഉരുവിടുന്നു",
+   "en": "they babble, they say (idly), they utter"
+  },
+  {
+   "verse": 60,
+   "ar": "أَنَّهُمۡ ءَامَنُواْ",
+   "ml": "തങ്ങൾ വിശ്വസിച്ചിരിക്കുന്നുവെന്ന്",
+   "en": "that they have believed"
+  },
+  {
+   "verse": 60,
+   "ar": "بِمَآ أُنزِلَ",
+   "ml": "ഇറക്കപ്പെട്ടതിൽ",
+   "en": "in what has been sent down"
+  },
+  {
+   "verse": 60,
+   "ar": "إِلَيۡكَ",
+   "ml": "നിനക്ക്, നിന്നിലേക്ക്",
+   "en": "to you, towards you"
+  },
+  {
+   "verse": 60,
+   "ar": "وَمَآ أُنزِلَ",
+   "ml": "ഇറക്കപ്പെട്ടതിലും",
+   "en": "and in what has been sent down"
+  },
+  {
+   "verse": 60,
+   "ar": "مِن قَبۡلِكَ",
+   "ml": "നിന്റെ മുമ്പ്",
+   "en": "before you"
+  },
+  {
+   "verse": 60,
+   "ar": "يُرِيدُونَ",
+   "ml": "അവർ ഉദ്ദേശിക്കുന്നു",
+   "en": "they intend"
+  },
+  {
+   "verse": 60,
+   "ar": "أَن يَتَحَاكَمُوٓاْ",
+   "ml": "അവർ കേസ്കൊടുക്കുവാൻ, വിധി തേടിച്ചെല്ലുവാൻ",
+   "en": "to file a case, to go seeking judgement"
+  },
+  {
+   "verse": 60,
+   "ar": "إِلَى ٱلطَّـٰغُوتِ",
+   "ml": "ത്വാഗൂത്തിങ്കലേക്ക്, ദുർമൂർത്തിയിലേക്ക്",
+   "en": "to Taghut, to the evil deity"
+  },
+  {
+   "verse": 60,
+   "ar": "وَقَدۡ أُمِرُوٓاْ",
+   "ml": "അവരോട് കൽപിക്കപ്പെട്ടിട്ടുണ്ട്താനും, കൽപിക്കപ്പെട്ടിരിക്കെ",
+   "en": "and they have been commanded moreover, while they have been commanded"
+  },
+  {
+   "verse": 60,
+   "ar": "أَن يَكۡفُرُواْ",
+   "ml": "അവർ അവിശ്വസിക്കുവാൻ",
+   "en": "to disbelieve"
+  },
+  {
+   "verse": 60,
+   "ar": "بِهِۦ",
+   "ml": "അതിൽ, അവനിൽ",
+   "en": "in it, in him"
+  },
+  {
+   "verse": 60,
+   "ar": "وَيُرِيدُ",
+   "ml": "ഉദ്ദേശിക്കുകയും ചെയ്യുന്നു",
+   "en": "and intends"
+  },
+  {
+   "verse": 60,
+   "ar": "ٱلشَّيۡطَٰنُ",
+   "ml": "പിശാച്",
+   "en": "Satan"
+  },
+  {
+   "verse": 60,
+   "ar": "أَن يُضِلَّهُمۡ",
+   "ml": "അവരെ വഴി പിഴപ്പിക്കുവാൻ",
+   "en": "to lead them astray"
+  },
+  {
+   "verse": 60,
+   "ar": "ضَلَٰلَۢا",
+   "ml": "ഒരു വഴി പിഴവ്",
+   "en": "an error"
+  },
+  {
+   "verse": 60,
+   "ar": "بَعِيدٗا",
+   "ml": "വിദൂരമായ",
+   "en": "far-off"
+  },
+  {
+   "verse": 61,
+   "ar": "وَإِذَا قِيلَ",
+   "ml": "പറയപ്പെട്ടാൽ",
+   "en": "if it is said"
+  },
+  {
+   "verse": 61,
+   "ar": "لَهُمۡ",
+   "ml": "അവരോട്",
+   "en": "to them"
+  },
+  {
+   "verse": 61,
+   "ar": "تَعَالَوۡاْ",
+   "ml": "നിങ്ങൾ വരുവിൻ",
+   "en": "come"
+  },
+  {
+   "verse": 61,
+   "ar": "إِلَىٰ مَآ أَنزَلَ",
+   "ml": "ഇറക്കിയതിലേക്ക്",
+   "en": "to what sent down"
+  },
+  {
+   "verse": 61,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 61,
+   "ar": "وَإِلَى ٱلرَّسُولِ",
+   "ml": "റസൂലിലേക്കും",
+   "en": "and to the Rasul"
+  },
+  {
+   "verse": 61,
+   "ar": "رَأَيۡتَ",
+   "ml": "നീ കാണും, നിനക്ക് കാണാം",
+   "en": "you will see, you can see"
+  },
+  {
+   "verse": 61,
+   "ar": "ٱلۡمُنَٰفِقِينَ",
+   "ml": "കപട വിശ്വാസികളെ",
+   "en": "the hypocrites"
+  },
+  {
+   "verse": 61,
+   "ar": "يَصُدُّونَ",
+   "ml": "അവർ തിരിഞ്ഞു(തട്ടി നീങ്ങി) പോകുന്നതായി",
+   "en": "turning (pushing off and moving) away"
+  },
+  {
+   "verse": 61,
+   "ar": "عَنكَ",
+   "ml": "നിന്നെ വിട്ട്, നിന്നിൽ നിന്ന്",
+   "en": "leaving you, from you"
+  },
+  {
+   "verse": 61,
+   "ar": "صُدُودٗا",
+   "ml": "ഒരു(തട്ടി)തിരിയൽ",
+   "en": "a (pushing off and) turning"
+  },
+  {
+   "verse": 62,
+   "ar": "فَكَيۡفَ",
+   "ml": "എന്നാൽ (അപ്പോൾ) എങ്ങിനെ (യായിരിക്കും)",
+   "en": "but (then) how (will it be)"
+  },
+  {
+   "verse": 62,
+   "ar": "إِذَآ أَصَٰبَتۡهُم",
+   "ml": "അവർക്കു ബാധിച്ചാൽ",
+   "en": "if there befalls them"
+  },
+  {
+   "verse": 62,
+   "ar": "مُّصِيبَةُۢ",
+   "ml": "വല്ല ബാധയും, വിപത്തും",
+   "en": "some affliction, disaster"
+  },
+  {
+   "verse": 62,
+   "ar": "بِمَا قَدَّمَتۡ",
+   "ml": "മുമ്പ്ചെയ്തു വെച്ചതുകൊണ്ട് (നിമിത്തം)",
+   "en": "because of what have done beforehand (on account of)"
+  },
+  {
+   "verse": 62,
+   "ar": "أَيۡدِيهِمۡ",
+   "ml": "അവരുടെ കൈകൾ",
+   "en": "their hands"
+  },
+  {
+   "verse": 62,
+   "ar": "ثُمَّ جَآءُوكَ",
+   "ml": "പിന്നെ അവർ നിന്റെ അടുക്കൽവരുകയും",
+   "en": "then they come to you as well"
+  },
+  {
+   "verse": 62,
+   "ar": "يَحۡلِفُونَ",
+   "ml": "സത്യം ചെയ്തു(പറഞ്ഞു) കൊണ്ട്",
+   "en": "swearing (saying)"
+  },
+  {
+   "verse": 62,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവി(ന്റെ പേരി)ൽ, അല്ലാഹുവിനെത്തന്നെ(എന്ന്)",
+   "en": "by (the name of) Allah, by Allah indeed (thus)"
+  },
+  {
+   "verse": 62,
+   "ar": "إِنۡ أَرَدۡنَآ",
+   "ml": "ഞങ്ങൾ ഉദ്ദേശിച്ചിട്ടില്ല",
+   "en": "we have not intended"
+  },
+  {
+   "verse": 62,
+   "ar": "إِلَّآ إِحۡسَٰنٗا",
+   "ml": "നന്മ ചെയ്യലല്ലാതെ",
+   "en": "except doing good"
+  },
+  {
+   "verse": 62,
+   "ar": "وَتَوۡفِيقًا",
+   "ml": "യോജിപ്പിക്കലും, ഒപ്പിക്കലും",
+   "en": "and reconciling, and bringing into accord"
+  },
+  {
+   "verse": 63,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those people"
+  },
+  {
+   "verse": 63,
+   "ar": "ٱلَّذِينَ",
+   "ml": "യാതൊരുവരാണ്",
+   "en": "are the ones who"
+  },
+  {
+   "verse": 63,
+   "ar": "يَعۡلَمُ ٱللَّهُ",
+   "ml": "അല്ലാഹു അറിയുന്നു",
+   "en": "Allah knows"
+  },
+  {
+   "verse": 63,
+   "ar": "مَا فِي قُلُوبِهِمۡ",
+   "ml": "അവരുടെ ഹൃദയങ്ങളിലുള്ളത്",
+   "en": "what is in their hearts"
+  },
+  {
+   "verse": 63,
+   "ar": "فَأَعۡرِضۡ",
+   "ml": "അതിനാൽ നീ തിരിഞ്ഞു കളയുക, അവഗണിക്കുക",
+   "en": "therefore turn away, disregard"
+  },
+  {
+   "verse": 63,
+   "ar": "عَنۡهُمۡ",
+   "ml": "അവരെപ്പറ്റി",
+   "en": "about them"
+  },
+  {
+   "verse": 63,
+   "ar": "وَعِظۡهُمۡ",
+   "ml": "അവർക്ക് സദുപദേശവും ചെയ്യുക",
+   "en": "and give them good counsel too"
+  },
+  {
+   "verse": 63,
+   "ar": "وَقُل لَّهُمۡ",
+   "ml": "അവരോട് പറയുകയും ചെയ്യുക",
+   "en": "and say to them"
+  },
+  {
+   "verse": 63,
+   "ar": "فِيٓ أَنفُسِهِمۡ",
+   "ml": "അവരുടെ സ്വന്തങ്ങളിൽ",
+   "en": "in their own selves"
+  },
+  {
+   "verse": 63,
+   "ar": "قَوۡلَۢا",
+   "ml": "വാക്ക്",
+   "en": "a word"
+  },
+  {
+   "verse": 63,
+   "ar": "بَلِيغٗا",
+   "ml": "(മനസ്സിൽ) തട്ടുന്ന - എത്തുന്ന (സാരവത്തായ - അർഥവത്തായ)",
+   "en": "that touches (the mind) - that reaches (substantial - meaningful)"
+  },
+  {
+   "verse": 64,
+   "ar": "وَمَآ أَرۡسَلۡنَا",
+   "ml": "നാം അയച്ചിട്ടില്ല",
+   "en": "We have not sent"
+  },
+  {
+   "verse": 64,
+   "ar": "مِن رَّسُولٍ",
+   "ml": "ഒരു റസൂലിനെയും, റസൂലിൽ നിന്നും (ഒരാളെയും)",
+   "en": "any Rasul, (any one) of the Rasuls"
+  },
+  {
+   "verse": 64,
+   "ar": "إِلَّا لِيُطَاعَ",
+   "ml": "അദ്ദേഹം അനുസരിക്കപ്പെടുവാൻ വേണ്ടിയല്ലാതെ",
+   "en": "except in order that he be obeyed"
+  },
+  {
+   "verse": 64,
+   "ar": "بِإِذۡنِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ ഉത്തരവു(സമ്മത) പ്രകാരം",
+   "en": "according to the order (consent) of Allah"
+  },
+  {
+   "verse": 64,
+   "ar": "وَلَوۡ أَنَّهُمۡ",
+   "ml": "അവർ ആയിരുന്നെങ്കിൽ",
+   "en": "if they had been"
+  },
+  {
+   "verse": 64,
+   "ar": "إِذ ظَّلَمُوٓاْ",
+   "ml": "അവർ അക്രമം ചെയ്തപ്പോൾ",
+   "en": "when they did wrong"
+  },
+  {
+   "verse": 64,
+   "ar": "أَنفُسَهُمۡ",
+   "ml": "തങ്ങളുടെ സ്വന്തങ്ങളോട്",
+   "en": "to their own selves"
+  },
+  {
+   "verse": 64,
+   "ar": "جَآءُوكَ",
+   "ml": "നിന്റെ അടുക്കൽ വന്നു (എങ്കിൽ)",
+   "en": "came to you (if)"
+  },
+  {
+   "verse": 64,
+   "ar": "فَٱسۡتَغۡفَرُواْ",
+   "ml": "എന്നിട്ട് അവർ പാപമോചനം (പൊറുതി) തേടുകയും ചെയ്തു",
+   "en": "and then they sought forgiveness of sins (pardon)"
+  },
+  {
+   "verse": 64,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനോട്",
+   "en": "from Allah"
+  },
+  {
+   "verse": 64,
+   "ar": "وَٱسۡتَغۡفَرَ لَهُمُ",
+   "ml": "അവർക്കു വേണ്ടി പാപമോചനം തേടുകയും ചെയ്തു",
+   "en": "and sought forgiveness of sins for them"
+  },
+  {
+   "verse": 64,
+   "ar": "ٱلرَّسُولُ",
+   "ml": "റസൂൽ",
+   "en": "the Rasul"
+  },
+  {
+   "verse": 64,
+   "ar": "لَوَجَدُواْ",
+   "ml": "അവർ കണ്ടെത്തുകതന്നെ ചെയ്തിരിക്കുന്നു",
+   "en": "they have indeed found"
+  },
+  {
+   "verse": 64,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനെ",
+   "en": "Allah"
+  },
+  {
+   "verse": 64,
+   "ar": "تَوَّابٗا",
+   "ml": "വളരെ പശ്ചാത്താപം സ്വീകരിക്കുന്നവനായി",
+   "en": "as the One who greatly accepts repentance"
+  },
+  {
+   "verse": 64,
+   "ar": "رَّحِيمٗا",
+   "ml": "കരുണാനിധിയായി",
+   "en": "as the Ever-Merciful"
+  },
+  {
+   "verse": 65,
+   "ar": "فَلَا",
+   "ml": "എന്നാൽ ഇല്ല",
+   "en": "but no"
+  },
+  {
+   "verse": 65,
+   "ar": "وَرَبِّكَ",
+   "ml": "നിന്റെ റബ്ബിനെത്തന്നെയാണ",
+   "en": "by your Rabb indeed"
+  },
+  {
+   "verse": 65,
+   "ar": "لَا يُؤۡمِنُونَ",
+   "ml": "അവർ വിശ്വസിക്കയില്ല",
+   "en": "they will not believe"
+  },
+  {
+   "verse": 65,
+   "ar": "حَتَّىٰ يُحَكِّمُوكَ",
+   "ml": "നിന്നെ അവർ വിധി കർത്താവാക്കുന്നതുവരെ",
+   "en": "until they make you the judge"
+  },
+  {
+   "verse": 65,
+   "ar": "فِيمَا شَجَرَ",
+   "ml": "ഭിന്നിപ്പുണ്ടായതിൽ, പിണക്കമുണ്ടായതിൽ",
+   "en": "in that in which division arose, in that in which a falling out arose"
+  },
+  {
+   "verse": 65,
+   "ar": "بَيۡنَهُمۡ",
+   "ml": "അവർക്കിടയിൽ",
+   "en": "among them"
+  },
+  {
+   "verse": 65,
+   "ar": "ثُمَّ لَا يَجِدُواْ",
+   "ml": "പിന്നെ അവർ കണ്ടെത്താതെ (അനുഭവിക്കാതെ)യും",
+   "en": "then, without their finding (without experiencing), as well"
+  },
+  {
+   "verse": 65,
+   "ar": "فِيٓ أَنفُسِهِمۡ",
+   "ml": "അവരുടെ മനസ്സുകളിൽ, സ്വന്തങ്ങളിൽ",
+   "en": "in their minds, in their own selves"
+  },
+  {
+   "verse": 65,
+   "ar": "حَرَجٗا",
+   "ml": "ഒരു വിഷമവും",
+   "en": "any hardship"
+  },
+  {
+   "verse": 65,
+   "ar": "مِّمَّا قَضَيۡتَ",
+   "ml": "നീ തീരുമാനിച്ചതിനെപ്പറ്റി",
+   "en": "about what you have decided"
+  },
+  {
+   "verse": 65,
+   "ar": "وَيُسَلِّمُواْ",
+   "ml": "അവർ കീഴൊതുങ്ങുക (സമ്മതിക്കുക)യും",
+   "en": "and their becoming submissive (consenting)"
+  },
+  {
+   "verse": 65,
+   "ar": "تَسۡلِيمٗا",
+   "ml": "ഒരു ഒതുങ്ങൽ, സമ്മതിച്ചു കൊടുക്കൽ",
+   "en": "a yielding, a conceding"
+  }
+ ]
+}
