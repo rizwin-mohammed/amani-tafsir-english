@@ -1,0 +1,460 @@
+{
+ "words": [
+  {
+   "verse": 71,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 71,
+   "ar": "خُذُواْ",
+   "ml": "നിങ്ങൾ എടുക്കുവിൻ, കൈക്കൊള്ളുവിൻ",
+   "en": "take, adopt"
+  },
+  {
+   "verse": 71,
+   "ar": "حِذۡرَكُمۡ",
+   "ml": "നിങ്ങളുടെ ജാഗ്രത, ശ്രദ്ധ, കാവൽ",
+   "en": "your vigilance, caution, guard"
+  },
+  {
+   "verse": 71,
+   "ar": "فَٱنفِرُواْ",
+   "ml": "അങ്ങനെ (അതിനാൽ) നിങ്ങൾ പുറപ്പെട്ടു പോകുവിൻ (യുദ്ധത്തിന്)",
+   "en": "thus (therefore) set out and go (for battle)"
+  },
+  {
+   "verse": 71,
+   "ar": "ثُبَاتٍ",
+   "ml": "പല കൂട്ടങ്ങളായി",
+   "en": "in several groups"
+  },
+  {
+   "verse": 71,
+   "ar": "أَوِ ٱنفِرُواْ",
+   "ml": "അല്ലെങ്കിൽ നിങ്ങൾ പുറപ്പെട്ടു പോകുവിൻ",
+   "en": "or else set out and go"
+  },
+  {
+   "verse": 71,
+   "ar": "جَمِيعٗا",
+   "ml": "എല്ലാവരുമായി",
+   "en": "as all together"
+  },
+  {
+   "verse": 72,
+   "ar": "وَإِنَّ مِنكُمۡ",
+   "ml": "നിശ്ചയമായും നിങ്ങളിൽ(തന്നെ) ഉണ്ട്",
+   "en": "surely there are among you(yourselves)"
+  },
+  {
+   "verse": 72,
+   "ar": "لَمَن",
+   "ml": "ചിലർ, ഒരുവൻ",
+   "en": "some, one"
+  },
+  {
+   "verse": 72,
+   "ar": "لَّيُبَطِّئَنَّ",
+   "ml": "മടിച്ചു നില്ക്കുക തന്നെ ചെയ്യുന്ന, അവൻ മന്ദീഭവിപ്പിക്കും",
+   "en": "who indeed stand hesitating, he will slow down"
+  },
+  {
+   "verse": 72,
+   "ar": "فَإِنۡ أَصَٰبَتۡكُم",
+   "ml": "എന്നിട്ടു(അങ്ങനെ) നിങ്ങളെ ബാധിച്ചുവെങ്കിൽ",
+   "en": "then(thus) if there has befallen you"
+  },
+  {
+   "verse": 72,
+   "ar": "مُّصِيبَةٞ",
+   "ml": "വല്ല ബാധയും, വിപത്തും",
+   "en": "some affliction, disaster"
+  },
+  {
+   "verse": 72,
+   "ar": "قَالَ",
+   "ml": "അവൻ പറയും, പറയുകയായി",
+   "en": "he will say, he came to say"
+  },
+  {
+   "verse": 72,
+   "ar": "قَدۡ أَنۡعَمَ",
+   "ml": "അനുഗ്രഹം ചെയ്തിട്ടുണ്ട്, തീർച്ചയായും അനുഗ്രഹിച്ചു",
+   "en": "has bestowed favour, has certainly favoured"
+  },
+  {
+   "verse": 72,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 72,
+   "ar": "عَلَيَّ",
+   "ml": "എനിക്ക്",
+   "en": "to me"
+  },
+  {
+   "verse": 72,
+   "ar": "إِذۡ لَمۡ أَكُن",
+   "ml": "ഞാൻ ആയിട്ടില്ലാത്ത സ്ഥിതിക്ക്, ആകാത്തതിനാൽ",
+   "en": "since I have not been, because of not being"
+  },
+  {
+   "verse": 72,
+   "ar": "مَّعَهُمۡ",
+   "ml": "അവരോടൊപ്പം (കൂടെ)",
+   "en": "along with them (together)"
+  },
+  {
+   "verse": 72,
+   "ar": "شَهِيدٗا",
+   "ml": "ഹാജറുള്ളവൻ, സന്നദ്ധൻ",
+   "en": "one present, one ready"
+  },
+  {
+   "verse": 73,
+   "ar": "وَلَئِنۡ أَصَٰبَكُمۡ",
+   "ml": "നിങ്ങൾക്ക് ബാധിച്ചുവെങ്കിലോ, കിട്ടിയാലാകട്ടെ",
+   "en": "and if it has befallen you, as for if it comes to you"
+  },
+  {
+   "verse": 73,
+   "ar": "فَضۡلٞ",
+   "ml": "വല്ല അനുഗ്രഹവും, മെച്ചവും, ഔദാര്യം",
+   "en": "some favour, and advantage, generosity"
+  },
+  {
+   "verse": 73,
+   "ar": "مِّنَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിങ്കൽനിന്ന്",
+   "en": "from Allah"
+  },
+  {
+   "verse": 73,
+   "ar": "لَيَقُولَنَّ",
+   "ml": "തീർച്ചയായും അവൻ പറയും, പറയുക തന്നെ ചെയ്യും",
+   "en": "certainly he will say, he will indeed say"
+  },
+  {
+   "verse": 73,
+   "ar": "كَأَن لَّمۡ تَكُنۢ",
+   "ml": "ഉണ്ടായിരുന്നില്ലാത്തപോലെ, ഇല്ലാത്ത മാതിരി",
+   "en": "as though there had not been, as if there were none"
+  },
+  {
+   "verse": 73,
+   "ar": "بَيۡنَكُمۡ",
+   "ml": "നിങ്ങൾക്കിടയിൽ",
+   "en": "between you"
+  },
+  {
+   "verse": 73,
+   "ar": "وَبَيۡنَهُۥ",
+   "ml": "അവന്നിടയിലും",
+   "en": "and between him"
+  },
+  {
+   "verse": 73,
+   "ar": "مَوَدَّةٞ",
+   "ml": "ഒരു താൽപര്യവും, സ്നേഹബന്ധവും",
+   "en": "any interest, and bond of love"
+  },
+  {
+   "verse": 73,
+   "ar": "يَٰلَيۡتَنِي",
+   "ml": "ഹാ (അയ്യോ) ഞാനായെങ്കിൽ (നന്നായേനേ)",
+   "en": "ah (alas) if it were I (it would have been good)"
+  },
+  {
+   "verse": 73,
+   "ar": "كُنتُ مَعَهُمۡ",
+   "ml": "ഞാൻ അവരോടുകൂടെ ആയിരുന്നു(വെങ്കിൽ)",
+   "en": "I had been together with them(if)"
+  },
+  {
+   "verse": 73,
+   "ar": "فَأَفُوزَ",
+   "ml": "എന്നാൽ ഞാൻ ഭാഗ്യം പ്രാപിക്കുമായിരുന്നു",
+   "en": "then I would have attained good fortune"
+  },
+  {
+   "verse": 73,
+   "ar": "فَوۡزًا عَظِيمٗا",
+   "ml": "വമ്പിച്ച ഭാഗ്യം",
+   "en": "a huge good fortune"
+  },
+  {
+   "verse": 74,
+   "ar": "فَلۡيُقَٰتِلۡ",
+   "ml": "എന്നാൽ യുദ്ധം ചെയ്യട്ടെ",
+   "en": "but let them fight"
+  },
+  {
+   "verse": 74,
+   "ar": "فِي سَبِيلِ",
+   "ml": "മാർഗത്തിൽ",
+   "en": "in the way"
+  },
+  {
+   "verse": 74,
+   "ar": "ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ",
+   "en": "of Allah"
+  },
+  {
+   "verse": 74,
+   "ar": "ٱلَّذِينَ يَشۡرُونَ",
+   "ml": "വിൽക്കുന്നവർ",
+   "en": "those who sell"
+  },
+  {
+   "verse": 74,
+   "ar": "ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+   "ml": "ഐഹിക ജീവിതത്തെ",
+   "en": "the worldly life"
+  },
+  {
+   "verse": 74,
+   "ar": "بِٱلۡأٓخِرَةِ",
+   "ml": "പരലോകത്തിന്",
+   "en": "for the Hereafter"
+  },
+  {
+   "verse": 74,
+   "ar": "وَمَن يُقَٰتِلۡ",
+   "ml": "വല്ലവനും യുദ്ധം ചെയ്യുന്നതായാൽ",
+   "en": "if anyone fights"
+  },
+  {
+   "verse": 74,
+   "ar": "فِي سَبِيلِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ മാർഗത്തിൽ",
+   "en": "in the way of Allah"
+  },
+  {
+   "verse": 74,
+   "ar": "فَيُقۡتَلۡ",
+   "ml": "എന്നിട്ടവൻ കൊല്ലപ്പെട്ടാൽ",
+   "en": "then if he is killed"
+  },
+  {
+   "verse": 74,
+   "ar": "أَوۡ يَغۡلِبۡ",
+   "ml": "അല്ലെങ്കിൽ വിജയിച്ചാൽ",
+   "en": "or else if he is victorious"
+  },
+  {
+   "verse": 74,
+   "ar": "فَسَوۡفَ",
+   "ml": "എന്നാൽ വഴിയെ(പിറകെ)",
+   "en": "then in due course(later)"
+  },
+  {
+   "verse": 74,
+   "ar": "نُؤۡتِيهِ",
+   "ml": "നാം അവന് നൽകും",
+   "en": "We will give him"
+  },
+  {
+   "verse": 74,
+   "ar": "أَجۡرًا عَظِيمٗا",
+   "ml": "വമ്പിച്ച പ്രതിഫലം",
+   "en": "a huge reward"
+  },
+  {
+   "verse": 75,
+   "ar": "وَمَا لَكُمۡ",
+   "ml": "നിങ്ങൾക്കെന്താണ്",
+   "en": "what is it with you"
+  },
+  {
+   "verse": 75,
+   "ar": "لَا تُقَٰتِلُونَ",
+   "ml": "നിങ്ങൾ യുദ്ധം ചെയ്യാതെ, യുദ്ധം ചെയ്യുന്നില്ല",
+   "en": "you without fighting, you do not fight"
+  },
+  {
+   "verse": 75,
+   "ar": "فِي سَبِيلِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ മാർഗത്തിൽ",
+   "en": "in the way of Allah"
+  },
+  {
+   "verse": 75,
+   "ar": "وَٱلۡمُسۡتَضۡعَفِينَ",
+   "ml": "ബലഹീനരായവരിലും, ദുർബ്ബലരായി ഗണിക്കപ്പെടുന്നവരുടെ കാര്യത്തിലും",
+   "en": "also among those who are feeble, also in the matter of those who are reckoned as weak"
+  },
+  {
+   "verse": 75,
+   "ar": "مِنَ ٱلرِّجَالِ",
+   "ml": "പുരുഷന്മാരാകുന്ന, പുരുഷന്മാരിൽ നിന്നും",
+   "en": "who are men, from among men"
+  },
+  {
+   "verse": 75,
+   "ar": "وَٱلنِّسَآءِ",
+   "ml": "സ്ത്രീകളും",
+   "en": "and women"
+  },
+  {
+   "verse": 75,
+   "ar": "وَٱلۡوِلۡدَٰنِ",
+   "ml": "കുട്ടികളും",
+   "en": "and children"
+  },
+  {
+   "verse": 75,
+   "ar": "ٱلَّذِينَ يَقُولُونَ",
+   "ml": "പറഞ്ഞുകൊണ്ടിരിക്കുന്നവരായ",
+   "en": "who keep saying"
+  },
+  {
+   "verse": 75,
+   "ar": "رَبَّنَآ أَخۡرِجۡنَا",
+   "ml": "റബ്ബേ ഞങ്ങളെ നീ പുറത്താക്കിത്തരേണമേ",
+   "en": "Rabb, do You get us out"
+  },
+  {
+   "verse": 75,
+   "ar": "مِنۡ هَٰذِهِ ٱلۡقَرۡيَةِ",
+   "ml": "ഈ രാജ്യത്തു നിന്ന്",
+   "en": "from this country"
+  },
+  {
+   "verse": 75,
+   "ar": "ٱلظَّالِمِ",
+   "ml": "അക്രമി(കൾ) ആയ",
+   "en": "who are wrongdoer(s)"
+  },
+  {
+   "verse": 75,
+   "ar": "أَهۡلُهَا",
+   "ml": "അതിലെ ആൾക്കാർ",
+   "en": "its people"
+  },
+  {
+   "verse": 75,
+   "ar": "وَٱجۡعَل لَّنَا",
+   "ml": "ഞങ്ങൾക്ക് നീ ആക്കി (ഏർപ്പെടുത്തി - ഉണ്ടാക്കി)ത്തരുകയും വേണമേ",
+   "en": "and do You make (appoint - bring about) for us"
+  },
+  {
+   "verse": 75,
+   "ar": "مِن لَّدُنكَ",
+   "ml": "നിന്റെ പക്കൽ നിന്ന് (നിന്റെ വകയായി)",
+   "en": "from Your side (on Your part)"
+  },
+  {
+   "verse": 75,
+   "ar": "وَلِيّٗا",
+   "ml": "ഒരു രക്ഷകനെ, ബന്ധുവെ, കൈകാര്യക്കാരനെ, മിത്രത്തെ",
+   "en": "a protector, kinsman, manager, friend"
+  },
+  {
+   "verse": 75,
+   "ar": "وَٱجۡعَل لَّنَا",
+   "ml": "ഞങ്ങൾക്ക് നീ ആക്കിത്തരുകയും വേണമേ",
+   "en": "and do You make for us"
+  },
+  {
+   "verse": 75,
+   "ar": "مِن لَّدُنكَ",
+   "ml": "നിന്റെ പക്കൽ നിന്ന്",
+   "en": "from Your side"
+  },
+  {
+   "verse": 75,
+   "ar": "نَصِيرًا",
+   "ml": "ഒരു സഹായകനെ",
+   "en": "a helper"
+  },
+  {
+   "verse": 76,
+   "ar": "ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവർ",
+   "en": "those who have believed"
+  },
+  {
+   "verse": 76,
+   "ar": "يُقَٰتِلُونَ",
+   "ml": "അവർ യുദ്ധം ചെയ്യുന്നു, ചെയ്യും",
+   "en": "they fight, will fight"
+  },
+  {
+   "verse": 76,
+   "ar": "فِي سَبِيلِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ മാർഗത്തിൽ",
+   "en": "in the way of Allah"
+  },
+  {
+   "verse": 76,
+   "ar": "وَٱلَّذِينَ كَفَرُواْ",
+   "ml": "അവിശ്വസിച്ചവരാകട്ടെ",
+   "en": "as for those who have disbelieved"
+  },
+  {
+   "verse": 76,
+   "ar": "يُقَٰتِلُونَ",
+   "ml": "അവർ യുദ്ധം ചെയ്യുന്നു",
+   "en": "they fight"
+  },
+  {
+   "verse": 76,
+   "ar": "فِي سَبِيلِ",
+   "ml": "മാർഗത്തിൽ",
+   "en": "in the way"
+  },
+  {
+   "verse": 76,
+   "ar": "ٱلطَّـٰغُوتِ",
+   "ml": "ത്വാഗൂത്തിന്റെ, ദുർമൂർത്തിയുടെ (പിശാചിന്റെ)",
+   "en": "of Taghut, of the evil deity (of Satan)"
+  },
+  {
+   "verse": 76,
+   "ar": "فَقَٰتِلُوٓاْ",
+   "ml": "അതിനാൽ(എന്നാൽ) നിങ്ങൾ യുദ്ധം ചെയ്യുവിൻ",
+   "en": "therefore(then) fight"
+  },
+  {
+   "verse": 76,
+   "ar": "أَوۡلِيَآءَ",
+   "ml": "ബന്ധുക്കളോട്, മിത്രങ്ങളോട്",
+   "en": "against the kinsmen, against the friends"
+  },
+  {
+   "verse": 76,
+   "ar": "ٱلشَّيۡطَٰنِ",
+   "ml": "പിശാചിന്റെ",
+   "en": "of Satan"
+  },
+  {
+   "verse": 76,
+   "ar": "إِنَّ كَيۡدَ",
+   "ml": "നിശ്ചയമായും തന്ത്രം (ചതി - കെണി)",
+   "en": "surely the stratagem (deceit - trap)"
+  },
+  {
+   "verse": 76,
+   "ar": "ٱلشَّيۡطَٰنِ",
+   "ml": "പിശാചിന്റെ",
+   "en": "of Satan"
+  },
+  {
+   "verse": 76,
+   "ar": "كَانَ",
+   "ml": "ആകുന്നു. ആയിരിക്കുന്നു",
+   "en": "is. has been"
+  },
+  {
+   "verse": 76,
+   "ar": "ضَعِيفًا",
+   "ml": "ദുർബ്ബലമായത്, അശക്തമായത്.",
+   "en": "something weak, something powerless."
+  }
+ ]
+}

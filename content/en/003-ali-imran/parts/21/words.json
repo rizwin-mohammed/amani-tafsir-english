@@ -1,0 +1,784 @@
+{
+ "words": [
+  {
+   "verse": 191,
+   "ar": "ٱلَّذِينَ يَذۡكُرُونَ ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനെ ഓർക്കുന്നവർ",
+   "en": "those who call Allah to mind"
+  },
+  {
+   "verse": 191,
+   "ar": "قِيَٰمٗا",
+   "ml": "നിൽക്കുന്നവരായിട്ട്, നിന്നുകൊണ്ട്",
+   "en": "as ones standing, standing"
+  },
+  {
+   "verse": 191,
+   "ar": "وَقُعُودٗا",
+   "ml": "ഇരുന്നവരായും, ഇരുന്നുകൊണ്ടും",
+   "en": "and as ones sitting, and sitting"
+  },
+  {
+   "verse": 191,
+   "ar": "وَعَلَىٰ جُنُوبِهِمۡ",
+   "ml": "അവരുടെ പാർശ്വങ്ങളിലായും (കിടന്നുകൊണ്ടും)",
+   "en": "and on their sides (and lying)"
+  },
+  {
+   "verse": 191,
+   "ar": "وَيَتَفَكَّرُونَ",
+   "ml": "അവർ ചിന്തിക്കുകയും ചെയ്യും",
+   "en": "and they will think"
+  },
+  {
+   "verse": 191,
+   "ar": "فِي خَلۡقِ",
+   "ml": "സൃഷ്ടിപ്പിൽ",
+   "en": "in the creation"
+  },
+  {
+   "verse": 191,
+   "ar": "ٱلسَّمَٰوَٰتِ",
+   "ml": "ആകാശങ്ങളുടെ",
+   "en": "of the heavens"
+  },
+  {
+   "verse": 191,
+   "ar": "وَٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയുടെയും",
+   "en": "and of the earth"
+  },
+  {
+   "verse": 191,
+   "ar": "رَبَّنَا",
+   "ml": "ഞങ്ങളുടെ റബ്ബേ",
+   "en": "our Rabb"
+  },
+  {
+   "verse": 191,
+   "ar": "مَا خَلَقۡتَ",
+   "ml": "നീ സൃഷ്ടിച്ചില്ല, സൃഷ്ടിച്ചതല്ല",
+   "en": "You did not create, it is not that You created"
+  },
+  {
+   "verse": 191,
+   "ar": "هَٰذَا",
+   "ml": "ഇത്, ഇതിനെ",
+   "en": "this, this (thing)"
+  },
+  {
+   "verse": 191,
+   "ar": "بَٰطِلٗا",
+   "ml": "നിരർത്ഥമായി",
+   "en": "meaninglessly"
+  },
+  {
+   "verse": 191,
+   "ar": "سُبۡحَٰنَكَ",
+   "ml": "നീ മഹാപരിശുദ്ധൻ, നിന്നെ പരിശുദ്ധപ്പെടുത്തുന്നു (കീർത്തനം ചെയ്യുന്നു)",
+   "en": "You are Supremely Holy, declaring You holy (singing praise)"
+  },
+  {
+   "verse": 191,
+   "ar": "فَقِنَا",
+   "ml": "അതിനാൽ ഞങ്ങളെ കാത്തുതരണേ",
+   "en": "therefore do guard us"
+  },
+  {
+   "verse": 191,
+   "ar": "عَذَابَ ٱلنَّارِ",
+   "ml": "നരകശിക്ഷ(യിൽ നിന്ന്)",
+   "en": "(from) the punishment of Hell"
+  },
+  {
+   "verse": 192,
+   "ar": "رَبَّنَآ",
+   "ml": "ഞങ്ങളുടെ റബ്ബേ",
+   "en": "our Rabb"
+  },
+  {
+   "verse": 192,
+   "ar": "إِنَّكَ",
+   "ml": "നിശ്ചയമായും നീ",
+   "en": "surely You"
+  },
+  {
+   "verse": 192,
+   "ar": "مَن تُدۡخِلِ",
+   "ml": "ആരെ നീ പ്രവേശിപ്പിക്കുന്നുവോ",
+   "en": "whomever You make to enter"
+  },
+  {
+   "verse": 192,
+   "ar": "ٱلنَّارَ",
+   "ml": "നരകത്തിൽ",
+   "en": "into Hell"
+  },
+  {
+   "verse": 192,
+   "ar": "فَقَدۡ أَخۡزَيۡتَهُۥ",
+   "ml": "നീ അവരെ അപമാനത്തിലാക്കി",
+   "en": "You have put them into disgrace *[TN: the table prints അവരെ (\"them\"); the verse panel has അവനെ (\"him\").]*"
+  },
+  {
+   "verse": 192,
+   "ar": "وَمَا لِلظَّـٰلِمِينَ",
+   "ml": "അക്രമികൾക്കില്ല",
+   "en": "for the wrongdoers there is not"
+  },
+  {
+   "verse": 192,
+   "ar": "مِنۡ أَنصَارٖ",
+   "ml": "സഹായികളായി (ആരും)",
+   "en": "(anyone) as helpers"
+  },
+  {
+   "verse": 193,
+   "ar": "رَّبَّنَآ إِنَّنَا",
+   "ml": "ഞങ്ങളുടെ റബ്ബേ ഞങ്ങൾ",
+   "en": "our Rabb, we"
+  },
+  {
+   "verse": 193,
+   "ar": "سَمِعۡنَا",
+   "ml": "ഞങ്ങൾ കേട്ടു",
+   "en": "we heard"
+  },
+  {
+   "verse": 193,
+   "ar": "مُنَادِيٗا",
+   "ml": "ഒരു വിളിച്ചുപറയുന്നവനെ (ഒരാളെ)",
+   "en": "one who calls out (someone)"
+  },
+  {
+   "verse": 193,
+   "ar": "يُنَادِي",
+   "ml": "വിളിക്കുന്നതായി, വിളിച്ചുപറയുന്ന",
+   "en": "as calling, who calls out"
+  },
+  {
+   "verse": 193,
+   "ar": "لِلۡإِيمَٰنِ",
+   "ml": "സത്യവിശ്വാസത്തിലേക്ക്",
+   "en": "to true faith"
+  },
+  {
+   "verse": 193,
+   "ar": "أَنۡ ءَامِنُواْ",
+   "ml": "നിങ്ങൾ വിശ്വസിക്കുവിൻ എന്ന്",
+   "en": "that: you believe"
+  },
+  {
+   "verse": 193,
+   "ar": "بِرَبِّكُمۡ",
+   "ml": "നിങ്ങളുടെ റബ്ബിൽ",
+   "en": "in your Rabb"
+  },
+  {
+   "verse": 193,
+   "ar": "فَـَٔامَنَّا",
+   "ml": "എന്നിട്ട് ഞങ്ങൾ വിശ്വസിച്ചു",
+   "en": "then we believed"
+  },
+  {
+   "verse": 193,
+   "ar": "رَبَّنَا",
+   "ml": "ഞങ്ങളുടെ റബ്ബേ",
+   "en": "our Rabb"
+  },
+  {
+   "verse": 193,
+   "ar": "فَٱغۡفِرۡ لَنَا",
+   "ml": "അതിനാൽ നീ ഞങ്ങൾക്ക് പൊറുത്ത് തരണേ",
+   "en": "therefore do You forgive us"
+  },
+  {
+   "verse": 193,
+   "ar": "ذُنُوبَنَا",
+   "ml": "ഞങ്ങളുടെ പാപങ്ങൾ",
+   "en": "our sins"
+  },
+  {
+   "verse": 193,
+   "ar": "وَكَفِّرۡ عَنَّا",
+   "ml": "ഞങ്ങളിൽ നിന്ന് മൂടിവെച്ച് (മാപ്പാക്കി) തരുകയും വേണമേ",
+   "en": "and do cover up (pardon) from us"
+  },
+  {
+   "verse": 193,
+   "ar": "سَيِّـَٔاتِنَا",
+   "ml": "ഞങ്ങളുടെ തിന്മകളെ",
+   "en": "our evil deeds"
+  },
+  {
+   "verse": 193,
+   "ar": "وَتَوَفَّنَا",
+   "ml": "ഞങ്ങളെ മരിപ്പിക്കുക (പിടിച്ചെടുക്കുക)യും വേണമേ",
+   "en": "and do make us die (take us)"
+  },
+  {
+   "verse": 193,
+   "ar": "مَعَ ٱلۡأَبۡرَارِ",
+   "ml": "പുണ്യവാൻമാരോടുകൂടി, സജ്ജനങ്ങളോടൊപ്പം",
+   "en": "with the meritorious ones, along with the righteous"
+  },
+  {
+   "verse": 194,
+   "ar": "رَبَّنَا وَءَاتِنَا",
+   "ml": "ഞങ്ങളുടെ റബ്ബേ ഞങ്ങൾക്ക് നീ നൽകുകയും വേണമേ",
+   "en": "our Rabb, and do You give us"
+  },
+  {
+   "verse": 194,
+   "ar": "مَا وَعَدتَّنَا",
+   "ml": "നീ ഞങ്ങളോട് വാഗ്ദാനം ചെയ്തത്",
+   "en": "what You promised us"
+  },
+  {
+   "verse": 194,
+   "ar": "عَلَىٰ رُسُلِكَ",
+   "ml": "നിന്റെ റസൂലുകളിലൂടെ",
+   "en": "through Your Rasuls"
+  },
+  {
+   "verse": 194,
+   "ar": "وَلَا تُخۡزِنَا",
+   "ml": "നീ ഞങ്ങളെ അപമാനത്തിലാക്കുക (നിന്ദ്യമാക്കുക- വഷളാക്കുക)യും ചെയ്യരുതേ",
+   "en": "and do not You put us into disgrace (make us abject- bring us to shame)"
+  },
+  {
+   "verse": 194,
+   "ar": "يَوۡمَ ٱلۡقِيَٰمَةِ",
+   "ml": "ക്വിയാമത്തുനാളിൽ",
+   "en": "on the Day of Qiyamah"
+  },
+  {
+   "verse": 194,
+   "ar": "إِنَّكَ",
+   "ml": "നിശ്ചയമായും നീ",
+   "en": "surely You"
+  },
+  {
+   "verse": 194,
+   "ar": "لَا تُخۡلِفُ",
+   "ml": "നീ എതിര് (വ്യത്യാസം) പ്രവർത്തിക്കുകയില്ല, ലംഘിക്കുകയില്ല",
+   "en": "You will not act contrary (differently), will not break"
+  },
+  {
+   "verse": 194,
+   "ar": "ٱلۡمِيعَادَ",
+   "ml": "കരാർ വാഗ്ദത്തം",
+   "en": "the agreement promise *[DOUBT: no comma is printed between കരാർ (\"agreement\") and വാഗ്ദത്തം (\"promise\"): either two glosses (\"the agreement, the promise\") or one phrase (\"the agreed promise\").]*"
+  },
+  {
+   "verse": 195,
+   "ar": "فَٱسۡتَجَابَ",
+   "ml": "അപ്പോൾ (ഉടനെ) ഉത്തരം നൽകി (നൽകുകയായി), നൽകും",
+   "en": "then (at once) gave answer (came to give answer), will give"
+  },
+  {
+   "verse": 195,
+   "ar": "لَهُمۡ",
+   "ml": "അവർക്ക്",
+   "en": "to them"
+  },
+  {
+   "verse": 195,
+   "ar": "رَبُّهُمۡ",
+   "ml": "അവരുടെ റബ്ബ്",
+   "en": "their Rabb"
+  },
+  {
+   "verse": 195,
+   "ar": "أَنِّي لَآ أُضِيعُ",
+   "ml": "ഞാൻ പാഴാക്കുകയില്ലെന്ന്",
+   "en": "that I will not let go to waste"
+  },
+  {
+   "verse": 195,
+   "ar": "عَمَلَ عَٰمِلٖ",
+   "ml": "ഒരു പ്രവർത്തിക്കുന്നവന്റെയും പ്രവൃത്തി (കർമം)",
+   "en": "the work (deed) of any one who works"
+  },
+  {
+   "verse": 195,
+   "ar": "مِّنكُم",
+   "ml": "നിങ്ങളിൽ നിന്ന്",
+   "en": "from among you"
+  },
+  {
+   "verse": 195,
+   "ar": "مِّن ذَكَرٍ",
+   "ml": "ആണായിട്ടുള്ള",
+   "en": "who is male"
+  },
+  {
+   "verse": 195,
+   "ar": "أَوۡ أُنثَىٰ",
+   "ml": "അല്ലെങ്കിൽ പെണ്ണായിട്ടുള്ള",
+   "en": "or who is female"
+  },
+  {
+   "verse": 195,
+   "ar": "بَعۡضُكُم",
+   "ml": "നിങ്ങളിൽ ചിലർ",
+   "en": "some of you"
+  },
+  {
+   "verse": 195,
+   "ar": "مِّنۢ بَعۡضٖ",
+   "ml": "ചിലരിൽ നിന്നാകുന്നു",
+   "en": "are from others"
+  },
+  {
+   "verse": 195,
+   "ar": "فَٱلَّذِينَ",
+   "ml": "എന്നാൽ യാതൊരു കൂട്ടർ",
+   "en": "so those who"
+  },
+  {
+   "verse": 195,
+   "ar": "هَاجَرُواْ",
+   "ml": "അവർ ഹിജ്റഃപോയി",
+   "en": "they went in hijrah"
+  },
+  {
+   "verse": 195,
+   "ar": "وَأُخۡرِجُواْ",
+   "ml": "അവർ പുറത്താക്ക (ബഹിഷ്കരിക്ക)പ്പെടുകയും ചെയ്തു",
+   "en": "and they were driven out (expelled)"
+  },
+  {
+   "verse": 195,
+   "ar": "مِن دِيَٰرِهِمۡ",
+   "ml": "തങ്ങളുടെ ഭവനങ്ങളിൽ നിന്ന്",
+   "en": "from their homes"
+  },
+  {
+   "verse": 195,
+   "ar": "وَأُوذُواْ",
+   "ml": "അവർ ഉപദ്രവിക്ക (ദ്രോഹിക്ക)പ്പെടുകയും ചെയ്തു",
+   "en": "and they were harmed (injured)"
+  },
+  {
+   "verse": 195,
+   "ar": "فِي سَبِيلِي",
+   "ml": "എന്റെ മാർഗത്തിൽ",
+   "en": "in My path"
+  },
+  {
+   "verse": 195,
+   "ar": "وَقَٰتَلُواْ",
+   "ml": "അവർ യുദ്ധം ചെയ്കയും",
+   "en": "and they fought"
+  },
+  {
+   "verse": 195,
+   "ar": "وَقُتِلُواْ",
+   "ml": "അവർ കൊല്ലപ്പെടുകയും ചെയ്തു",
+   "en": "and they were killed"
+  },
+  {
+   "verse": 195,
+   "ar": "لَأُكَفِّرَنَّ",
+   "ml": "തീർച്ചയായും ഞാൻ മൂടിവെക്കും (മാപ്പാക്കും)",
+   "en": "surely I will cover up (pardon)"
+  },
+  {
+   "verse": 195,
+   "ar": "عَنۡهُمۡ",
+   "ml": "അവർക്ക്",
+   "en": "for them"
+  },
+  {
+   "verse": 195,
+   "ar": "سَيِّـَٔاتِهِمۡ",
+   "ml": "അവരുടെ തിന്മകളെ",
+   "en": "their evil deeds"
+  },
+  {
+   "verse": 195,
+   "ar": "وَلَأُدۡخِلَنَّهُمۡ",
+   "ml": "അവരെ ഞാൻ പ്രവേശിപ്പിക്കുകയും തന്നെ ചെയ്യും",
+   "en": "and I will indeed make them enter"
+  },
+  {
+   "verse": 195,
+   "ar": "جَنَّـٰتٖ",
+   "ml": "ചില സ്വർഗങ്ങളിൽ",
+   "en": "into some Paradises"
+  },
+  {
+   "verse": 195,
+   "ar": "تَجۡرِي",
+   "ml": "നടക്കും, ഒഴുകും",
+   "en": "go, flow"
+  },
+  {
+   "verse": 195,
+   "ar": "مِن تَحۡتِهَا",
+   "ml": "അതിന്റെ അടിഭാഗത്തിലൂടെ",
+   "en": "through the part beneath it"
+  },
+  {
+   "verse": 195,
+   "ar": "ٱلۡأَنۡهَٰرُ",
+   "ml": "അരുവികൾ",
+   "en": "streams"
+  },
+  {
+   "verse": 195,
+   "ar": "ثَوَابٗا",
+   "ml": "പ്രതിഫലം, കൂലിയായിട്ട്",
+   "en": "a reward, as a wage"
+  },
+  {
+   "verse": 195,
+   "ar": "مِّنۡ عِندِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ പക്കൽനിന്ന്",
+   "en": "from Allah's presence"
+  },
+  {
+   "verse": 195,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹുവാകട്ടെ",
+   "en": "as for Allah"
+  },
+  {
+   "verse": 195,
+   "ar": "عِندَهُۥ",
+   "ml": "അവന്റെ അടുക്കലുണ്ട്",
+   "en": "with Him there is"
+  },
+  {
+   "verse": 195,
+   "ar": "حُسۡنُ ٱلثَّوَابِ",
+   "ml": "നല്ല കൂലി (പ്രതിഫലം)",
+   "en": "the good wage (reward)"
+  },
+  {
+   "verse": 196,
+   "ar": "لَا يَغُرَّنَّكَ",
+   "ml": "തീർച്ചയായും നിന്നെ വഞ്ചിക്കരുത്, ചതിപ്പെടുത്താതിരിക്കട്ടെ",
+   "en": "let it surely not deceive you, may it not beguile (you)"
+  },
+  {
+   "verse": 196,
+   "ar": "تَقَلُّبُ",
+   "ml": "തിരിഞ്ഞുമറിഞ്ഞ് കൊണ്ടിരിക്കൽ (സ്വൈര്യവിഹാരം കൊള്ളൽ)",
+   "en": "the going about to and fro (roaming at ease)"
+  },
+  {
+   "verse": 196,
+   "ar": "ٱلَّذِينَ كَفَرُواْ",
+   "ml": "അവിശ്വസിച്ചവരുടെ",
+   "en": "of those who have disbelieved"
+  },
+  {
+   "verse": 196,
+   "ar": "فِي ٱلۡبِلَٰدِ",
+   "ml": "രാജ്യങ്ങളിൽ (നാട്ടിലൂടെ)",
+   "en": "in the lands (through the country)"
+  },
+  {
+   "verse": 197,
+   "ar": "مَتَٰعٞ",
+   "ml": "അനുഭവ (സുഖഭോഗ- ഉപയോഗ- (സാധന) മാണ്",
+   "en": "is an enjoyment (pleasure- use- (article) *[TN: the first round bracket, opened before സുഖഭോഗ, is not closed in the print.]*"
+  },
+  {
+   "verse": 197,
+   "ar": "قَلِيلٞ",
+   "ml": "തുച്ഛമായ",
+   "en": "paltry"
+  },
+  {
+   "verse": 197,
+   "ar": "ثُمَّ",
+   "ml": "പിന്നീട്",
+   "en": "afterwards"
+  },
+  {
+   "verse": 197,
+   "ar": "مَأۡوَىٰهُمۡ",
+   "ml": "അവരുടെ സങ്കേതം, പ്രാപ്യസ്ഥാനം",
+   "en": "their resort, destination"
+  },
+  {
+   "verse": 197,
+   "ar": "جَهَنَّمُ",
+   "ml": "ജഹന്നമാകുന്നു",
+   "en": "is Jahannam"
+  },
+  {
+   "verse": 197,
+   "ar": "وَبِئۡسَ",
+   "ml": "എത്രയോ ചീത്ത",
+   "en": "how very bad"
+  },
+  {
+   "verse": 197,
+   "ar": "ٱلۡمِهَادُ",
+   "ml": "(ആ) വിരിപ്പ്, വിതാനം",
+   "en": "(that) spread, bedding"
+  },
+  {
+   "verse": 198,
+   "ar": "لَٰكِنِ",
+   "ml": "എന്നാൽ, എങ്കിലും",
+   "en": "but, however"
+  },
+  {
+   "verse": 198,
+   "ar": "ٱلَّذِينَ ٱتَّقَوۡاْ",
+   "ml": "സൂക്ഷിച്ചവർ",
+   "en": "those who guarded against"
+  },
+  {
+   "verse": 198,
+   "ar": "رَبَّهُمۡ",
+   "ml": "തങ്ങളുടെ റബ്ബിനെ",
+   "en": "their Rabb"
+  },
+  {
+   "verse": 198,
+   "ar": "لَهُمۡ",
+   "ml": "അവർക്കുണ്ട്",
+   "en": "for them there are"
+  },
+  {
+   "verse": 198,
+   "ar": "جَنَّـٰتٞ",
+   "ml": "സ്വർഗങ്ങൾ",
+   "en": "Paradises"
+  },
+  {
+   "verse": 198,
+   "ar": "تَجۡرِي",
+   "ml": "നടക്കും, ഒഴുകും",
+   "en": "go, flow"
+  },
+  {
+   "verse": 198,
+   "ar": "مِن تَحۡتِهَا",
+   "ml": "അതിന്റെ അടിഭാഗത്തിലൂടെ",
+   "en": "through the part beneath it"
+  },
+  {
+   "verse": 198,
+   "ar": "ٱلۡأَنۡهَٰرُ",
+   "ml": "നദികൾ",
+   "en": "rivers"
+  },
+  {
+   "verse": 198,
+   "ar": "خَٰلِدِينَ",
+   "ml": "നിത്യവാസികളായിട്ട്",
+   "en": "as permanent dwellers"
+  },
+  {
+   "verse": 198,
+   "ar": "فِيهَا",
+   "ml": "അതിൽ",
+   "en": "in it"
+  },
+  {
+   "verse": 198,
+   "ar": "نُزُلٗا",
+   "ml": "(വിരുന്ന്) സൽക്കാരം",
+   "en": "(feast) hospitality"
+  },
+  {
+   "verse": 198,
+   "ar": "مِّنۡ عِندِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ പക്കൽ നിന്നുള്ള",
+   "en": "from Allah's presence"
+  },
+  {
+   "verse": 198,
+   "ar": "وَمَا عِندَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ പക്കലുള്ളത്",
+   "en": "what is with Allah"
+  },
+  {
+   "verse": 198,
+   "ar": "خَيۡرٞ",
+   "ml": "ഉത്തമമാണ്",
+   "en": "is excellent"
+  },
+  {
+   "verse": 198,
+   "ar": "لِّلۡأَبۡرَارِ",
+   "ml": "പുണ്യവാൻമാർക്ക്",
+   "en": "for the meritorious ones"
+  },
+  {
+   "verse": 199,
+   "ar": "وَإِنَّ",
+   "ml": "നിശ്ചയമായും",
+   "en": "surely"
+  },
+  {
+   "verse": 199,
+   "ar": "مِنۡ أَهۡلِ ٱلۡكِتَٰبِ",
+   "ml": "വേദക്കാരിൽ നിന്നുണ്ട്",
+   "en": "there are, from among the People of the Scripture"
+  },
+  {
+   "verse": 199,
+   "ar": "لَمَن يُؤۡمِنُ",
+   "ml": "വിശ്വസിക്കുന്ന ചിലർ",
+   "en": "some who believe"
+  },
+  {
+   "verse": 199,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ",
+   "en": "in Allah"
+  },
+  {
+   "verse": 199,
+   "ar": "وَمَآ أُنزِلَ",
+   "ml": "ഇറക്കപ്പെട്ടതിലും",
+   "en": "and in what was sent down"
+  },
+  {
+   "verse": 199,
+   "ar": "إِلَيۡكُمۡ",
+   "ml": "നിങ്ങളിലേക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 199,
+   "ar": "وَمَآ أُنزِلَ",
+   "ml": "ഇറക്കപ്പെട്ടതിലും",
+   "en": "and in what was sent down"
+  },
+  {
+   "verse": 199,
+   "ar": "إِلَيۡهِمۡ",
+   "ml": "അവരിലേക്ക്",
+   "en": "to them"
+  },
+  {
+   "verse": 199,
+   "ar": "خَٰشِعِينَ",
+   "ml": "താഴ്മ (ഭക്തി) കാണിക്കുന്നവരായിക്കൊണ്ട്",
+   "en": "as ones showing humility (devotion)"
+  },
+  {
+   "verse": 199,
+   "ar": "لِلَّهِ",
+   "ml": "അല്ലാഹുവിന്, അല്ലാഹുവിനോട്",
+   "en": "to Allah, towards Allah"
+  },
+  {
+   "verse": 199,
+   "ar": "لَا يَشۡتَرُونَ",
+   "ml": "അവർ വാങ്ങുകയില്ല",
+   "en": "they will not buy"
+  },
+  {
+   "verse": 199,
+   "ar": "بِـَٔايَٰتِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ ആയത്തുകൾക്ക് (പകരം)",
+   "en": "(in exchange) for the ayahs of Allah"
+  },
+  {
+   "verse": 199,
+   "ar": "ثَمَنٗا",
+   "ml": "വില",
+   "en": "a price"
+  },
+  {
+   "verse": 199,
+   "ar": "قَلِيلًا",
+   "ml": "തുച്ഛമായ",
+   "en": "paltry"
+  },
+  {
+   "verse": 199,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those"
+  },
+  {
+   "verse": 199,
+   "ar": "لَهُمۡ",
+   "ml": "അവർക്കുണ്ട്",
+   "en": "for them there is"
+  },
+  {
+   "verse": 199,
+   "ar": "أَجۡرُهُمۡ",
+   "ml": "അവരുടെ പ്രതിഫലം",
+   "en": "their reward"
+  },
+  {
+   "verse": 199,
+   "ar": "عِندَ رَبِّهِمۡ",
+   "ml": "അവരുടെ റബ്ബിന്റെ അടുക്കൽ",
+   "en": "with their Rabb"
+  },
+  {
+   "verse": 199,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 199,
+   "ar": "سَرِيعُ",
+   "ml": "വേഗമുള്ളവനാണ്",
+   "en": "is quick"
+  },
+  {
+   "verse": 199,
+   "ar": "ٱلۡحِسَابِ",
+   "ml": "വിചാരണ, കണക്ക് നോക്കൽ",
+   "en": "the reckoning, the checking of the account"
+  },
+  {
+   "verse": 200,
+   "ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരേ",
+   "en": "O you who have believed"
+  },
+  {
+   "verse": 200,
+   "ar": "ٱصۡبِرُواْ",
+   "ml": "നിങ്ങൾ ക്ഷമിക്കുവിൻ, സഹിക്കുവിൻ",
+   "en": "you be patient, endure"
+  },
+  {
+   "verse": 200,
+   "ar": "وَصَابِرُواْ",
+   "ml": "നിങ്ങൾ ക്ഷമയിൽ മുന്നിടുക (മികവ്- മൽസരം കാട്ടുക)യും ചെയ്യുവിൻ",
+   "en": "and you take the lead in patience (show excellence- rivalry)"
+  },
+  {
+   "verse": 200,
+   "ar": "وَرَابِطُواْ",
+   "ml": "നിങ്ങൾ കെട്ടിക്കാക്കുകയും ചെയ്യുവിൻ",
+   "en": "and you keep fast guard"
+  },
+  {
+   "verse": 200,
+   "ar": "وَٱتَّقُواْ ٱللَّهَ",
+   "ml": "നിങ്ങൾ അല്ലാഹുവിനെ സൂക്ഷിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and you guard against Allah"
+  },
+  {
+   "verse": 200,
+   "ar": "لَعَلَّكُمۡ",
+   "ml": "നിങ്ങൾ ആയേക്കാം, ആകുവാൻവേണ്ടി",
+   "en": "you may be, so that you may be"
+  },
+  {
+   "verse": 200,
+   "ar": "تُفۡلِحُونَ",
+   "ml": "വിജയം പ്രാപിക്കുന്നവർ",
+   "en": "ones who attain success"
+  }
+ ]
+}
