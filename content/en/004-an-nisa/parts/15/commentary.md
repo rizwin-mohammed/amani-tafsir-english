@@ -4,7 +4,7 @@ Allah has described in the previous verses very many legal directions, and couns
 
 *[Verse 71]*
 
-*[p. 1054]* The true believers must always be vigilant about the enemies. That is, they must keep remaining ready, preparing men and equipment so as to confront (them) whenever need arises, and must be on guard against the attacks that may come from them unexpectedly. The gist is that setting out against them, and clashing with them, may be band by band, or all joining together at once, according to the occasion.
+*[p. 1054]* The true believers must always be vigilant about the enemies. That is, they must keep remaining ready, preparing men and equipment so as to confront whenever need arises, and must be on guard against the attacks that may come from them unexpectedly. The gist is that setting out against them, and clashing with them, may be band by band, or all joining together at once, according to the occasion.
 
 *[Verses 72–73]*
 
@@ -18,4 +18,4 @@ There were a number of people in Makkah who had accepted true faith, and who had
 
 *[Verse 76]*
 
-*[p. 1058]* The gist is that, however much support and majesty the party of Satan, who is the enemy of Allah, may have, it is to the party of Allah that victory and strength will come in the end. About the meanings of Taghut(**طاغوت**), it has already been explained before. It has also been pointed out before that what is meant is all evil deities, including the devils and the objects of worship.
+*[p. 1058]* The gist is that, however much support and majesty the party of Satan, who is the enemy of Allah, may have, it is to the party of Allah that victory and strength will come in the end. About the meanings of Taghut(**طاغوت**), it has already been explained before. It has also been pointed out before that what is meant is all evil deities, including the devils and the worshipped things.
