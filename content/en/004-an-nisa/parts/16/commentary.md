@@ -18,7 +18,7 @@ Misinterpreting this verse, some other Quran verses too, some rationalists who d
 
 *[Verse 81]*
 
-This too is an evil trait of the hypocrites. When the Prophet ﷺ commands something, or makes them hear some divine messages, they will display readiness, saying that they are ready to obey it properly. *[p. 1064]* If they leave that place, they will, conspiring with one another, also plan programmes against it. Allah warns them that Allah knows all that, and is recording it, and that they themselves will have to experience its result in due course. But, it is enough if the Prophet ﷺ takes note of such doings of theirs concerning them. Apart from that, there is no need to assign any value to it or to take action; only entrusting to Allah is needed; He Himself will take the actions that are needed; the Prophet ﷺ is also alerted to such things.
+This too is an evil trait of the hypocrites. When the Prophet ﷺ commands something, or makes them hear some divine messages, they will display readiness, saying that they are ready to obey it properly. *[p. 1064]* If they leave that place, they will, conspiring with one another, also plan programmes against it. Allah warns them that Allah knows all that, and is recording it, and that they themselves will have to experience its result in due course. But, it is enough if the Prophet ﷺ takes note of such doings of theirs concerning them. Apart from that, there is no need to assign any value to it or to take action; only entrusting to Allah is needed; He Himself will take the actions that are needed; the Prophet ﷺ is also alerted in such terms.
 
 *[Verse 82]*
 

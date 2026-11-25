@@ -136,7 +136,7 @@
    "verse": 77,
    "ar": "لِمَ كَتَبۡتَ",
    "ml": "എന്തിനാണു നീ നിയമിച്ചത്, നിർബന്ധമാക്കി",
-   "en": "why have you ordained, made obligatory"
+   "en": "why have You ordained, made obligatory"
   },
   {
    "verse": 77,
@@ -430,7 +430,7 @@
    "verse": 79,
    "ar": "وَكَفَىٰ",
    "ml": "മതി താനും",
-   "en": "and sufficient, moreover"
+   "en": "sufficient, moreover"
   },
   {
    "verse": 79,
@@ -784,7 +784,7 @@
    "verse": 83,
    "ar": "لَٱتَّبَعۡتُمُ",
    "ml": "നിങ്ങൾ പിൻപറ്റുകതന്നെ ചെയ്യും",
-   "en": "you would indeed have followed"
+   "en": "you would indeed follow"
   },
   {
    "verse": 83,
@@ -814,7 +814,7 @@
    "verse": 84,
    "ar": "لَا تُكَلَّفُ",
    "ml": "നീ (നിന്നോട്) ശാസിക്ക(നിർബ്ബന്ധിക്ക)പ്പെടുകയില്ല, ഹേമിക്കപ്പെടുന്നില്ല",
-   "en": "you (to you) will not be charged(compelled), are not burdened *[DOUBT: ഹേമിക്കപ്പെടുന്നില്ല is clearly printed (checked at 300 dpi), but it is not a Malayalam word known to the translator, and which word was intended cannot be identified with certainty; \"are not burdened\" is a rendering by the sense of تُكَلَّفُ only. The reviewer should supply the intended word.]*"
+   "en": "you (to you) will not be charged(compelled), are not burdened *[DOUBT: ഹേമിക്കപ്പെടുന്നില്ല is clearly printed so (checked at 600 dpi: the letters are sharp, so it is not a broken glyph), but it is not a known Malayalam word, and the intended word cannot be identified from the page. The v. 84 panel has ശാസിക്കപ്പെടുന്നതല്ല (\"will not be charged\") and the commentary has ചോദിക്കപ്പെടുകയില്ല (\"will not be asked\"); neither resembles it. It may be a printing slip; words that would fit the sense of لَا تُكَلَّفُ include ഭാരമേൽപിക്കപ്പെടുന്നില്ല (\"are not burdened\"), ക്ലേശിപ്പിക്കപ്പെടുന്നില്ല (\"are not put to hardship\") or നിയമിക്കപ്പെടുന്നില്ല (\"are not assigned\"; നിയമിക്ക- renders كُتِبَ in v. 77), but none is certain. \"are not burdened\" follows the sense of لَا تُكَلَّفُ only. Compare the similar unexplained third gloss of لَا يُكَلِّفُ at Al-Baqarah 286 (കീർത്തിക്കുകയില്ല). The reviewer should supply the intended word.]*"
   },
   {
    "verse": 84,
@@ -976,7 +976,7 @@
    "verse": 85,
    "ar": "مُّقِيتٗا",
    "ml": "കഴിവുറ്റവൻ, മേൽനോട്ടം ചെയ്യുന്നവൻ, സൂക്ഷിച്ചു പോരുന്നവൻ",
-   "en": "fully capable, One who exercises supervision, One who keeps guarding"
+   "en": "fully capable, One who keeps watch, One who keeps guarding"
   }
  ]
 }
