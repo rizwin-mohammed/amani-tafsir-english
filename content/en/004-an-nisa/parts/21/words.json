@@ -1,0 +1,694 @@
+{
+ "words": [
+  {
+   "verse": 116,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 116,
+   "ar": "لَا يَغۡفِرُ",
+   "ml": "അവൻ പൊറുക്കുകയില്ല",
+   "en": "He will not forgive"
+  },
+  {
+   "verse": 116,
+   "ar": "أَن يُشۡرَكَ",
+   "ml": "പങ്കുചേർക്കപ്പെടുന്നത്(ശിർക്ക് ചെയ്യൽ)",
+   "en": "partners being associated(committing shirk)"
+  },
+  {
+   "verse": 116,
+   "ar": "بِهِۦ",
+   "ml": "അവനോട്, അവനിൽ",
+   "en": "with Him, in Him"
+  },
+  {
+   "verse": 116,
+   "ar": "وَيَغۡفِرُ",
+   "ml": "അവൻ പൊറുക്കുകയും ചെയ്യും",
+   "en": "and He will forgive"
+  },
+  {
+   "verse": 116,
+   "ar": "مَا دُونَ",
+   "ml": "ഇപ്പുറമുള്ളത്, താഴെയുള്ളത്, പുറമെയുള്ളത്",
+   "en": "what is short of, what is below, what is besides"
+  },
+  {
+   "verse": 116,
+   "ar": "ذَٰلِكَ",
+   "ml": "അതിന്റെ",
+   "en": "that"
+  },
+  {
+   "verse": 116,
+   "ar": "لِمَن يَشَآءُۚ",
+   "ml": "അവൻ ഉദ്ദേശിക്കുന്നവർക്ക്",
+   "en": "to those whom He wills"
+  },
+  {
+   "verse": 116,
+   "ar": "وَمَن يُشۡرِكۡ",
+   "ml": "ആരെങ്കിലും പങ്ക് ചേർക്കുന്ന പക്ഷം",
+   "en": "in case anyone associates partners"
+  },
+  {
+   "verse": 116,
+   "ar": "بِٱللَّهِ",
+   "ml": "അല്ലാഹുവിനോട്, അല്ലാഹുവിൽ",
+   "en": "with Allah, in Allah"
+  },
+  {
+   "verse": 116,
+   "ar": "فَقَدۡ ضَلَّ",
+   "ml": "എന്നാൽ തീർച്ചയായും അവൻ പിഴച്ചു",
+   "en": "then certainly he has gone astray"
+  },
+  {
+   "verse": 116,
+   "ar": "ضَلَٰلَۢا",
+   "ml": "ഒരു വഴിപിഴവ്",
+   "en": "an error"
+  },
+  {
+   "verse": 116,
+   "ar": "بَعِيدًا",
+   "ml": "വിദൂരമായ",
+   "en": "far-off"
+  },
+  {
+   "verse": 117,
+   "ar": "إِن يَدۡعُونَ",
+   "ml": "അവർ വിളിക്കുന്നില്ല, പ്രാർഥിക്കുന്നില്ല",
+   "en": "they do not call, they do not supplicate"
+  },
+  {
+   "verse": 117,
+   "ar": "مِن دُونِهِۦٓ",
+   "ml": "അവന് പുറമെ, അവനെകൂടാതെ",
+   "en": "besides Him, apart from Him"
+  },
+  {
+   "verse": 117,
+   "ar": "إِلَّآ إِنَٰثٗا",
+   "ml": "ചില പെണ്ണുങ്ങളെയല്ലാതെ",
+   "en": "except some females"
+  },
+  {
+   "verse": 117,
+   "ar": "وَإِن يَدۡعُونَ",
+   "ml": "അവർ വിളിക്കുന്നു (പ്രാർഥിക്കുന്നു)മില്ല",
+   "en": "and they do not call (supplicate)"
+  },
+  {
+   "verse": 117,
+   "ar": "إِلَّا شَيۡطَٰنٗا",
+   "ml": "പിശാചിനെയല്ലാതെ",
+   "en": "except a Satan"
+  },
+  {
+   "verse": 117,
+   "ar": "مَّرِيدٗا",
+   "ml": "ധിക്കാരശീലനായ",
+   "en": "who is habitually insolent"
+  },
+  {
+   "verse": 118,
+   "ar": "لَّعَنَهُ",
+   "ml": "അവനെ ശപിച്ചിരിക്കുന്നു, ശപിക്കട്ടെ",
+   "en": "has cursed him, may curse him"
+  },
+  {
+   "verse": 118,
+   "ar": "ٱللَّهُۘ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 118,
+   "ar": "وَقَالَ",
+   "ml": "അവൻ പറയുകയും ചെയ്തിരിക്കുന്നു",
+   "en": "and he has said"
+  },
+  {
+   "verse": 118,
+   "ar": "لَأَتَّخِذَنَّ",
+   "ml": "തീർച്ചയായും ഞാൻ ഉണ്ടാക്കിത്തീർക്കുകതന്നെ ചെയ്യും",
+   "en": "certainly I shall indeed make"
+  },
+  {
+   "verse": 118,
+   "ar": "مِنۡ عِبَادِكَ",
+   "ml": "നിന്റെ അടിയാൻമാരിൽ നിന്ന്",
+   "en": "from Your servants"
+  },
+  {
+   "verse": 118,
+   "ar": "نَصِيبٗا",
+   "ml": "ഒരു ഓഹരി, പങ്ക്",
+   "en": "a share, a lot"
+  },
+  {
+   "verse": 118,
+   "ar": "مَّفۡرُوضٗا",
+   "ml": "നിർണയം ചെയ്യപ്പെട്ട (നിശ്ചിത)",
+   "en": "determined (fixed)"
+  },
+  {
+   "verse": 119,
+   "ar": "وَلَأُضِلَّنَّهُمۡ",
+   "ml": "ഞാനവരെ വഴിപിഴപ്പിക്കുകതന്നെ ചെയ്യും",
+   "en": "I shall indeed lead them astray"
+  },
+  {
+   "verse": 119,
+   "ar": "وَلَأُمَنِّيَنَّهُمۡ",
+   "ml": "ഞാനവരെ വ്യാമോഹിപ്പിക്കുക (കൊതിപ്പിക്കുക)യും തന്നെ ചെയ്യും",
+   "en": "and I shall indeed delude (tantalise) them"
+  },
+  {
+   "verse": 119,
+   "ar": "وَلَأٓمُرَنَّهُمۡ",
+   "ml": "ഞാനവരോട് കൽപിക്കുകയും തന്നെ ചെയ്യും",
+   "en": "and I shall indeed command them"
+  },
+  {
+   "verse": 119,
+   "ar": "فَلَيُبَتِّكُنَّ",
+   "ml": "എന്നിട്ടവർ മുറിക്കുക (കീറിപ്പൊളിക്കുക) തന്നെ ചെയ്യും",
+   "en": "and then they will indeed cut (slit open)"
+  },
+  {
+   "verse": 119,
+   "ar": "ءَاذَانَ",
+   "ml": "ചെവികളെ",
+   "en": "the ears"
+  },
+  {
+   "verse": 119,
+   "ar": "ٱلۡأَنۡعَٰمِ",
+   "ml": "കാലികളുടെ (ആടുമാടൊട്ടകങ്ങളുടെ)",
+   "en": "of the cattle (of goats, cattle and camels)"
+  },
+  {
+   "verse": 119,
+   "ar": "وَلَأٓمُرَنَّهُمۡ",
+   "ml": "അവരോട് ഞാൻ കൽപിക്കുകയും തന്നെ ചെയ്യും",
+   "en": "and I shall indeed command them"
+  },
+  {
+   "verse": 119,
+   "ar": "فَلَيُغَيِّرُنَّ",
+   "ml": "എന്നിട്ടവർ ഭേദഗതി(മാറ്റം) വരുത്തുക തന്നെ ചെയ്യും",
+   "en": "and then they will indeed make alteration(change)"
+  },
+  {
+   "verse": 119,
+   "ar": "خَلۡقَ ٱللَّهِۚ",
+   "ml": "അല്ലാഹുവിന്റെ സൃഷ്ടിപ്പിനെ, സൃഷ്ടിയെ",
+   "en": "to the creating of Allah, to the creation"
+  },
+  {
+   "verse": 119,
+   "ar": "وَمَن يَتَّخِذِ",
+   "ml": "ആരെങ്കിലും ആക്കിയാൽ, വല്ലവനും സ്വീകരിക്കുന്നപക്ഷം",
+   "en": "if anyone makes, in case someone adopts"
+  },
+  {
+   "verse": 119,
+   "ar": "ٱلشَّيۡطَٰنَ",
+   "ml": "പിശാചിനെ",
+   "en": "Satan"
+  },
+  {
+   "verse": 119,
+   "ar": "وَلِيّٗا",
+   "ml": "കാര്യകർത്താവായി, ബന്ധുവായി",
+   "en": "as one in charge of affairs, as a kinsman"
+  },
+  {
+   "verse": 119,
+   "ar": "مِّن دُونِ",
+   "ml": "പുറമെ, കൂടാതെ",
+   "en": "besides, apart from"
+  },
+  {
+   "verse": 119,
+   "ar": "ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്, അല്ലാഹുവിനെ",
+   "en": "Allah, Allah"
+  },
+  {
+   "verse": 119,
+   "ar": "فَقَدۡ خَسِرَ",
+   "ml": "തീർച്ചയായും അവന് നഷ്ടപ്പെട്ടു",
+   "en": "certainly he has suffered loss"
+  },
+  {
+   "verse": 119,
+   "ar": "خُسۡرَانٗا",
+   "ml": "ഒരു നഷ്ടപ്പെടൽ",
+   "en": "a loss"
+  },
+  {
+   "verse": 119,
+   "ar": "مُّبِينٗا",
+   "ml": "സ്പഷ്ടമായ",
+   "en": "manifest"
+  },
+  {
+   "verse": 120,
+   "ar": "يَعِدُهُمۡ",
+   "ml": "അവൻ അവരോട് വാഗ്ദാനം ചെയ്യും",
+   "en": "he will make promises to them"
+  },
+  {
+   "verse": 120,
+   "ar": "وَيُمَنِّيهِمۡۖ",
+   "ml": "അവരെ വ്യാമോഹിപ്പിക്കുകയും ചെയ്യും",
+   "en": "and he will delude them"
+  },
+  {
+   "verse": 120,
+   "ar": "وَمَا يَعِدُهُمُ",
+   "ml": "അവരോട് വാഗ്ദാനം ചെയ്കയില്ലതാനും",
+   "en": "and will not promise them"
+  },
+  {
+   "verse": 120,
+   "ar": "ٱلشَّيۡطَٰنُ",
+   "ml": "പിശാച്",
+   "en": "Satan"
+  },
+  {
+   "verse": 120,
+   "ar": "إِلَّا غُرُورًا",
+   "ml": "വഞ്ചന(കൃത്രിമം)അല്ലാതെ",
+   "en": "except deception(artifice)"
+  },
+  {
+   "verse": 121,
+   "ar": "أُوْلَـٰٓئِكَ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those people"
+  },
+  {
+   "verse": 121,
+   "ar": "مَأۡوَىٰهُمۡ",
+   "ml": "അവരുടെ സങ്കേതം, പ്രാപ്യസ്ഥാനം, അഭയസ്ഥാനം",
+   "en": "their resort, destination, place of refuge"
+  },
+  {
+   "verse": 121,
+   "ar": "جَهَنَّمُ",
+   "ml": "ജഹന്നമാകുന്നു",
+   "en": "is Jahannam"
+  },
+  {
+   "verse": 121,
+   "ar": "وَلَا يَجِدُونَ",
+   "ml": "അവർ കണ്ടെത്തുക (അവർക്ക് കിട്ടുക)യുമില്ല",
+   "en": "and they will not find (they will not get)"
+  },
+  {
+   "verse": 121,
+   "ar": "عَنۡهَا",
+   "ml": "അതിനെ വിട്ട്",
+   "en": "leaving it"
+  },
+  {
+   "verse": 121,
+   "ar": "مَحِيصٗا",
+   "ml": "ഓടിപ്പോകുന്ന ഒരു സ്ഥാനം, തെറ്റിപ്പോകാനുള്ള ഇടം",
+   "en": "a place to run away to, a room to slip away"
+  },
+  {
+   "verse": 122,
+   "ar": "وَٱلَّذِينَ ءَامَنُواْ",
+   "ml": "വിശ്വസിച്ചവരാകട്ടെ",
+   "en": "and those who have believed, for their part"
+  },
+  {
+   "verse": 122,
+   "ar": "وَعَمِلُواْ",
+   "ml": "അവർ പ്രവർത്തിക്കുകയും ചെയ്ത",
+   "en": "and who have done"
+  },
+  {
+   "verse": 122,
+   "ar": "ٱلصَّـٰلِحَٰتِ",
+   "ml": "സൽകർമങ്ങൾ",
+   "en": "good deeds"
+  },
+  {
+   "verse": 122,
+   "ar": "سَنُدۡخِلُهُمۡ",
+   "ml": "വഴിയെ നാം അവരെ പ്രവേശിപ്പിക്കും",
+   "en": "We will in due course make them enter"
+  },
+  {
+   "verse": 122,
+   "ar": "جَنَّـٰتٖ",
+   "ml": "സ്വർഗങ്ങളിൽ",
+   "en": "into Paradises"
+  },
+  {
+   "verse": 122,
+   "ar": "تَجۡرِي",
+   "ml": "ഒഴുകുന്ന",
+   "en": "that flow"
+  },
+  {
+   "verse": 122,
+   "ar": "مِن تَحۡتِهَا",
+   "ml": "അതിന്റെ അടിഭാഗത്തിലൂടെ",
+   "en": "through its underside"
+  },
+  {
+   "verse": 122,
+   "ar": "ٱلۡأَنۡهَٰرُ",
+   "ml": "അരുവികൾ, നദി(പുഴ)കൾ",
+   "en": "streams, river(stream)s"
+  },
+  {
+   "verse": 122,
+   "ar": "خَٰلِدِينَ",
+   "ml": "സ്ഥിരവാസികളായിക്കൊണ്ട്",
+   "en": "being permanent residents"
+  },
+  {
+   "verse": 122,
+   "ar": "فِيهَآ",
+   "ml": "അതിൽ, അവയിൽ",
+   "en": "in it, in them"
+  },
+  {
+   "verse": 122,
+   "ar": "أَبَدٗاۖ",
+   "ml": "എക്കാലവും, എന്നെന്നും",
+   "en": "for all time, for ever and ever"
+  },
+  {
+   "verse": 122,
+   "ar": "وَعۡدَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ വാഗ്ദാനം",
+   "en": "the promise of Allah"
+  },
+  {
+   "verse": 122,
+   "ar": "حَقّٗاۚ",
+   "ml": "യഥാർഥം, യഥാർഥമായ",
+   "en": "true, that is true"
+  },
+  {
+   "verse": 122,
+   "ar": "وَمَنۡ",
+   "ml": "ആരാണ്, ആരുണ്ട്",
+   "en": "who is, who is there"
+  },
+  {
+   "verse": 122,
+   "ar": "أَصۡدَقُ",
+   "ml": "അധികം സത്യവാൻ",
+   "en": "more truthful"
+  },
+  {
+   "verse": 122,
+   "ar": "مِنَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിനെക്കാൾ",
+   "en": "than Allah"
+  },
+  {
+   "verse": 122,
+   "ar": "قِيلٗا",
+   "ml": "വാക്കിൽ, വാക്കിനാൽ",
+   "en": "in word, by word"
+  },
+  {
+   "verse": 123,
+   "ar": "لَّيۡسَ",
+   "ml": "അല്ല",
+   "en": "it is not"
+  },
+  {
+   "verse": 123,
+   "ar": "بِأَمَانِيِّكُمۡ",
+   "ml": "നിങ്ങളുടെ വ്യാമോഹങ്ങളനുസരിച്ചല്ല",
+   "en": "not according to your delusions"
+  },
+  {
+   "verse": 123,
+   "ar": "وَلَآ أَمَانِيِّ",
+   "ml": "വ്യാമോഹങ്ങളനുസരിച്ചുമല്ല",
+   "en": "nor according to the delusions"
+  },
+  {
+   "verse": 123,
+   "ar": "أَهۡلِ ٱلۡكِتَٰبِۗ",
+   "ml": "വേദക്കാരുടെ",
+   "en": "of the People of the Scripture"
+  },
+  {
+   "verse": 123,
+   "ar": "مَن يَعۡمَلۡ",
+   "ml": "ആർ പ്രവർത്തിക്കുന്നുവോ",
+   "en": "whoever does"
+  },
+  {
+   "verse": 123,
+   "ar": "سُوٓءٗا",
+   "ml": "ഒരു തിന്മ, വല്ല ദൂഷ്യവും",
+   "en": "an evil, some vice"
+  },
+  {
+   "verse": 123,
+   "ar": "يُجۡزَ بِهِۦ",
+   "ml": "അവന് അതിന് പ്രതിഫലം നൽകപ്പെടും",
+   "en": "he will be given recompense for it"
+  },
+  {
+   "verse": 123,
+   "ar": "وَلَا يَجِدۡ",
+   "ml": "അവൻ കണ്ടെത്തുകയുമില്ല",
+   "en": "and he will not find"
+  },
+  {
+   "verse": 123,
+   "ar": "لَهُۥ",
+   "ml": "തനിക്ക്, അവന്ന്",
+   "en": "for himself, for him"
+  },
+  {
+   "verse": 123,
+   "ar": "مِن دُونِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്ന് പുറമെ (കൂടാതെ)",
+   "en": "besides Allah (apart from)"
+  },
+  {
+   "verse": 123,
+   "ar": "وَلِيّٗا",
+   "ml": "ഒരു കൈകാര്യകർത്താവിനെ, ബന്ധുവെ",
+   "en": "a manager of affairs, a kinsman"
+  },
+  {
+   "verse": 123,
+   "ar": "وَلَا نَصِيرٗا",
+   "ml": "സഹായകനെയും ഇല്ല",
+   "en": "nor a helper"
+  },
+  {
+   "verse": 124,
+   "ar": "وَمَن يَعۡمَلۡ",
+   "ml": "ആരെങ്കിലും പ്രവർത്തിക്കുന്നതായാൽ",
+   "en": "if anyone does"
+  },
+  {
+   "verse": 124,
+   "ar": "مِنَ ٱلصَّـٰلِحَٰتِ",
+   "ml": "സൽകർമങ്ങളിൽ നിന്ന്",
+   "en": "of good deeds"
+  },
+  {
+   "verse": 124,
+   "ar": "مِن ذَكَرٍ",
+   "ml": "ആണായിട്ട്",
+   "en": "as a male"
+  },
+  {
+   "verse": 124,
+   "ar": "أَوۡ أُنثَىٰ",
+   "ml": "അല്ലെങ്കിൽ പെണ്ണായിട്ട്",
+   "en": "or else as a female"
+  },
+  {
+   "verse": 124,
+   "ar": "وَهُوَ",
+   "ml": "അയാൾ, താൻ",
+   "en": "he, himself"
+  },
+  {
+   "verse": 124,
+   "ar": "مُؤۡمِنٞ",
+   "ml": "സത്യവിശ്വാസിയാണ് (താനും)",
+   "en": "is a true believer (moreover)"
+  },
+  {
+   "verse": 124,
+   "ar": "فَأُوْلَـٰٓئِكَ",
+   "ml": "എന്നാൽ അക്കൂട്ടർ",
+   "en": "then those people"
+  },
+  {
+   "verse": 124,
+   "ar": "يَدۡخُلُونَ",
+   "ml": "അവർ പ്രവേശിക്കും",
+   "en": "they will enter"
+  },
+  {
+   "verse": 124,
+   "ar": "ٱلۡجَنَّةَ",
+   "ml": "സ്വർഗത്തിൽ",
+   "en": "Paradise"
+  },
+  {
+   "verse": 124,
+   "ar": "وَلَا يُظۡلَمُونَ",
+   "ml": "അവർ (അവരോട്) അനീതി ചെയ്യപ്പെടുകയുമില്ല",
+   "en": "and they will not be (injustice will not be done to them) wronged"
+  },
+  {
+   "verse": 124,
+   "ar": "نَقِيرٗا",
+   "ml": "ഒരു കുത്തോളം (ഒട്ടും)",
+   "en": "by so much as a dot (at all)"
+  },
+  {
+   "verse": 125,
+   "ar": "وَمَنۡ أَحۡسَنُ",
+   "ml": "അധികം (ഏറ്റവും) നല്ലവൻ ആരാണ്",
+   "en": "who is better (best)"
+  },
+  {
+   "verse": 125,
+   "ar": "دِينٗا",
+   "ml": "മതം, മതത്തിൽ, മതത്താൽ",
+   "en": "religion, in religion, by religion"
+  },
+  {
+   "verse": 125,
+   "ar": "مِّمَّنۡ",
+   "ml": "ഒരുവനെ (യാതൊരുത്തനെ)ക്കാൾ",
+   "en": "than one (whoever)"
+  },
+  {
+   "verse": 125,
+   "ar": "أَسۡلَمَ",
+   "ml": "വിട്ടുകൊടുത്ത, കീഴ്പെടുത്തിയ, ഏൽപിച്ചുകൊടുത്ത",
+   "en": "who handed over, who submitted, who entrusted"
+  },
+  {
+   "verse": 125,
+   "ar": "وَجۡهَهُۥ",
+   "ml": "തന്റെ മുഖത്തെ",
+   "en": "his face"
+  },
+  {
+   "verse": 125,
+   "ar": "لِلَّهِ",
+   "ml": "അല്ലാഹുവിന്ന്",
+   "en": "to Allah"
+  },
+  {
+   "verse": 125,
+   "ar": "وَهُوَ",
+   "ml": "അവനാകട്ടെ, അവനോ",
+   "en": "he, for his part, while he"
+  },
+  {
+   "verse": 125,
+   "ar": "مُحۡسِنٞ",
+   "ml": "സൽഗുണവാനാണ്, നന്മ പ്രവർത്തിക്കുന്ന (നിഷ്കളങ്കമായി ചെയ്യുന്ന)വനുമാണ്",
+   "en": "is one of good qualities, and is one who does good (who does it sincerely)"
+  },
+  {
+   "verse": 125,
+   "ar": "وَٱتَّبَعَ",
+   "ml": "പിൻപറ്റുകയും ചെയ്ത",
+   "en": "and who followed"
+  },
+  {
+   "verse": 125,
+   "ar": "مِلَّةَ",
+   "ml": "മാർഗത്തെ, നടപടിക്രമം",
+   "en": "the way, the course of practice"
+  },
+  {
+   "verse": 125,
+   "ar": "إِبۡرَٰهِيمَ",
+   "ml": "ഇബ്റാഹീമിന്റെ",
+   "en": "of Ibrahim"
+  },
+  {
+   "verse": 125,
+   "ar": "حَنِيفٗاۗ",
+   "ml": "ഋജുമാനസനായിട്ട്, നിഷ്ങ്കളനായ നിലയിൽ",
+   "en": "as one upright-minded, in the state of one who is sincere"
+  },
+  {
+   "verse": 125,
+   "ar": "وَٱتَّخَذَ ٱللَّهُ",
+   "ml": "അല്ലാഹു സ്വീകരിക്കുക(ആക്കുക)യും ചെയ്തിരിക്കുന്നു",
+   "en": "and Allah has taken(made)"
+  },
+  {
+   "verse": 125,
+   "ar": "إِبۡرَٰهِيمَ",
+   "ml": "ഇബ്റാഹീമിനെ",
+   "en": "Ibrahim"
+  },
+  {
+   "verse": 125,
+   "ar": "خَلِيلٗا",
+   "ml": "(ഉറ്റ) ചങ്ങാതി",
+   "en": "an (intimate) friend"
+  },
+  {
+   "verse": 126,
+   "ar": "وَلِلَّهِ",
+   "ml": "അല്ലാഹുവിന്നാണ്, അല്ലാഹുവിന്നുള്ളതാണ്",
+   "en": "is Allah's, belongs to Allah"
+  },
+  {
+   "verse": 126,
+   "ar": "مَا فِي ٱلسَّمَٰوَٰتِ",
+   "ml": "ആകാശങ്ങളിലുള്ളതും",
+   "en": "what is in the heavens"
+  },
+  {
+   "verse": 126,
+   "ar": "وَمَا فِي ٱلۡأَرۡضِۚ",
+   "ml": "ഭൂമിയിലുള്ളതും",
+   "en": "and what is in the earth"
+  },
+  {
+   "verse": 126,
+   "ar": "وَكَانَ ٱللَّهُ",
+   "ml": "അല്ലാഹു ആകുന്നുതാനും",
+   "en": "and Allah is"
+  },
+  {
+   "verse": 126,
+   "ar": "بِكُلِّ شَيۡءٖ",
+   "ml": "എല്ലാ കാര്യത്തെ (വസ്തുവെ)യും",
+   "en": "every matter (thing)"
+  },
+  {
+   "verse": 126,
+   "ar": "مُّحِيطٗا",
+   "ml": "വലയം ചെയ്തവൻ, ചുറ്റി പൊതിഞ്ഞവൻ",
+   "en": "One who has encompassed, One who has wrapped round"
+  }
+ ]
+}
