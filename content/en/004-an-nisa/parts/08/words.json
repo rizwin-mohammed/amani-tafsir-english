@@ -1,0 +1,358 @@
+{
+ "words": [
+  {
+   "verse": 33,
+   "ar": "وَلِكُلّٖ",
+   "ml": "എല്ലാവർക്കും, എല്ലാറ്റിനും",
+   "en": "for everyone, for everything"
+  },
+  {
+   "verse": 33,
+   "ar": "جَعَلۡنَا",
+   "ml": "നാം ആക്കി (ഏർപ്പെടുത്തി)യിരിക്കുന്നു",
+   "en": "We have made (appointed)"
+  },
+  {
+   "verse": 33,
+   "ar": "مَوَٰلِيَ",
+   "ml": "ബന്ധപ്പെട്ടവരെ (അവകാശികളെ)",
+   "en": "those connected (heirs)"
+  },
+  {
+   "verse": 33,
+   "ar": "مِمَّا تَرَكَ",
+   "ml": "വിട്ടുപോയതിന്, വിട്ടുപോയതിൽ നിന്ന്",
+   "en": "for what … left, from what … left"
+  },
+  {
+   "verse": 33,
+   "ar": "ٱلۡوَٰلِدَانِ",
+   "ml": "മാതാപിതാക്കൾ",
+   "en": "parents"
+  },
+  {
+   "verse": 33,
+   "ar": "وَٱلۡأَقۡرَبُونَۚ",
+   "ml": "അടുത്ത കുടുംബങ്ങളും (അധികം അടുത്ത ബന്ധുക്കളും)",
+   "en": "and close relatives (and the nearest kinsfolk)"
+  },
+  {
+   "verse": 33,
+   "ar": "وَٱلَّذِينَ",
+   "ml": "യാതൊരുകൂട്ടർ",
+   "en": "and those whom"
+  },
+  {
+   "verse": 33,
+   "ar": "عَقَدَتۡ",
+   "ml": "കെട്ടിയിരിക്കുന്നു, ഉറപ്പിച്ചു, സ്ഥാപിച്ചു(വോ)",
+   "en": "have tied, made firm, established"
+  },
+  {
+   "verse": 33,
+   "ar": "أَيۡمَٰنُكُمۡ",
+   "ml": "നിങ്ങളുടെ സത്യങ്ങൾ, വലങ്കൈകൾ",
+   "en": "your oaths, right hands"
+  },
+  {
+   "verse": 33,
+   "ar": "فَـَٔاتُوهُمۡ",
+   "ml": "എന്നാലവർക്ക് നിങ്ങൾ കൊടുക്കുവിൻ",
+   "en": "then give them"
+  },
+  {
+   "verse": 33,
+   "ar": "نَصِيبَهُمۡۚ",
+   "ml": "അവരുടെ ഓഹരി",
+   "en": "their share"
+  },
+  {
+   "verse": 33,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 33,
+   "ar": "كَانَ",
+   "ml": "ആകുന്നു, ആയിരിക്കുന്നു",
+   "en": "is, has been"
+  },
+  {
+   "verse": 33,
+   "ar": "عَلَىٰ كُلِّ شَيۡءٖ",
+   "ml": "എല്ലാകാര്യത്തിനും, വസ്തുവിന്റെമേലും",
+   "en": "for every matter, over every thing"
+  },
+  {
+   "verse": 33,
+   "ar": "شَهِيدًا",
+   "ml": "സാക്ഷി (ദൃക്സാക്ഷി)",
+   "en": "witness (eye-witness)"
+  },
+  {
+   "verse": 34,
+   "ar": "ٱلرِّجَالُ",
+   "ml": "പുരുഷന്മാർ",
+   "en": "men"
+  },
+  {
+   "verse": 34,
+   "ar": "قَوَّـٰمُونَ",
+   "ml": "നിലകൊള്ളുന്നവരാണ്, നടത്തിപ്പുകാരാണ്, അധികാരസ്ഥന്മാരാണ്, രക്ഷകന്മാരാണ്",
+   "en": "are those who stand, are managers, are those in authority, are protectors"
+  },
+  {
+   "verse": 34,
+   "ar": "عَلَى ٱلنِّسَآءِ",
+   "ml": "സ്ത്രീകളിൽ, സ്ത്രീകളുടെ മേൽ",
+   "en": "over women, upon women"
+  },
+  {
+   "verse": 34,
+   "ar": "بِمَا فَضَّلَ",
+   "ml": "ശ്രേഷ്ഠമാക്കിയതുകൊണ്ട്, മെച്ചപ്പെടുത്തിയതിനാൽ",
+   "en": "because … made excel, because … made better"
+  },
+  {
+   "verse": 34,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 34,
+   "ar": "بَعۡضَهُمۡ",
+   "ml": "അവരിൽ ചിലരെ",
+   "en": "some of them"
+  },
+  {
+   "verse": 34,
+   "ar": "عَلَىٰ بَعۡضٖ",
+   "ml": "ചിലരെക്കാൾ",
+   "en": "over some others"
+  },
+  {
+   "verse": 34,
+   "ar": "وَبِمَآ أَنفَقُواْ",
+   "ml": "അവർ ചിലവഴിക്കുന്നതുകൊണ്ടും",
+   "en": "and because they spend"
+  },
+  {
+   "verse": 34,
+   "ar": "مِنۡ أَمۡوَٰلِهِمۡۚ",
+   "ml": "അവരുടെ സ്വത്തുക്കളിൽ നിന്ന്",
+   "en": "from their properties"
+  },
+  {
+   "verse": 34,
+   "ar": "فَٱلصَّـٰلِحَٰتُ",
+   "ml": "എന്നാൽ സദ്‌വൃത്തകളായവർ, നല്ല സ്ത്രീകൾ, കൊള്ളാവുന്നവർ",
+   "en": "then the women of good conduct, good women, worthy women"
+  },
+  {
+   "verse": 34,
+   "ar": "قَٰنِتَٰتٌ",
+   "ml": "അനുസരണം (ഒതുക്കം - അച്ചടക്കം) ഉള്ളവരാണ്",
+   "en": "are those who have obedience (restraint - discipline)"
+  },
+  {
+   "verse": 34,
+   "ar": "حَٰفِظَٰتٞ",
+   "ml": "കാക്കുന്ന (സൂക്ഷിക്കുന്ന)വരാണ്",
+   "en": "are those who guard (keep safe)"
+  },
+  {
+   "verse": 34,
+   "ar": "لِّلۡغَيۡبِ",
+   "ml": "അസാന്നിദ്ധ്യത്തെ (അഭാവാവസ്ഥയിൽ)",
+   "en": "the absence (in the state of absence)"
+  },
+  {
+   "verse": 34,
+   "ar": "بِمَا حَفِظَ ٱللَّهُۚ",
+   "ml": "അല്ലാഹു(കാത്തു) സൂക്ഷിച്ചപ്രകാരം, കാത്തതുകൊണ്ട്",
+   "en": "as Allah has (guarded) kept safe, because … guarded"
+  },
+  {
+   "verse": 34,
+   "ar": "وَٱلَّـٰتِي",
+   "ml": "യാതൊരു സ്ത്രീകൾ",
+   "en": "and those women whom"
+  },
+  {
+   "verse": 34,
+   "ar": "تَخَافُونَ",
+   "ml": "നിങ്ങൾ ഭയപ്പെടും, ഭയപ്പെടുന്ന",
+   "en": "you fear, (whom) you fear"
+  },
+  {
+   "verse": 34,
+   "ar": "نُشُوزَهُنَّ",
+   "ml": "അവരുടെ പിണക്കത്തെ, അനുസരണക്കേട്",
+   "en": "their estrangement, disobedience"
+  },
+  {
+   "verse": 34,
+   "ar": "فَعِظُوهُنَّ",
+   "ml": "അവർക്ക് നിങ്ങൾ സദുപദേശം ചെയ്യുവിൻ",
+   "en": "give them good counsel"
+  },
+  {
+   "verse": 34,
+   "ar": "وَٱهۡجُرُوهُنَّ",
+   "ml": "അവരെ നിങ്ങൾ വെടിയുകയും ചെയ്യുവിൻ",
+   "en": "and forsake them"
+  },
+  {
+   "verse": 34,
+   "ar": "فِي ٱلۡمَضَاجِعِ",
+   "ml": "കിടപ്പു സ്ഥാനങ്ങളിൽ",
+   "en": "in the places of lying down"
+  },
+  {
+   "verse": 34,
+   "ar": "وَٱضۡرِبُوهُنَّۖ",
+   "ml": "അവരെ നിങ്ങൾ അടിക്കുകയും ചെയ്യുവിൻ",
+   "en": "and strike them"
+  },
+  {
+   "verse": 34,
+   "ar": "فَإِنۡ أَطَعۡنَكُمۡ",
+   "ml": "എന്നിട്ടു (എന്നാൽ) അവർ നിങ്ങളെഅനുസരിച്ചെങ്കിൽ, വഴിപ്പെട്ടാൽ",
+   "en": "and then (then) if they obeyed you, if they submitted"
+  },
+  {
+   "verse": 34,
+   "ar": "فَلَا تَبۡغُواْ",
+   "ml": "എന്നാൽ നിങ്ങൾ തേടേണ്ട, അന്വേഷിക്കരുത്",
+   "en": "then you need not seek, do not search for"
+  },
+  {
+   "verse": 34,
+   "ar": "عَلَيۡهِنَّ",
+   "ml": "അവരുടെ മേൽ, അവർക്കെതിരെ",
+   "en": "upon them, against them"
+  },
+  {
+   "verse": 34,
+   "ar": "سَبِيلًاۗ",
+   "ml": "ഒരു മാർഗം, വഴി",
+   "en": "a way, a path"
+  },
+  {
+   "verse": 34,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 34,
+   "ar": "كَانَ عَلِيّٗا",
+   "ml": "അവൻ ഉന്നതനാകുന്നു, മേലെയുള്ളവനാണ്",
+   "en": "He is Exalted, is the One who is above"
+  },
+  {
+   "verse": 34,
+   "ar": "كَبِيرٗا",
+   "ml": "വലിയവൻ, മഹാനായ",
+   "en": "Great, Grand"
+  },
+  {
+   "verse": 35,
+   "ar": "وَإِنۡ خِفۡتُمۡ",
+   "ml": "നിങ്ങൾ ഭയന്നുവെങ്കിൽ",
+   "en": "if you feared"
+  },
+  {
+   "verse": 35,
+   "ar": "شِقَاقَ",
+   "ml": "പിളർപ്പ്, ഛിദ്രം, ഭിന്നിപ്പ്",
+   "en": "rift, discord, division"
+  },
+  {
+   "verse": 35,
+   "ar": "بَيۡنِهِمَا",
+   "ml": "അവർ രണ്ടുപേർക്കുമിടയിൽ",
+   "en": "between the two of them"
+  },
+  {
+   "verse": 35,
+   "ar": "فَٱبۡعَثُواْ",
+   "ml": "എന്നാൽ നിങ്ങൾ എഴുന്നേൽപിക്കുവിൻ, അയക്കുക, നിയോഗിക്കുക",
+   "en": "then raise up, send, appoint"
+  },
+  {
+   "verse": 35,
+   "ar": "حَكَمٗا",
+   "ml": "ഒരു വിധികർത്താവിനെ (മദ്ധ്യസ്ഥനെ)",
+   "en": "an arbiter (a mediator)"
+  },
+  {
+   "verse": 35,
+   "ar": "مِّنۡ أَهۡلِهِۦ",
+   "ml": "അവന്റെ ആൾക്കാരി(കൂട്ടക്കാരി)ൽ നിന്ന്",
+   "en": "from his people (folk)"
+  },
+  {
+   "verse": 35,
+   "ar": "وَحَكَمٗا",
+   "ml": "ഒരു വിധി കർത്താവിനെയും",
+   "en": "and an arbiter"
+  },
+  {
+   "verse": 35,
+   "ar": "مِّنۡ أَهۡلِهَآ",
+   "ml": "അവളുടെ ആൾക്കാരിൽ നിന്ന്",
+   "en": "from her people"
+  },
+  {
+   "verse": 35,
+   "ar": "إِن يُرِيدَآ",
+   "ml": "അവർ രണ്ടാളും ഉദ്ദേശിക്കുന്നപക്ഷം",
+   "en": "in case the two of them intend"
+  },
+  {
+   "verse": 35,
+   "ar": "إِصۡلَٰحٗا",
+   "ml": "നന്നാക്കൽ, നന്മവരുത്തൽ",
+   "en": "setting right, bringing about good"
+  },
+  {
+   "verse": 35,
+   "ar": "يُوَفِّقِ",
+   "ml": "ഒപ്പിക്കും, യോജിപ്പുവരുത്തും",
+   "en": "will reconcile, will bring about agreement"
+  },
+  {
+   "verse": 35,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 35,
+   "ar": "بَيۡنَهُمَآۗ",
+   "ml": "അവർ രണ്ടാൾക്കിടയിൽ",
+   "en": "between the two of them"
+  },
+  {
+   "verse": 35,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 35,
+   "ar": "كَانَ عَلِيمًا",
+   "ml": "അറിയുന്നവനാകുന്നു, സർവ്വജ്ഞനാണ്",
+   "en": "is the One who knows, is All-Knowing"
+  },
+  {
+   "verse": 35,
+   "ar": "خَبِيرٗا",
+   "ml": "സൂക്ഷ്മജ്ഞാനി",
+   "en": "One of minute knowledge"
+  }
+ ]
+}
