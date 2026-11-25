@@ -1,0 +1,544 @@
+{
+ "words": [
+  {
+   "verse": 101,
+   "ar": "وَإِذَا ضَرَبۡتُمۡ",
+   "ml": "നിങ്ങൾ യാത്രപോയാൽ",
+   "en": "if you go on a journey"
+  },
+  {
+   "verse": 101,
+   "ar": "فِي ٱلۡأَرۡضِ",
+   "ml": "ഭൂമിയിൽ, ഭൂമിയിലൂടെ",
+   "en": "in the earth, through the earth"
+  },
+  {
+   "verse": 101,
+   "ar": "فَلَيۡسَ عَلَيۡكُمۡ",
+   "ml": "എന്നാൽ നിങ്ങളുടെമേൽ ഇല്ല",
+   "en": "then there is not upon you"
+  },
+  {
+   "verse": 101,
+   "ar": "جُنَاحٌ",
+   "ml": "തെറ്റ്, ഒരു തെറ്റും",
+   "en": "wrong, any wrong at all"
+  },
+  {
+   "verse": 101,
+   "ar": "أَن تَقۡصُرُواْ",
+   "ml": "നിങ്ങൾ ചുരുക്കുന്നതിന്",
+   "en": "in your shortening"
+  },
+  {
+   "verse": 101,
+   "ar": "مِنَ ٱلصَّلَوٰةِ",
+   "ml": "നമസ്കാരത്തിൽ നിന്ന്",
+   "en": "from the prayer"
+  },
+  {
+   "verse": 101,
+   "ar": "إِنۡ خِفۡتُمۡ",
+   "ml": "നിങ്ങൾ ഭയപ്പെട്ടെങ്കിൽ",
+   "en": "if you have feared"
+  },
+  {
+   "verse": 101,
+   "ar": "أَن يَفۡتِنَكُمُ",
+   "ml": "നിങ്ങളെ കുഴപ്പത്തിലാക്കുന്നത്",
+   "en": "putting you into trouble"
+  },
+  {
+   "verse": 101,
+   "ar": "ٱلَّذِينَ كَفَرُوٓاْۚ",
+   "ml": "അവിശ്വസിച്ചവർ",
+   "en": "those who disbelieved"
+  },
+  {
+   "verse": 101,
+   "ar": "إِنَّ ٱلۡكَٰفِرِينَ",
+   "ml": "നിശ്ചയമായും അവിശ്വാസികൾ",
+   "en": "surely the disbelievers"
+  },
+  {
+   "verse": 101,
+   "ar": "كَانُواْ",
+   "ml": "അവരാകുന്നു, ആയിരിക്കുന്നു",
+   "en": "they are, they have been"
+  },
+  {
+   "verse": 101,
+   "ar": "لَكُمۡ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "to you"
+  },
+  {
+   "verse": 101,
+   "ar": "عَدُوّٗا",
+   "ml": "ശത്രു",
+   "en": "an enemy"
+  },
+  {
+   "verse": 101,
+   "ar": "مُّبِينٗا",
+   "ml": "സ്പഷ്ടമായ, പ്രത്യക്ഷമായ",
+   "en": "clear, manifest"
+  },
+  {
+   "verse": 102,
+   "ar": "وَإِذَا كُنتَ",
+   "ml": "നീ ആയിരുന്നാൽ, ഉണ്ടായിരുന്നാൽ",
+   "en": "if you are, if you are present"
+  },
+  {
+   "verse": 102,
+   "ar": "فِيهِمۡ",
+   "ml": "അവരിൽ",
+   "en": "among them"
+  },
+  {
+   "verse": 102,
+   "ar": "فَأَقَمۡتَ",
+   "ml": "എന്നിട്ടു നീ നിലനിറുത്തുക (നടത്തുക)യും",
+   "en": "and then you establish (conduct)"
+  },
+  {
+   "verse": 102,
+   "ar": "لَهُمُ",
+   "ml": "അവർക്ക്, അവർക്ക് വേണ്ടി",
+   "en": "for them, on their behalf"
+  },
+  {
+   "verse": 102,
+   "ar": "ٱلصَّلَوٰةَ",
+   "ml": "നമസ്കാരം",
+   "en": "the prayer"
+  },
+  {
+   "verse": 102,
+   "ar": "فَلۡتَقُمۡ",
+   "ml": "എന്നാൽ നിൽക്കട്ടെ",
+   "en": "then let stand"
+  },
+  {
+   "verse": 102,
+   "ar": "طَآئِفَةٞ مِّنۡهُم",
+   "ml": "അവരിൽ നിന്ന് ഒരു വിഭാഗം, ഒരു കൂട്ടർ",
+   "en": "a section of them, a band"
+  },
+  {
+   "verse": 102,
+   "ar": "مَّعَكَ",
+   "ml": "നിന്റെ കൂടെ, ഒപ്പം",
+   "en": "with you, along with"
+  },
+  {
+   "verse": 102,
+   "ar": "وَلۡيَأۡخُذُوٓاْ",
+   "ml": "അവർ എടുക്കുകയും ചെയ്യട്ടെ",
+   "en": "and let them take"
+  },
+  {
+   "verse": 102,
+   "ar": "أَسۡلِحَتَهُمۡۖ",
+   "ml": "അവരുടെ ആയുധങ്ങൾ",
+   "en": "their weapons"
+  },
+  {
+   "verse": 102,
+   "ar": "فَإِذَا سَجَدُواْ",
+   "ml": "എന്നിട്ട് അവർ സുജൂദ് ചെയ്താൽ",
+   "en": "then when they have done sujud"
+  },
+  {
+   "verse": 102,
+   "ar": "فَلۡيَكُونُواْ",
+   "ml": "അവർ ആയിക്കൊള്ളട്ടെ, ആയിരിക്കട്ടെ",
+   "en": "let them become, let them be"
+  },
+  {
+   "verse": 102,
+   "ar": "مِن وَرَآئِكُمۡ",
+   "ml": "നിങ്ങളുടെ പിൻപുറത്തിലൂടെ",
+   "en": "through your back"
+  },
+  {
+   "verse": 102,
+   "ar": "وَلۡتَأۡتِ",
+   "ml": "വരുകയും ചെയ്യട്ടെ, വന്നും കൊള്ളട്ടെ",
+   "en": "and let come, let come as well"
+  },
+  {
+   "verse": 102,
+   "ar": "طَآئِفَةٌ",
+   "ml": "ഒരു വിഭാഗം",
+   "en": "a section"
+  },
+  {
+   "verse": 102,
+   "ar": "أُخۡرَىٰ",
+   "ml": "വേറെ, മറ്റൊരു",
+   "en": "other, another"
+  },
+  {
+   "verse": 102,
+   "ar": "لَمۡ يُصَلُّواْ",
+   "ml": "നമസ്കരിച്ചിട്ടില്ലാത്ത, അവർ നമസ്കരിച്ചിട്ടില്ല",
+   "en": "who have not prayed, they have not prayed"
+  },
+  {
+   "verse": 102,
+   "ar": "فَلۡيُصَلُّواْ",
+   "ml": "എന്നിട്ടവർ നമസ്കരിക്കട്ടെ",
+   "en": "then let them pray"
+  },
+  {
+   "verse": 102,
+   "ar": "مَعَكَ",
+   "ml": "നിന്റെ കൂടെ",
+   "en": "with you"
+  },
+  {
+   "verse": 102,
+   "ar": "وَلۡيَأۡخُذُواْ",
+   "ml": "അവർ എടുത്തും (സ്വീകരിച്ചും) കൊള്ളട്ടെ",
+   "en": "and let them take (and take up)"
+  },
+  {
+   "verse": 102,
+   "ar": "حِذۡرَهُمۡ",
+   "ml": "അവരുടെ ജാഗ്രത, സൂക്ഷ്മത, കാവൽ",
+   "en": "their vigilance, caution, guard"
+  },
+  {
+   "verse": 102,
+   "ar": "وَأَسۡلِحَتَهُمۡۗ",
+   "ml": "അവരുടെ ആയുധങ്ങളും",
+   "en": "and their weapons"
+  },
+  {
+   "verse": 102,
+   "ar": "وَدَّ",
+   "ml": "കൊതിക്കുകയാണ്, മോഹിച്ചു, ആഗ്രഹിച്ചു",
+   "en": "are longing, desired, wished"
+  },
+  {
+   "verse": 102,
+   "ar": "ٱلَّذِينَ كَفَرُواْ",
+   "ml": "അവിശ്വസിച്ചവർ",
+   "en": "those who disbelieved"
+  },
+  {
+   "verse": 102,
+   "ar": "لَوۡ تَغۡفُلُونَ",
+   "ml": "നിങ്ങൾ ശ്രദ്ധ വിട്ടിരുന്നെങ്കിൽ, അശ്രദ്ധരായാൽ കൊള്ളാം (എന്ന്)",
+   "en": "if you had let attention slip, it would be fine if you became heedless (thus)"
+  },
+  {
+   "verse": 102,
+   "ar": "عَنۡ أَسۡلِحَتِكُمۡ",
+   "ml": "നിങ്ങളുടെ ആയുധങ്ങളെപ്പറ്റി",
+   "en": "about your weapons"
+  },
+  {
+   "verse": 102,
+   "ar": "وَأَمۡتِعَتِكُمۡ",
+   "ml": "നിങ്ങളുടെ സാമഗ്രികളെയും, ഉപകരണങ്ങളെയും",
+   "en": "and your materials, and means"
+  },
+  {
+   "verse": 102,
+   "ar": "فَيَمِيلُونَ",
+   "ml": "എന്നാൽ (അപ്പോൾ - അങ്ങനെ) അവർ ആഞ്ഞു വീഴുകയും, ആഞ്ഞടിക്കാം, മറിഞ്ഞു വീഴാം, മറിയുവാൻ",
+   "en": "then (at that time - thus) they swoop down, too, may strike with force, may fall over, to turn over"
+  },
+  {
+   "verse": 102,
+   "ar": "عَلَيۡكُم",
+   "ml": "നിങ്ങളുടെമേൽ, നിങ്ങളിൽ",
+   "en": "upon you, on you"
+  },
+  {
+   "verse": 102,
+   "ar": "مَّيۡلَةٗ",
+   "ml": "ഒരു ആഞ്ഞടി, മറിയൽ",
+   "en": "an onslaught, a turning over"
+  },
+  {
+   "verse": 102,
+   "ar": "وَٰحِدَةٗۚ",
+   "ml": "ഒരു, ഏക",
+   "en": "one, single"
+  },
+  {
+   "verse": 102,
+   "ar": "وَلَا جُنَاحَ",
+   "ml": "തെറ്റില്ലതാനും, കുറ്റവുമില്ല",
+   "en": "there is no wrong, moreover, and no fault either"
+  },
+  {
+   "verse": 102,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങളുടെ മേൽ",
+   "en": "upon you"
+  },
+  {
+   "verse": 102,
+   "ar": "إِن كَانَ بِكُمۡ",
+   "ml": "നിങ്ങളിൽ ഉണ്ടായെങ്കിൽ",
+   "en": "if there has been in you"
+  },
+  {
+   "verse": 102,
+   "ar": "أَذٗى",
+   "ml": "വല്ല ശല്യവും, ഉപദ്രവം",
+   "en": "some nuisance, harm"
+  },
+  {
+   "verse": 102,
+   "ar": "مِّن مَّطَرٍ",
+   "ml": "മഴയാൽ, മഴ നിമിത്തം",
+   "en": "by rain, because of rain"
+  },
+  {
+   "verse": 102,
+   "ar": "أَوۡ كُنتُم",
+   "ml": "അല്ലെങ്കിൽ നിങ്ങൾ ആയിരുന്നു (എങ്കിൽ)",
+   "en": "or else you were (if)"
+  },
+  {
+   "verse": 102,
+   "ar": "مَّرۡضَىٰٓ",
+   "ml": "രോഗികൾ",
+   "en": "sick ones"
+  },
+  {
+   "verse": 102,
+   "ar": "أَن تَضَعُوٓاْ",
+   "ml": "നിങ്ങൾ വെക്കുന്നതിനു, താഴെ വെക്കുന്നതിന്",
+   "en": "for your laying, for laying down"
+  },
+  {
+   "verse": 102,
+   "ar": "أَسۡلِحَتَكُمۡۖ",
+   "ml": "നിങ്ങളുടെ ആയുധങ്ങൾ",
+   "en": "your weapons"
+  },
+  {
+   "verse": 102,
+   "ar": "وَخُذُواْ",
+   "ml": "നിങ്ങൾ എടുക്കുക(സ്വീകരിക്കുക)യും ചെയ്‌വിൻ",
+   "en": "and take (take up)"
+  },
+  {
+   "verse": 102,
+   "ar": "حِذۡرَكُمۡۗ",
+   "ml": "നിങ്ങളുടെ ജാഗ്രത, സൂക്ഷ്മത",
+   "en": "your vigilance, caution"
+  },
+  {
+   "verse": 102,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 102,
+   "ar": "أَعَدَّ",
+   "ml": "ഒരുക്കിവെച്ചിരിക്കുന്നു",
+   "en": "has prepared"
+  },
+  {
+   "verse": 102,
+   "ar": "لِلۡكَٰفِرِينَ",
+   "ml": "അവിശ്വാസികൾക്ക്",
+   "en": "for the disbelievers"
+  },
+  {
+   "verse": 102,
+   "ar": "عَذَابٗا",
+   "ml": "ശിക്ഷ",
+   "en": "punishment"
+  },
+  {
+   "verse": 102,
+   "ar": "مُّهِينٗا",
+   "ml": "നിന്ദാകരമായ, അപമാനിക്കുന്ന",
+   "en": "humiliating, disgracing"
+  },
+  {
+   "verse": 103,
+   "ar": "فَإِذَا قَضَيۡتُمُ",
+   "ml": "അങ്ങനെ നിങ്ങൾ നിർവ്വഹിച്ചാൽ, ചെയ്തുതീർത്താൽ",
+   "en": "thus when you have performed, when you have finished doing"
+  },
+  {
+   "verse": 103,
+   "ar": "ٱلصَّلَوٰةَ",
+   "ml": "നമസ്കാരം",
+   "en": "the prayer"
+  },
+  {
+   "verse": 103,
+   "ar": "فَٱذۡكُرُواْ",
+   "ml": "നിങ്ങൾ ഓർമിക്കുവിൻ, ധ്യാനിക്കുവിൻ",
+   "en": "remember, meditate on"
+  },
+  {
+   "verse": 103,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനെ",
+   "en": "Allah"
+  },
+  {
+   "verse": 103,
+   "ar": "قِيَٰمٗا",
+   "ml": "നിൽക്കുന്നവരായിട്ട്",
+   "en": "as ones standing"
+  },
+  {
+   "verse": 103,
+   "ar": "وَقُعُودٗا",
+   "ml": "ഇരിക്കുന്നവരായും",
+   "en": "and as ones sitting"
+  },
+  {
+   "verse": 103,
+   "ar": "وَعَلَىٰ جُنُوبِكُمۡۚ",
+   "ml": "നിങ്ങളുടെ പാർശ്വ(ഭാഗ)ങ്ങളിലായും",
+   "en": "and on your sides (flanks)"
+  },
+  {
+   "verse": 103,
+   "ar": "فَإِذَا ٱطۡمَأۡنَنتُمۡ",
+   "ml": "എന്നിട്ട് (എനി - അപ്പോൾ) നിങ്ങൾക്ക് സമാധാനമായെങ്കിൽ (മനസ്സൊതുങ്ങിയെങ്കിൽ)",
+   "en": "then (now - at that time) if you have come to peace (if your mind has settled)"
+  },
+  {
+   "verse": 103,
+   "ar": "فَأَقِيمُواْ",
+   "ml": "അപ്പോൾ നിങ്ങൾ നിലനിറുത്തുവിൻ",
+   "en": "then establish"
+  },
+  {
+   "verse": 103,
+   "ar": "ٱلصَّلَوٰةَۚ",
+   "ml": "നമസ്കാരം",
+   "en": "the prayer"
+  },
+  {
+   "verse": 103,
+   "ar": "إِنَّ ٱلصَّلَوٰةَ",
+   "ml": "നിശ്ചയമായും നമസ്കാരം",
+   "en": "surely the prayer"
+  },
+  {
+   "verse": 103,
+   "ar": "كَانَتۡ",
+   "ml": "ആയിരിക്കുന്നു, ആകുന്നു",
+   "en": "has been, is"
+  },
+  {
+   "verse": 103,
+   "ar": "عَلَى ٱلۡمُؤۡمِنِينَ",
+   "ml": "സത്യവിശ്വസികളുടെ മേൽ",
+   "en": "upon the true believers"
+  },
+  {
+   "verse": 103,
+   "ar": "كِتَٰبٗا",
+   "ml": "നിയമം, നിശ്ചയം, നിർബ്ബന്ധം",
+   "en": "an ordinance, a decree, an obligation"
+  },
+  {
+   "verse": 103,
+   "ar": "مَّوۡقُوتٗا",
+   "ml": "സമയം നിശ്ചയിക്കപ്പെട്ട, നിർണയം ചെയ്യപ്പെട്ടതായ",
+   "en": "with its time appointed, that has been fixed"
+  },
+  {
+   "verse": 104,
+   "ar": "وَلَا تَهِنُواْ",
+   "ml": "നിങ്ങൾ ദുർബ്ബലരാകരുത്",
+   "en": "do not become weak"
+  },
+  {
+   "verse": 104,
+   "ar": "فِي ٱبۡتِغَآءِ",
+   "ml": "അന്വേഷി(ച്ചുപിടി)ക്കുന്നതിൽ",
+   "en": "in seeking (out)"
+  },
+  {
+   "verse": 104,
+   "ar": "ٱلۡقَوۡمِۖ",
+   "ml": "(ആ)ജനതയെ",
+   "en": "(that) people"
+  },
+  {
+   "verse": 104,
+   "ar": "إِن تَكُونُواْ",
+   "ml": "നിങ്ങളാകുന്നുവെങ്കിൽ",
+   "en": "if you are"
+  },
+  {
+   "verse": 104,
+   "ar": "تَأۡلَمُونَ",
+   "ml": "നിങ്ങൾ വേദനപ്പെടുന്നു(വേദന അനുഭവിക്കുന്നു)",
+   "en": "you are in pain(suffering pain)"
+  },
+  {
+   "verse": 104,
+   "ar": "فَإِنَّهُمۡ",
+   "ml": "എന്നാൽ നിശ്ചയമായും അവർ",
+   "en": "then surely they"
+  },
+  {
+   "verse": 104,
+   "ar": "يَأۡلَمُونَ",
+   "ml": "അവർ വേദന അനുഭവിക്കുന്നു. അവർക്ക് വേദനയുണ്ടാകുന്നു",
+   "en": "they suffer pain. pain comes to them"
+  },
+  {
+   "verse": 104,
+   "ar": "كَمَا تَأۡلَمُونَۖ",
+   "ml": "നിങ്ങൾ വേദനപ്പെടുന്ന (അനുഭവിക്കുന്ന)തുപോലെ",
+   "en": "just as you are in pain (suffer)"
+  },
+  {
+   "verse": 104,
+   "ar": "وَتَرۡجُونَ",
+   "ml": "നിങ്ങൾ പ്രതീക്ഷിക്കുക (അഭിലഷിക്കുക)യും ചെയ്യുന്നു",
+   "en": "and you hope (aspire)"
+  },
+  {
+   "verse": 104,
+   "ar": "مِنَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ നിന്ന്",
+   "en": "from Allah"
+  },
+  {
+   "verse": 104,
+   "ar": "مَا لَا يَرۡجُونَۗ",
+   "ml": "അവർ പ്രതീക്ഷിക്കാത്തത്",
+   "en": "what they do not hope for"
+  },
+  {
+   "verse": 104,
+   "ar": "وَكَانَ ٱللَّهُ",
+   "ml": "അല്ലാഹുവാകുന്നു",
+   "en": "Allah is"
+  },
+  {
+   "verse": 104,
+   "ar": "عَلِيمًا",
+   "ml": "അറിയുന്നവൻ",
+   "en": "One who knows"
+  },
+  {
+   "verse": 104,
+   "ar": "حَكِيمًا",
+   "ml": "അഗാധജ്ഞാനി, യുക്തിമാൻ",
+   "en": "the Profoundly Knowing, the Sagacious"
+  }
+ ]
+}
