@@ -1,0 +1,802 @@
+{
+ "words": [
+  {
+   "verse": 105,
+   "ar": "إِنَّآ أَنزَلۡنَآ",
+   "ml": "നിശ്ചയമായും നാം ഇറക്കിത്തന്നിരിക്കുന്നു",
+   "en": "surely We have sent down"
+  },
+  {
+   "verse": 105,
+   "ar": "إِلَيۡكَ",
+   "ml": "നിനക്ക്, നിന്നിലേക്ക്",
+   "en": "to you, towards you"
+  },
+  {
+   "verse": 105,
+   "ar": "ٱلۡكِتَٰبَ",
+   "ml": "(വേദ) ഗ്രന്ഥം",
+   "en": "the (scripture) book"
+  },
+  {
+   "verse": 105,
+   "ar": "بِٱلۡحَقِّ",
+   "ml": "യഥാർഥ (മുറ - കാര്യ) പ്രകാരം",
+   "en": "according to the truth (the due way - matter)"
+  },
+  {
+   "verse": 105,
+   "ar": "لِتَحۡكُمَ",
+   "ml": "നീ വിധി കൽപിക്കുവാൻ വേണ്ടി",
+   "en": "so that you may give judgement"
+  },
+  {
+   "verse": 105,
+   "ar": "بَيۡنَ ٱلنَّاسِ",
+   "ml": "മനുഷ്യർക്കിടയിൽ",
+   "en": "among people"
+  },
+  {
+   "verse": 105,
+   "ar": "بِمَآ أَرَىٰكَ",
+   "ml": "നിനക്കുകാണിച്ചു തന്നതുകൊണ്ട് (കാട്ടിത്തന്നതനുസരിച്ച് - പ്രകാരം)",
+   "en": "by what was shown to you (according to what was shown to you - as)"
+  },
+  {
+   "verse": 105,
+   "ar": "ٱللَّهُۚ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 105,
+   "ar": "وَلَا تَكُن",
+   "ml": "നീ ആകരുത്, ആകുകയും അരുത്",
+   "en": "do not be, and do not be either"
+  },
+  {
+   "verse": 105,
+   "ar": "لِّلۡخَآئِنِينَ",
+   "ml": "ചതിക്കുന്നവർക്ക്, വഞ്ചകന്മാർക്ക് വേണ്ടി",
+   "en": "for those who cheat, on behalf of the treacherous"
+  },
+  {
+   "verse": 105,
+   "ar": "خَصِيمٗا",
+   "ml": "വാദിക്കുന്നവൻ, കക്ഷി വാദം ചെയ്യുന്നവൻ",
+   "en": "one who argues, one who pleads a party's case"
+  },
+  {
+   "verse": 106,
+   "ar": "وَٱسۡتَغۡفِرِ",
+   "ml": "നീ പൊറുതി (പാപമോചനം) തേടുകയും ചെയ്യുക",
+   "en": "and seek pardon (forgiveness of sins)"
+  },
+  {
+   "verse": 106,
+   "ar": "ٱللَّهَۖ",
+   "ml": "അല്ലാഹുവിനോട്",
+   "en": "from Allah"
+  },
+  {
+   "verse": 106,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 106,
+   "ar": "كَانَ",
+   "ml": "ആകുന്നു, ആയിരിക്കുന്നു",
+   "en": "is, has been"
+  },
+  {
+   "verse": 106,
+   "ar": "غَفُورٗا",
+   "ml": "വളരെ പൊറുക്കുന്നവൻ",
+   "en": "One who forgives much"
+  },
+  {
+   "verse": 106,
+   "ar": "رَّحِيمٗا",
+   "ml": "കരുണാനിധി, കരുണയുള്ളവൻ",
+   "en": "the Ever-Merciful, One who has mercy"
+  },
+  {
+   "verse": 107,
+   "ar": "وَلَا تُجَٰدِلۡ",
+   "ml": "നീ തർക്കം നടത്തുകയും ചെയ്യരുത്",
+   "en": "and do not carry on dispute"
+  },
+  {
+   "verse": 107,
+   "ar": "عَنِ ٱلَّذِينَ",
+   "ml": "യാതൊരു കൂട്ടരെപ്പറ്റി, യാതൊരുവർക്ക് വേണ്ടി",
+   "en": "about a people who, on behalf of those who"
+  },
+  {
+   "verse": 107,
+   "ar": "يَخۡتَانُونَ",
+   "ml": "വഞ്ചന പ്രവർത്തിക്കുന്ന",
+   "en": "who practise treachery"
+  },
+  {
+   "verse": 107,
+   "ar": "أَنفُسَهُمۡۚ",
+   "ml": "തങ്ങളുടെ സ്വന്തങ്ങളോട് (ആത്മാക്കളോട്) തങ്ങളോടുതന്നെ",
+   "en": "to their own selves (to their souls) to themselves"
+  },
+  {
+   "verse": 107,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 107,
+   "ar": "لَا يُحِبُّ",
+   "ml": "ഇഷ്ടപ്പെടുന്നതല്ല, സ്നേഹിക്കയില്ല",
+   "en": "does not love, will not love"
+  },
+  {
+   "verse": 107,
+   "ar": "مَن كَانَ",
+   "ml": "ആയവരെ(വനെ)",
+   "en": "those who are(him who is)"
+  },
+  {
+   "verse": 107,
+   "ar": "خَوَّانًا",
+   "ml": "വലിയ(മഹാ) വഞ്ചകൻ",
+   "en": "a great(very great) traitor"
+  },
+  {
+   "verse": 107,
+   "ar": "أَثِيمٗا",
+   "ml": "വലിയ(മഹാ) പാപി",
+   "en": "a great(very great) sinner"
+  },
+  {
+   "verse": 108,
+   "ar": "يَسۡتَخۡفُونَ",
+   "ml": "അവർ മറച്ചുവെക്കുന്നു, മറക്കുവാൻ ശ്രമിക്കുന്നു",
+   "en": "they conceal, they try to conceal"
+  },
+  {
+   "verse": 108,
+   "ar": "مِنَ ٱلنَّاسِ",
+   "ml": "മനുഷ്യരിൽ നിന്ന്, മനുഷ്യരെ സംബന്ധിച്ച്",
+   "en": "from people, regarding people"
+  },
+  {
+   "verse": 108,
+   "ar": "وَلَا يَسۡتَخۡفُونَ",
+   "ml": "അവർ മറച്ചു വെക്കുന്നുമില്ല",
+   "en": "and they do not conceal"
+  },
+  {
+   "verse": 108,
+   "ar": "مِنَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ നിന്ന്",
+   "en": "from Allah"
+  },
+  {
+   "verse": 108,
+   "ar": "وَهُوَ",
+   "ml": "അവനാകട്ടെ, അവനോ",
+   "en": "He, for His part, while He"
+  },
+  {
+   "verse": 108,
+   "ar": "مَعَهُمۡ",
+   "ml": "അവരുടെ കൂടെ ഉണ്ട്(താനും)",
+   "en": "is with them(too)"
+  },
+  {
+   "verse": 108,
+   "ar": "إِذۡ يُبَيِّتُونَ",
+   "ml": "അവർ രാപ്പരിപാടി നടത്തുമ്പോൾ (രാത്രി നടത്തുന്ന സന്ദർഭം)",
+   "en": "when they carry out night-plans (the occasion they carry out at night)"
+  },
+  {
+   "verse": 108,
+   "ar": "مَا لَا يَرۡضَىٰ",
+   "ml": "അവൻ തൃപ്തിപ്പെടാത്തത്",
+   "en": "what He is not pleased with"
+  },
+  {
+   "verse": 108,
+   "ar": "مِنَ ٱلۡقَوۡلِۚ",
+   "ml": "വാക്കിൽ (വാക്കുകളിൽ) നിന്ന്, വാക്കാകുന്ന",
+   "en": "of word (of words), being word"
+  },
+  {
+   "verse": 108,
+   "ar": "وَكَانَ ٱللَّهُ",
+   "ml": "അല്ലാഹു ആകുന്നുതാനും",
+   "en": "and Allah is"
+  },
+  {
+   "verse": 108,
+   "ar": "بِمَا يَعۡمَلُونَ",
+   "ml": "അവർ പ്രവർത്തിക്കുന്നതിനെ(പ്പറ്റി)",
+   "en": "what they do(about)"
+  },
+  {
+   "verse": 108,
+   "ar": "مُحِيطًا",
+   "ml": "വലയം ചെയ്യുന്ന (മുഴുവൻ - സൂക്ഷ്മമായി അറിയുന്ന)വൻ",
+   "en": "One who encompasses (who knows wholly - minutely)"
+  },
+  {
+   "verse": 109,
+   "ar": "هَـٰٓأَنتُمۡ",
+   "ml": "ഹാ (ഹേ) നിങ്ങൾ",
+   "en": "ha (hey) you"
+  },
+  {
+   "verse": 109,
+   "ar": "هَـٰٓؤُلَآءِ",
+   "ml": "(ഇങ്ങിനെയുള്ള) ഇക്കൂട്ടരാണ്",
+   "en": "are this people (such as this)"
+  },
+  {
+   "verse": 109,
+   "ar": "جَٰدَلۡتُمۡ",
+   "ml": "നിങ്ങൾ തർക്കം നടത്തി",
+   "en": "you carried on dispute"
+  },
+  {
+   "verse": 109,
+   "ar": "عَنۡهُمۡ",
+   "ml": "അവരെക്കുറിച്ച് (അവർക്കുവേണ്ടി)",
+   "en": "about them (on their behalf)"
+  },
+  {
+   "verse": 109,
+   "ar": "فِي ٱلۡحَيَوٰةِ",
+   "ml": "ജീവിതത്തിൽ",
+   "en": "in the life"
+  },
+  {
+   "verse": 109,
+   "ar": "ٱلدُّنۡيَا",
+   "ml": "ദുൻയാവിന്റെ, ഐഹിക",
+   "en": "of the dunya, worldly"
+  },
+  {
+   "verse": 109,
+   "ar": "فَمَن يُجَٰدِلُ",
+   "ml": "എന്നാൽ ആർ തർക്കം നടത്തും, തർക്കിക്കുന്നവൻ ആർ",
+   "en": "but who will carry on dispute, who is the one who disputes"
+  },
+  {
+   "verse": 109,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനോട്",
+   "en": "with Allah"
+  },
+  {
+   "verse": 109,
+   "ar": "عَنۡهُمۡ",
+   "ml": "അവർക്കുവേണ്ടി, അവരെപ്പറ്റി",
+   "en": "on their behalf, about them"
+  },
+  {
+   "verse": 109,
+   "ar": "يَوۡمَ ٱلۡقِيَٰمَةِ",
+   "ml": "ക്വിയാമത്തു നാളിൽ",
+   "en": "on the Day of Qiyamah"
+  },
+  {
+   "verse": 109,
+   "ar": "أَم مَّن",
+   "ml": "അതല്ലെങ്കിൽ (അഥവാ) ആരാണ്",
+   "en": "or else (that is) who"
+  },
+  {
+   "verse": 109,
+   "ar": "يَكُونُ",
+   "ml": "ആയിരിക്കുക",
+   "en": "will be"
+  },
+  {
+   "verse": 109,
+   "ar": "عَلَيۡهِمۡ",
+   "ml": "അവർക്ക്, അവരുടെ മേൽ",
+   "en": "for them, over them"
+  },
+  {
+   "verse": 109,
+   "ar": "وَكِيلٗا",
+   "ml": "കാര്യം ഏൽപിക്കപ്പെടുന്നവൻ, വക്കീൽ, ഭാരവാഹി, ഏൽക്കുന്നവൻ",
+   "en": "one to whom the affair is entrusted, an attorney, one in charge, one who undertakes"
+  },
+  {
+   "verse": 110,
+   "ar": "وَمَن يَعۡمَلۡ",
+   "ml": "ആരെങ്കിലും (വല്ലവരും, ആർ, യാതൊരുവൻ) പ്രവർത്തിക്കുന്നതായാൽ",
+   "en": "if anyone (someone, who, whoever) does"
+  },
+  {
+   "verse": 110,
+   "ar": "سُوٓءًا",
+   "ml": "ഒരുതിന്മ, വല്ല തിന്മയും",
+   "en": "an evil, some evil"
+  },
+  {
+   "verse": 110,
+   "ar": "أَوۡ يَظۡلِمۡ",
+   "ml": "അല്ലെങ്കിൽ അക്രമം ചെയ്താൽ",
+   "en": "or else if he does wrong"
+  },
+  {
+   "verse": 110,
+   "ar": "نَفۡسَهُۥ",
+   "ml": "തന്റെ സ്വന്തത്തോട്, തന്നോടുതന്നെ",
+   "en": "to his own self, to himself"
+  },
+  {
+   "verse": 110,
+   "ar": "ثُمَّ",
+   "ml": "പിന്നെ, അനന്തരം",
+   "en": "then, thereafter"
+  },
+  {
+   "verse": 110,
+   "ar": "يَسۡتَغۡفِرِ",
+   "ml": "അവൻ പാപമോചനം തേടിയാൽ",
+   "en": "if he seeks forgiveness of sins"
+  },
+  {
+   "verse": 110,
+   "ar": "ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനോട്",
+   "en": "from Allah"
+  },
+  {
+   "verse": 110,
+   "ar": "يَجِدِ ٱللَّهَ",
+   "ml": "അല്ലാഹുവിനെ അവൻ കണ്ടെത്തും",
+   "en": "he will find Allah"
+  },
+  {
+   "verse": 110,
+   "ar": "غَفُورٗا",
+   "ml": "വളരെ പൊറുക്കുന്നവനായി",
+   "en": "as One who forgives much"
+  },
+  {
+   "verse": 110,
+   "ar": "رَّحِيمٗا",
+   "ml": "കരുണാനിധിയായി",
+   "en": "as the Ever-Merciful"
+  },
+  {
+   "verse": 111,
+   "ar": "وَمَن يَكۡسِبۡ",
+   "ml": "വല്ലവനും സമ്പാദിച്ചാൽ, ചെയ്തുവെക്കുന്ന പക്ഷം",
+   "en": "if anyone earns, in case he does"
+  },
+  {
+   "verse": 111,
+   "ar": "إِثۡمٗا",
+   "ml": "ഒരു കുറ്റം, വല്ല പാപവും",
+   "en": "a sin, some sin"
+  },
+  {
+   "verse": 111,
+   "ar": "فَإِنَّمَا يَكۡسِبُهُۥ",
+   "ml": "എന്നാലവൻ അതു സമ്പാദിക്കുക(പ്രവർത്തിക്കുക)തന്നെ ചെയ്യുന്നു",
+   "en": "then he does indeed earn(do) it"
+  },
+  {
+   "verse": 111,
+   "ar": "عَلَىٰ نَفۡسِهِۦۚ",
+   "ml": "തന്റെ സ്വന്തം പേരിൽ(ബാധ്യതയായി), തനിക്കെതിരെ",
+   "en": "in his own name(as a liability), against himself"
+  },
+  {
+   "verse": 111,
+   "ar": "وَكَانَ ٱللَّهُ",
+   "ml": "അല്ലാഹു ആകുന്നു",
+   "en": "Allah is"
+  },
+  {
+   "verse": 111,
+   "ar": "عَلِيمًا",
+   "ml": "(എല്ലാം) അറിയുന്നവൻ",
+   "en": "One who knows (all)"
+  },
+  {
+   "verse": 111,
+   "ar": "حَكِيمٗا",
+   "ml": "അഗാധജ്ഞൻ, വിജ്ഞാനി, യുക്തിമാൻ",
+   "en": "the Profoundly Knowing, the Wise, the Sagacious"
+  },
+  {
+   "verse": 112,
+   "ar": "وَمَن يَكۡسِبۡ",
+   "ml": "വല്ലവനും (ആരെങ്കിലും) സമ്പാദിക്കുന്ന (ചെയ്യുന്ന) പക്ഷം",
+   "en": "in case someone (anyone) earns (does)"
+  },
+  {
+   "verse": 112,
+   "ar": "خَطِيٓـَٔةً",
+   "ml": "വല്ലതെറ്റും, തെറ്റായത്",
+   "en": "some fault, what is wrong"
+  },
+  {
+   "verse": 112,
+   "ar": "أَوۡ إِثۡمٗا",
+   "ml": "അല്ലെങ്കിൽ കുറ്റം, പാപം",
+   "en": "or else a sin, a crime"
+  },
+  {
+   "verse": 112,
+   "ar": "ثُمَّ يَرۡمِ بِهِۦ",
+   "ml": "പിന്നെ അതുകൊണ്ട് എറിയുക (അതിനെ ആരോപിക്കുക)യും ചെയ്താൽ",
+   "en": "and if then he throws with it (imputes it)"
+  },
+  {
+   "verse": 112,
+   "ar": "بَرِيٓـٔٗا",
+   "ml": "ഒരു നിരപരാധിയെ (കുറ്റരഹിതന്റെമേൽ)",
+   "en": "an innocent one (upon one free of guilt)"
+  },
+  {
+   "verse": 112,
+   "ar": "فَقَدِ ٱحۡتَمَلَ",
+   "ml": "എന്നാൽ തീർച്ചയായും അവൻ പേറി, ഏറ്റെടുത്തു",
+   "en": "then certainly he has borne, has taken up"
+  },
+  {
+   "verse": 112,
+   "ar": "بُهۡتَٰنٗا",
+   "ml": "ഒരു കള്ളാരോപണം, നുണ",
+   "en": "a false accusation, a lie"
+  },
+  {
+   "verse": 112,
+   "ar": "وَإِثۡمٗا مُّبِينٗا",
+   "ml": "വ്യക്ത(സ്പഷ്ട)മായ കുറ്റവും (പാപവും)",
+   "en": "and a clear(manifest) sin (crime)"
+  },
+  {
+   "verse": 113,
+   "ar": "وَلَوۡلَا",
+   "ml": "ഇല്ലായിരുന്നെങ്കിൽ",
+   "en": "if there had not been"
+  },
+  {
+   "verse": 113,
+   "ar": "فَضۡلُ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ അനുഗ്രഹം, ഔദാര്യം",
+   "en": "the favour of Allah, the generosity"
+  },
+  {
+   "verse": 113,
+   "ar": "عَلَيۡكَ",
+   "ml": "നിന്റെ മേൽ, നിനക്ക്",
+   "en": "upon you, for you"
+  },
+  {
+   "verse": 113,
+   "ar": "وَرَحۡمَتُهُۥ",
+   "ml": "അവന്റെ കാരുണ്യവും",
+   "en": "and His mercy"
+  },
+  {
+   "verse": 113,
+   "ar": "لَهَمَّت",
+   "ml": "തുനിയുക (ഉദ്ദേശിക്കുക - ശ്രമിക്കുക) തന്നെ ചെയ്യുമായിരുന്നു",
+   "en": "would indeed have set out (intended - attempted)"
+  },
+  {
+   "verse": 113,
+   "ar": "طَّآئِفَةٞ",
+   "ml": "ഒരു വിഭാഗം, കക്ഷി",
+   "en": "a section, a party"
+  },
+  {
+   "verse": 113,
+   "ar": "مِّنۡهُمۡ",
+   "ml": "അവരിൽ നിന്ന്",
+   "en": "from among them"
+  },
+  {
+   "verse": 113,
+   "ar": "أَن يُضِلُّوكَ",
+   "ml": "നിന്നെ അവർ വഴിപിഴപ്പിക്കുവാൻ",
+   "en": "that they lead you astray"
+  },
+  {
+   "verse": 113,
+   "ar": "وَمَا يُضِلُّونَ",
+   "ml": "അവർ വഴിപിഴപ്പിക്കുന്നില്ല (പിഴപ്പിക്കുകയില്ല)താനும്",
+   "en": "and they do not lead astray (will not lead astray)"
+  },
+  {
+   "verse": 113,
+   "ar": "إِلَّآ أَنفُسَهُمۡۖ",
+   "ml": "അവരെത്തന്നെ(സ്വന്തങ്ങളെ)യല്ലാതെ",
+   "en": "except themselves(their own selves)"
+  },
+  {
+   "verse": 113,
+   "ar": "وَمَا يَضُرُّونَكَ",
+   "ml": "അവർ നിന്നെ ഉപദ്രവിക്ക(നിനക്ക് ദ്രോഹം വരുത്തുക)യുമില്ല",
+   "en": "nor do they harm you(bring injury to you)"
+  },
+  {
+   "verse": 113,
+   "ar": "مِن شَيۡءٖۚ",
+   "ml": "യാതൊന്നും",
+   "en": "anything at all"
+  },
+  {
+   "verse": 113,
+   "ar": "وَأَنزَلَ ٱللَّهُ",
+   "ml": "അല്ലാഹു ഇറക്കുകയും ചെയ്തിരിക്കുന്നു",
+   "en": "and Allah has sent down"
+  },
+  {
+   "verse": 113,
+   "ar": "عَلَيۡكَ",
+   "ml": "നിന്റെ മേൽ",
+   "en": "upon you"
+  },
+  {
+   "verse": 113,
+   "ar": "ٱلۡكِتَٰبَ",
+   "ml": "വേദഗ്രന്ഥം",
+   "en": "the Scripture"
+  },
+  {
+   "verse": 113,
+   "ar": "وَٱلۡحِكۡمَةَ",
+   "ml": "വിജ്ഞാനവും",
+   "en": "and wisdom"
+  },
+  {
+   "verse": 113,
+   "ar": "وَعَلَّمَكَ",
+   "ml": "നിന്നെ (നിനക്ക്) പഠിപ്പിക്കുകയും ചെയ്തു",
+   "en": "and He taught you (to you)"
+  },
+  {
+   "verse": 113,
+   "ar": "مَا لَمۡ تَكُن",
+   "ml": "നീ ആയിരുന്നില്ലാത്തത്",
+   "en": "what you were not"
+  },
+  {
+   "verse": 113,
+   "ar": "تَعۡلَمُۚ",
+   "ml": "നീ അറിയുക",
+   "en": "you know"
+  },
+  {
+   "verse": 113,
+   "ar": "وَكَانَ",
+   "ml": "ആകുന്നു താനും",
+   "en": "and is"
+  },
+  {
+   "verse": 113,
+   "ar": "فَضۡلُ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ അനുഗ്രഹം",
+   "en": "the favour of Allah"
+  },
+  {
+   "verse": 113,
+   "ar": "عَلَيۡكَ",
+   "ml": "നിന്റെ മേൽ",
+   "en": "upon you"
+  },
+  {
+   "verse": 113,
+   "ar": "عَظِيمٗا",
+   "ml": "വമ്പിച്ചത്, മഹത്തായത്",
+   "en": "immense, great"
+  },
+  {
+   "verse": 114,
+   "ar": "۞لَّا خَيۡرَ",
+   "ml": "ഒരു ഗുണവുമില്ല, നന്മയേ ഇല്ല",
+   "en": "there is no good at all, there is no goodness whatever"
+  },
+  {
+   "verse": 114,
+   "ar": "فِي كَثِيرٖ",
+   "ml": "മിക്കതിലും, അധികത്തിലും",
+   "en": "in most, in the greater part"
+  },
+  {
+   "verse": 114,
+   "ar": "مِّن نَّجۡوَىٰهُمۡ",
+   "ml": "അവരുടെ ഗൂഢസംസാരത്തിൽ(രഹസ്യ ഭാഷണത്തിൽ)നിന്ന്",
+   "en": "of their secret talk(confidential conversation)"
+  },
+  {
+   "verse": 114,
+   "ar": "إِلَّا مَنۡ",
+   "ml": "ഒരുവന്റെ ഒഴികെ",
+   "en": "except that of one"
+  },
+  {
+   "verse": 114,
+   "ar": "أَمَرَ",
+   "ml": "കൽപിച്ച, ഉപദേശിച്ച",
+   "en": "who commanded, who advised"
+  },
+  {
+   "verse": 114,
+   "ar": "بِصَدَقَةٍ",
+   "ml": "വല്ല ധർമവും കൊണ്ട്, ദാനധർമത്തെപ്പറ്റി",
+   "en": "some charity, about almsgiving"
+  },
+  {
+   "verse": 114,
+   "ar": "أَوۡ مَعۡرُوفٍ",
+   "ml": "അല്ലെങ്കിൽ വല്ല (സദാചാര)മര്യാദയും",
+   "en": "or else some (good-conduct) propriety"
+  },
+  {
+   "verse": 114,
+   "ar": "أَوۡ إِصۡلَٰحِۭ",
+   "ml": "അല്ലെങ്കിൽ നന്നാക്കിത്തീർക്കൽ, സന്ധിയാക്കൽ",
+   "en": "or else setting right, making peace"
+  },
+  {
+   "verse": 114,
+   "ar": "بَيۡنَ ٱلنَّاسِۚ",
+   "ml": "മനുഷ്യർക്കിടയിൽ",
+   "en": "between people"
+  },
+  {
+   "verse": 114,
+   "ar": "وَمَن يَفۡعَلۡ",
+   "ml": "ആരെങ്കിലും ചെയ്താൽ, ആർ ചെയ്തുവോ",
+   "en": "if anyone does, whoever did"
+  },
+  {
+   "verse": 114,
+   "ar": "ذَٰلِكَ",
+   "ml": "അത്",
+   "en": "that"
+  },
+  {
+   "verse": 114,
+   "ar": "ٱبۡتِغَآءَ",
+   "ml": "ആഗ്രഹത്താൽ",
+   "en": "out of desire for"
+  },
+  {
+   "verse": 114,
+   "ar": "مَرۡضَاتِ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ പ്രീതി",
+   "en": "the pleasure of Allah"
+  },
+  {
+   "verse": 114,
+   "ar": "فَسَوۡفَ",
+   "ml": "എന്നാൽ വഴിയെ",
+   "en": "then in due course"
+  },
+  {
+   "verse": 114,
+   "ar": "نُؤۡتِيهِ",
+   "ml": "അവന് നാം നൽകും",
+   "en": "We shall give him"
+  },
+  {
+   "verse": 114,
+   "ar": "أَجۡرًا",
+   "ml": "പ്രതിഫലം",
+   "en": "a recompense"
+  },
+  {
+   "verse": 114,
+   "ar": "عَظِيمٗا",
+   "ml": "വമ്പിച്ച",
+   "en": "immense"
+  },
+  {
+   "verse": 115,
+   "ar": "وَمَن",
+   "ml": "ആർ, വല്ലവനും",
+   "en": "who, anyone"
+  },
+  {
+   "verse": 115,
+   "ar": "يُشَاقِقِ",
+   "ml": "ചേരി (കക്ഷി) പിരിഞ്ഞു, ഭിന്നിച്ചു നിന്നു (എന്നാൽ)",
+   "en": "broke off into another camp (party), stood in disagreement (if)"
+  },
+  {
+   "verse": 115,
+   "ar": "ٱلرَّسُولَ",
+   "ml": "റസൂലിനോട്",
+   "en": "from the Rasul"
+  },
+  {
+   "verse": 115,
+   "ar": "مِنۢ بَعۡدِ",
+   "ml": "ശേഷമായി",
+   "en": "after"
+  },
+  {
+   "verse": 115,
+   "ar": "مَا تَبَيَّنَ",
+   "ml": "വ്യക്തമായതിന്",
+   "en": "it became clear"
+  },
+  {
+   "verse": 115,
+   "ar": "لَهُ",
+   "ml": "അവന്",
+   "en": "to him"
+  },
+  {
+   "verse": 115,
+   "ar": "ٱلۡهُدَىٰ",
+   "ml": "സന്മാർഗം, നേർവഴി",
+   "en": "the right guidance, the straight way"
+  },
+  {
+   "verse": 115,
+   "ar": "وَيَتَّبِعۡ",
+   "ml": "അവൻ പിൻപറ്റുകയും",
+   "en": "and he follows"
+  },
+  {
+   "verse": 115,
+   "ar": "غَيۡرَ سَبِيلِ",
+   "ml": "മാർഗമല്ലാത്തതിനെ",
+   "en": "what is other than the way"
+  },
+  {
+   "verse": 115,
+   "ar": "ٱلۡمُؤۡمِنِينَ",
+   "ml": "സത്യവിശ്വാസികളുടെ",
+   "en": "of the true believers"
+  },
+  {
+   "verse": 115,
+   "ar": "نُوَلِّهِۦ",
+   "ml": "അവനെ നാം തിരിക്കും",
+   "en": "We shall turn him"
+  },
+  {
+   "verse": 115,
+   "ar": "مَا تَوَلَّىٰ",
+   "ml": "അവൻ തിരിഞ്ഞ പ്രകാരം",
+   "en": "as he turned"
+  },
+  {
+   "verse": 115,
+   "ar": "وَنُصۡلِهِۦ",
+   "ml": "അവനെ നാം കടത്തി എരിയിക്കുകയും ചെയ്യും",
+   "en": "and We shall make him enter and burn"
+  },
+  {
+   "verse": 115,
+   "ar": "جَهَنَّمَۖ",
+   "ml": "ജഹന്നമിൽ",
+   "en": "in Jahannam"
+  },
+  {
+   "verse": 115,
+   "ar": "وَسَآءَتۡ",
+   "ml": "അത് എത്രയോ (വളരെ) മോശം (ചീത്ത)",
+   "en": "how very (very) evil (bad) it is"
+  },
+  {
+   "verse": 115,
+   "ar": "مَصِيرًا",
+   "ml": "പര്യവസാനം, മടക്കസ്ഥാനം",
+   "en": "the final end, the place of return"
+  }
+ ]
+}
