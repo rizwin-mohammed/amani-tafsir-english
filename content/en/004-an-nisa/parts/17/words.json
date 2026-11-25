@@ -1,0 +1,946 @@
+{
+ "words": [
+  {
+   "verse": 86,
+   "ar": "وَإِذَا حُيِّيتُم",
+   "ml": "നിങ്ങൾക്ക് അഭിവാദ്യം നൽകപ്പെട്ടാൽ, കാഴ്ചവെക്കപ്പെട്ടാൽ",
+   "en": "if you are given a greeting, if it is presented to you"
+  },
+  {
+   "verse": 86,
+   "ar": "بِتَحِيَّةٖ",
+   "ml": "വല്ല ഉപചാരത്തെയും, കാഴ്ചയെയും",
+   "en": "with some courtesy, some presentation"
+  },
+  {
+   "verse": 86,
+   "ar": "فَحَيُّواْ",
+   "ml": "എന്നാൽ നിങ്ങൾ അഭിവാദ്യം ചെയ്‌വിൻ, കാഴ്ച്ചവെക്കുവിൻ",
+   "en": "then greet, present"
+  },
+  {
+   "verse": 86,
+   "ar": "بِأَحۡسَنَ مِنۡهَآ",
+   "ml": "അതിനെക്കാൾ നല്ലതിനെ (നല്ലതുമായി)",
+   "en": "what is better than it (with what is better)"
+  },
+  {
+   "verse": 86,
+   "ar": "أَوۡ رُدُّوهَآ",
+   "ml": "അല്ലെങ്കിൽ അത് മടക്കുവിൻ",
+   "en": "or else return it"
+  },
+  {
+   "verse": 86,
+   "ar": "إِنَّ ٱللَّهَ",
+   "ml": "നിശ്ചയമായും അല്ലാഹു",
+   "en": "surely Allah"
+  },
+  {
+   "verse": 86,
+   "ar": "كَانَ",
+   "ml": "ആകുന്നു, ആയിരിക്കുന്നു",
+   "en": "is, has been"
+  },
+  {
+   "verse": 86,
+   "ar": "عَلَىٰ كُلِّ شَيۡءٍ",
+   "ml": "എല്ലാകാര്യത്തെപ്പറ്റിയും",
+   "en": "concerning every matter"
+  },
+  {
+   "verse": 86,
+   "ar": "حَسِيبًا",
+   "ml": "കണക്കുനോക്കുന്നവൻ",
+   "en": "One who checks the account"
+  },
+  {
+   "verse": 87,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 87,
+   "ar": "لَآ إِلَٰهَ",
+   "ml": "ഒരു ഇലാഹുമില്ല, ആരാധ്യനേ ഇല്ല, ദൈവമില്ല",
+   "en": "there is not any Ilah, there is no object of worship at all, there is no god"
+  },
+  {
+   "verse": 87,
+   "ar": "إِلَّا هُوَ",
+   "ml": "അവനല്ലാതെ",
+   "en": "other than Him"
+  },
+  {
+   "verse": 87,
+   "ar": "لَيَجۡمَعَنَّكُمۡ",
+   "ml": "തീർച്ചയായും അവൻ നിങ്ങളെ ഒരുമിച്ചു കൂട്ടും",
+   "en": "certainly He will gather you together"
+  },
+  {
+   "verse": 87,
+   "ar": "إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ",
+   "ml": "ക്വിയാമത്ത് നാളിലേക്ക്",
+   "en": "to the Day of Qiyamah"
+  },
+  {
+   "verse": 87,
+   "ar": "لَا رَيۡبَ",
+   "ml": "സന്ദേഹമേ ഇല്ല, സംശയമില്ല",
+   "en": "there is no doubt at all, there is no uncertainty"
+  },
+  {
+   "verse": 87,
+   "ar": "فِيهِ",
+   "ml": "അതിൽ",
+   "en": "in it"
+  },
+  {
+   "verse": 87,
+   "ar": "وَمَنۡ",
+   "ml": "ആർ, ആരാണ്",
+   "en": "who, who is it"
+  },
+  {
+   "verse": 87,
+   "ar": "أَصۡدَقُ",
+   "ml": "അധികം സത്യവാൻ, സത്യം പറയുന്നവൻ",
+   "en": "more truthful, one who speaks the truth"
+  },
+  {
+   "verse": 87,
+   "ar": "مِنَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിനെക്കാൾ",
+   "en": "than Allah"
+  },
+  {
+   "verse": 87,
+   "ar": "حَدِيثٗا",
+   "ml": "വർത്തമാനം, വർത്തമാനത്തിൽ",
+   "en": "talk, in talk"
+  },
+  {
+   "verse": 88,
+   "ar": "فَمَا لَكُمۡ",
+   "ml": "അപ്പോൾ (എന്നാൽ) നിങ്ങൾക്ക് എന്താണ്",
+   "en": "then (but) what is it with you"
+  },
+  {
+   "verse": 88,
+   "ar": "فِي ٱلۡمُنَٰفِقِينَ",
+   "ml": "കപടവിശ്വാസികളിൽ, മുനാഫിക്വുകളെപ്പറ്റി",
+   "en": "regarding the hypocrites, about the munafiqs"
+  },
+  {
+   "verse": 88,
+   "ar": "فِئَتَيۡنِ",
+   "ml": "രണ്ട് കക്ഷികളായിട്ട്, രണ്ട് സംഘം (ആകുവാൻ)",
+   "en": "as two parties, (to become) two bands"
+  },
+  {
+   "verse": 88,
+   "ar": "وَٱللَّهُ",
+   "ml": "അല്ലാഹുവാകട്ടെ",
+   "en": "as for Allah"
+  },
+  {
+   "verse": 88,
+   "ar": "أَرۡكَسَهُم",
+   "ml": "അവരെ(കുത്തനെ) മറിച്ചിട്ടിരിക്കുന്നു, (മുൻസ്ഥിതിയിലേക്ക്) തള്ളിയിരിക്കുന്നു",
+   "en": "has turned them over(headlong), has pushed (them to the previous state)"
+  },
+  {
+   "verse": 88,
+   "ar": "بِمَا كَسَبُوٓاْ",
+   "ml": "അവർ സമ്പാദിച്ച(ചെയ്തുവെച്ച)ത് നിമിത്തം",
+   "en": "on account of what they earned(had done)"
+  },
+  {
+   "verse": 88,
+   "ar": "أَتُرِيدُونَ",
+   "ml": "നിങ്ങൾ ഉദ്ദേശിക്കുന്നുവോ, ഉദ്ദേശിക്കുകയോ",
+   "en": "do you intend, are you intending"
+  },
+  {
+   "verse": 88,
+   "ar": "أَن تَهۡدُواْ",
+   "ml": "നിങ്ങൾ നേർമാർഗത്തിലാക്കുവാൻ, വഴി കാട്ടുവാൻ",
+   "en": "for you to bring onto the straight path, to show the way"
+  },
+  {
+   "verse": 88,
+   "ar": "مَنۡ أَضَلَّ",
+   "ml": "വഴിപിഴവിലാക്കിയവരെ(വനെ)",
+   "en": "those(him) whom has led into error"
+  },
+  {
+   "verse": 88,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 88,
+   "ar": "وَمَن يُضۡلِلِ",
+   "ml": "യാതൊരുവനെ (ആരെ) വഴിപിഴവിലാക്കുന്നുവോ",
+   "en": "whomever (whom) leads into error"
+  },
+  {
+   "verse": 88,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 88,
+   "ar": "فَلَن تَجِدَ",
+   "ml": "എന്നാൽ നീ കണ്ടെത്തുകയേ ഇല്ല",
+   "en": "then you will not find at all"
+  },
+  {
+   "verse": 88,
+   "ar": "لَهُۥ",
+   "ml": "അവന്",
+   "en": "for him"
+  },
+  {
+   "verse": 88,
+   "ar": "سَبِيلٗا",
+   "ml": "ഒരു മാർഗം",
+   "en": "a path"
+  },
+  {
+   "verse": 89,
+   "ar": "وَدُّواْ",
+   "ml": "അവർ ആഗ്രഹിക്കുകയാണ്, കൊതിച്ചിരിക്കുന്നു",
+   "en": "they are desiring, they have longed"
+  },
+  {
+   "verse": 89,
+   "ar": "لَوۡ تَكۡفُرُونَ",
+   "ml": "നിങ്ങൾ അവിശ്വസിച്ചിരുന്നുവെങ്കിൽ (എന്ന്)",
+   "en": "if you had disbelieved (thus)"
+  },
+  {
+   "verse": 89,
+   "ar": "كَمَا كَفَرُواْ",
+   "ml": "അവർ അവിശ്വസിച്ചതുപോലെ",
+   "en": "just as they disbelieved"
+  },
+  {
+   "verse": 89,
+   "ar": "فَتَكُونُونَ",
+   "ml": "അങ്ങിനെ നിങ്ങൾ ആയിരിക്കുകയും",
+   "en": "and thus you would be"
+  },
+  {
+   "verse": 89,
+   "ar": "سَوَآءٗ",
+   "ml": "സമം, ഒരുപോലെ",
+   "en": "equal, alike"
+  },
+  {
+   "verse": 89,
+   "ar": "فَلَا تَتَّخِذُواْ",
+   "ml": "അതിനാൽ നിങ്ങൾ ഉണ്ടാക്കരുത്, സ്വീകരിക്കരുത്",
+   "en": "therefore do not make, do not take"
+  },
+  {
+   "verse": 89,
+   "ar": "مِنۡهُمۡ",
+   "ml": "അവരിൽ നിന്ന്",
+   "en": "from among them"
+  },
+  {
+   "verse": 89,
+   "ar": "أَوۡلِيَآءَ",
+   "ml": "മിത്രങ്ങളെ, ബന്ധുക്കളെ",
+   "en": "friends, kinsmen"
+  },
+  {
+   "verse": 89,
+   "ar": "حَتَّىٰ يُهَاجِرُواْ",
+   "ml": "അവർ ഹിജ്റഃ പോകുന്നതുവരെ",
+   "en": "until they go in hijrah"
+  },
+  {
+   "verse": 89,
+   "ar": "فِي سَبِيلِ",
+   "ml": "മാർഗത്തിൽ",
+   "en": "in the way"
+  },
+  {
+   "verse": 89,
+   "ar": "ٱللَّهِ",
+   "ml": "അല്ലാഹുവിന്റെ",
+   "en": "of Allah"
+  },
+  {
+   "verse": 89,
+   "ar": "فَإِن تَوَلَّوۡاْ",
+   "ml": "എനി അവർ തിരിഞ്ഞു കളഞ്ഞെങ്കിൽ",
+   "en": "now if they have turned away"
+  },
+  {
+   "verse": 89,
+   "ar": "فَخُذُوهُمۡ",
+   "ml": "എന്നാലവരെ നിങ്ങൾ പിടിക്കുവിൻ",
+   "en": "then seize them"
+  },
+  {
+   "verse": 89,
+   "ar": "وَٱقۡتُلُوهُمۡ",
+   "ml": "അവരെ നിങ്ങൾ കൊല്ലുകയും ചെയ്യുവിൻ",
+   "en": "and kill them"
+  },
+  {
+   "verse": 89,
+   "ar": "حَيۡثُ وَجَدتُّمُوهُمۡ",
+   "ml": "നിങ്ങളവരെ കണ്ടുമുട്ടിയേടത്ത് (കിട്ടിയേടത്ത്)വെച്ച്",
+   "en": "at the place where you have met (got) them"
+  },
+  {
+   "verse": 89,
+   "ar": "وَلَا تَتَّخِذُواْ",
+   "ml": "നിങ്ങൾ സ്വീകരിക്കുകയും അരുത്",
+   "en": "and do not take"
+  },
+  {
+   "verse": 89,
+   "ar": "مِنۡهُمۡ",
+   "ml": "അവരിൽ നിന്ന്",
+   "en": "from among them"
+  },
+  {
+   "verse": 89,
+   "ar": "وَلِيّٗا",
+   "ml": "ഒരു ബന്ധുവിനെയും, ഒരു മിത്രത്തെ",
+   "en": "any kinsman, a friend"
+  },
+  {
+   "verse": 89,
+   "ar": "وَلَا نَصِيرًا",
+   "ml": "ഒരു സഹായകനെയും അരുത്",
+   "en": "nor any helper"
+  },
+  {
+   "verse": 90,
+   "ar": "إِلَّا ٱلَّذِينَ",
+   "ml": "യാതൊരുവരൊഴികെ",
+   "en": "except those who"
+  },
+  {
+   "verse": 90,
+   "ar": "يَصِلُونَ",
+   "ml": "അവർ ചേരുന്നു, ബന്ധപ്പെടുന്നു",
+   "en": "they join, they are connected"
+  },
+  {
+   "verse": 90,
+   "ar": "إِلَىٰ قَوۡمِۭ",
+   "ml": "ഒരു ജനതയിലേക്ക്",
+   "en": "to a people"
+  },
+  {
+   "verse": 90,
+   "ar": "بَيۡنَكُمۡ",
+   "ml": "നിങ്ങൾക്കിടയിലുണ്ട്",
+   "en": "there is between you"
+  },
+  {
+   "verse": 90,
+   "ar": "وَبَيۡنَهُم",
+   "ml": "അവർക്കിടയിലുമുണ്ട്",
+   "en": "and there is between them"
+  },
+  {
+   "verse": 90,
+   "ar": "مِّيثَٰقٌ",
+   "ml": "വല്ല ഉറപ്പും, കരാറും, ഉടമ്പടിയും",
+   "en": "some assurance, pact, covenant"
+  },
+  {
+   "verse": 90,
+   "ar": "أَوۡ جَآءُوكُمۡ",
+   "ml": "അല്ലെങ്കിൽ അവർ നിങ്ങളുടെ അടുക്കൽ വന്നു",
+   "en": "or else they came to your presence"
+  },
+  {
+   "verse": 90,
+   "ar": "حَصِرَتۡ",
+   "ml": "ഇടുങ്ങിയ നിലയിൽ",
+   "en": "in a state of being constricted"
+  },
+  {
+   "verse": 90,
+   "ar": "صُدُورُهُمۡ",
+   "ml": "അവരുടെ നെഞ്ചുകൾ(മനസ്സ്)",
+   "en": "their breasts(mind)"
+  },
+  {
+   "verse": 90,
+   "ar": "أَن يُقَٰتِلُوكُمۡ",
+   "ml": "അവർ നിങ്ങളുമായി (നിങ്ങളോട്) യുദ്ധം ചെയ്‌വാൻ",
+   "en": "for them to fight with you (against you)"
+  },
+  {
+   "verse": 90,
+   "ar": "أَوۡ يُقَٰتِلُواْ",
+   "ml": "അല്ലെങ്കിൽ അവർ യുദ്ധം ചെയ്‌വാൻ",
+   "en": "or else for them to fight"
+  },
+  {
+   "verse": 90,
+   "ar": "قَوۡمَهُمۡ",
+   "ml": "അവരുടെ (തങ്ങളുടെ) ജനതയോട്",
+   "en": "with their (own) people"
+  },
+  {
+   "verse": 90,
+   "ar": "وَلَوۡ شَآءَ",
+   "ml": "ഉദ്ദേശിച്ചിരുന്നെങ്കിൽ",
+   "en": "if had willed"
+  },
+  {
+   "verse": 90,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 90,
+   "ar": "لَسَلَّطَهُمۡ",
+   "ml": "അവരെ അധികാരപ്പെടുത്തുക (നിയോഗിക്കുക) തന്നെ ചെയ്തിരുന്നു",
+   "en": "He would indeed have empowered (appointed) them"
+  },
+  {
+   "verse": 90,
+   "ar": "عَلَيۡكُمۡ",
+   "ml": "നിങ്ങളുടെ മേൽ, നിങ്ങൾക്കെതിരെ",
+   "en": "over you, against you"
+  },
+  {
+   "verse": 90,
+   "ar": "فَلَقَٰتَلُوكُمۡ",
+   "ml": "അങ്ങനെ(എന്നിട്ട്) അവർ നിങ്ങളോട് യുദ്ധം ചെയ്യുക തന്നെ ചെയ്തിരുന്നു",
+   "en": "and thus(then) they would indeed have fought with you"
+  },
+  {
+   "verse": 90,
+   "ar": "فَإِنِ ٱعۡتَزَلُوكُمۡ",
+   "ml": "എന്നാൽ അവർ നിങ്ങളെ വിട്ടു നിന്നാൽ, ഒഴിഞ്ഞു നിന്നെങ്കിൽ",
+   "en": "but if they stand aloof from you, if they have kept away"
+  },
+  {
+   "verse": 90,
+   "ar": "فَلَمۡ يُقَٰتِلُوكُمۡ",
+   "ml": "എന്നിട്ട് നിങ്ങളോടവർ യുദ്ധം ചെയ്തില്ല",
+   "en": "and then they did not fight with you"
+  },
+  {
+   "verse": 90,
+   "ar": "وَأَلۡقَوۡاْ",
+   "ml": "അവർ ഇടുക (പ്രകടിപ്പിക്കുക - കാണിക്കുക)യും ചെയ്തു",
+   "en": "and they put forth (displayed - showed)"
+  },
+  {
+   "verse": 90,
+   "ar": "إِلَيۡكُمُ",
+   "ml": "നിങ്ങളിലേക്ക്, നിങ്ങളോട്",
+   "en": "to you, towards you"
+  },
+  {
+   "verse": 90,
+   "ar": "ٱلسَّلَمَ",
+   "ml": "സമാധാനം, ഒതുക്കം, ശാന്തത, സലാം",
+   "en": "peace, restraint, calm, salam"
+  },
+  {
+   "verse": 90,
+   "ar": "فَمَا جَعَلَ",
+   "ml": "എന്നാൽ ആക്കിയിട്ടില്ല, ഏർപ്പെടുത്തിയിട്ടില്ല",
+   "en": "then has not made, has not arranged"
+  },
+  {
+   "verse": 90,
+   "ar": "ٱللَّهُ",
+   "ml": "അല്ലാഹു",
+   "en": "Allah"
+  },
+  {
+   "verse": 90,
+   "ar": "لَكُمۡ عَلَيۡهِمۡ",
+   "ml": "നിങ്ങൾക്ക് അവരുടെ മേൽ",
+   "en": "for you against them"
+  },
+  {
+   "verse": 90,
+   "ar": "سَبِيلٗا",
+   "ml": "ഒരു മാർഗം, വഴിയും",
+   "en": "a path, any way"
+  },
+  {
+   "verse": 91,
+   "ar": "سَتَجِدُونَ",
+   "ml": "നിങ്ങൾ വഴിയെ കണ്ടുമുട്ടും, കണ്ടേക്കും",
+   "en": "you will in due course meet, may find"
+  },
+  {
+   "verse": 91,
+   "ar": "ءَاخَرِينَ",
+   "ml": "വേറെ ചിലരെ",
+   "en": "some others"
+  },
+  {
+   "verse": 91,
+   "ar": "يُرِيدُونَ",
+   "ml": "അവർ ഉദ്ദേശിക്കും, ഉദ്ദേശിക്കുന്നു",
+   "en": "they will intend, they intend"
+  },
+  {
+   "verse": 91,
+   "ar": "أَن يَأۡمَنُوكُمۡ",
+   "ml": "നിങ്ങളെ(ക്കുറിച്ച്) അവർ നിർഭയരായിരിക്കുവാൻ",
+   "en": "for them to be secure (regarding) you"
+  },
+  {
+   "verse": 91,
+   "ar": "وَيَأۡمَنُواْ",
+   "ml": "അവർ നിർഭയരായിരിക്കുവാനും",
+   "en": "and for them to be secure"
+  },
+  {
+   "verse": 91,
+   "ar": "قَوۡمَهُمۡ",
+   "ml": "തങ്ങളുടെ ജനതയെ (ക്കുറിച്ച്)",
+   "en": "(regarding) their own people"
+  },
+  {
+   "verse": 91,
+   "ar": "كُلَّ مَا رُدُّوٓاْ",
+   "ml": "അവർ മടക്ക(ആക്ക)പ്പെടുമ്പോഴെല്ലാം, തിരിക്കപ്പെടുമ്പോഴൊക്കെ",
+   "en": "whenever they are returned(made to return), every time they are turned"
+  },
+  {
+   "verse": 91,
+   "ar": "إِلَى ٱلۡفِتۡنَةِ",
+   "ml": "കുഴപ്പത്തിലേക്ക്",
+   "en": "to disorder"
+  },
+  {
+   "verse": 91,
+   "ar": "أُرۡكِسُواْ",
+   "ml": "അവർ(കുത്തനെ) മറിച്ചിടപ്പെടും (മറിഞ്ഞു വീഴും)",
+   "en": "they will be turned over(headlong) (will fall over)"
+  },
+  {
+   "verse": 91,
+   "ar": "فِيهَا",
+   "ml": "അതിൽ",
+   "en": "into it"
+  },
+  {
+   "verse": 91,
+   "ar": "فَإِن لَّمۡ يَعۡتَزِلُوكُمۡ",
+   "ml": "എന്നാൽ അവർ നിങ്ങളെ വിട്ടു(അകന്നു) നിന്നില്ലെങ്കിൽ",
+   "en": "but if they did not stand aloof(away) from you"
+  },
+  {
+   "verse": 91,
+   "ar": "وَيُلۡقُوٓاْ إِلَيۡكُمُ",
+   "ml": "നിങ്ങൾക്ക് ഇട്ടുതരുക(നിങ്ങളോട് പ്രകടിപ്പിക്കുക)യും",
+   "en": "and put forth for you(display towards you)"
+  },
+  {
+   "verse": 91,
+   "ar": "ٱلسَّلَمَ",
+   "ml": "സമാധാനം, ഒതുക്കം",
+   "en": "peace, restraint"
+  },
+  {
+   "verse": 91,
+   "ar": "وَيَكُفُّوٓاْ",
+   "ml": "അവർ തടഞ്ഞുവെക്കുകയും, (നിറുത്തൽചെയ്കയും)",
+   "en": "and they hold back, (and stop)"
+  },
+  {
+   "verse": 91,
+   "ar": "أَيۡدِيَهُمۡ",
+   "ml": "അവരുടെ കൈകളെ",
+   "en": "their hands"
+  },
+  {
+   "verse": 91,
+   "ar": "فَخُذُوهُمۡ",
+   "ml": "എന്നാലവരെ നിങ്ങൾ പിടിച്ചുകൊള്ളുവിൻ",
+   "en": "then seize them"
+  },
+  {
+   "verse": 91,
+   "ar": "وَٱقۡتُلُوهُمۡ",
+   "ml": "അവരെ നിങ്ങൾ കൊലപ്പെടുത്തുകയും ചെയ്യുവിൻ",
+   "en": "and kill them"
+  },
+  {
+   "verse": 91,
+   "ar": "حَيۡثُ ثَقِفۡتُمُوهُمۡ",
+   "ml": "അവരെ നിങ്ങൾ കണ്ടുമുട്ടിയേടത്ത്, കണ്ടുകിട്ടിയ സ്ഥലത്തുവെച്ച്",
+   "en": "at the place where you have met them, at the place where you have found them"
+  },
+  {
+   "verse": 91,
+   "ar": "وَأُوْلَـٰٓئِكُمۡ",
+   "ml": "അക്കൂട്ടർ",
+   "en": "those people"
+  },
+  {
+   "verse": 91,
+   "ar": "جَعَلۡنَا",
+   "ml": "നാം ഉണ്ടാക്കി(ഏർപ്പെടുത്തി)യിരിക്കുന്നു",
+   "en": "We have made(arranged)"
+  },
+  {
+   "verse": 91,
+   "ar": "لَكُمۡ",
+   "ml": "നിങ്ങൾക്ക്",
+   "en": "for you"
+  },
+  {
+   "verse": 91,
+   "ar": "عَلَيۡهِمۡ",
+   "ml": "അവരുടെ മേൽ",
+   "en": "over them"
+  },
+  {
+   "verse": 91,
+   "ar": "سُلۡطَٰنٗا",
+   "ml": "ഒരു അധികാരം, ന്യായം",
+   "en": "an authority, justification"
+  },
+  {
+   "verse": 91,
+   "ar": "مُّبِينٗا",
+   "ml": "വ്യക്തമായ, സ്പഷ്ടമായ",
+   "en": "clear, evident"
+  },
+  {
+   "verse": 92,
+   "ar": "وَمَا كَانَ",
+   "ml": "ആയിക്കൂടാ, ആകാവതല്ല, ഉണ്ടായിക്കൂടാ, പാടില്ല",
+   "en": "it cannot be, it is not possible, it must not happen, it is not permissible"
+  },
+  {
+   "verse": 92,
+   "ar": "لِمُؤۡمِنٍ",
+   "ml": "ഒരു സത്യവിശ്വാസിക്കും",
+   "en": "for any true believer"
+  },
+  {
+   "verse": 92,
+   "ar": "أَن يَقۡتُلَ",
+   "ml": "അവൻ കൊലചെയ്യൽ, വധിക്കൽ",
+   "en": "his killing, slaying"
+  },
+  {
+   "verse": 92,
+   "ar": "مُؤۡمِنًا",
+   "ml": "ഒരു സത്യവിശ്വാസിയെ",
+   "en": "a true believer"
+  },
+  {
+   "verse": 92,
+   "ar": "إِلَّا خَطَـٔٗا",
+   "ml": "അബദ്ധമാ(പിഴവാ)യിട്ടൊഴികെ",
+   "en": "except as a mistake(slip)"
+  },
+  {
+   "verse": 92,
+   "ar": "وَمَن قَتَلَ",
+   "ml": "വല്ലവനും (ആരെങ്കിലും) കൊന്നാൽ",
+   "en": "if anyone (whoever) kills"
+  },
+  {
+   "verse": 92,
+   "ar": "مُؤۡمِنًا",
+   "ml": "ഒരു സത്യവിശ്വാസിയെ",
+   "en": "a true believer"
+  },
+  {
+   "verse": 92,
+   "ar": "خَطَـٔٗا",
+   "ml": "അബദ്ധമായി",
+   "en": "by mistake"
+  },
+  {
+   "verse": 92,
+   "ar": "فَتَحۡرِيرُ",
+   "ml": "എന്നാൽ സ്വതന്ത്രമാക്കലാണ്",
+   "en": "then it is setting free"
+  },
+  {
+   "verse": 92,
+   "ar": "رَقَبَةٖ",
+   "ml": "ഒരു പിരടിയെ (അടിമയെ)",
+   "en": "a nape (a slave)"
+  },
+  {
+   "verse": 92,
+   "ar": "مُّؤۡمِنَةٖ",
+   "ml": "സത്യവിശ്വാസിയായ",
+   "en": "who is a true believer"
+  },
+  {
+   "verse": 92,
+   "ar": "وَدِيَةٞ",
+   "ml": "ഒരു തെണ്ട (നഷ്ടപരിഹാരം)വും",
+   "en": "and a ransom (compensation) [DOUBT: തെണ്ടം rendered \"ransom\", as in verse 92, where the doubt is explained]"
+  },
+  {
+   "verse": 92,
+   "ar": "مُّسَلَّمَةٌ",
+   "ml": "ഏല്‌പിച്ചു (വിട്ടു) കൊടുക്കപ്പെടുന്ന",
+   "en": "to be handed (given) over"
+  },
+  {
+   "verse": 92,
+   "ar": "إِلَىٰٓ أَهۡلِهِۦٓ",
+   "ml": "അവന്റെ ആൾക്കാരിലേക്ക്, കുടുംബത്തിന്",
+   "en": "to his people, to the family"
+  },
+  {
+   "verse": 92,
+   "ar": "إِلَّآ أَن يَصَّدَّقُواْ",
+   "ml": "അവർ ധർമം (സൗജന്യം) ആക്കിയാലൊഴികെ",
+   "en": "except if they make it a charity (free gift)"
+  },
+  {
+   "verse": 92,
+   "ar": "فَإِن كَانَ",
+   "ml": "എനി അവനായിരുന്നെങ്കിൽ",
+   "en": "now if he was"
+  },
+  {
+   "verse": 92,
+   "ar": "مِن قَوۡمٍ",
+   "ml": "ഒരു ജനതയിൽ നിന്നു(ള്ളവൻ)",
+   "en": "(one) from a people"
+  },
+  {
+   "verse": 92,
+   "ar": "عَدُوّٖ لَّكُمۡ",
+   "ml": "നിങ്ങൾക്ക് ശത്രുവായ",
+   "en": "that is an enemy to you"
+  },
+  {
+   "verse": 92,
+   "ar": "وَهُوَ مُؤۡمِنٞ",
+   "ml": "അവനാകട്ടെ സത്യവിശ്വാസിയുമാണ്",
+   "en": "and as for him, he is a true believer"
+  },
+  {
+   "verse": 92,
+   "ar": "فَتَحۡرِيرُ",
+   "ml": "എന്നാൽ സ്വതന്ത്രമാക്കലാണ്",
+   "en": "then it is setting free"
+  },
+  {
+   "verse": 92,
+   "ar": "رَقَبَةٖ",
+   "ml": "ഒരു പിരടി (അടിമ)യെ",
+   "en": "a nape (slave)"
+  },
+  {
+   "verse": 92,
+   "ar": "مُّؤۡمِنَةٖ",
+   "ml": "സത്യവിശ്വാസിയായ",
+   "en": "who is a true believer"
+  },
+  {
+   "verse": 92,
+   "ar": "وَإِن كَانَ",
+   "ml": "അവനായിരുന്നാലാകട്ടെ",
+   "en": "as for if he is"
+  },
+  {
+   "verse": 92,
+   "ar": "مِن قَوۡمِۭ",
+   "ml": "ഒരു ജനതയിൽപെട്ട(വൻ)",
+   "en": "(one) belonging to a people"
+  },
+  {
+   "verse": 92,
+   "ar": "بَيۡنَكُمۡ وَبَيۡنَهُم",
+   "ml": "നിങ്ങൾക്കും അവർക്കുമിടയിലുണ്ട്",
+   "en": "there is between you and them"
+  },
+  {
+   "verse": 92,
+   "ar": "مِّيثَٰقٞ",
+   "ml": "കരാർ ഉടമ്പടി",
+   "en": "pact covenant"
+  },
+  {
+   "verse": 92,
+   "ar": "فَدِيَةٞ",
+   "ml": "എന്നാൽ തെണ്ടം",
+   "en": "then a ransom [DOUBT: തെണ്ടം rendered \"ransom\", as in verse 92, where the doubt is explained]"
+  },
+  {
+   "verse": 92,
+   "ar": "مُّسَلَّمَةٌ",
+   "ml": "ഏൽപിച്ചു കൊടുക്കപ്പെടുന്ന",
+   "en": "to be handed over"
+  },
+  {
+   "verse": 92,
+   "ar": "إِلَىٰٓ أَهۡلِهِۦ",
+   "ml": "അവന്റെ ആൾക്കാർക്ക്, കുടുംബത്തിലേക്ക്",
+   "en": "to his people, to the family"
+  },
+  {
+   "verse": 92,
+   "ar": "وَتَحۡرِيرُ رَقَبَةٖ",
+   "ml": "ഒരടിമയെ സ്വതന്ത്രമാക്കലും",
+   "en": "and setting free a slave"
+  },
+  {
+   "verse": 92,
+   "ar": "مُّؤۡمِنَةٖ",
+   "ml": "സത്യവിശ്വാസിയായ",
+   "en": "who is a true believer"
+  },
+  {
+   "verse": 92,
+   "ar": "فَمَن لَّمۡ يَجِدۡ",
+   "ml": "എനി ആർക്ക് കിട്ടിയില്ലയോ, വല്ലവനും എത്തിക്കാതിരുന്നാൽ",
+   "en": "now whoever did not get, if anyone does not attain"
+  },
+  {
+   "verse": 92,
+   "ar": "فَصِيَامُ",
+   "ml": "എന്നാൽ നോമ്പ് നോൽക്കൽ",
+   "en": "then keeping fast"
+  },
+  {
+   "verse": 92,
+   "ar": "شَهۡرَيۡنِ",
+   "ml": "രണ്ട് മാസത്തെ",
+   "en": "of two months"
+  },
+  {
+   "verse": 92,
+   "ar": "مُتَتَابِعَيۡنِ",
+   "ml": "തുടർച്ചയായി(രണ്ട്)",
+   "en": "(two) continuously"
+  },
+  {
+   "verse": 92,
+   "ar": "تَوۡبَةٗ",
+   "ml": "പശ്ചാത്താപമായിട്ട്, (ഖേദിച്ചു) മടക്കമായിട്ട്",
+   "en": "as a repentance, as a returning (in remorse)"
+  },
+  {
+   "verse": 92,
+   "ar": "مِّنَ ٱللَّهِ",
+   "ml": "അല്ലാഹുവിൽ നിന്ന്(നിശ്ചയിച്ച)",
+   "en": "(fixed) from Allah"
+  },
+  {
+   "verse": 92,
+   "ar": "وَكَانَ ٱللَّهُ",
+   "ml": "അല്ലാഹു ആകുന്നു",
+   "en": "Allah is"
+  },
+  {
+   "verse": 92,
+   "ar": "عَلِيمًا",
+   "ml": "അറിയുന്നവൻ",
+   "en": "One who knows"
+  },
+  {
+   "verse": 92,
+   "ar": "حَكِيمٗا",
+   "ml": "അഗാധജ്ഞൻ, യുക്തിമാൻ",
+   "en": "the Profoundly Knowing, the Sagacious"
+  },
+  {
+   "verse": 93,
+   "ar": "وَمَن يَقۡتُلۡ",
+   "ml": "ആർ കൊല്ലുന്നുവോ, വല്ലവനും കൊന്നാൽ",
+   "en": "whoever kills, if anyone kills"
+  },
+  {
+   "verse": 93,
+   "ar": "مُؤۡمِنٗا",
+   "ml": "ഒരു സത്യവിശ്വാസിയെ",
+   "en": "a true believer"
+  },
+  {
+   "verse": 93,
+   "ar": "مُّتَعَمِّدٗا",
+   "ml": "കൽപിച്ചു കൂട്ടി, കരുതിക്കൂട്ടി",
+   "en": "deliberately, intentionally"
+  },
+  {
+   "verse": 93,
+   "ar": "فَجَزَآؤُهُۥ",
+   "ml": "എന്നാലവന്റെ പ്രതിഫലം",
+   "en": "then his recompense"
+  },
+  {
+   "verse": 93,
+   "ar": "جَهَنَّمُ",
+   "ml": "ജഹന്നമാണ്, നരകമാകുന്നു",
+   "en": "is Jahannam, is Hell"
+  },
+  {
+   "verse": 93,
+   "ar": "خَٰلِدٗا",
+   "ml": "നിത്യ(സ്ഥിര)വാസിയായിക്കൊണ്ട്",
+   "en": "being a permanent(lasting) dweller"
+  },
+  {
+   "verse": 93,
+   "ar": "فِيهَا",
+   "ml": "അതിൽ",
+   "en": "in it"
+  },
+  {
+   "verse": 93,
+   "ar": "وَغَضِبَ ٱللَّهُ",
+   "ml": "അല്ലാഹു കോപിക്കുകയും ചെയ്യും",
+   "en": "and Allah will be angry"
+  },
+  {
+   "verse": 93,
+   "ar": "عَلَيۡهِ",
+   "ml": "അവന്റെ മേൽ",
+   "en": "with him"
+  },
+  {
+   "verse": 93,
+   "ar": "وَلَعَنَهُۥ",
+   "ml": "അവനെ അവൻ ശപിക്കുകയും ചെയ്യും",
+   "en": "and He will curse him"
+  },
+  {
+   "verse": 93,
+   "ar": "وَأَعَدَّ لَهُۥ",
+   "ml": "അവന്ന് അവൻ ഒരുക്കിവെക്കുകയും ചെയ്യും",
+   "en": "and He will prepare for him"
+  },
+  {
+   "verse": 93,
+   "ar": "عَذَابًا",
+   "ml": "ശിക്ഷ",
+   "en": "a punishment"
+  },
+  {
+   "verse": 93,
+   "ar": "عَظِيمٗا",
+   "ml": "വമ്പിച്ചതായ",
+   "en": "that is great"
+  }
+ ]
+}
